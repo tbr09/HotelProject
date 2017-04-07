@@ -1,0 +1,826 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCBAEAAOMUXQ8mmSMcnIS2IA7ijKBtu2JsqNCHaTws_9Y3P_NO4qFkRlQ25RcRvxHZ10xBAG5sa1Q2lF9IYWt4E6mcQcBoiaWNSiOpo4BvE3BFzY3XlZ3rLsBXcYX2Z5smvgak542IbJlH5ILFFkYvAUwyF0WXToo3qeTz_1KS3r8-8LgRz2kGlmLSy5OIEtHOiqSu-qqJpn5j4EXwigo8ewXVhuae2XWWozY9Wt3MbONGfXCDtmcePXWe8xmg42Dp1Uo-yk4jrwnoVtDVE0XTbCNResharXsLN9DxvWb_oVUOgvryWHYBRM-PYKXufRp5pcScXYSHxU8g_UBF8WKShyyP4BXNbJ0FivZhaAuHsHjKDo6zEhA46TKM5f87koO0tXDiVKTsGhTd5b85AnHDrcj8CbOuwYQBHbrjGQ",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7789636,
+               "lng" : 20.4908109
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7804074302915,
+                  "lng" : 20.4922355802915
+               },
+               "southwest" : {
+                  "lat" : 53.7777094697085,
+                  "lng" : 20.4895376197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "90976d4381ea7804e6091f989d3af48e0af89642",
+         "name" : "Warmiński Hotel & Conference",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 674,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110451943203680882086/photos\"\u003eWarmiński Hotel &amp; Conference\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAACfyns53wfUmcjIW3EShqf7MNRjxy57KWhKDP1cuTetqfTyQ4CfPYy3dbhz22WZmW4-OB4oebLcupibCtWSApaYZAr-492f9I1S_BHVmfS_QeR_8S8JbdBYUhUeP2HF3hhEY9XRIdjNdtqnc8phD3XEpXZnKjVjjoZvQnDyYZC3mEhC_8Ulf10jrg1ziHB3ylkuGGhR1GIJDRjLY9o_hZNWgn2hvMLbN_A",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJcYyKai154kYRY5Ma6w8oHPc",
+         "rating" : 4.4,
+         "reference" : "CmRSAAAAM3OPaARLVyxeMPa7XjysEd2hnIgM-hapV8O_WcPKB1bRNTtTlLMeajp4KQH9CFC8dEf89XUxFTmT5p2wmNs7xLzP70z013aKKQQGvKgLe1Qf1ew8P8i68xY7qIv51z7XEhDB739bHN8DhPdzC-TTN9wAGhQSgKwi1E46dgpSK8Nroaf9zCaCNQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "parking",
+            "gym",
+            "bar",
+            "spa",
+            "lodging",
+            "health",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Kołobrzeska 1, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7734841,
+               "lng" : 20.4785352
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7748435802915,
+                  "lng" : 20.4797859302915
+               },
+               "southwest" : {
+                  "lat" : 53.7721456197085,
+                  "lng" : 20.4770879697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "cc3a05b50c7ca03b94fcdc52bd5b888a5c305821",
+         "name" : "Hotel Wileński",
+         "photos" : [
+            {
+               "height" : 2000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116434875802169221751/photos\"\u003eJarosław Skórski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANDb_ntIZqEazo7Xf6qex4B4l0LCuyI3p9UVBQmtfoDWGadrgpzNtaC-w5G5DjTeXDuyoG61o3XQk5iJ3xSiilpmx4UauO0UlDJA-FB4uDo9YzX9RMVBq_Etp9l4rLvW6dnS-6t_HMvVdZs8X7o2t2r1WiQyrzXaB9ZWCYLYapP9EhDQuQwkPZqflROoJ3Rp2vqMGhTPO-w7lN4E7UQvr894n1meQLe2TQ",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJc5Gxr9V-4kYRq6hVowkYnL4",
+         "rating" : 4.4,
+         "reference" : "CmRSAAAAIcA9QTEf3IVQD3-xOzqixsqY8szURxG2IYLWPqAo-AkBcd4A23MZaMtyQ1D0d96OWp657dQ1AKinZYAVTLIuE4y5hzh-LMBrrYlu9Jivb-onHvGg1wjnDMAcX2Vn7p3cEhC9ksB9UM_ynKw-uXkHPJJfGhQIBCceJCUNGFQgPatCTO04HZT8VA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Ryszarda Knosały 5, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.771926,
+               "lng" : 20.47215
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7733311802915,
+                  "lng" : 20.4733195302915
+               },
+               "southwest" : {
+                  "lat" : 53.77063321970851,
+                  "lng" : 20.4706215697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "e357dd8287ab729984b725fa611d8b2083f11c4e",
+         "name" : "Hotel Kopernik w Olsztynie",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110779585181478317144/photos\"\u003eOlaf Tomanek\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAD9ImnvECUwDNMB6wMSC_J4ytwcUG1bSlb-5O_Qy-umH0WheF1TtO5V2ECeFU0M0blxuCp1r8-tGCn5IYQDVDjEj3SbLv0oc1roia7szu9sf9VNszXTih1_lYikLSp2oAfy4fkjFmvnyC2nMZ0-SCKxOTAPdtDloL9NuUYiuEL6jEhBdekZ6Ajp32zSYVtHnY4PbGhRhBo0wQaIbzciuVVqKEJvRb8oOdg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJh1Vc4yl_4kYRH9wmIZIaLjY",
+         "rating" : 3.7,
+         "reference" : "CmRRAAAAUk2kAKN_yl_ZhITGvFFWBWR-IiVPaxujD-lJ5bR1MZumRdZOLFUf424rIaLpahMB9Hb2DMkk3MJbWhOGBEs4sKNGmixea5t8NE2gsVtARk-yNspPdVCWSz8NKe5vDXRHEhBGKtOet2C5VhUjXWQYSSgIGhQtL6JeJj4hGZeMSs43WT1sWi4KWA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Aleja Warszawska 37, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8054662,
+               "lng" : 20.4180694
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8068157802915,
+                  "lng" : 20.4194084802915
+               },
+               "southwest" : {
+                  "lat" : 53.8041178197085,
+                  "lng" : 20.4167105197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "a6ed537ff5c0960d898312caa151b359dcb3dac7",
+         "name" : "Manor Hotel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 799,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104509332324122657559/photos\"\u003eManor Hotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAIhjukH1L4rg_LWMtYTTojRfX8plFLdMf-rgBeKAhdFrFHS4VoitGttv81DqOYIaQST5hm0oyKXKqRGyAmwWjCDR1OBT9pzljzj1zsv0A8I9I8w4jO5QOO_NNemFuuKDDAJye0PbrR8PjjXYiX9vXS_N-R6vzjImmvoTFTbA9TarEhBaIckvIiqWhwsWeIxvG9WcGhQZjy-sZEfV2SYixauyObAbAGj1yg",
+               "width" : 798
+            }
+         ],
+         "place_id" : "ChIJr2tmDWh-4kYRxgelLNjBBxY",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAL0l3FsO_JKv4EZmZGjdgkECQu2es3xR8qc9oxTwYmUx00vHbbocGliDtZPfGGI33bNlPpt-Dq5hezPqXeNIFlt67uSrN-73zi1DQh4YCKpNpyAtG9F4xFv2OPE6DRp-kEhDvuAmjIm_ZhR57ozPy3wdQGhTrkMfO4SSPYB8HOwqi6_eXO2FBsA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Kanarkowa 47, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7787,
+               "lng" : 20.47519999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.78005738029149,
+                  "lng" : 20.4765437302915
+               },
+               "southwest" : {
+                  "lat" : 53.77735941970849,
+                  "lng" : 20.4738457697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "fe33d1a713d2f8bd8b5000a93a705bc3903585d3",
+         "name" : "Hotel Pod Zamkiem",
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113008130900291978332/photos\"\u003eLudmila Samoilova\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADsWx7WZ-ACFw7bHdMUoFF9DbUgiKZIHDUYBXmhostuM6GfpJTiuQy2Nfudzk9QJRhSZq-P_buNqe485q7kXKiu-EOwN-qRebtFv6hESKmApEadxYb0x-ruUkt42-3ARka2bgVBTOYUYNbw0ItoVqTladmEuiGJOvYiJEja1ZlMjEhAWFco1HO9VS1kKAPwzTHOeGhRxUKCKvhPXqk8Jj-9aH-6F_MUs_Q",
+               "width" : 1836
+            }
+         ],
+         "place_id" : "ChIJ27GZI9F-4kYRT8PmHJR1mW0",
+         "rating" : 3.8,
+         "reference" : "CmRRAAAAi94lHn-2RUMmp1aE6IE4kmeg769ely97vZM7sNTqOL3EVV-7pogt_fCH6X5eXzLIjvyFNWuTWU-zCK_lB4c7CWuAV6sMgDsZPgXSXRHS2D6DOi7T3R3E_3amAXyTscC1EhAJvvmAsaGR6Sq7DJ_bgXciGhRC4y1zuKSFDvE0HAfab5ZEriE1ww",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Feliksa Nowowiejskiego 10, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.69477499999999,
+               "lng" : 20.410795
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6961239802915,
+                  "lng" : 20.4121439802915
+               },
+               "southwest" : {
+                  "lat" : 53.6934260197085,
+                  "lng" : 20.40944601970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "bf6d101a841660822cb50279db096645c5b473ce",
+         "name" : "Hotel Galery69****",
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111826906964925652131/photos\"\u003eHotel Galery69****\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJ64OIImpvg1pBMJW-ywOkiXV4DeU16STuQ2N3V-SU9Yjz-uuQqKNkcV1tbEQvoCqrB3OSLba_GxIpq5IZOkQIgnhbGO5NXFr3eov_3vh-T97FPPz0ud8dTgoCdQuk5Xepv-GBKMo0U-zZczVNVbif0UXJ84Ob_OdZQKwgtSCKBLEhDliCLbawv-Y07v0v4T71NBGhTz4_NsANTukc6Gz6qUbrXi76Em3A",
+               "width" : 854
+            }
+         ],
+         "place_id" : "ChIJlbqQIdeAHUcRDCZ7-xDGC2Q",
+         "rating" : 4.3,
+         "reference" : "CmRRAAAAe1mf2Q6AdSykP0AESjr6ILdW0FvxMkR_AIACuEzGtbRAwP-SAHgdyiIF_p0J1JtP2dR775tleWfY5nGThszifeLUuBpOr1iNpQAjQNAx1QUkuQChld1iFxtyHniw0WCAEhBf_l6F2GKu3x0uSyXJO-x4GhSURKOnaMfDRvMlEypXUmd7Vol3zw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "art_gallery",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "38, Dorotowo, Stawiguda"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.772628,
+               "lng" : 20.4457967
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.77361268029149,
+                  "lng" : 20.4473541302915
+               },
+               "southwest" : {
+                  "lat" : 53.7709147197085,
+                  "lng" : 20.44465616970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "e81319fd3ed98ce650600b5be41dd1625f167967",
+         "name" : "Hotel Omega",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113649454928381876528/photos\"\u003ePaweł Kownacki\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAIYwj6KYMnlsXPdLFZ9tB4mn-x4AGn9zVM-n_ODu5wKfkVy-2ZmICSaSPyd5dULqKEWy-rH2z8hIISVi0kfJ5qxhadg_zwerK_j4GpK-m9syOzprJmq4U8YuwUCVpB86l79KTOI3JsQ-IaCKGh0IEP4CH_ZL5aNV3Y8h93vjkZmSEhB8bLHvxHMMr4Nzh438TZvrGhRALEX6nsxHAxkCoc63ZONViy-xGw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJA2jZQh9_4kYRUJWXuiahhzo",
+         "rating" : 4.3,
+         "reference" : "CmRRAAAAUQobRdM67zouyejVKStDe0oO0IYApwG0z14lkyVS3RkA732NHYPMI2eVsfJBSl2qkuAENwXxq_eshxw2e5c4-Fvvr1sMm9VSxT0ERYzNMoj5sCISaArmCMUXGPPuP6WcEhBaFBmaolXorKufXdvT2UBSGhRroi-sR6mNClRQDE73uB0O2hbG1w",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Sielska 4a, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.796316,
+               "lng" : 20.429023
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7979087302915,
+                  "lng" : 20.4307186302915
+               },
+               "southwest" : {
+                  "lat" : 53.7952107697085,
+                  "lng" : 20.4280206697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "d616b55156351d46fdbef94abb77ac95a647ec25",
+         "name" : "Hotel Kur",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 727,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103446347006345489088/photos\"\u003eHotel Kur\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAA0VeZ50Th8HRWqnOE9B4pWWFjcQtnNZmOD22v1k1KqR9EmXbRaafVEJPRIci8891ta0Y50JAKwRxadLPaV0p7bMGBiv0w3JUu_ksNCpVUTXi244mU6E0SBbmAJgS8Ihl_ABTFNJcZW_VLgu9-TXrhrVIAhmfIBpYIO4P7H6X6UxEhBz5SoJx8gS62KXr3JBfTjFGhRqs3F7lB8ZBj9BXLpOw9aGUxpiIA",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJo9MWHfd-4kYRSu0xv6bl5B0",
+         "rating" : 4,
+         "reference" : "CmRRAAAAp1lS17IL27_h2ZmNeKQhkvUP6mvibKTKVOSuMGydzccN36nNqHq2wZ2GLBMVNieQ1QPLDsXl_YAO-14Ton4mV1Ru8dIsdLSFn6hvDLSmgUQo_wbARL7VwGRc5_BAqB2QEhCEpomnskmYVAmk9fiz0No1GhTgl3PNjkc4hf4VSH1nIO6eCF6JmA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Bałtycka 89, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1645258,
+               "lng" : 20.8223601
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1658747802915,
+                  "lng" : 20.8237090802915
+               },
+               "southwest" : {
+                  "lat" : 54.1631768197085,
+                  "lng" : 20.82101111970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "593d57317822495c785745aa48d9119729117e57",
+         "name" : "Pałac i Folwark Galiny",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1022,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114546216359768071926/photos\"\u003ePałac i Folwark Galiny\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAABAzriQi0tr68Z1_R3ChHyrG345c3HQ8PRN0xCA3EavblecU540oK0r_CK_oZ3zqOU9383ObeQoCUxpiHLoYos-Qv6ZlrHiuJm1wPzomwXCFKL9SjpWuoJKcTWxLc_YSJUMPO2LnyqaGd8xndLEatCYVdkqQmWBMiVRMcn6pS-vVEhA8DZ1dtiOKOtnTre0pbmeJGhTpX-MSZi1AfPRlp0SV8SU2tlrVkQ",
+               "width" : 1022
+            }
+         ],
+         "place_id" : "ChIJ3wzjospb4kYR_49xtTQOzvg",
+         "rating" : 4.6,
+         "reference" : "CmRSAAAAssiHiHRGuNU0HYuQh2tyV6ovmIwduuRTlKl48HRlW0eCH95xPdp1KrAIVqaAteWOmErdf99cYECroSQK4YkxkLHqJHDlBeZlPzrtFpd4paoWo1xr6lqq1gLwE0IIgNfwEhC0q7FsonCzSDgyVVoP7rztGhSGLdAJNJyfAsSAKyR1oHmd_LU0gA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Galiny 110, Bartoszyce"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7775833,
+               "lng" : 20.4776406
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.77890543029149,
+                  "lng" : 20.4789153302915
+               },
+               "southwest" : {
+                  "lat" : 53.7762074697085,
+                  "lng" : 20.4762173697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "cd58c5d60f5d0a1869875bf72737128047fc52f8",
+         "name" : "Hotel Wysoka Brama",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 460,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114967813371023565570/photos\"\u003eHotel Wysoka Brama\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJBPH6XE2FjEt77IGTKNmQk3ekAli1I5fgSVq9r9WT1J9wNcUp_HnB_c-WItehFicMDXRH1Dgm4kItLHCrqYh_eUn8J7LWlxf5yMt-A32Oz0bblN8eF8J8P5z8nI6Np_ws81hhoWdS7YffhB8Jirk1_eI92LDQ5TbX9pUTWHDuAmEhAj1FLlYbUxUHKy05Ids_UHGhT-CybAdRrw9uC_27l-kgbiBbxFWQ",
+               "width" : 461
+            }
+         ],
+         "place_id" : "ChIJBfXp_dN-4kYRjD7yWCwzi_8",
+         "rating" : 3.1,
+         "reference" : "CmRSAAAAJKracuJ54JYGGOFn7iz1KQHuP6IIM7sosdklM_QUIr-JgLL5BdsruBTFI31dtb3JxeVM1Oo2c-Gs23IxMSOC9k2JlIjtDvpR72B-r0sxIwUKyM-p_iiznKRRUOiaZg4JEhCwJsWz2_MQxnH6g4AunN30GhRm-xrwdtRt_sQRqLySrjjev4s0Jg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Staromiejska 1, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.78161799999999,
+               "lng" : 20.487485
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.78300093029149,
+                  "lng" : 20.4887480802915
+               },
+               "southwest" : {
+                  "lat" : 53.78030296970849,
+                  "lng" : 20.48605011970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "88d4bbe06b59d8d8bf9c1eb4b3474d6e50eb81eb",
+         "name" : "Best Western Plus Hotel Dyplomat",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107417914678592336662/photos\"\u003eKenneth Hauck\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAEIrQayUJRBoooiaTSSQeS1l7YEccYu-cuh_6RfL8ax5rY1-mtE1EN0v2IsZ3cAYudjoyO5zaC4ZyUgWp7rnr8ny_SxtIrEqnguIeS-jnIhGEFjBxyZxhY5hp2hWDFVCzn39XX8zj4R7S8bZmeVpamIeXcQpDLULtHWAep1R5OQXEhDR0jl-qE5S7bVYOCrgaldJGhTEChvDiLVb5QoOI6d89hWIvIrOLA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ3-YfZs1-4kYR313Qycogo64",
+         "rating" : 4.2,
+         "reference" : "CmRSAAAA9qLzbdzMeTZhH2u_Xv7tFv1TUyI3EKG-_JsOfbQTyaxXZzM9wyxcXXhjqxMafXs5Ulb9LaeqKwbxKet_0N7FIEUzeg3CoXAjiuqvl-tFBXU1z0x5z5zTqPmhkj6qBlTYEhACcgZrmw3v7GuYl7dEiuNDGhQ-7dMRYb3rfnZjrXcju0J6E9Dqbg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "spa",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Dąbrowszczaków 28, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1146457,
+               "lng" : 20.5710143
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1163655302915,
+                  "lng" : 20.5717167
+               },
+               "southwest" : {
+                  "lat" : 54.1136675697085,
+                  "lng" : 20.56890709999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "4b21fa06552bc77126116cff9047c34e8719fdc1",
+         "name" : "Hotel Górecki",
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101442869062727712885/photos\"\u003ejolanta kwasniewska\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMtGRls6EJMsCF9c5KyfBjwH13-VaIxEcwY_9xpGaD_UMnyuUgBaWfLNRNXAOOllkQeahax3Kx69vNwACoBZofw4Y3wqFy_Zg3rTKLJFYlGn3ySKJr6SQPLZINwzDQuDqdfX8_DV1SE1bD8jVGJ-R5VA8fp0jwGPrCn9W1effMXKEhDGwiQrSQhSe655s9QtTGQ6GhSnDJOjKejwEaFRMMV7KZUm4WLBZw",
+               "width" : 900
+            }
+         ],
+         "place_id" : "ChIJDYs80nT14kYR-4n0Q2v2tIg",
+         "rating" : 4.7,
+         "reference" : "CmRSAAAAA2GHLiO4sptP5GpNL_VJQ269SRIEnenhnRrAT6QIvKAyC_Sy1HoJInlCS-s4Ro6yIaKo99Joqt3vz5XgXKe1Ng3iQuuvRU5_-vjGvXbIT2CUrJDP3bkkTDVn_nfRXN22EhC-0xiwI7b89rJXXWSynM3SGhT-xzO-UG_AdJvcdn-5dOBS9RueEw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Olsztyńska 4, Lidzbark Warmiński"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7471137,
+               "lng" : 20.4613469
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7486096802915,
+                  "lng" : 20.46203005
+               },
+               "southwest" : {
+                  "lat" : 53.7459117197085,
+                  "lng" : 20.45929745
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "d28d5977302ed622dbda4b8a1da4a3351f710c4c",
+         "name" : "HOTEL HP PARK OLSZTYN",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118185951331989917442/photos\"\u003eHOTEL HP PARK OLSZTYN\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMbYUAeRzCeLwuoJozoUB4sJhQc1kom9xa3HbwX--Dz9Z9fhsObWdP97hdY0g3S8krzBhJfG6vX7r3-A-WiJoODMXoPZrCkh-0wFFuZuF17CYUFvvbhzAab4EW-oozWtn9NMqIV1e-LERhjBAT-2XXi20TjuF_7Sl5XPiErnEmLCEhD3DzddDcfsNJuaj89TmDvyGhQGq_HaQ34mtVAUhkeXot1wbFl6Og",
+               "width" : 301
+            }
+         ],
+         "place_id" : "ChIJQ9arQUt_4kYRyo9_gA-xCYg",
+         "rating" : 3.9,
+         "reference" : "CmRSAAAA4k7Kcsu5hdETmJOiFyxcJFBi-Eyh86s9HFx27DUh8ZLULwa8fbLvcxLjrZ5t5hucfY8jNhHRRIqo9DKK3SkteV6csjmA5mF4VISzIYqz-W96km3B4QOq3bvIYbosKaAuEhAOpG0KbyQ59JBHnhQ8eipVGhS-BsfmV3a5sfmSi5L_u5L9jFDGrg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Aleja Warszawska 119, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6879985,
+               "lng" : 20.0989187
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.68958643029151,
+                  "lng" : 20.1007309302915
+               },
+               "southwest" : {
+                  "lat" : 53.68688846970851,
+                  "lng" : 20.0980329697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "8ceb4603bc78c06a7c61dc16c84b3166e3bb073c",
+         "name" : "Hotel Anders**** w Starych Jabłonkach",
+         "photos" : [
+            {
+               "height" : 1362,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101238563537400306621/photos\"\u003eHotel Anders**** w Starych Jabłonkach\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAD7defCVcHDT1k21Asbwu473EtL2NxG2gIHsThfeGUD-GVV-ZUoTOV6gXiwZDm4ba13lqYp3GPLzgQxf_OioQIMD5_ljVhcImSrn2CzOsgCg8E5kRXllzmWhrYACAGacdv5xQTIujEnHfgtkx4AZD38d2cMMS8-mA1aRaSXzLu39EhDvCHWtrMhn5_CiF39dGFK7GhTd_AZO1l0yXAdyjEx1q7_ui92Q6Q",
+               "width" : 1364
+            }
+         ],
+         "place_id" : "ChIJ4cXaU9ktGUcRq8hYcZwV3TQ",
+         "rating" : 4.1,
+         "reference" : "CmRRAAAAyBnijFW0l-JiZpWhYE-4wSO4YxzL9zgzbkIPcVWcWBl_gmv7nO4fkOz1leswmuLjWuwK-nvAlzqpzYTwjce08G8FxEo-jcByU3OjA3Gz9oz3tBwMfUELz3MWhEodJU5GEhCcg3UfabSgTFdn9dF6T5PlGhT_aJAkXElQF6c29L3rIH6UTlQEJA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "spa",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Spacerowa 2, Stare Jabłonki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.709774,
+               "lng" : 20.3773213
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.71112298029149,
+                  "lng" : 20.3786702802915
+               },
+               "southwest" : {
+                  "lat" : 53.7084250197085,
+                  "lng" : 20.3759723197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "86c0ede2e2c4e84694fe1682fedd53de9aee4511",
+         "name" : "Hotel Marina Club",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2359,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113803225013523713993/photos\"\u003eJakub Grudzien\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADI9Jo5eN4JouS71CVdeQoZh0N9rAmDTE7WekFAAAB-lmfhDb3IJFsSS6rjfPWa8KTfiFs-Hy0FyDtBp5SULJ5qQESI8WTKN87GbT3VdX5cCwT3aIpo7LroJ1wTmzndhJhXP6Qc_dIbMtOFe8lRVpRNiw_RjuUq1wqBLJ57lpVwyEhATgmJ_2nXt6KOgM21jEDXRGhQULLvPWQxNl9AFrCB6T3aZIERBCg",
+               "width" : 4194
+            }
+         ],
+         "place_id" : "ChIJadPw1OSAHUcRrMgg-1zU1xU",
+         "rating" : 4.1,
+         "reference" : "CmRRAAAAMASlXcCSJk__IBwB91cEjRK1sVBHC76HDP4wX9n2MiYOB3d-KJj6n9D4r38zEennZRjonP5Er7QMZeiQop1ZstbR_tKcsV47p3kqobLvbopLwGEn2V4V9PLWgPiCxvEXEhBVijOpBwu2TC5Zs6p8VBroGhSuLnkv-NWgJKrssidlEpBoYXhEbQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Siła 100, Gietrzwałd"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.12482,
+               "lng" : 20.583175
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1261689802915,
+                  "lng" : 20.5845239802915
+               },
+               "southwest" : {
+                  "lat" : 54.1234710197085,
+                  "lng" : 20.5818260197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "b4016d47188ea51f4c8f2a2cc6d108783400d4bc",
+         "name" : "Hotel Krasicki****",
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107555434175811783289/photos\"\u003eJerzy polakow\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMtfxy8aE2gFCFGBhtABNkuiW-st4lOjj5wfAJh5uRl8hNahhW5trkyLYCdmtg-BIo6xpqn1Cx14zsuwj_dyVr-L-L6W8NYRQzVs7-yCeYoBTJ3sAD6l88eC-ModVJCOceVJ1oWTxEVXH1j0xBt8Z09J0Plpa0RrVTLV0I6N6XhpEhBj3mhxrChaKB0r8h02IrihGhTTViWsvn48nPS-Hzg40sB5PzO2lw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJe7D0Upj14kYRHwJNF538HPE",
+         "rating" : 4.6,
+         "reference" : "CmRSAAAA2vOtZBBYGdYQ1CW74F3_YHEOEpf1b22xCuosBEqchT-7RTwPBv6DG_Gw4V-jzMveuFVPMwZR_b2Pb3a8S5mTs17-XC5gf9re-0hQ2WMUmCiJRhz83LPOGL1fYl4oFlj7EhCC_dH2OloM3UOq8hMqCi1oGhQkkiR5At83PizShgIq6ptozBAxwQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Plac Zamkowy 1, Lidzbark Warmiński"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.82890399999999,
+               "lng" : 20.821659
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8302529802915,
+                  "lng" : 20.82300798029151
+               },
+               "southwest" : {
+                  "lat" : 53.8275550197085,
+                  "lng" : 20.8203100197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "0f5613a49f8c332768095fd8d7a803c8651eb8d1",
+         "name" : "Hotel Azzun Orient SPA & Wellness Mazury",
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101519324013165070757/photos\"\u003eAndrzej Kabala\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAIWDX2ZzKHwHIyZKt5tUq7QyOk_xpX3T4qcJQrH3XUEwh5K5SzVzDOTr9eeeyCPIQcgScfgy2qKgWWjbuMLY6qnaYlzfFrYFizgr6Cr0GBxcJN59AU3If5l61O9wcW0MXJ806Q4IDZj7ofm4ZviR7MFvwaYq2M9_7fBT76qXZ7AlEhAZSdDnXEGGL5sz4GVkpeJaGhQb-DFOyAIS8_GoCvgw3F3C8hgLrA",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJhTMnGxpy4kYRrBDXdjZjAx8",
+         "rating" : 4.6,
+         "reference" : "CmRRAAAAfgO9cD5lM7HUu5wr2cgZFlMRdpFkMA19T2FLgHrcNb1Lt538ieIPXWJveBUx43xM5QCzlwsPLtrEi_ku5xzX2TS1R5MW7PmIV16Y6RR_k1ZmPEerr7yWHCWUAEr3tnWAEhCi7EbDvC19loLnQSs7kxBSGhTWHNgcIsp6froCfn5Vh9TCcqLEDA",
+         "scope" : "GOOGLE",
+         "types" : [ "spa", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Kromerowo 29, Barczewo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.706405,
+               "lng" : 19.957437
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.70787053029149,
+                  "lng" : 19.95989265
+               },
+               "southwest" : {
+                  "lat" : 53.70517256970849,
+                  "lng" : 19.95661844999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "b3820a67d5851b40d5ff26fc5db2e1d331ade723",
+         "name" : "Hotel Willa Port Art & Business",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100144535072998454963/photos\"\u003eHotel Willa Port Art &amp; Business\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAA7Rcf7L3wQAQ-VvR7DRbDR6wDditXMHdMzHmZBB5JgyMdhwpv-jP-KKjk26jWBiNvYtDxBVRs28_vKyinu6iabkACW5NAAecegVvu1OAoQIwkuvJ8UfRJXTmtXBfPb6C55DTk8T1OhFdMCkkAxBttHdZdYD3qXwF26gWSImJLiIEhCCjdXBP5mI4krROs8O-MLqGhTpOBsc-APXa82a4xWkXQFABM_xpA",
+               "width" : 597
+            }
+         ],
+         "place_id" : "ChIJRTGjfpRkHUcR3s1l3apvQbQ",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAAbMxfELjiJYteh_k2XXQWiyDps6Nyp50YkJXfqNedHrWAQwFp8vA2cRvqoBRkKI5d92Q-E51gttfNvgrGH-vz98S2MuNWksU1C8rScvYTBkEvjizfUNSG6Wx6lV8jgKzEEhA1F4ZadZBa36ItatsxLJbqGhTrgaoON2CsjjbarjBK3Acr4Gb4BQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "spa",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Adama Mickiewicza 17, Ostróda"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.782846,
+               "lng" : 20.474541
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7841375302915,
+                  "lng" : 20.4762883802915
+               },
+               "southwest" : {
+                  "lat" : 53.7814395697085,
+                  "lng" : 20.4735904197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "c21135b5fcbed7cdfc6ba65fd61a1c95e79142fd",
+         "name" : "Hotel Na Skarpie Olsztyn",
+         "photos" : [
+            {
+               "height" : 1057,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115951711672069023170/photos\"\u003eHotel Na Skarpie Olsztyn\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHVFEKiWuG2lTyTinnr8RjLcRt0w0xAWVaR-od94VPXQpAKZ4otHhgiDtobLiq2hmsYkpbOIZgXuC2DBpivhxmzfdz1hZcV8GRI9TLIhIsj_RxQ3HrP_3fREIeexf4Y3P5UdrZlEV6A9amwW0pG-9s0rr9jQ7E0aWBmr5fDhO6Y0EhCuXn1WBJBK2Zz2GsdLZ3vVGhQxi3NvvhmP_NjE1wbcHaAn7sTj0g",
+               "width" : 1690
+            }
+         ],
+         "place_id" : "ChIJaet7G9B-4kYRFm405u4HZEU",
+         "rating" : 3.5,
+         "reference" : "CmRRAAAA0pNp4aNOcwPtSTQmReWUr-4wEYj2mOafH52rsUVZ_cfGBMAe7ImZt7Eaf_0JfqclxgLBbaplC6z_MQxIbBuK9MgFHfzxwy5xuokfju51Ft5T4DTy2shlQKCbKp-YuomoEhCL8THmHXYdcjDaavuCtOPzGhRx543o28HwWpjt57EPg0rNwbQh0w",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Gietkowska 6A, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.784001,
+               "lng" : 20.1272536
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.78534998029149,
+                  "lng" : 20.1286025802915
+               },
+               "southwest" : {
+                  "lat" : 53.78265201970849,
+                  "lng" : 20.1259046197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "01dcc4671ec7c09d40a45fb948b800da3e26a84b",
+         "name" : "Hotel Masuria",
+         "photos" : [
+            {
+               "height" : 1275,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107875000441703922309/photos\"\u003eHotel Masuria\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMJuYvOl12uK95duN8gUf0gqX2RSKV97vZls-fUFI9VwXA3ncLQfV8bnGTl5TrddXFVw-l0a1luTCXs4xv9rKh6svLtU4TQ_T-WwUQB0rZbT0X6tihWBiS1ys16DNLvAJ1j866uceM_EvNvY6IOtsn6NU6xeBa-UkZVGspT5tT94EhCoOiHqtKqJmV8ngTweOL8iGhRcWoCzPjKR9qYLzUsgQ30k8_THSg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ4-jk1K2C4kYRsGoksVD9Ogo",
+         "rating" : 4.3,
+         "reference" : "CmRRAAAAQJHX4iydxXUZC0plXHIOIR2dxIGIH2GUBMYQVQNh8blZaHrhAL0bZ1FvUOS0luL-z5jBY4ng73q4W9KAh2gUflWxR0DvJOr1byCNePpD8KfteZNpiF0EhBxTPMCWxbfXEhArUqQE_XkubM65Zdzvav0qGhQCEDJJhjsR_5uB_zFHA5wUCz8rgg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Worliny 33, Łukta"
+      }
+   ],
+   "status" : "OK"
+}

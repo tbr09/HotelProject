@@ -1,0 +1,33 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.80687649999999,
+               "lng" : 20.5656241
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8082254802915,
+                  "lng" : 20.5669730802915
+               },
+               "southwest" : {
+                  "lat" : 53.8055275197085,
+                  "lng" : 20.56427511970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9c762826ab59be011fb66f7cc559fe837fd2432b",
+         "name" : "ZOO W Nikielkowie",
+         "place_id" : "ChIJ-WdtstB74kYR3J01oLkFrSs",
+         "rating" : 4.8,
+         "reference" : "CmRRAAAAcLErSMwklaVOHLYvgwX7XucTgIkc3CRwVwX12WnhugvDwdW0YkR7PrpZSuFoYwcrpGpZELnHsVD2006FtIA57dmmcCqBUJm0PXJKrM_Q-aVyZurLwY_BbNfGe1FpV5z6EhCxk_QyYs3At54ER3ozA2P4GhTo2ORsNwahvRCfngi5Nw1q58imZA",
+         "scope" : "GOOGLE",
+         "types" : [ "zoo", "point_of_interest", "establishment" ],
+         "vicinity" : "Nikielkowo 23, Nikielkowo"
+      }
+   ],
+   "status" : "OK"
+}

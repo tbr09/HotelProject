@@ -1,0 +1,738 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCAwEAAGPktbdN7XLw1AncDtL5GmGpZBt1fTnnoCwaVHQ4trXUaQv9ZaANuulzWJel05AWSp7TO1DMlXJLZ2q06EhXHo0n6jikhSVUTQllXWJSVf_RP3bmym6EVbuvS2YD-l-hFSDLY730qF0mwMW1sRxb9XI6KhuvEBdqplAHvzXduUAXTxpqd84I1-kwL3FjsYd7BKRXw_XaNjlwzteiokxZFmifcitOHAJypQFGTa_0yRxJlWIPvEWlnPY6bABy9zwGMd6Fvi17shsjk7uTfVJKrGj4crAUuH5TWa8ARiRWMj7lVdZpDU-rjaA6zSMx-ck487GNICkHx8kXmfnGQzf4d52aHY0Vdsc2K2vuqvUDATAOEhDyU37xHzvg9gEapohLOnzNGhRcT7iYAV6MY_tEXmoStMFV5YHv9w",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1251067,
+               "lng" : 23.1928272
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1267182802915,
+                  "lng" : 23.1936137302915
+               },
+               "southwest" : {
+                  "lat" : 53.1240203197085,
+                  "lng" : 23.1909157697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "3ffc7ebc2ef1653f9c2c8b85826ea7f2f2c9a745",
+         "name" : "Kościół Chrześcijan Baptystów w Białymstoku",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103002920501499225402/photos\"\u003eKościół Chrześcijan Baptystów w Białymstoku\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHzjlojHqwrTR10YqBGiQRSswbPIl2tFg7MHJfOKIgVulTKE5Ujz1WjoSHnKYyjbgRboNwVz331rwj77I74QwUtJ5w7-loFEt9J6lJX-FVXH9oBRz0CiKNbGpfmMUC98lSkTfnIl9bfno5gBJpcIn0mJXq9wZsJW66FrtDSTSqkJEhAcCwM3S8zy5PiISPrJghxuGhQtvvSuDjFsRG1W_BREtikiI57vXg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ_9gSsrD-H0cR25vVen-lHFM",
+         "rating" : 5,
+         "reference" : "CmRRAAAA5nfQUiGnDDrDWvVHkG4uTJSH_Dhb4v3XC5JqKdGLIxNsSfMP0CZscLNeZILvs-4cJaIqRL-SOWRK0PHc70DcWgkg_yo4KrgKEQlkfi3Kn9siD08sHtJs3yo7tm4EKV9YEhBSc3sO_joG0kP50cACqZZvGhRVnCGdH1fAc0aoZK3nkHFZn23gOA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Kujawska 22, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1416477,
+               "lng" : 23.1048297
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1429966802915,
+                  "lng" : 23.10617868029151
+               },
+               "southwest" : {
+                  "lat" : 53.1402987197085,
+                  "lng" : 23.1034807197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "6961bdcbd6cb633f1a63511e96e42582e04461c9",
+         "name" : "Kościół pw. Zmartwychwstania Pańskiego",
+         "photos" : [
+            {
+               "height" : 2432,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102596065456039469742/photos\"\u003eДмитрий Божков\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPl9ppFmTgp7l_C5BmOUcVDbj7fphXU19CnlCvKNIqjfHFlB5ACEq5StDgIjFhKVe4ZF8d8hF5OPU7UGZ1uNoD1aV7rK9iaDE1AuqiVxCb2PIp1aFtDl66YIO1IEneZzkcw3LUTrlMoeulr4lTBxVeyr3HBzZ1Z7obecxdmnv-x1EhD5iXvojo3L5DTv6ZaVuSJvGhQDzIGglGLceYoxyEf-8QirWfe0nA",
+               "width" : 3286
+            }
+         ],
+         "place_id" : "ChIJTeCXZH38H0cR3KxiifSgZSU",
+         "rating" : 3.4,
+         "reference" : "CmRRAAAAaKPibmDsq0fURWryLWl2W0g3fimsv6Uk254qauZfyyPmFtavG6HKtZchFI0FwjADhFtXji2fRHCDvebNiej3Qqg-z6r8hEo6AdSvlbRIYarHLdJi19c3jsL4a91jk1avEhCYJ5ZesRaQEj1Qi-Zdq5q8GhTdydeAT3vyPNLgxzc1t4u6yiTYow",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "ks. Arcybiskupa Romualda Jałbrzykowskiego 5, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.146869,
+               "lng" : 23.121687
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1483579302915,
+                  "lng" : 23.1231417302915
+               },
+               "southwest" : {
+                  "lat" : 53.1456599697085,
+                  "lng" : 23.1204437697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "de49d55fc9b6b1a4fc091d82aa3c60f9ea5447c1",
+         "name" : "Cerkiew Świętego Ducha",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116837589992094159647/photos\"\u003eCerkiew Świętego Ducha\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOK4-Ef1V_RfJNVlBuD7M-gG91ziodglBqaUkJLwBw_nstYXTMNx2_-Ue3CX5YkI1-Hm53A5G6qjVuM8zqsfC7t1ZmJ1lw2XZp429mBhospv1WGnWfvBJLfSCYuM_mlAHZ4HSLKF_BLKzTlMuFKfUmtEVmnbpS-KfwcviN7Ys91XEhBu2hogIGWoOrEeWtyArBznGhRpgZu7HkrLFhlZKt4C--qWtEAO7Q",
+               "width" : 401
+            }
+         ],
+         "place_id" : "ChIJmZuIl2b8H0cRl9SyoB6N5PA",
+         "rating" : 4.4,
+         "reference" : "CmRSAAAA3p8iEQd1grOFsQfdcbwPg38GoWupimxaxaErqGJS1KCTW10C8GLqtbv7GgKoRN1TbsBzqppH9KJdVs70j143ngnxDAhnRMpHc302uaRP2YwM9yrCHmowYvFNSbRpYGC_EhCBNVYTTuy-C3m_JO2IXrJOGhQoP_6xtmUhNYT9xiOuNdcZBoyGKg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Antoniuk Fabryczny 13, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.12558989999999,
+               "lng" : 23.10157659999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1265156802915,
+                  "lng" : 23.1031181302915
+               },
+               "southwest" : {
+                  "lat" : 53.12381771970851,
+                  "lng" : 23.1004201697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "d96eb87faffbba45c582047039ff87c1d4205ee4",
+         "name" : "Kościół pw. św. Jadwigi Królowej",
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104305493754464106048/photos\"\u003eKalis Pro\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKPuJrsR8Y1VgkT9h7b8pw4H4u27oRpz2yYlzeA9T2Wy4ofW4w_jQssWe-h5w-fBDOmD2ejiyzM47SxvGoyhdsCzcxRLOMDxbMrMdEWiOjx5pPPsCoqs6cWT1Y-01gJLbD3coUKGNGB1G5f5YMMO4zoxAKuZJc9ZZ2VEARYKktVeEhDpFRBWH8HbrhdtJEeET1-MGhS4AR1OMVoTYcfsSox0529EWSqlnA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJZRjAQYT7H0cREkUJNAQlpbI",
+         "rating" : 4.1,
+         "reference" : "CmRSAAAAEcsOfaJSLPehvY2L4KJBR33QatUPlzP73Af9P9Ea4cELHRqiLTdHHyfZDZav-7WNx6MOjtqhhXsRYbxfAI8SK6D42sfZ33UKVe9tIxSLcLYtLC-5N0i9Ao3oGXMdtQtDEhBNlE1qH8rDH1_sNM03wtkIGhSOYEPkTfU-TBLPL24ctQ5k1Vyt3w",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Słonecznikowa 8, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.12617189999999,
+               "lng" : 23.1511334
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.12758908029149,
+                  "lng" : 23.1522064302915
+               },
+               "southwest" : {
+                  "lat" : 53.12489111970849,
+                  "lng" : 23.14950846970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "3baa947c2e19aaf4cb0be5af25ad2e50c319d06c",
+         "name" : "Kościół pw. św. Anny",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109789689965796550074/photos\"\u003eCezary Suproń\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAP8S4C2Y79WWCLLPOHibTh3bwRrBSsumnZ77A3opbxj-YmG_QtOVSTK92mePN9TPNsJFpUPVObiEnkaIDwWuoWEFC84uaAICXNZnQiB8euy0ivSaYu3DtUD42-C61sXvNFTupLCF9Hqm2a1oCCFkQzstQdTBr0p8xNQ40EqX1-WnEhAI5WqL6KksFVCWj2yX-_0rGhTwwxtyDHIDzaD3Ds0xGJ8U8HOkjA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJG02GVgb8H0cRL6tuBsqh7E4",
+         "rating" : 4,
+         "reference" : "CmRRAAAAzPKyek-ubB13-R39U9amkYPkM14BhUduig8NW751WpFGiw4A091v4Lo3jpgI2-Rju3wQNpfw16VmPlV8m59pH6N2fxllw_EwYI8UX7IdL_YeufJxosdAhy7ldIiVlDcsEhBGTtCGC9t-i8qFsoRIvsEMGhSERTnIOyW5tyxMrn0Q25yfngwhwQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Prezydenta Ryszarda Kaczorowskiego 5, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.12767090000001,
+               "lng" : 23.0846282
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.12901988029151,
+                  "lng" : 23.0859771802915
+               },
+               "southwest" : {
+                  "lat" : 53.12632191970851,
+                  "lng" : 23.0832792197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "ce98bf868fd3eb3599e9332a497fa01d1cf0691d",
+         "name" : "Kościół pw. św. Andrzeja Boboli",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109789689965796550074/photos\"\u003eCezary Suproń\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHnbuvzLTuOIWqf-UTUy85T2BUtab4ziBWjKuXZUjUJ41oOuvxOmfebDPjt0peBDQ2g5wDDRlHgL_kEDLTbG8g36BH08EpjrsAiUlKGdOGH5-dGMiRwjntgfORJk-zMIGVMyIWP3fBsXfqbBKv3ZEQ3NA6Lot6PyJOlbZhDJBqhfEhDZGka_IuxibeNkSFzLkJT3GhQi0ql0Zf50ma_H4E2rfBVEiKTRRA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ0wnhkHn7H0cRIL_qczd3ExI",
+         "rating" : 3.1,
+         "reference" : "CmRRAAAAuapLverdVa82b1cL3Qmz_h78ekG1lSbGCTj9QxbBUW3fYuvo00zcJ_04wmYiG8OwJkEUAl_56yf-4Z3ISajCeGnTNT78afSaPv47c704dI6FTjxA6667_AQo5suA4sj9EhC0LecY111SB5tyGFDWZX0-GhQ8eCg74udRmf22Q27kDBLNafhcuw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "św. Andrzeja Boboli 49a, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1313594,
+               "lng" : 23.1955987
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.13289303029149,
+                  "lng" : 23.1971401802915
+               },
+               "southwest" : {
+                  "lat" : 53.13019506970849,
+                  "lng" : 23.1944422197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "f8f52b7ab4f8fdd3c28d4eef59d8770962b21012",
+         "name" : "Kościół pw. Ducha Świętego",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115095962289814032944/photos\"\u003ePaweł Izyk\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHUg5b67iyTgAepln7tF-cKlXj6KBqnmjN97ZAvshFcLc_x51BoQSBgifznjUXhQTsVoHc_eIqzFzyElKJKJBLXbqTitBSRYsYBx10VYBE3BRKQleoioOptJmuKUgwHXUPCG7Em1Yg8fni9eBowPr69TXBzjM5X7cqKtuGs2aFCfEhDzJhMycFLpaVHwVTU_qXaGGhSaZ1V2X6zp-kVkGpSvdZ3euGBhkQ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJS3zobrz-H0cRkNcnplxRGo8",
+         "rating" : 3.2,
+         "reference" : "CmRSAAAApQqZ2zM_xNQkyxrJGXvgGFJBqFu7O-5tuCl7tkqVkRc-Zur88FDDii3D9LcoAbS8oWVFppIScCqGiSq2yB_HT9uJiraGWSNPs0Ewe05t7BBd5IpYfXLAqpide4NVhb55EhB9UWdFGjTJt1eYYSn12RUuGhTyTcpFGOKebkVwBTWe5gfdsiwEQQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Sybiraków 2, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1327112,
+               "lng" : 23.1545609
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1342219802915,
+                  "lng" : 23.1559832802915
+               },
+               "southwest" : {
+                  "lat" : 53.1315240197085,
+                  "lng" : 23.1532853197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "b0c1d2e4dcab2ca7bbc4ae81d357282978e67838",
+         "name" : "Katedralna cerkiew p.w. św. Mikołaja Cudotwórcy",
+         "photos" : [
+            {
+               "height" : 2082,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100073714737157353373/photos\"\u003eIreneusz Puciłowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADYYlkCJItQ1PNKVi_PYLKxEy6d9uPBu6piZb5PS8YlmllOwL3QoAnfo-oB0N4oEPc5S2F1ezbaOuLMH4ET5j9nRkFnbFcYcQTooVkc_5R6PUQ3OURQ-Z7t5_wG9NPnJpBzJtRd93mXVmPp5vnJV5AnwNuiRTPSzx91Eb4HyGPR3EhAhuybhk8R-VB4hD3WZ9RBxGhThdy26lFL1MJIYH5WUjSl6-NY7cQ",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJZdISRAX8H0cRBR2VRydBP9Y",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAAssV2sIQMMnZUaFrk3H7OSmoXDDPvgcb1hc3elLJhHSXq1ZxOSbPiQxM8O8lHtLmKUBTS--ZyYMx9SSCCGeJezO6GddcsuRWi5N-a_CMO3LSl9P0Y4qAOmIGWzraVOAWyEhDJkTWBXvFoO8BW89RlyazuGhTu82Pix_JPAiiSS1lkknijfVPlwQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Lipowa 15, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1603295,
+               "lng" : 23.1889576
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1616784802915,
+                  "lng" : 23.1903065802915
+               },
+               "southwest" : {
+                  "lat" : 53.1589805197085,
+                  "lng" : 23.1876086197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "1fc6c4fdec6d1176660c944e0042ef3ae006cd90",
+         "name" : "Kościół pw. św. Maksymiliana Marii Kolbego",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106213253704658581054/photos\"\u003ePiotr Torebko\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAPm1eTgqCY5iCiKHiMHKi2vlZjiQej1w_FMc5BDP73pUpnOrwCaWnFGXIb3SOS8T0gkqDTgzt25hnhqD4ayUYegfWTC179m75NcyYJu4ipbvZeXYcwMaaItNVKUss6iIdTAmxjFo1VKxj07pPSXgztfn-y9xgdjpxYchJZ9cLvIEhBNFxAa_uDb51IN0PIAWqrhGhSROcNBfkDuKqShXuG-VfJwF5vUBw",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJlxziRSv8H0cRPMBGtZmCrm4",
+         "rating" : 3.8,
+         "reference" : "CmRRAAAAfBUtTboBcSnOefWYuw_RMlNEkosnQuE2u-az0O_c2Xvp8Qj6Vjp2XwrFgMyGR1bETsvjnVbMvon8qGZTCypX_5t-FL374R7TavQOQBOhbddstRY683J4GjAsuyusPnVuEhByVLjOSmjAtCdrRMvFVV3rGhTzmxR-tP9bxp4DpwiJeoN-Wdhkpw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "św. Maksymiliana Marii Kolbego 8, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.13806870000001,
+               "lng" : 23.1660287
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1394664802915,
+                  "lng" : 23.1674639802915
+               },
+               "southwest" : {
+                  "lat" : 53.1367685197085,
+                  "lng" : 23.16476601970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "3677369bf43256421f031812f2e140324e6167fb",
+         "name" : "Kościół pw. Świętej Rodziny",
+         "place_id" : "ChIJRf4vTxn8H0cR2AIA9uYci54",
+         "rating" : 2,
+         "reference" : "CmRSAAAAL-KibEwiFtIQxSZBWjKdTR-2mPER9jzFryB5eU8bETvYMd5FDuH_Ndoka6OptiwdzLtFUBXJMOkxKvE5umtP1ANTQrOMOM_NUTbxNugrMBJ6AWm8fAh4i2TAgJQFoZQWEhAp20cLqfrSZkjfv1PtEERhGhT35nWAMkkuiTy3P63dtty16BLvHw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Ogrodowa 2a, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1092117,
+               "lng" : 23.1203896
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1103829802915,
+                  "lng" : 23.1218147302915
+               },
+               "southwest" : {
+                  "lat" : 53.1076850197085,
+                  "lng" : 23.1191167697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "507520b1b12e6375af470a2f9fbda409db1ba709",
+         "name" : "Kościół pw. św. Karola Boromeusza",
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108311805048860203874/photos\"\u003eAnna Sienkiewicz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAK1sLELhRKXZygnBmpQ8-JRlTp7sKnCyOfvDN4MR7p2kYtnNfjbW-sW5Ex9VleVP0nj9QwiNgfARAlKwRNhEEsiEpxfDSFwJE6zMTBvOUhXoarevvxO039U0-75wsZ3iGhE2MiscFJqntjpQjxJ7_hDf5eYGPMV5SPsf3VE2Y1D0EhBEavhuwGp5L2uAdPT1s7ZcGhSjIwLBCbCpH6HorQaqIE0L9JvjHw",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJ0zTtNer7H0cRuQ7ZQXA3yvg",
+         "rating" : 4,
+         "reference" : "CmRSAAAARvCGXmUjNZCOAEW0vn6Eo0Gr0V6W8mdMUZAiaa1a_b5N4YmCVQzUyDi_pW8mGYljFe0yV46EquvMVBc0c2sryVlwVBz9654xc3fCMovp9Aee64MsTksX0R4p8SvYmC2NEhDL0j8XZAYuM_UQH8x4JoeDGhQSqUxl5RaphojSTc6B9jYn8r4jdw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Kazimierza Pułaskiego 94, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1326678,
+               "lng" : 23.1285114
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1339095802915,
+                  "lng" : 23.1296862302915
+               },
+               "southwest" : {
+                  "lat" : 53.13121161970851,
+                  "lng" : 23.1269882697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "2a74458fc7cd9a02dedc3735b7d85e5cc42527c9",
+         "name" : "Parafia bł. Bolesławy Lament",
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106137622663882353544/photos\"\u003etomek8848 Garsztka\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAABW24yXhjZppTrZiY9g8vUYaSQxuxraQEnUKM8u6FRFWszOSL_n1sKFXyn9ZAvGFngqZ9c3mweoQEHNzhLOwGs3yZoes3D4kO71e6W-ynYsALySOdpSwT8mO-Pp9SaOCyCYhAJYS56dQ-qhGpuCHJtyKM3pmDYoZLnqntQtPzztMEhBVKNXhJy-NeBEM9__9V3HtGhTLy-QqcvHM-wh-tjx2arWmREY77A",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJi0xwhw38H0cRsfBRywU9CI8",
+         "rating" : 3.8,
+         "reference" : "CmRSAAAAcqR35PEw9NYkQ2C_HJ6KyXn6YtDXHDkH269HILWT6hRfc5Bz5UKY6HWx0lGzeZ-8dFdIVWqiZtKKdvGWwQFuOr5e7HsmDKSLDQtnS2npUtYnhDCrKYKMQtu736cHAgy5EhDB0wsBv-MaR5Ox_nXfF4_dGhS0ezsIu04702CeHOfwaoisvQ-uFA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Marii Dąbrowskiej 3, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1218187,
+               "lng" : 23.0891374
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1232484802915,
+                  "lng" : 23.0904397802915
+               },
+               "southwest" : {
+                  "lat" : 53.1205505197085,
+                  "lng" : 23.0877418197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "eef2c89a300984bc5e63d2759b15f81bf08ad28a",
+         "name" : "Kościół pw. NMP z Guadalupe",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100403230158043675923/photos\"\u003ebraha rf\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAL381RO3PqAbsLQraY9P8WVMZPXjYQYu0CwL04XjvuW55svRm7S9Wq-wcGokrbp49LzhR_qyIpzmRJ9PQUAhWCtHJlRJixagLdjTZLC6irfxwTTloIfP2nNn5vx-IX7SzGN4II1JtMItKQB8LWVQE4NGuiBgy-m1Co8W8Yid4M2rEhANnza_DYxelwX2FwWk-2kqGhTIask80oRPIFmbR6ZZNmTwvgZUvQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJEeopd537H0cRcp3Yj35V-cs",
+         "rating" : 5,
+         "reference" : "CmRSAAAAZRxNr9wg6Xuogq1KraWhAIg5K5mwu8yDbofbtGlC56uEN-QzpXSSoFcwy_mZnPb2oW3m7kztGPoUrIw_YpFdMY--djuz7cInkD6UO0lCWbWM4cwzqjpzJfjN3jAgTsNJEhBacw93pzZMPmETT_DbCd_2GhRz3bOl9d9YmMCYhYwkDWrp10EigA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Wrocławska 8, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.99017139999999,
+               "lng" : 22.8717166
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.99148643029149,
+                  "lng" : 22.8732583802915
+               },
+               "southwest" : {
+                  "lat" : 52.98878846970849,
+                  "lng" : 22.8705604197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "a2239a1f386ddfc8f47deda784a8cf6a2e5abc0a",
+         "name" : "Kościół pw. Świętego Krzyża",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100143930026357453436/photos\"\u003eAdam Mierzejewski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALTnH6eht71CpfIB27QR9ktoAr5mR1XJC0zXShbnAIrVEmGjL-dV0_fGgznC4JrSZKwkU6vPXQQ769e7DA-1lL5L1k43oeZR5B0vwT_YNAxNvc4_O7p2Nll1C3Lz7UC9a9mpwSc_hvWNiqABAV_XP2ioGPV6vxnlCsFQuXiK-dgxEhA7dtwrubWldtrBMf9wYlriGhSK9EVhj8AOLif1WOlheqq9opMyng",
+               "width" : 1836
+            }
+         ],
+         "place_id" : "ChIJYdxntOXtH0cRj3K4aypK8nY",
+         "rating" : 4.4,
+         "reference" : "CmRRAAAAsRR3SmHMCGQMFc6lnlBg0FCXFqcHnZ-KxJ_s-Z2N9Vv0jB6vR9-84mqIFvI2SNxQZslhdAI6dhchSb8zoGYtp63n64_7FY7YAFe_dRSGPRCH_ZhiJcdr7UZY4lKzTAbPEhDUKzVWOZjUU6W56lwyGLcpGhTCn5t79LH69dt85PRr93O98q7ymw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Matejki 10, Łapy"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.10898299999999,
+               "lng" : 23.21322009999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.11033198029149,
+                  "lng" : 23.2145690802915
+               },
+               "southwest" : {
+                  "lat" : 53.10763401970849,
+                  "lng" : 23.21187111970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "8bbbb6640cf49d4082becb3136c285ca315a2ec1",
+         "name" : "Cerkiew Św. Proroka Eliasza",
+         "photos" : [
+            {
+               "height" : 3888,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100403230158043675923/photos\"\u003ebraha rf\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAFfg3rm-8Xa_c2zAuFJn5Goxs-tV6HcProoGJUIMbBwK4q26SOm0l1RLqbUGfWAUx91FSEcsAYhCNHyjz7qQCSjy2Grz16misqp-NhVH2QLjROLhpcuSJ-msDbqW8AlP5Zlx57lWvpFvd4lJ3M2kM-GmCj0J9yxHu92gLODUvLMvEhCobCRxX0RLvZW8VGBa6PbOGhR6YPiuIvB4bLmF22kI4h3nX58dwQ",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJyQw5hSz5H0cRJoroK1sOUwU",
+         "rating" : 4,
+         "reference" : "CmRRAAAA1wnBFd4K2riQvrV-BBvfSTulvmFxNDMEeT4D-nWHjziyDqOwQutrxoTSg6c5o2XGhfcPBhsn8qewoVNDCc0GllfWFIeWSzlxIUckKXqylN5st3r4pSnHjTLaZbbe9kysEhB9yM19rKiC9w0DkgKr8P6UGhT6djLyYC2a9N62-IOwKEQpZfmANg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "ks. Stanisława Suchowolca 37, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1170142,
+               "lng" : 23.1895569
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1187297302915,
+                  "lng" : 23.1905758802915
+               },
+               "southwest" : {
+                  "lat" : 53.1160317697085,
+                  "lng" : 23.18787791970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "efa2053bca2a00dc63c188b35aefd97a73e53fd0",
+         "name" : "Kościół pw. Chrystusa Króla",
+         "photos" : [
+            {
+               "height" : 3006,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102787708324548038913/photos\"\u003eKamil Żywolewski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADCNypRUPaS18dtlrsDZwctqZ7zvsLjvwEBZ9MlI1y-XGGbDjwmj13wLJAjOq3vBHQUH00S0DWhmnngC5_xgusGbeO9Z0WY9hyktC3eJwzPSl7wr_oUZMdbVfY3b0vb9A9ke-yyGlgEYJL5PYQyXDiWEikYjpIKoicRlzA34WujNEhBal4r3j5pGIW9j2NGlTHNzGhQSV0PwTtTqN2ARDahMl0jfEZ8RYw",
+               "width" : 5344
+            }
+         ],
+         "place_id" : "ChIJyctf5bT-H0cR_tDPUHu-xrg",
+         "rating" : 5,
+         "reference" : "CmRSAAAANFZob77zeh8UNYfF-kO6kDhgLuE3zia7-4DbLTEsVMwzExirgsQNbf52OUaGYflWDOdgE9N2vJaKW2zF39DDJ22wJhcqnMIgYQx4-AG5D-5Aicl69fFUjXomq2Qb-vckEhB_aYioXQYDRFXBelaqNYv-GhS3gQGrX0qbxBZbATKZSroaCIZD7A",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Konstantego Ciołkowskiego 4, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.13496989999999,
+               "lng" : 23.2114517
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1363314802915,
+                  "lng" : 23.2126284302915
+               },
+               "southwest" : {
+                  "lat" : 53.1336335197085,
+                  "lng" : 23.2099304697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "75dac98b7072d780a27c90d30a43085b6e7d73c4",
+         "name" : "Parafia ewangelicko - augsburska",
+         "place_id" : "ChIJc0MFyer-H0cRfvruytmjjwg",
+         "reference" : "CmRRAAAAjZEnBJ5WwznW_s7XKv_mXWTmkAyzKiprRq8IS5dvlUINWUlPl6gpZohmtgJpPpbXYeHXoEjbAs8XI8FnDHqQweCZR1LVutJ_-4oNk-tMWFLY9FC3P9e6XzngkhS-0_coEhAoRzH9g77IChc-hwAHNC_lGhQPdZgX9ND5wqGiz5CMVwvLFpLmtw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Dolistowska 17, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1420702,
+               "lng" : 22.98878719999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1436280302915,
+                  "lng" : 22.9901434802915
+               },
+               "southwest" : {
+                  "lat" : 53.1409300697085,
+                  "lng" : 22.9874455197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "02eae7355cbbd5fa3fa1a18b553de9593baaac47",
+         "name" : "Kościół św. Jana Chrzciciela i św. Szczepana w Choroszczy",
+         "photos" : [
+            {
+               "height" : 1024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111587574145994670262/photos\"\u003eJacek Białobrzewski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADFc2ehv5oSah26Wxk2vOG_uKVxk_s2Mx50Mfo4QiHstImJYqmV-9R_YlpCLEhsVBM9S-Sp25vi_Ba26xSqodb041uQYLvr9bTAyqb1khM0Lq_YhjG0Wc34uYyNPZlon2KOlvhHvMCPtrE5hgzwYzwIL-0DOP1V26FtuN2H2CQstEhCF-hYCVoh0ivjTYsh15oWEGhQziaDTUNJVBD50dcqgjFQUQX_y1Q",
+               "width" : 683
+            }
+         ],
+         "place_id" : "ChIJiXKxBZfkH0cRttWAXcnlTtc",
+         "rating" : 4,
+         "reference" : "CmRSAAAAx5hZZCqpl0zMHX3xYNQGtcmDNiPloW_nSxgd9dftTO2g4wovSjoQ2t2mxKfHye1y9EmnwTouOiEgNTul9RfWDm225iFSDw43hgpf5VRCxWWLplD7DYJFGmhgTbvdUsrFEhAkTFG7vo27_Z4yJ1kff-hTGhTLR29rV8j7dlds3NjL4vEWsk41RQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Mickiewicza 2, Choroszcz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.203865,
+               "lng" : 23.206231
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2052013302915,
+                  "lng" : 23.2078112302915
+               },
+               "southwest" : {
+                  "lat" : 53.2025033697085,
+                  "lng" : 23.20511326970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "90009c0ce4b4442937c31ad40c12d8556c526550",
+         "name" : "Parafia rzymskokatolicka pw. Przemienienia Pańskiego",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1357,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109360575969498960979/photos\"\u003eSebastian Wiszniewski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAIQU7QFG5BD6KtNd6zPDBqTa4S2y_rOM8pId-AGyihXWm5_4uWwnC3cM4KPas85utWIP5xTSAV72S0UHluiZQANbFcktRjPoJbV_7Kv4ALRXsqOYA6TuGzlovMhpjg9LZ14bAN-GNjVIbmFV_0NboKaoyIIR0eJhsWI3G_os3tjZEhCYCi2Gfab2LKEQZ7vdQHdfGhRoblj-4eopF-fk88TgoyOWmqT78Q",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJRxGFGQoC4EYR1IJin_gRvVs",
+         "rating" : 5,
+         "reference" : "CmRRAAAAc5UqX91HZV32ayfmxJtgE8378OShoamEYCr7Bo9WZtiqxAHGk9aOV-m1PtPxK4BCoEx91ZhWOZbfYSPGH9jEOadSayhfiLnsZy6woPyBCHY20yIZB-F8I7BU1FII7NBcEhBHfju0RAEmmpba_OekpTGIGhRu2DdRIcB-dipG-xCVpzg2W-JNsQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Kościelna 57, Wasilków"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1370385,
+               "lng" : 23.1728256
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1381891802915,
+                  "lng" : 23.1744383302915
+               },
+               "southwest" : {
+                  "lat" : 53.13549121970851,
+                  "lng" : 23.1717403697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "63272826f35ce94a0e38a49b1800d38ba269ee92",
+         "name" : "Kościół pw. MB Fatimskiej",
+         "photos" : [
+            {
+               "height" : 7360,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117572932010617674778/photos\"\u003eMK Borowski Fotograf\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANL1ZpP2D-iPcWJ6jfPj9DyccooqGuRu0avz_JvagBSGBa0Wcm5i2iqoC_V54Jfiknd8vGZwWt28wcqZaHzLsKt_fVa5iZ2TjeufaYewdcUA-luFtPZlrDNuDBSt4ZvVmXR0a6AJFDZoMRw_2kQ_fsYQgzRdE-LyXUEE_dvfpCOBEhB7K8Mu8w3YJTcF0zyVGeG_GhS4OxIwI-SBCy92G1BbEpieqJwL2g",
+               "width" : 4912
+            }
+         ],
+         "place_id" : "ChIJCSMKFR78H0cRijRED7JnoPs",
+         "rating" : 1,
+         "reference" : "CmRSAAAAGgT3y4lBLleNlni8MEPvPHHIBbO_BVO2TVOb-ek_mdTqP4KosGAsfJdzIei1cxFxX-Q8adwRomdKI81FGJxFvFtiKfSZCiQBg5BwS2uLLIXwgJ6Qn9MOF6WLKBESp7YCEhCwJhXEToqP40fg_0OolgLvGhTM2yMqfzD1hBxfKQWzbTN6ygi4Gw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Józefa Ignacego Kraszewskiego 15 B, Białystok"
+      }
+   ],
+   "status" : "OK"
+}

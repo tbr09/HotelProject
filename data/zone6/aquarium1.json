@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7899116,
+               "lng" : 20.4420446
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7913532302915,
+                  "lng" : 20.4434952802915
+               },
+               "southwest" : {
+                  "lat" : 53.7886552697085,
+                  "lng" : 20.4407973197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "80714f94b8ed5f086c8359954863126ecd1ba774",
+         "name" : "ZooAkwarium - Zoo i Spółka",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 640,
+               "html_attributions" : [ "Od użytkownika Google" ],
+               "photo_reference" : "CoQBdwAAALr7KuBrbShWZdYxO3u9x_8gq9f3WBap0uJKPWhbwPjt8QOxoKZqPvearezUJ34Chkm7si62hOirLkpayeI1l2DSDynIB-N7KTxXLoGUaME2r4JNc9onfYVasx28JKcbxOROd6aOjFEGLKpkZDmEdCryKP43a2JjTkIGB5iFx39vEhBGz3Fmdc4P9cExjhe5JDJ5GhRUraOutSnxPm55RlLGgS3HLVlTJQ",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJ655M5tp-4kYRFZkriQxHJms",
+         "rating" : 5,
+         "reference" : "CmRRAAAAKsVvcBjsgOQXQwvxvHY2bETNX91ddky4t-P0JsM_kQGiGq8VY7uOMqeveGV8679BgvHpRkNvDWKUuZDJNnYBemHuIX1cmUKRz6amaQJpl-J_eD2uyYrgDCIMGqJRtbemEhDC06HdD_V7_iESX46VhRC0GhQwkw8aHO-fT7f6x33_qrTElel9JA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "pet_store",
+            "aquarium",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Bałtycka 41, Olsztyn"
+      }
+   ],
+   "status" : "OK"
+}

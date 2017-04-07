@@ -1,0 +1,503 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7226201,
+               "lng" : 19.3577331
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7233741802915,
+                  "lng" : 19.3595946302915
+               },
+               "southwest" : {
+                  "lat" : 53.7206762197085,
+                  "lng" : 19.3568966697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0423811ea4187b6214f4357c6bd8e40c8f9ee6e0",
+         "name" : "Jagram-Pro S.A. Producent drewnianych elementów gięto - klejonych",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106486130325496040457/photos\"\u003eJagram-Pro S.A. Producent drewnianych elementów gięto - klejonych\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPe8i1Zu1dz-E5ItnT2F156rTwIgFgt95KytSeyH-9LfTANk_nY-LqI0SHeYC3r3KKtGOsT56E6B7J0vGF1mX0-UQ01-nzVC2IQyZWAWARsCK8HsOx1aeQ9IeoaGmvWRYP-UMV2S3TOEhc9xr_2tAxXac6IIIJ51SAF48CWPVAoqEhCux0X2yjR6oMXJ8nU6u_CFGhTpa0r587aYt8icdWhGvu2mG0g1uw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJtf9aaDFOHUcROnXNag2F5tY",
+         "rating" : 4,
+         "reference" : "CmRSAAAAZ1f8U1vmWrMeb7zY0k6hk3EDqOJHtfQ9Wb9iBVHci7Zxo0dtWfcbcQGP-LKlSS3FKTICfBMseoNlhGmUQKxwTJfheqFOXIvhf1AqdBrFn6BRjWsUrH2FJbeUz5Ms1KP5EhChudgsGvoHkalIK8GSJvubGhQVh8obAOmy9Hrg_oleM_16armEXw",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "general_contractor", "point_of_interest", "establishment" ],
+         "vicinity" : "Leśna 16, Susz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.67343880000001,
+               "lng" : 19.2811363
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6747877802915,
+                  "lng" : 19.2824852802915
+               },
+               "southwest" : {
+                  "lat" : 53.6720898197085,
+                  "lng" : 19.2797873197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "ca6806f52c557f65d84854945d5c1b7b99ff8d46",
+         "name" : "Park",
+         "place_id" : "ChIJ_bDJWqVOHUcRpQx1UasRalM",
+         "reference" : "CmRRAAAAe17vfiBYJ51g1RFhaBo5uelIC6v4wGlJbo_bbpf7JOGnNgH1c5OQsgPytzeF72PgjWKEPwagl6dOOj6uojjN9MAoGvVmxuHU9Q8seNzqlCUdj58wqqRKkrk1S-8mQcUtEhCgJGDHLfWpTVMwyCocZWVkGhQarWrrulwcZC6LllXjws13zxwarw",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Bałoszyce Małe, Bałoszyce 25A"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.70941389999999,
+               "lng" : 19.3093929
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.71076288029149,
+                  "lng" : 19.3107418802915
+               },
+               "southwest" : {
+                  "lat" : 53.70806491970849,
+                  "lng" : 19.3080439197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "fa6a9c30fc012f26e868be35b258fec228d68acc",
+         "name" : "Park Dworski",
+         "place_id" : "ChIJrY58zmROHUcRu1TAg_P-vCU",
+         "rating" : 5,
+         "reference" : "CmRRAAAANQEL2rLFUdpaoPYM8RGmUwFM0_3tekPCWynrL9QRfd9j6pjiWwSg8RmXWgASjYCCOm0oQ34VspwLvzPocuOPphas3Op15YYxhzcq-DMAlDwuMCAMWwTSXatjo9T91esMEhDZsJLXV3OSMowBWcgyJ45SGhQzMY8wvJi-fnDFnmoqf7Txql-q8A",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : "15, Nipkowie"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7161828,
+               "lng" : 19.3392022
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.71773513029149,
+                  "lng" : 19.3400573302915
+               },
+               "southwest" : {
+                  "lat" : 53.7150371697085,
+                  "lng" : 19.3373593697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "d3bad106d66f291d9d81cb3e9bd8385f51825dc4",
+         "name" : "Park Miejski",
+         "photos" : [
+            {
+               "height" : 3888,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114528086629950819099/photos\"\u003eJakub Romanowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANVvAlvArvxCnOX2h4WPWblKnOhpzzq0v4SmTCjUvlXZKBAcEjQhJVQLF0uBNRl7XtSfMki8hHdRKeuf-CiDo1cDnUjXWjJ5ogST49xmTOx8C-XcVpKw_x5x0nIkvltUCMS_aq0u1YBJI3s71QlYHOk_MA5w9e60izDKeK5h35cvEhDY3iKHf-VXCw5FP1_i4iSSGhSGtU8qX8UOmxcY_a5tDatGiVGnLw",
+               "width" : 5152
+            }
+         ],
+         "place_id" : "ChIJw_hVL0FOHUcRfIxLhwA4ZGI",
+         "rating" : 4,
+         "reference" : "CmRRAAAAzDoadqbo-vlfyy2XvFenrqEMuIOqUgmolyFTYJi80SRDAEcAroL9H861onGAmJRU-Mz5CU3cZew3qFe3dBJ4qonHyVIjkdAx54QeoHTcHMaebko0rlnGBNL6v3GJiRXKEhBXhqlxCOgwdwiHEiI3O24OGhTqfoGj8035oZUnxpRo99qSNeK59Q",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Susz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7597991,
+               "lng" : 19.1872787
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7611480802915,
+                  "lng" : 19.1886276802915
+               },
+               "southwest" : {
+                  "lat" : 53.7584501197085,
+                  "lng" : 19.1859297197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "1de3b9412be70995a999d9d38da6a7183de50f8d",
+         "name" : "Rezerwat Przyrody Jezioro Liwieniec",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108458194285145028893/photos\"\u003eKrystian Łukaszewicz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALZdhVoCF2cnlpV_1w5HJMXABn-t-YN3QHpCPfCxiOm-3BrWPOziJc4QiUGSCDghvJIlYs2bvPgwNQr-5zLhGbSh_OPeL1cfclIzlcLViqIwfVa56CcJydAOPaQEU9fHrSNAXgzX-awA71ioC8tBnSVgkd_HFdID4zfRKUJNkDcDEhDaNGo_-XHy-I86FUBQsrw3GhS4uNaTwWgQn5t4tk7U9tl7gdQ_dg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ7QMvMVNNHUcRD-5zVwEgIKg",
+         "reference" : "CmRSAAAAr8U2bmAIS9bOFHdm-KPjkES5YRH4_p5G2ywuUv3dFyzU83DgzqRlyORUWoTArqJ6SjhyIfwrARO7wqQ9McQIJYTTk3BCBN4EQYR6N-6-CbJJ-hORqvP_RjhERuvmsfD3EhBLNV-EnLTnE-hDq0LHVTK7GhSKAkMXI-LQC9SiBIhiHj5pQ3YLNA",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : ""
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.76285579999999,
+               "lng" : 19.20088849999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7644481802915,
+                  "lng" : 19.2017319302915
+               },
+               "southwest" : {
+                  "lat" : 53.7617502197085,
+                  "lng" : 19.1990339697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "139ed8667a1a4f8b2024c256f577b998635563a5",
+         "name" : "Park miejski",
+         "photos" : [
+            {
+               "height" : 551,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104892893637212615218/photos\"\u003eStefan S\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHzCTx4kfQEpMphkZyPUEcb59ysNYCp_kufhHgIl_Sig08bz5bQ6RLPWyDoAzyr4LPNWMwFXaf2sFzm7LzgysPBwhSsJw-7RiRusJwo4GijBNEV6oHJb7IfxO80GK4uSlS46jwWGv2mtm_3_No3GeTbzjZc7FgMnl3GEjSUmLIS3EhAp2Kb68YjwJZOawMSwKcg-GhQRjPBBY11pIL91V6dcBL2Tr_f2vg",
+               "width" : 980
+            }
+         ],
+         "place_id" : "ChIJ24GtVFZNHUcR4v91rNLFkdQ",
+         "rating" : 3.5,
+         "reference" : "CmRSAAAAz2U3kX23mFpVXTr7AvX0-I_1JC93ALTreEsQ2hcGqihKe8_pAYCSndaqjFUMUstaXitlm5ifQ5qPTyFmv_Eo9Vw9sbat0OV1tyZ-_fqyBTHR4S9Iw4YlmKuHYCUDB-Q_EhABTAyMmx8-PweyNHeB8NFgGhRm34AEUUGKYnLyKvMZNcp1ieXi8g",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Droga Wojewódzka 520, Prabuty"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7669083,
+               "lng" : 19.0881466
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.76825728029149,
+                  "lng" : 19.0894955802915
+               },
+               "southwest" : {
+                  "lat" : 53.76555931970849,
+                  "lng" : 19.0867976197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "bf36b23b94a20dc1a647af3ce84404d0d9d66c62",
+         "name" : "Przy Mostku",
+         "place_id" : "ChIJqQMAn2yyAkcRvvM5xZIz3-Y",
+         "reference" : "CmRSAAAA-RllAR5FOvPtOMNi0u96nHHX0iuRYkipxE9f2VH6CTw09xIG-5YDF_6MbvhhezUyAylyyrZt3M31Op3xEDdTd5rJwJthxjjuQT-z9JbJy7x0KHDAdAYwue2TH6ctu7rREhByexqiGbR9wAHKiurSJ0IfGhTKwS8goBbS7sDND6Eg_619AcCm0Q",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Kwidzyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5688608,
+               "lng" : 19.4792747
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5702097802915,
+                  "lng" : 19.4806236802915
+               },
+               "southwest" : {
+                  "lat" : 53.5675118197085,
+                  "lng" : 19.47792571970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "ef5e8fe9cb47a0a107c54762c8c8fccde5868ec0",
+         "name" : "Rezerwat Przyrody Jezioro Karaś",
+         "place_id" : "ChIJK-jogc5AHUcRPU4r0BgqWJQ",
+         "reference" : "CmRSAAAAqROXrNbgjabg9ZEeOdJ-C02lD_XEyWJpH-pgWftgFhiq6fXN_1X0QprAc1xI5xL0YQpsLwflNlbHl0-jxotP_6oMcC0uixtkaznLaRCVfuSq5cUv7zx5jfggnI_IPL4vEhA7Z698oCgQ4smLWORC5bb2GhQ29olRzzJx2EzWVBL68IjdY0lQyg",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Stradomno - jezioro Karaś"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6192214,
+               "lng" : 19.5295166
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6205703802915,
+                  "lng" : 19.53086558029151
+               },
+               "southwest" : {
+                  "lat" : 53.6178724197085,
+                  "lng" : 19.5281676197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "c9f61b599dbc5b168ef59a852f6f6a5508aa324c",
+         "name" : "Park Krajobrazowy Pojezierza Iławskiego",
+         "place_id" : "ChIJ08UjwgdbHUcRFxD9o4GH-es",
+         "reference" : "CmRSAAAA0KwDfhteVU0UgHZTjPcK5kDmnvztRzfrGFx1y3qH_pdtge7sGAGU30fT9vrIBGf6iJijaT0Iqxjf3xuv5M0SccNTMmJQcB0uT-2TjpHgKBVweku1ERhJKCDDLgb9Yi7gEhBPOUgmmxEiIAA_K2RhPmXRGhRLxJ_r_3IT6ecR4xKpdWpt1I4lRQ",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : ""
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.64656489999999,
+               "lng" : 18.9604579
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6479138802915,
+                  "lng" : 18.9618068802915
+               },
+               "southwest" : {
+                  "lat" : 53.6452159197085,
+                  "lng" : 18.95910891970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "e23e770c8dbcbb8353cad48e0bbbf3206f52ca76",
+         "name" : "Park",
+         "place_id" : "ChIJWRTxzwq2AkcRlH7JzlyBIoU",
+         "reference" : "CmRSAAAAKvf1UAylhZWobFOG1YyXEsyxz-JQVlf1e2o7i185PGQEK9ONW9-L8yVbrn8HXygrP91sy79j3YIwZUyVij-RGt39fVu-4ENPax7svdb0j_IrSxQtyy_sBicpdRnXh_RdEhBemH6Dt17zhvW-A-0r1_kHGhQzKwQkn0RFNNlzTERCx8oh8LlRfg",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : ""
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.67866669999999,
+               "lng" : 19.0888773
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6801695,
+                  "lng" : 19.0910578
+               },
+               "southwest" : {
+                  "lat" : 53.6768961,
+                  "lng" : 19.0832176
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "622e039615deeb742f98a860a350fc00571862df",
+         "name" : "Park",
+         "place_id" : "ChIJzbA3kpa0AkcROV7tXnQmhqc",
+         "reference" : "CmRbAAAAFhT97_BKqfAe3UFg4ldDyvnyL26jfQXL6wN0ZZcKo8lOqGOYKb5MbY-0uKLZM19ZWS1VCfDM4bbJG5nsobNiamkdSTYt1FXYZDKkBI3rc9cZa1dlZ3NFlt_x4ytYy8jDEhAhP5oDRwqu6JKkBx1EmYd7GhQmDGY_wptrWXNicYs0IH6tzArk4w",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "premise", "point_of_interest", "establishment" ],
+         "vicinity" : "Nowa Wioska"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.76187909999999,
+               "lng" : 19.4050175
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.77255839999999,
+                  "lng" : 19.4372216
+               },
+               "southwest" : {
+                  "lat" : 53.7556235,
+                  "lng" : 19.3769165
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "4aba8ef2ca672e925b6ceb7b1a3b6a7eedb91ecc",
+         "name" : "Rezerwat Przyrody Gaudy",
+         "place_id" : "ChIJHWoQB05QHUcR-SEcCQV9xTM",
+         "reference" : "CmRbAAAAVmLLERnpiO22cGz0vmbKiJPSbhzQNJCIehtsPkOzfCERiDDlPdeOHEnY8FXwwph21Tx7h_Q-QOmmu8nyc-zgQSOzTQN_hniVc3bHB5qs6Avt-HWXtzhAbq_2TNFzoqvHEhAmpiupNlNdDCocFB3bvFNqGhRYIrCewhnufow3LoupARwn3Wb4NA",
+         "scope" : "GOOGLE",
+         "types" : [ "premise", "park", "point_of_interest", "establishment" ]
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5065344,
+               "lng" : 19.307411
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5077215,
+                  "lng" : 19.3087879302915
+               },
+               "southwest" : {
+                  "lat" : 53.504898,
+                  "lng" : 19.3060899697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "aab18b0d9a75a2d6c2fd51ef885139495bdd3b0b",
+         "name" : "Las Słupnicki",
+         "place_id" : "ChIJEdqrbMQ5HUcR7xdQAhj_sE0",
+         "reference" : "CmRbAAAA7rp7L4y1HZNzzSKA7oOO_JQqCrYuD7bPz-yCyEEfMxKy3vHWzuT2SsGUSbcUTfv_DzghmpqAgjScGCQyVBw7gGNFeK0PbIrUtj_cQrWdVbmGeh8IKA8mvZaoKT3p3UefEhD6p42tW5Gz-ghCZa2TmzOXGhSbtMcwWanW4P41WTktR7FmfuUT-g",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "premise", "point_of_interest", "establishment" ]
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8384677,
+               "lng" : 19.2980993
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.83967028029149,
+                  "lng" : 19.2994780802915
+               },
+               "southwest" : {
+                  "lat" : 53.83697231970849,
+                  "lng" : 19.2967801197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "d52966ea2acb0cc6153d79d6d9ed52d74c6f9f76",
+         "name" : "Park Cieszymowo Górne",
+         "place_id" : "ChIJ7Q8rUH1THUcRl-y7nhzZ71g",
+         "reference" : "CmRbAAAALv6FEMmIIkhz99eihiBtwPWaAHll9tAkwxwsTeOgmOmTLg_qLswBE9yfzitIOLVz3eVAmSk_0wJxFEgao-iXTICbxN7SlBoqqcx2xIyZNWHZUPfP8312h8BfKFSDevOzEhBDVMio0fxS4NSmyCga2wpwGhQ7cxYxkptJ8Q6FIGFu8thT1AMxEw",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "premise", "point_of_interest", "establishment" ]
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8407133,
+               "lng" : 19.2930919
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8419302302915,
+                  "lng" : 19.2945885
+               },
+               "southwest" : {
+                  "lat" : 53.8392322697085,
+                  "lng" : 19.2913647
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "d1ce843ad3a9ec44c1b5116565303ea6db381128",
+         "name" : "Park Cieszymowo Dolne",
+         "place_id" : "ChIJx5pCjJ1UHUcRrmzb4zkibk8",
+         "reference" : "CmRbAAAAKk9CcPGERSgVEoUw5ljZyU2kyok5b0xLP56LCrnMB8eiOYVyt53uXg2vhCFb0xClGKqkB30X0wfWaDl-rmN6m9bqj0R_w8mducc0IpAlekj6sBuD0zEMhqaFkcbkHlNeEhBQquvEw8qUVIFalW-9qKNmGhS_VG7T600qeI0Exd89JUmnY1PuSA",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "premise", "point_of_interest", "establishment" ],
+         "vicinity" : "Cieszymowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7057259,
+               "lng" : 18.9596645
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7071919802915,
+                  "lng" : 18.9613239
+               },
+               "southwest" : {
+                  "lat" : 53.7044940197085,
+                  "lng" : 18.9581698
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "f762664510fc15cef1e9675f15e73f544b65c907",
+         "name" : "Arboretum Miłosna",
+         "place_id" : "ChIJnZHkGM-2AkcRT8TUYj-k4s4",
+         "reference" : "CmRbAAAAhBmCVDdEqtEFnzN8kbQFsDqJ6uQibZA47fjeB7mppjYkjFZaAR9OjRxrnF7yiQX_TsRHBL4VRJYQuNeUlwb-8ZIVHjtz7pMMl0rGMlnFo10GBZeB08cf2NHApbhZelwaEhByf4H1pbS58iKLraAmRKNvGhSzCtkqczPjCeYXB9BGIhRio7gmig",
+         "scope" : "GOOGLE",
+         "types" : [ "premise", "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Kwidzyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.71317870000001,
+               "lng" : 18.9581605
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7141327302915,
+                  "lng" : 18.9619678
+               },
+               "southwest" : {
+                  "lat" : 53.7114347697085,
+                  "lng" : 18.9511423
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "1083cb110e0ad4e0520751a4ea456f75d3b71e2a",
+         "name" : "ROD Leśna Dolina",
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114466017394921345968/photos\"\u003eMarek Mejer\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMlpdYCko8gYSr1KP1bPJnl68paEP-6fKrTS6eamV9quwIkNwgPewYmXEXHS5ry3eW0-gY1qcX9QgWROwb7Dcmt_4g5IFZlJ-00DUe4scATDO9zFFs9E9unnL9pzLAEBM4f6GkCm4Ft4GoBxtIKNz7_AZgZJDNkbEV8XyqNpyp_fEhAnInD6SrahUwInyUDqCbP4GhTGSz326Lqzc4fzPMVQA-PoAd8xcw",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJYxlF-9K2AkcRav4bjOxwLEs",
+         "reference" : "CmRbAAAAFaHLzt4-vKpxfkCtRaaZ0EAXfTJdPK-gXhqQMWCr7PS8CMbwt1np8x499vbKhNyrAWnrvF44p6qE1lxmHfMAT6zuPRK18jgfyWZX5A44Ss-AgU6gc5kBs0sYmRRmKL-TEhA0k-D5neEX-S_LCb71VvY3GhRUl7Bo0QLftX61uUp58b9zukEjkg",
+         "scope" : "GOOGLE",
+         "types" : [ "premise", "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Kwidzyn"
+      }
+   ],
+   "status" : "OK"
+}

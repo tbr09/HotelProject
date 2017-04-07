@@ -1,0 +1,588 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCBAEAANmXF0vace5RvQSmtbH0d43_CX1Bwxnlo1kdxuqs6cwc-oM27VoXnC5Rn9pR2_BAHFJIBfTVly1P5BlHMbkL-nX4f0RyL6pkAfPt0pI7IW6W7feWDSansM1JfRhVQK5bE5uGkYpWO4wn_2gj_O1TM-AeSTTZa-HULzt5WBexHVm2XF1BnpMqi3S2dpkSum9jc-OVXrZYNVDHSWAHqiGtfTmpGyHHJIz4sEItQnmexGB0MzGgYUh8ON_sfjWr_puWaRCngIOJ4G4AqEQCpqeQ3bUp4UVnmCXsjnBDjKHNyTz_pykenWNn6_QwizbhutwWzZYUZUi4nkWasLA1ZwfQsO_v6yZH7WkqWlbugNHO0hn9EhBwXXAD5sHDAaIOioK6oT-4GhQ33PEiX_B7SKqbgI3HUTuZhKlIiQ",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1794354,
+               "lng" : 22.0794183
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.18074083029151,
+                  "lng" : 22.0807271802915
+               },
+               "southwest" : {
+                  "lat" : 53.17804286970851,
+                  "lng" : 22.0780292197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "e72685213aa43f513cf5e6e58ab86b56ab422f9b",
+         "name" : "Biblioteka Publiczna Miejska",
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112364523034357207897/photos\"\u003eKrzysztof Cieśliński\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKXq9UXWfLBFB0u_eFPtTmBW4LIdVD5ydmWSdcUvJ_IWjVgVJbFzC-kWoWUlaPYfiT1baNAFH_dYqXi3IqV7watYnlDwDIo6FdVCO3k3T6w5FmXVFyuFM8hM5CL8VsAhiiawFD4iLxywcZwhoB1srAwAogVv7BXki7OpthJbZ05hEhAXfQl_WKGR2vh1Pe4loTB6GhS7-wSQjjX3jxjKjEZUxJgOCzjvgw",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJu1v8CL4zHkcR-QN3B9A3lVg",
+         "rating" : 5,
+         "reference" : "CmRRAAAAh1O4Qu8xBv0ZCQeZkXilu71YXPSU89-dBH3fM9Zsiafq91TqGyEFyzCTMhNDTLO6_iAzb_u40B7kdZz5cFr7OzESNkkV0flixDC6jAOSIgqIfKA_ESVTwgY8-RInpz7cEhCeRowYoFACjX1sP-ophfdoGhQSR8_-07J65IW9bdsRzlVqJ5JlsQ",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Długa 13, Łomża"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0849456,
+               "lng" : 21.5810955
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0863745802915,
+                  "lng" : 21.58243948029151
+               },
+               "southwest" : {
+                  "lat" : 53.0836766197085,
+                  "lng" : 21.5797415197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "9ee4f1e05131bc9384adc7e3234a9ed5b40e2ac9",
+         "name" : "Biblioteka Pedagogiczna",
+         "place_id" : "ChIJb_OJQI5BHkcRugha2xYjmuc",
+         "reference" : "CmRSAAAAqh_LgcHFb-C0p7JYgiPve15zZlPgx1u0dlcB0jgi3pGvz-jQ9E2bd3RkPTRqu2Nbeb2eSbCEB9xOj4_vED4VrZbUWq55SVmLIuT858sz7aB4KemTbQp4fyw37uzjbYMjEhDgaqCBbx0mFOTyAgkzHGPlGhScPE931t2FC0crwM49LV1PH5qVLQ",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Marszałka Józefa Piłsudskiego 38, Ostrołęka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0830206,
+               "lng" : 21.5716794
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0844313302915,
+                  "lng" : 21.57304028029151
+               },
+               "southwest" : {
+                  "lat" : 53.0817333697085,
+                  "lng" : 21.5703423197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "c025534cff1bff53aeb928056b5958b8c5ed5ad8",
+         "name" : "Biblioteka Publiczna Miejska",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJn4ro8Y9BHkcR0YC-35TJdb0",
+         "rating" : 2.5,
+         "reference" : "CmRSAAAAMxLaTb48kJXYF7BlcT9jv8wTSPwIHTL6SixjVfgUr-K5s10QASO4UF2jk06nu0TzxCG_mCEnRtkfyUHDXX7FBFA-awNBXp5Jjoq9HnoeAkK_DAuQWh9W146A9m-cQPIcEhDbjP-Whxon9BHiaCu1X154GhRmnJXkRTeHgspdZ4CmpEJ_4wx_cw",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Bartosza Głowackiego 42, Ostrołęka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0744397,
+               "lng" : 21.5659855
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0757620802915,
+                  "lng" : 21.5674705302915
+               },
+               "southwest" : {
+                  "lat" : 53.0730641197085,
+                  "lng" : 21.5647725697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "793644a3ebbec880b1e97ce3ad656cb4d5b443e4",
+         "name" : "Biblioteka Publiczna Miejska im. W. Gomulickiego. Filia nr 3",
+         "place_id" : "ChIJzbWO84hBHkcRqpcFC4NdJZM",
+         "reference" : "CmRSAAAANYMzfN4WSTYZM-wyw0Dzn0SVLM6jZbQ5evOBynN5HdDISZXMso2z0VsLM6l5TtlboKMqIar1sUM5PupvEH37n2F8ZeRydPklr-Pn4Iq_xeAHHguQ38Tnfj2lO-UO9zQ-EhAWNzxxBbS6CfJb1ru3NOJWGhRIXXb6NjKadj8mb4-pHomY4y5TaQ",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "6 Września 34, Ostrołęka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.17668260000001,
+               "lng" : 22.0693646
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1783981802915,
+                  "lng" : 22.0709346802915
+               },
+               "southwest" : {
+                  "lat" : 53.1757002197085,
+                  "lng" : 22.0682367197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "e98b469b63f5134edaf610445332450f7ec1aa4d",
+         "name" : "Biblioteka Pedagogiczna",
+         "place_id" : "ChIJDXtdz5QzHkcR_Cy0Ixk4zis",
+         "rating" : 5,
+         "reference" : "CmRRAAAAfzURkth3zRZdfTEPvSTbEx1NZHDRLPyBsAxbaR1hb4qUUscRO6xTwvKLMdqcx7eQVquG661LW0WJaiObUvHPvm7xrnrjpJ0nmXaUGS_yKeUOvcwdN0zeLH2km7DseEUhEhCaGmmF59nc8TkqHRVxaX4PGhQzICchdNvmUtyX6cwIwyqhD66JmQ",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Marii Skłodowskiej-Curie 1, Łomża"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0754949,
+               "lng" : 21.5855569
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0769464302915,
+                  "lng" : 21.5869326802915
+               },
+               "southwest" : {
+                  "lat" : 53.0742484697085,
+                  "lng" : 21.5842347197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "131d151de4afc221c66e5d6b96b12a61872e2c54",
+         "name" : "Biblioteka Publiczna Osiedlowa",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJAZDXUn9BHkcRykKzYmIUwkY",
+         "reference" : "CmRRAAAAAH861uSYuewEM05DOsCWsYlWw8RW2rbFI27iD42EBFYEYCvoQkgYccsSM6JsOk5qqZQxDpvaalz67yECPb3PYp7df1qJBMK6Utib_y3rM5Xd9Nkiwagw4MqlXLnMi9RBEhD5PvDCfLCQf971rALUIqhiGhRhfHr8l2U7VQUfGv-ri7H8qhveZg",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Generała Władysława Sikorskiego 4, Ostrołęka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1792716,
+               "lng" : 22.0725316
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1805217802915,
+                  "lng" : 22.07422728029151
+               },
+               "southwest" : {
+                  "lat" : 53.17782381970851,
+                  "lng" : 22.0715293197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "c4046f7aa75076024a2115a0cdcc0d40666a07b1",
+         "name" : "Biblioteka Publiczna Miejska. Oddział dla Dzieci. Oddział Zbiorów Specjalnych",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJUyoEXZUzHkcRHWVmPB4p8k0",
+         "reference" : "CmRRAAAAzrLoBgVliIbHXUV978nu2Mw5PgllXsHfW4-sscZLVY8C0bEaI70UMSGpVLSrQHXnL6lMSaYBcqtHOdmlhWZdtDJUapdD6hdc0hsTFVbFjjtugbKUSvGiVbr-eborWc0uEhCCxO5dZmXjEk8Rxm5N35_PGhR3m0BTqC8qrvcJx6IdxANX7FNirw",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "3 Maja 6, Łomża"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.08404710000001,
+               "lng" : 21.5698341
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0853954802915,
+                  "lng" : 21.5711861302915
+               },
+               "southwest" : {
+                  "lat" : 53.0826975197085,
+                  "lng" : 21.56848816970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "fe9ec95cbe9b61b7dbdd48247abf6137e1d5ed41",
+         "name" : "Biblioteka Publiczna. Filia",
+         "place_id" : "ChIJy0jF1o9BHkcR4koFM8aOWOo",
+         "reference" : "CmRSAAAADZOLfyU3b-nSg52OPGVCTWiWorUnqMlax6Lgeyv4Zwwk-UNThtPy3kuTKXdFezV7GUqYxvtqA74AQRezDeQxUnlfmnozcH5KGSim8-nJwj1lIneYakGPOvo1pfn_MdwvEhAopOVjiKSCzF6bdI-i1uYMGhSyEsx0i8ssa100XHZi65NuuvuuMg",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Wiktora Gomulickiego 13, Ostrołęka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0320893,
+               "lng" : 21.7297334
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0334059802915,
+                  "lng" : 21.7310303302915
+               },
+               "southwest" : {
+                  "lat" : 53.0307080197085,
+                  "lng" : 21.7283323697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "afa56dbbed169075bfaadd70ad3fa4c12a1cc74f",
+         "name" : "Biblioteka Publiczna",
+         "place_id" : "ChIJrbeKwuZFHkcRq2fSZx_6Dng",
+         "reference" : "CmRRAAAAP0XGTTUK5Eyd3TwO2icm6twWbrP1HKN-n_w2sXh6rS9Js1gjrQrR3CgC3KIPg6_HBmA01GY8fOmLZ8oHz0rE_yMI24i53_HkBVCm0Boxm1bdsy3xTOSx_CRmVto1j-SNEhD-76hafW5sx8OlWkSKA79_GhSBvWsEF8tEi7ln1Z5KQRFtV16dag",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Szkolna 6, Troszyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.165724,
+               "lng" : 22.0777209
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1674927302915,
+                  "lng" : 22.0791683302915
+               },
+               "southwest" : {
+                  "lat" : 53.1647947697085,
+                  "lng" : 22.0764703697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "016b413b055c6d0069e10fdf05d293ef5ebae3e4",
+         "name" : "Miejska Biblioteka Publiczna: Filia",
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114032395713848058319/photos\"\u003eNatalka Szymańska\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANzRC3iZffJGpmu3wMzZCy9I3Txcob8VusHqXXTpqGm1S7DOcHs5i4AgyO5b1bpVSAPO5NfSSDpA8I14FFMt0lNGowxspY3tsTg7ASsWZjdg8YQjcSI87fQhYu_-xD41C_Oyj2KEuqc4tRh_cAXxIIzuZ-PIMXlnlzJ73M7V-oamEhDsR5yzhKCXPRQ0kFUQv-wrGhQ9sUFGS4d9ivWWQZk1C7tKaUruNQ",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJObogX4UzHkcR4bGtJd62O0M",
+         "rating" : 4,
+         "reference" : "CmRRAAAAX5zxvQv8ZoX1Okq5HX4Y1-zTQ2ngcvNh1sTLVfY0ADhWvZ1vmP2FLC2VcCzHhlUVG4EfbQkEq2Xaz-uPJUQmzral9RtbM2zr4BFajKwBoGWrP81NjxXY0IdKRzinRM24EhD7-hwzl_kVrrqVMv9nfROZGhSpLrqccsYjnltavoTd9FY2wsZtuQ",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Księżnej Anny 2, Łomża"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0474706,
+               "lng" : 21.6211122
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.04881958029149,
+                  "lng" : 21.6224611802915
+               },
+               "southwest" : {
+                  "lat" : 53.0461216197085,
+                  "lng" : 21.6197632197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "96475e2f28764c50c49c66737c3c4293c6f62dd8",
+         "name" : "Biblioteka Publiczna Gminna",
+         "place_id" : "ChIJPUjVrJFBHkcRLLNkEkg-p-U",
+         "reference" : "CmRSAAAAjl9p5x4tKG9EFh6raldwLOGs8xYzWOrvYV1MtDkspXGpXoGkgvCyC3YOvX28IfJIImloaoProO0SQCqPMJT3OEp1Xtf6CHmFMXTr_-8XAfkuGC0ZUYEjj1_qyfUQFV9jEhAn3g3C5A9lo6tYHMIRIkU_GhSExc1Vfov6W9zeEyCIoLToAH31Mw",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Kościuszki 33, Rzekuń"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.16819229999999,
+               "lng" : 22.0685804
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.16985243029149,
+                  "lng" : 22.06935998029151
+               },
+               "southwest" : {
+                  "lat" : 53.16715446970849,
+                  "lng" : 22.0666620197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "054514919fd210f9c0d4f4c986a90ce9722386b5",
+         "name" : "Biblioteka Publiczna Miejska. Filia",
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112364523034357207897/photos\"\u003eKrzysztof Cieśliński\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAA5_P68FNJafn6HDC8iRys02THQ4sjH2tC8xhhQZe_7HlyIQhC6Q8lDZXxdej4SsGxvQql1LCkhVAdLahYm6DsOOm8D5IRz9ns2XJDDB_gpRRVrTOUVZp_LdD5fu-oSq_aZPWgqqOoB-3oaLwfETGcVJUOyGM49WB3mzix8L_WW9EhAbID7alX8ROq1sKigG9KZKGhSZctm844PO5tG8n2rbOvyr808kFQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJnXFye40zHkcRld79uWj9mUA",
+         "reference" : "CmRRAAAA-FdkLRWmQFVx2koEARHGL7co6okGmyLjDiriSxnZbJpDG84B4Y8R746YnX9wZSHJ3QiduGPUHtZVcNP_7Fln_lucnqfL4yNwfyNgteMcNKaNi8qa03CLxROnV5H4U8nYEhDmWM6WbXMGon568AC2tSS1GhS58pFkysjCY152DZ-5_XCmMlDp7A",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Spółdzielcza 31, Łomża"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.2253877,
+               "lng" : 21.8856522
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2266928302915,
+                  "lng" : 21.8869665802915
+               },
+               "southwest" : {
+                  "lat" : 53.2239948697085,
+                  "lng" : 21.88426861970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "2cb3dc83820324cc8125a56a4a4a49bdcbc4cada",
+         "name" : "Biblioteka Publiczna",
+         "place_id" : "ChIJNzMfHUM6HkcR3RmPQtzcSjk",
+         "reference" : "CmRRAAAA7oKcIMb9vZrpmZANb7uzxPJkFR80nfYv6m4pcY7xhnpa-g14--yn1uonimdisDiE9Qdjerw9EPizaGwOcp8uFeyv76DBWZpmsPq2zvZTRaT4lF9Gu-YG7qN2pUq_zXyxEhDq7JXVTgq-1Bfy6xYkjycNGhQZyBH9EEf7FbGTal20zTN0uXb2Eg",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Łomżyńska, Nowogród"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.2060165,
+               "lng" : 21.9828623
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.20736548029149,
+                  "lng" : 21.9842112802915
+               },
+               "southwest" : {
+                  "lat" : 53.2046675197085,
+                  "lng" : 21.98151331970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "e83163b8711465abcedc97fe685c9bab8b44f65c",
+         "name" : "Biblioteka Publiczna",
+         "place_id" : "ChIJ0XW9huIwHkcRk3a7riKEp2Y",
+         "reference" : "CmRRAAAAJM1jqefzZQJhHCR3l6AgVcEDoELi9sNHob-XrDsjuc9nXbd5t409iZvIT533hIzxY-s-EJZNvvX-8v3ZJFnQP6aJWP9e01TrBepjXrIhyRBtRhhBbvZKwFXBC5jGSm2aEhDfVvDVJX75VvbqjB5ouTEVGhTKGM2nmfNs-7Wi8fq9yfHHCHNdww",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "18-400 Nowe Kupiski; 137"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.16012019999999,
+               "lng" : 22.0700756
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.16141543029149,
+                  "lng" : 22.0716449802915
+               },
+               "southwest" : {
+                  "lat" : 53.15871746970849,
+                  "lng" : 22.0689470197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "fe19867193ce5925a18d24e9264aea7d3e3199af",
+         "name" : "Biblioteka Publiczna Miejska. Filia",
+         "place_id" : "ChIJ7VbXXYgzHkcRVjaS50IPXS8",
+         "reference" : "CmRRAAAAA0aYv0RIcWTXkr6of_2cMBcZWOFHy_XDIEeiF-oL7sZOwlcZZz_UpZUGq8P9JbNWmnn3T52BEp7f5h8VL5FBk0dsG63twQTnivG4o2xxy8b14OUI28u0dHTw2HEVb3vcEhAYa3_LDFBTHtIP6FytYDO4GhQcnhiR2ewakh7WPNaUzbNhkndgrQ",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Stanisława Małachowskiego 4, Łomża"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0399628,
+               "lng" : 21.9933602
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.04131178029151,
+                  "lng" : 21.9947091802915
+               },
+               "southwest" : {
+                  "lat" : 53.03861381970851,
+                  "lng" : 21.9920112197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "3475b48a7116fc41592f75c55752a466062bd6b1",
+         "name" : "Biblioteka Publiczna",
+         "place_id" : "ChIJF9yUFlVKHkcRrFo3yJTCpLk",
+         "reference" : "CmRSAAAAcz0PMMlbG0rXbl5FdLtoWeZkOl0g1SxVq8KCNc6ds_3HLqzOw2DjBkivNzOitMvWPeiF1d9FLnj28LZTFnpomTP8QH1G1eBIuiK5IIx32Zo_uBkOuyOJqIpDG4HvsneXEhAplwZqOrl2bJIdA7-Kx4pNGhSONtvdv1rq9YQ-oFQn9L4sbc2uew",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "18-411 Śniadowo; Ostrołęcka 7"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1939742,
+               "lng" : 22.0971255
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1953680802915,
+                  "lng" : 22.0985576302915
+               },
+               "southwest" : {
+                  "lat" : 53.1926701197085,
+                  "lng" : 22.0958596697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "aa4b63b3f1cc31f83565c3ed9313d3abd0c077f7",
+         "name" : "Biblioteka Publiczna",
+         "place_id" : "ChIJj5NNdbMzHkcRQCGPLuXuJbU",
+         "reference" : "CmRSAAAA2T9TPDknheGAxCyLf3k1jfIi-MWyV6W6MbvmwTJFrXBxpHu0l_a9t35NkibYi5WDLQnEiwu1B8HC6I-n4r0reIfTpgpTcKHUPm5_n7jZwX7e4_7yKT7EB0kYK6RgOoJjEhBr7aEF-tmyAmF5N5oVFl6JGhSk0zBZXnV5__h1hz1PlfbzLNapXQ",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Szkolna 23, Piątnica Poduchowna"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1775153,
+               "lng" : 22.0493586
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1788333802915,
+                  "lng" : 22.0506923802915
+               },
+               "southwest" : {
+                  "lat" : 53.1761354197085,
+                  "lng" : 22.04799441970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "7773610aa8e621edd8686e328201ae9b94bc2264",
+         "name" : "Biblioteka Publiczna Miejska. Filia",
+         "place_id" : "ChIJU8R2ouUzHkcRsKPVTTxVyGE",
+         "reference" : "CmRRAAAAPKk1kOhP2nto5fWD2QOrRCU1qhc1caUBCOVmKqdFIWcOfgG6uOmm6yklCkSg8Ax6DWtXb5SxtFZrbdzdSEGPAta37KF7pBaBA19IGwYTFCi56PEo3c0hIKJyXpPH-NecEhA0p9TT8y45ncVMAqDvi--UGhSoSEaYz5MJg2SIupxt6kLf0lJ34Q",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Polna 16, Gmina Łomża"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.17978900000001,
+               "lng" : 21.556676
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1811157302915,
+                  "lng" : 21.5582399802915
+               },
+               "southwest" : {
+                  "lat" : 53.17841776970851,
+                  "lng" : 21.5555420197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "30a02b58e286f54494ed9c6552a3ffbd58a60db3",
+         "name" : "Centrum Kultury - Biblioteki i Sportu w Lelisie | CK-BiS w Lelisie",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1262,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118320254793741066706/photos\"\u003eCentrum Kultury - Biblioteki i Sportu w Lelisie | CK-BiS w Lelisie\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAH7x-5OfpK1N1hh4EtJNOCVX5Nh0hYlcQNGR6SRfgFateXNoCn_C-F85-3mm5dB4BPtfNzhdLlUinNEVEs46zfv4SbkU7VG1t8WmHFvAbCglf6fdYKImNJbwOs5Fp-ZVuH_6v8J6gGoKL4S4mophlrDnoWd6JmQ-KiHK6yoM-tRBEhAgW7T9Cor0EK3_Hc7Kt0o_GhTDaYiygAmuyXq4J83C6pVqA_C7Jw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJARmluj4VHkcRJNOzFdXbSLg",
+         "rating" : 5,
+         "reference" : "CmRSAAAAC2w8V-kGWJGZnVFTJXA2ZCfr-Mg51WOLFORkBcdyVx-v2KamhyPtFnhvz701WzDMf-EaBYIZgzdYzj3Fi8z_AAFsrpQI091PKBUi9BaMgfVzdn0pS3r2svQTCmFYB5ChEhDvZRY9LY2GtDTeDXuTJoQKGhS_NKPLD_71VwJmZHRC-Hnhh170yw",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Szkolna 48, Lelis"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.9509295,
+               "lng" : 21.7575055
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9522784802915,
+                  "lng" : 21.7588544802915
+               },
+               "southwest" : {
+                  "lat" : 52.9495805197085,
+                  "lng" : 21.7561565197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "aa7e455ae4e590bc7b9ed50ac9670b6be53b4d79",
+         "name" : "Biblioteka Publiczna Gminna",
+         "place_id" : "ChIJ126SiNZPHkcR5Cnn_kQNWgc",
+         "reference" : "CmRRAAAATSf91eUjhI3jeFY1q-ALtC8O_iCmnw99N_z4cT8JwxIDq5XxW2CWNqjA6hVJlLhmAT-Z4v6Akfe8zM1AhbLuz5w9a-sqGnka2L0Wt1HFCZ3jtKV7kPUYr8glGHIMJNqsEhCFNWtvo-5xdwxXVTRj7IaeGhRx1PV723NHnnx88ijxi3EpyVrKSQ",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "pl. 1000-Lecia 1, Czerwin"
+      }
+   ],
+   "status" : "OK"
+}

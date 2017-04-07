@@ -1,0 +1,531 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.160248,
+               "lng" : 19.397067
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1616376302915,
+                  "lng" : 19.39840248029151
+               },
+               "southwest" : {
+                  "lat" : 54.1589396697085,
+                  "lng" : 19.3957045197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "6bf0a512e602951e64052b4ee7bf8694536a7954",
+         "name" : "Marmara Doner Kebab",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 464,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100376606667458250926/photos\"\u003eMarmara Doner Kebab\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMKFT2SBR83bTqyfdNX2hlNWh9FJpSB4BdWWvqhOeM0HYo2D7rnEYezjQF_pKXOVwL9ay3sz-RZtEi-e8cUhXbThsXK-RM-YkWfZj3AxRxYF5sNrbUVCZxGemGXARLVP24SsC_9ANM9UIR8ozrWdmTnMvEC1iMnOvJxQKS6xrisWEhA8V-SzyJ1fmOHepBT_BlcwGhQsgwIP3mgB3WzjXT6KlgA9NC2LkA",
+               "width" : 465
+            }
+         ],
+         "place_id" : "ChIJEVIcCvVM_UYR-YeREwB-eaI",
+         "rating" : 1.9,
+         "reference" : "CmRSAAAA0VpjkgqHLOJWvAiQIQ1Uh5Ecp7_bD6UmbEQLCACJQn4_--_uBv8YZchjolyYZPbKez5xqtxc1TrlHPCYnUAZuE0-Ib74JklQKdgMIyrRmuMR01Fmzayhz5o5CCnOLzKOEhCIQKPnVTzT3nm8BzRxexBZGhTCxVhUiF_vTtu4Ty2AyMSsY11ACA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Garbary 11, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1683794,
+               "lng" : 19.4088956
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1697638302915,
+                  "lng" : 19.4101204302915
+               },
+               "southwest" : {
+                  "lat" : 54.1670658697085,
+                  "lng" : 19.4074224697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d6dfab7f796c8549f1d6fbfe62db9c5a08f714e6",
+         "name" : "U Jędrka. Pierogarnia",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2317,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107907831121947297510/photos\"\u003eZbigniew Cieśla\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPI1yx7X42Ezs6-OJfG8KEUi-jvXNowmOgrLO0nrMTXSox5pz-D2Eevy59AtAT1dE2-YIiH-Dyeq6lNTzXSMI0tKQBZQ2XrVKSOTJzEPhxBaxmU3_gL7uyMkH53JX1K70cy6Z37XSRJF6dvxNCKfuW9GWsJySr3lqGl6hIeLyisUEhDrNRDcyZ3IsCOewI7ifZcDGhTEkCz-BdeirRbqIRGzbjVJinFJ-Q",
+               "width" : 3999
+            }
+         ],
+         "place_id" : "ChIJRbKemmNM_UYRTcaPIVwcyvo",
+         "rating" : 4.6,
+         "reference" : "CmRSAAAA-B7SSperOkhdECzKsMJwcsq_dkxQayA-nXRuROh1e0U6R8iBdKL83Ty6wDqxsL3MxMYOaknLNoPD74EcU0hAL7HbeSMj3jJIwqUY87Gg1_6ApJaSk2SG8BIG7wZHL2DEEhBSCOHbIQpGUOi7WXYsmwdbGhSigpPYUjh6sYReNLdd_bDRuXvJag",
+         "scope" : "GOOGLE",
+         "types" : [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Królewiecka 96, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.16021999999999,
+               "lng" : 19.3968743
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.16161258029149,
+                  "lng" : 19.3982088302915
+               },
+               "southwest" : {
+                  "lat" : 54.15891461970849,
+                  "lng" : 19.3955108697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a4e46be8ac4f95a3e49bba124ec2e2a4da2206a4",
+         "name" : "MIMOZA",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 533,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111080587923985984738/photos\"\u003eMIMOZA\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAE-uHc_U07tP081DbWtEV2TPPD6riKFpjV75wOC36b9W0-XfMdbTGbiH9L0qur-oN3Tk6fNnUioUV_6BIXQrP8_v9Ob5rbRU6SCWixJaJc6oGKDW06GMxkr3KSBpQBxB1KR3LBEnR8wMvbmMj8Gu87RkghNLCvufOVuzo2y6bljgEhBphMA1LJoi3PxyvDUrjCRJGhSqERDGxcs7_GhOIjJmLWxXm5WSvg",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJxQaZoV1M_UYRV5QOvLwsTjw",
+         "rating" : 4.4,
+         "reference" : "CmRRAAAA1uWuHNfbEcSPcpD6k2Ky-__xjNd4Fv4VtV81gLadeBcgyCeVhw9CRKsbx7PU8u_uHsmYYTbFeVZ6bgru4pvQViKDDRHWSohEOsAZsXPy8uNHlM4oCpS02YMKfguiuTZkEhANehqZs2HgOmZyEFG1LMrUGhRuLFCWV1-GMU9Fum88A5kGN2dLjQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Garbary 10, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.16823600000001,
+               "lng" : 19.40823
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.16955718029151,
+                  "lng" : 19.4096729802915
+               },
+               "southwest" : {
+                  "lat" : 54.16685921970851,
+                  "lng" : 19.4069750197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "094071943311f29b32ba472d80070d35ca00a63c",
+         "name" : "Astoria. Dyskoteka",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104817309121461601681/photos\"\u003eMariusz Kołtun\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAACO4eSkQ6AQGMY-FX7KCjg7FIUPj4TGnhDdTux9CAcrT_fRcfQgIbdhzpwUy_6tGb-SvnFeHy952_YfGRZLhjjqUSKnMZ2xn1LUyv9sOVZdyThqMXbEsUNH7a01rcPusNnB3677MzMa61MWQhEPwUIz6t35HcljDcvs_BOLHyn_qEhCDdFyN1chBOSRcjccGkyRJGhTe0fgPvgcGu-cjzGD1yqkh8QtLpQ",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJQ60enWNM_UYROFo-GDVyqjo",
+         "rating" : 3,
+         "reference" : "CmRRAAAAUC6AOnkCaqOhCkM8TbgqNPrGayf7RxpwRXSeTzirGt64cUSSlC5Vq2NSZPL5g4cFJc27CLL-DhEeJT5YQJbOpH9Wb37OHbgiQ4UEQP8ccBtifjgCSdN-nK7wNgmjYJFcEhDHPq20GtRd4awepph7tRA4GhSQYjvj9VpRybORrqexDpyYLzTYmg",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Królewiecka 95A, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1589551,
+               "lng" : 19.4041728
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1603056802915,
+                  "lng" : 19.4056104302915
+               },
+               "southwest" : {
+                  "lat" : 54.1576077197085,
+                  "lng" : 19.4029124697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "4cb3ddc9ae9021d146a7080e8fe3a9401c382c5b",
+         "name" : "U Mamy",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJm_6xS15M_UYRk_EGW3OyAp8",
+         "reference" : "CmRSAAAARBn2gI09z-dg88mXcj-nlRL-wox-wT9tIo0BlNGDAiF4mXWby6uP38TxbvtbYuxLKhXTQfAlAwD13rtet7iqg-FRCag6aQQiMi0rFRrSVMaBmhfXU8V75unnxsDJktuoEhBZYB4v_infYK_OOs-H6uxfGhQU1CbDwECuFwiyHvHLcDYUt7eHNw",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Hetmańska 8, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1645492,
+               "lng" : 19.4005121
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1659319802915,
+                  "lng" : 19.4020271302915
+               },
+               "southwest" : {
+                  "lat" : 54.1632340197085,
+                  "lng" : 19.3993291697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "ec78a36f495dbdcf7c585df0d6e7d38192b5b86f",
+         "name" : "YOLO CLUB - You Only Live Once",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103129188292480068043/photos\"\u003eMarcin Kopczynski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAB1EoCHyuI6Wx0Mc-x5JpcSRy3DhTNjdAMM6oJqUyT8zuGSMCMq8bAJl9rH2CG9JeQmJq59B09EtBfGWrdEcZkCJ_ztrOr5LMS5Zwq3Kg4pgAv7W1sxYRZRLKvs2QmWmSxnuc0rcG3kDDvhSc4RZr5cDPImKYh2RHt5A5bBx-qeEEhD4TBj6dOGyVAwl_KlKxmKcGhQv8E_G1ExQOcV3UgYvUt1VKp1xoA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ9Uyr-2ZM_UYRG7ZVhzUjd2o",
+         "rating" : 4,
+         "reference" : "CmRRAAAAdsyd_9557aJMe3aOIrYysKzOc1MKiqmtcD1EDLefwBSfAF6lgD0Z2PX63IlKYMZ7yWWANnIuGre-3-MQXVWOFr8SXYuD1U9slilLCYmLwmcBQeHLYY7Y3feG3l7FIojtEhCbLPS6lOtW8bSYPifpVA6sGhTfV8MsDdWjHZx6ac2vCMJEv2TYYA",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Odzieżowa 12, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.006905,
+               "lng" : 19.4923318
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0082539802915,
+                  "lng" : 19.4936807802915
+               },
+               "southwest" : {
+                  "lat" : 54.0055560197085,
+                  "lng" : 19.4909828197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "21af50ded91e1d813454a1e99bb51df735a35720",
+         "name" : "Arena",
+         "photos" : [
+            {
+               "height" : 2204,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106113565257328772079/photos\"\u003eDominik Peter\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJcqvFkf4b2UeySKqt9iDqoeTuadG8zcEMWozDlrL6Kb-_p9gsdzIf2W6uCzi9XwfSJZChw2KenectlpZ5ANR4RaAid7U0u7_ePi8dxZPuZBKtgh93mNRy_BwHZNZt-TybIRGcI26dNe8NmbOrchkm0eHTltMcv95p_Vfenqc1wtEhB9gorLFSvyfOb50Oy1Jt7YGhRjbBKbxbNCwZLissKyg-Fa48WoSw",
+               "width" : 3920
+            }
+         ],
+         "place_id" : "ChIJx2rKDBes4kYRq4RHkiENBeI",
+         "rating" : 4.7,
+         "reference" : "CmRSAAAA5aR875DfbbKgAYh57EXpxU-ftbXhQBT8mGXhB52CkDVcnLwVmOlq8WJUulPUgOGkAtL-9mFCCUcH3kcKS1mwvYhANpn58zXZspQxI6I4Iadjx198woI8mUcqsJFv9CGwEhDjVDJlV5ZNN38d-dyztbm4GhScXOG1YdYg-dIjdNP1yr5VNnpZMw",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Wysoka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.985825,
+               "lng" : 19.151238
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9871739802915,
+                  "lng" : 19.1525869802915
+               },
+               "southwest" : {
+                  "lat" : 53.9844760197085,
+                  "lng" : 19.1498890197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "ebb58115bea885bcac93556c89fdd02e7cea9711",
+         "name" : "PlaY PuB",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJKSXZ05dc_UYRwFmpgw0dHA4",
+         "rating" : 5,
+         "reference" : "CmRRAAAA8Uf45HBA89vI3_Co67rJsbUHL3inpBZWCVD8ngJ64C7ikV4OYzVsAASYU2bYitBqnCVALrYgmFFJA_CySeFhrEzRTK8Q1UMf5y5ubl08M3Z4FD8qixskC4TQO9ROCBe6EhDOp_pjdrmITzjh-PWEseXgGhQrojMdlLIkx2OvOgJfTmZnUYE3Tg",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Szropy 9C"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0401968,
+               "lng" : 19.0466865
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0415420802915,
+                  "lng" : 19.0480654802915
+               },
+               "southwest" : {
+                  "lat" : 54.0388441197085,
+                  "lng" : 19.0453675197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "d9e2dbc644039c61dfd4e2335129c374354749b4",
+         "name" : "the's vampirose",
+         "place_id" : "ChIJaR_rwJhZ_UYR-gOcHo_Z8rc",
+         "reference" : "CmRSAAAA2IVsD9yH963PtIPO5bpZ0TkpAhJWBUY3O8stN5T_KkXJmrgUp0qYTGSiTHnl9DCtEcHP_Jj_FFMwoB9jS0x-O6zFteboRcgrcvvol7BgtdwReSjrPwqgILLFvwkQBySlEhDjm9YNOnkdQvB-W3f7Hq64GhSK-mcsd6v9FfOmsDv8WhOhcGblWA",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Fryderyka Chopina 30, Malbork"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1576564,
+               "lng" : 19.4069725
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.15902003029149,
+                  "lng" : 19.4081918302915
+               },
+               "southwest" : {
+                  "lat" : 54.1563220697085,
+                  "lng" : 19.4054938697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "31b559e8cc85dbbcfe58272f98ee25175b7b8159",
+         "name" : "Broń & Sex. Dulian-Święconek M.",
+         "place_id" : "ChIJiwdcm19M_UYRTlRHypTbc4Y",
+         "reference" : "CmRSAAAAXnPQUpa2MQQWpM184KaQql84s-fWqLjNFtu4aJXFk-pTY-OOG2_JCOUTKZ5JshXocJFk-kZVay-FyyI7ZDEC4pK-6EG78HiUPIreD5ZD1dX_832HE3jYjtcIKTnl4p8TEhDcvc7u5wSqMvihstGXaq42GhQb04v6Tn8aQBV8disAx3Nysb316A",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "3 Maja 7, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1634117,
+               "lng" : 19.4113029
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1649350302915,
+                  "lng" : 19.4125923302915
+               },
+               "southwest" : {
+                  "lat" : 54.1622370697085,
+                  "lng" : 19.4098943697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "571a228ee7dd2b7fa3881572105fd00ddf4a263f",
+         "name" : "Elblag",
+         "place_id" : "ChIJ7Vbb3GFM_UYRKELVpme-OV4",
+         "reference" : "CmRRAAAAT5aOP54iPiaplqtK9M7qYubLSZ8FGbydXHA_2H-_beVjeNnCfVkT0jwpH51VgyB-dAZeZj-R0MEuSZs_IdE-42cMkTMfU61IWLDaOGhrMZFUeH2XqEsPaqkvre_SYWn6EhDpX4_SxXeOuh9Ozj6ocfOGGhRY5RUJ4XLvNzx6ysUxHQmqsApnNQ",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Słoneczna 22, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1702592,
+               "lng" : 19.40392079999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1716377802915,
+                  "lng" : 19.4052882302915
+               },
+               "southwest" : {
+                  "lat" : 54.1689398197085,
+                  "lng" : 19.40259026970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "03f280963c824efad3a060f70fdc5f1625f15a6a",
+         "name" : "La Epoca",
+         "place_id" : "ChIJF6kfHmVM_UYRaaDW4nx1OTw",
+         "reference" : "CmRRAAAAMi9D57FCS8eFeLKazGtflUdkRQ8rVtPtpjXZvsQdoIR6uW8hHje54qhd6gzdu3oMR1w_jXh77S9Nc2g85ocIy-Kao9TcruAP5OMqqOqbZiFFhnkony_MBnmz-yQpl1GHEhBM3OMAA1nHfkswZMteXkMYGhTdzNA2tM-zUPwKVpu7FTbHFmf-hQ",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Brzozowa 10, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.2364335,
+               "lng" : 19.190769
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.2377575802915,
+                  "lng" : 19.19206103029151
+               },
+               "southwest" : {
+                  "lat" : 54.2350596197085,
+                  "lng" : 19.1893630697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "112d46310d748015989bd6d7ea8066c07aadf168",
+         "name" : "Plyty",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJBTJnl2ZG_UYRw9gOvPsxZP0",
+         "reference" : "CmRSAAAAF6K_atRBF0hdmTy9bZ5bKXpWMrqzQauBj1VB_FNhLneQIsMON5Q8aFx9B67HVAXdG6ac3p2DlKm41wGwbOJb-ypxUyVXJ7GJcZGxE9XzvRbICUzto1gdkjGfeqwTiME6EhD7EWiCQU_K9H6rQwcGCbp2GhTW8LTaCvXXhSIbycQaArIt8bwOpg",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Gozdawa 13C, Gozdawa"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0364574,
+               "lng" : 19.034222
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0379247302915,
+                  "lng" : 19.0356360802915
+               },
+               "southwest" : {
+                  "lat" : 54.0352267697085,
+                  "lng" : 19.0329381197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "b488daf3b9c565498932c5cf43fc49d67dfa28a0",
+         "name" : "City Club & Bowling",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104941751969201350319/photos\"\u003eKamil Lemke\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPAisK4KKf94KeFCy2T6wmbvXOpKrpCCfTZ3T6wc8L84JJ2XYzl5Tygd0AwOjEesl_pwwN0NtEYO8BH-M70qlpNZ4xpJ1U5vdrg-gnAzjHmBpVYBlXJyGdW3WFcKadwzXYOA9jiMs9hfSx5ORuWJdN0SObEhQuW--kzDW6qtjMT1EhA7ug4i0c23EklFoucdRQQMGhQOKIf4MlBxGcJ_l4gvqR0jDmil3Q",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJhxOYoqBZ_UYRzTcF5mtQPSM",
+         "rating" : 5,
+         "reference" : "CmRRAAAAkAiPP3n0cz5_B-rCsqVDQ1eX9B1tb6GZj67H86Bof2ZpeJv14rNFiKt6hBQs2F3xo_hfMRPz-dBxDiD-aA6qQiCGohenrDjscX7cDqRxAQCuOhRiUJSlDLQd2q46YPcQEhD9pxmzCkORoLnEMf4dPwIGGhQgz7aoy1GB9YirKGgtQ76_WM2HPw",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "200, Tadeusza Kościuszki 14, Malbork"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.304638,
+               "lng" : 19.2077177
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.3062403802915,
+                  "lng" : 19.2088763302915
+               },
+               "southwest" : {
+                  "lat" : 54.3035424197085,
+                  "lng" : 19.2061783697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "d593ee9325f1b4f3cc7dff3a87c3715644714f49",
+         "name" : "ŻurawLandia",
+         "place_id" : "ChIJYRxQ8GJH_UYRaBR_qTDG60g",
+         "reference" : "CmRRAAAAVgUfbrFNgEEnPbpfK-7BxQJZb1LOkJJjAnMaTRkIMLCIrTPVwe4qSNWuHOh2AsnPy1SKB3CD5ye49aPvq6wGGscgVOg3PXKh0W2nUNfLEVtGarhNg9EtINC1UR5gBRqbEhBtC2WTztz0mQDTkFaij9KGGhSOoW6ItILNvbIrybvqzswabENfJA",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "1, Grochowo Trzecie"
+      }
+   ],
+   "status" : "OK"
+}

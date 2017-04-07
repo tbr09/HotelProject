@@ -1,0 +1,121 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.889407,
+               "lng" : 21.985979
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.89075598029149,
+                  "lng" : 21.9873279802915
+               },
+               "southwest" : {
+                  "lat" : 53.8880580197085,
+                  "lng" : 21.9846300197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "450b01a46bfb411daa097808d3e51e5d4b9625c5",
+         "name" : "Ośrodek Mazurski Pensjonat Sielanka Narty Safari",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1031,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103283048894260145872/photos\"\u003eOśrodek Mazurski Pensjonat Sielanka Narty Safari\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAIFSc1QHnSGoP1gEyIBskK9YIaOxPz1-RBk9AaSe4Bnyn8crCEY2YH8niERZLbSpVX-fuigHZCDLxNpvxatKqCccKEA3D7hkhlQXFDIEhq1vC55gDb6RV4Eff58-gXcAYKcWyp-K8E2A4iXWtPjvJgx-VTYVQFYVCYs73uGYelS1EhDHle_-JgIaK_LALjg1J1PgGhT_X8bWvFDqbSf0RW9rUbalximf3A",
+               "width" : 1030
+            }
+         ],
+         "place_id" : "ChIJJ1QyMHiQ4UYRLxRumaTKTPU",
+         "rating" : 4.3,
+         "reference" : "CmRSAAAA3FtBw0UXyx5smcdS8uNAG9w1pxv1MdPSnLU0OFOz8Jtzo_xPQM0J47Rx30LrJ9MQcV5g5rxglnAHp9cQ3eufDj8d6E8qLNE4tvZdqr-VEJ35Cq-w4EwQjInNssb6GkPaEhB9cweTu6lNLto_KDABUvgiGhRNxzdoFvFLoJPjRxDw3uQdJvt1Ug",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "zoo", "point_of_interest", "establishment" ],
+         "vicinity" : "Okrągłe 10"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7516865,
+               "lng" : 21.6268088
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.75303548029149,
+                  "lng" : 21.6281577802915
+               },
+               "southwest" : {
+                  "lat" : 53.7503375197085,
+                  "lng" : 21.6254598197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2c777518add534ef4fb53bcfb68d87c4e5a79f48",
+         "name" : "Stacja badawcza hodowli zwierząt PAN",
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100135791278926914106/photos\"\u003eSebastian Jędrychowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAkwfXddR6XIBAWKKICCn2vjmCYTOrMurpAlktN1yv9HNAaPiiFBEQBN4tyHT36ItFbU5ydl_of_64kvTpNkcvL-U5pMzgEhGimOorgtNzTJ0pGrNPmqZ21DGtzVJuAUFssKeCZ8B38Q4p3uI_d11CW91-te8bTBE_tfex3MThzcEhBLsNFsGJ_cGx1Pj56StbyBGhREOSXthpVEqTnMhLpnOqienWONFg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ-RCzONL24UYRn9TJJPyI2HI",
+         "rating" : 4.5,
+         "reference" : "CmRRAAAAuziPN8iZrtLxn894OQ6DZ01J3ufY1zWN67EId2HUasc_Ht8pohVFBExbgTQT5f1Wk5iRuASEoHMoyQ41Ef9DBx99yExqqqk1IGOMlqx1ozF9ZVD-UvTyQTKcnckU_ATREhB1ogsMoYicehxa531YSCgoGhROr-ZnfMpQyf4ThZDbdL377LE6og",
+         "scope" : "GOOGLE",
+         "types" : [ "zoo", "point_of_interest", "establishment" ],
+         "vicinity" : "Popielno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7118285,
+               "lng" : 21.4889678
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7131774802915,
+                  "lng" : 21.4903167802915
+               },
+               "southwest" : {
+                  "lat" : 53.71047951970851,
+                  "lng" : 21.48761881970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7f9200285766181b13332a81a9f9117eec10792c",
+         "name" : "Park Dzikich Zwierząt, Kadzidłowo",
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116832624848535614774/photos\"\u003eRC PL\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADxC2DrZpVn8IDj6ZWAQFE6On8Sb3WBiF0J5SzAAN9XG9KMAaC3mB7Wg87zRomt5E_dY4GIsOyeQVAS9jAtHQw9uUqDTGZITs1otiOlsqxj4scF2SffD_naz8iepH3naWhzkd3XEzlsnHmppYE7lNTij2-4mxBJHNLkkVdgjnCcLEhDLBp5wi8XfKKhi4PG9XVCOGhQzDGIqGq6XZgly1HbWaYqvWTauMQ",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJfbCFFRj44UYRuf0BU1KNAgA",
+         "rating" : 4.2,
+         "reference" : "ClRQAAAA864mednzwz1iYZuZ68uD6cIpfWtal0iVMr2Bt1mLenRcw_962ueA8v9TTZj2bO_4xue3duGWXZtpIsoPmAayqL3v8QmdCr4TJUM0quavLVASEHk--WCTCu_wcRVQ6Hpspz8aFKZ2rqLs96ApE9_UZqIjRkfrPisB",
+         "scope" : "GOOGLE",
+         "types" : [ "zoo", "point_of_interest", "establishment" ],
+         "vicinity" : "Kadzidłowo"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,667 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCAwEAABUdCG8ybhoEVMYbvQl-G53wUf6XzLcEafB8RIGFIxcjaSxEytkOinL9iV55mU3I5ZR4eBUdO8d15klTTzoI8Q5iLXtDYlmCaSUpsYX9GGkCg5CZDMU-wTKwH8bPV-bpogt8zhArVDAH_9m_MLb5SdJb3NNWIKRO1C-_A2HGkCiygAt4nEK4r9HxlotqIJlySG0a-MnO0lDCxucoiDknC4EwRNc5DRTWWxspG-mng6nUq9XhDK2s_nog4d7l9FgdHnIKhmsR43y_4KFD76V8zqAeB9bRGQvDfm89bvqIOsEYfo6kWFsBMnZEFEuE_tDfdRLeP8uje0mFZR6T8veIeoWTdkit2U3qPsxB8dU5wphkEhAemlQz_kwt7JNN4v67fCTvGhQDthc9SQccIzlhJL18emgEsm9g-w",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.08465899999999,
+               "lng" : 21.566528
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.08600798029148,
+                  "lng" : 21.5678769802915
+               },
+               "southwest" : {
+                  "lat" : 53.08331001970848,
+                  "lng" : 21.5651790197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "63c97cc98db66d9d4f8458cb1eed220e9fe12ff7",
+         "name" : "Muzeum Kultury Kurpiowskiej",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJDY16HI5BHkcREtRGvtWNgaM",
+         "rating" : 4.8,
+         "reference" : "CmRSAAAAQyUc1MeByv0qpyn5HhhIGp8fqt56VRnrurJn1Tk26WF7L1ns1HdEHNp7t5rz-tNq2SjMpTLAx3uut1zvkDC5Qof1sL3aPtyJn3iolQ1YeDfl_0l43ZU69RdzBxgePMznEhC9tgFoCylhC5f_qnWXnSgMGhT727nKIgiZ68VOtzJ0iONzNpBbhg",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Plac gen. Józefa Bema 8, Ostrołęka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.304249,
+               "lng" : 21.401946
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3055979802915,
+                  "lng" : 21.4032949802915
+               },
+               "southwest" : {
+                  "lat" : 53.3029000197085,
+                  "lng" : 21.4005970197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "0e9273aa67623b3490ff37bc09d76fd6897e1844",
+         "name" : "Muzeum Kurpiowskie w Wachu",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 490,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108528682053724360010/photos\"\u003eMuzeum Kurpiowskie w Wachu\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAzuPsIZPWpLJYncRnCSZtruwDWcfJ-xDoQJ3d6I952MngTk3xIgFpyFKZ7uZl0KzbgBeLOKsfSXjq4IjVmvwbb3-2qc9hjCAvNdKn-K84ishR1slC09Ldy6DfLBRsLvV1H-OYSWThdNQlUU-G_geWNSZeM2u2BxJ3dForcRq8GEEhDigH1csFsvRGAGRHBVgRf8GhRW1qYEPI5-awpp2vhszFfkXNk8hA",
+               "width" : 653
+            }
+         ],
+         "place_id" : "ChIJLRLC2hgOHkcRI-VRTGfccXM",
+         "rating" : 5,
+         "reference" : "CmRRAAAAErJwuWxjMQK55E8DwaF2IYBlaJmHVijuWhlSwAqibOY8LzXc-Xt6_AMykIfgYKbiN7rikBhcSToMSA_A8E-xjprnQkkLjvzl1FrkeCS8weJq4IxTVVp0lym_cQNP6YUdEhBWD7ugKaO5Lc9WjJvLJZFeGhRKh_iw30rcDYftP0lKTcAlWX5X1g",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Wach 14, Kadzidło"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.17766599999999,
+               "lng" : 22.0811366
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1790513802915,
+                  "lng" : 22.0825196802915
+               },
+               "southwest" : {
+                  "lat" : 53.1763534197085,
+                  "lng" : 22.0798217197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "6f1c9c6da1bcc75b8e67a693f2feb4a47d849769",
+         "name" : "Muzeum Północno Mazowieckie",
+         "place_id" : "ChIJQ_TcJJYzHkcRukexwpVwBZE",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAA1WhFAE_88F3IEjAMiLKtrRg4a647UMzsGwkIvHpNIqZBYVTZ1l2ji0Rb1q4fio-u0lA8MELnIvVViDnAj3GQAEjIj0hkoZrJBRA6Tc4J7eJt00qKaEXwhH4MY75a4dh8EhCNFiOr31tk9mF_so18aIeVGhTiyR6wc9Nw5aUZm6PTHoo0S3NlYQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Dworna 22, Łomża"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0874886,
+               "lng" : 21.5562278
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0884236802915,
+                  "lng" : 21.5582993
+               },
+               "southwest" : {
+                  "lat" : 53.0857257197085,
+                  "lng" : 21.5555373
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "fbcbd890d81341f96a4a67a8a3478bb24a33d505",
+         "name" : "Pomnik mauzoleum żołnierzy poległych w bitwie pod Ostrołęką 26 maja 1831 roku",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116446351682595935831/photos\"\u003eMarcin Bagiński\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAFyGZjsK8T-Zq8jK1QdEp9Q7sEnXUXXMpOtzlUG9VSP4T9Y0hJWhsTN1eD9dstjdiUl_Z9FrLbKEyW3EJhMgQOBpSJi8kY3ZwqRJUEytnEq7hNiqXhifqsUNvuG3j-YgG3n3TRQXOJV1d-PtqZikx7OFNlKU2ZuLmdZiG_ZAryueEhCPuZnhvv3mVV2lfe4834XcGhSSIZfPmHY5IyJ4FjVJR_9vu4zSaA",
+               "width" : 1632
+            }
+         ],
+         "place_id" : "ChIJRexzXe1BHkcR86wNl4Xb56o",
+         "rating" : 4.6,
+         "reference" : "CmRSAAAAmSd4zF0Cwd41FFBY5nT08LjLr-OsYX1U-1SyQsdCCR9zpnwXnWqfqz5jbrF-IpLODfhpSvjmrT1PFPmkH4bFjnqwBob4CzaOcfsCtClr1XRgtukRTv9dfQYSoNjkR56NEhBPP5I2YFlI33iApZeUrAz5GhSKETG313LquHzhhXiMCAS1bvJ6lg",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Warszawska 2a, Ostrołęka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.22712299999999,
+               "lng" : 21.87712999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2284854802915,
+                  "lng" : 21.8784842802915
+               },
+               "southwest" : {
+                  "lat" : 53.2257875197085,
+                  "lng" : 21.8757863197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "82234d647fad4eb86cc0379a899f0f9fd8c915a6",
+         "name" : "Skansen Kurpiowski im. A. Chętnika. Oddział Muzeum Północno - Mazowieckiego w Łomży",
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101012786419385316638/photos\"\u003eMieczysław Ozorowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOtk6yFUwYIasufyxIX-ytQQwQ3fbwOZ2bW4aLOZ_Cu_n3xpZUSQVx-D-OqCZq4MQXrGclIKHYpfFuBZeFSp8T5V6BPQEBI70phUGaQOpa-KuPH4u2aQua5T092F8-6Qt59dWirGKUuDgZx8wuW23WZiGlGdO4UxJXyct_ecMoIJEhCkkUdEo_BYZQLIK_eke2IXGhTHYPjHru7IlfWQaHh_wVdq-gRn7A",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJ-ckLGkU6HkcRqAXM8yBaK-8",
+         "rating" : 4,
+         "reference" : "CmRSAAAAyqvgqX0M63MD-1gOewx_4yA89z7goPmTiKcFpxaqqYB-aFyad-MeEWdrPC7GQD_zoStl0M7tG4nR5X00bm7nvpLJryzDpaflFDgscCUzjuDC1KEJ3bT9RO6avLdadcPLEhDodLRITQ2jd721hM3z2Zn8GhQdq-OANt3Hp9WHNMSoEAfOKpux-g",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Zamkowa 25, Nowogród"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.2423629,
+               "lng" : 21.4593672
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2436857802915,
+                  "lng" : 21.4606690302915
+               },
+               "southwest" : {
+                  "lat" : 53.2409878197085,
+                  "lng" : 21.4579710697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "f6b01dfbc36095f3859e18246ef42e721d7a4f56",
+         "name" : "Zagroda Kurpiowska. Oddział Muzeum Kultury Kurpiowskiej w Ostrołęce",
+         "place_id" : "ChIJZfBgbbsTHkcRY_eDhhjoJ5A",
+         "rating" : 5,
+         "reference" : "CmRSAAAA7CnTgtarrCarnQ8O3AhDpMj-G2JIYfgRimz0jcdYZLvT8Wl2TnpCxOQ7fLHVPSPRc4SvFMeYE3s0D1KzpeSC8QATMUrBdABSbXJVJOLBk3S66-nfIeWxLT_9dKiUsYM3EhCWysYCKbDCrFJaLlgQU6PIGhR4F1De3ztv0X6DuaQHuVcPi8Jf2g",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Trasa Mazurska 1b, Kadzidło"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.75968100000001,
+               "lng" : 21.585758
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7609392302915,
+                  "lng" : 21.5870239302915
+               },
+               "southwest" : {
+                  "lat" : 52.75824126970851,
+                  "lng" : 21.5843259697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "c71e2e2047b5b733cd0ffeeef15ec7c964fba6fb",
+         "name" : "Noclegi u Alicji - Długosiodło",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 360,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108068775412019176854/photos\"\u003eNoclegi u Alicji - Długosiodło\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAFNayAhHgmw0fSf9gxRfv5pcFMW5i6fCHblEhsTsnvpBgrj6pUyAbjdq_w6BWDxXS7qLHMm8wfUIHlP8l5IQ1ym7MtbjSEwzNfVCGV8lI_vjSPWGPSQwf4aMzXbznEo-rnwYa6IkmO0lWiZmJVAPy8iVvyfmxVZFPM6u1JgHFdj3EhByBJ45h457aP4l54xMD5pZGhSglUkD62UB3fZRnsTVOOZHj2HtTQ",
+               "width" : 851
+            }
+         ],
+         "place_id" : "ChIJn_6dCU74HkcRWb2jjZnpEvU",
+         "rating" : 2.6,
+         "reference" : "CmRSAAAAhlMEcb8-okbbTGq_Kf5haj5WpQavuVOLxyctYBNjm0M5sDKljoJ4HgZxrQLLsxm3vNi29aplQhs5OAMRuxCnbZYmWbBx132p2sDPxqwSojmpmXCQRj3hxAJPk8kPoPJKEhCwXr0hxtsP0Mdod_u3_BPIGhTSRTtXYx39xka4ryQttKZT_kT-mQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Poniatowskiego 34, Długosiodło"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1521992,
+               "lng" : 22.1706494
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.15354818029149,
+                  "lng" : 22.17199838029151
+               },
+               "southwest" : {
+                  "lat" : 53.1508502197085,
+                  "lng" : 22.1693004197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "bd2c0367c358b190f481b89a988b2a695a43dccd",
+         "name" : "Muzeum Przyrody w Drozdowie",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 576,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111587574145994670262/photos\"\u003eJacek Białobrzewski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKII7A96NEpHx7Nv81ruKK7Wa9nqnVS8V_l1DZkhOs5PWfeCIPGxoHrA1yfWejNEc7CFmDsrIu0PYbYy5BKmUrN6jP8e8T03_t0zc1AvWqJh8yinn_tAjjfBtX9eDfiFWNgTExmGsovPKi7jqqLPzUrSXNADB105gxcN0R8gfiKSEhCjhUbJdBRa5j8SYJfnxlwVGhTU_HHHCUwDyYUB4v03CjTBBgXJsw",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJH5Dh8rDMH0cRH5byVOJY_Xk",
+         "rating" : 4.6,
+         "reference" : "CmRRAAAAgLhXlZ5PaM2cLZ-Kx-hy2POS1LDQ11dUESTVrOY_CbCd6wRTLPkfgcBYyJ9t5cHGGjVWz6cYDC5FHmup_d85MIihstnXHFYu-XkdB5J9sfqrCb5dlF1BLPUm7abTjoWSEhC1ClJ4MuOnexbvoJSY9x2YGhRNiJTKDotqCQyGcHPeYBW6s2R3ag",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Główna 38, Piątnica"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1794503,
+               "lng" : 22.0793736
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1807556802915,
+                  "lng" : 22.08068243029151
+               },
+               "southwest" : {
+                  "lat" : 53.1780577197085,
+                  "lng" : 22.0779844697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "8cb1dc732a10bfa22970a4f765cf39a1cbe5ed5f",
+         "name" : "Galeria Sztuki Współczesnej Muzeum Północno Mazowieckiego",
+         "place_id" : "ChIJu1v8CL4zHkcRyTNA634Ohew",
+         "reference" : "CmRSAAAAnmsxQIFEM_BzgTvXNfz7cVHq9oO4hY41m4xZLLM5LrTXnMVn3-_gRpY7huhbswi7x0ewKgNXA5FkM-TsHs_3KkDkyPrFyZxfoOMs_ZcNcy4FpHsRtHe4OxVjTdLaIDC8EhBwkbsinCxkqw52qsotrH2nGhTN__G7vwptx2OdIX-_B4j9-a49fw",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Długa 13, Łomża"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.089965,
+               "lng" : 21.579573
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.09121958029149,
+                  "lng" : 21.5809999802915
+               },
+               "southwest" : {
+                  "lat" : 53.08852161970849,
+                  "lng" : 21.5783020197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "c753f6030f903268d47fd95415ca5f3c9cd2f910",
+         "name" : "Muzeum Żołnierzy Wyklętych w Ostrołęce",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 942,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118278730122578116007/photos\"\u003eMuzeum Żołnierzy Wyklętych w Ostrołęce\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMqTBmG_pDIchFPiHBeB4ewSmmp44HfvMgFfq3x4v8md3vJWycFg9XmZw6SH88jMOmbe_b-xblr1btQ5yzVMVS7vVWzKV96iyE9HAlaN5RuA3pW_OxHjMVO6xI8iwquaYtwPWAHBBkHrRTiyae3-vaSdTjaC4_f95eyUgLrPVuyUEhBgif5EGAF1RjysqSamNVslGhTO-ZhL6FcB3sCGBHw5C-cZ6GP-vA",
+               "width" : 1500
+            }
+         ],
+         "place_id" : "ChIJbbZM25lBHkcRKExmADSFam4",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAAU3CWcudWaG6Wh_aobAJqPt9ZC1v0SkRTxwKkOfD32iZwHIYIR2Pj9ka3FL5uvJ04Y0WIZRS8t0i4BLabLJhRwxuHMr1cItCg4XrhoVvoVvb9qq4f0ExV1x2ep70C3-4mEhCrOfPwz3mVj276s42PMdXMGhRJji17rBcrSLDicJzQIe8doUMG4A",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Traugutta 19, Ostrołęka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.9749644,
+               "lng" : 22.2454597
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.97632298029149,
+                  "lng" : 22.2464786802915
+               },
+               "southwest" : {
+                  "lat" : 52.97362501970849,
+                  "lng" : 22.2437807197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "039bbda0d766ec1452460d4ceba25a1684b034c1",
+         "name" : "Regionalna Izba Historyczna Miejskiego Ośrodka Kultury w Zambrowie",
+         "place_id" : "ChIJ09ptXgW3H0cRzQ32UCBY65U",
+         "rating" : 5,
+         "reference" : "CmRSAAAALEIbE-FH7RzkmfoB0nlYVkRuHrVl7UjR3qU8McHtUsjyA0X5AHEQ3O9PJHM1tCqAXrxRMB-EsobyK4uRxLDv_Pj9tIuXkqpKgBpo36FkVQpqB4ROlg81B5rEC9YPmGXLEhApQCidO99MH2q-kRdCaYKQGhQNaBXSSPU8xSsxwZaEDtPzZlbTQg",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Aleja Wojska Polskiego 25, Zambrów"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0684453,
+               "lng" : 21.5473866
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0697942802915,
+                  "lng" : 21.5487355802915
+               },
+               "southwest" : {
+                  "lat" : 53.0670963197085,
+                  "lng" : 21.5460376197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "24c0515f783053c38ee46aba4e7afb84b2087215",
+         "name" : "Most Kolejowy",
+         "photos" : [
+            {
+               "height" : 2336,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107943097334751948462/photos\"\u003eKrzysiek Hryniewicki\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAP79gRKdGAerEXolZKIjtS2-vRaK4zCSpAl1GempCxcolP4q7EUymACsGm5hi_cby5KUajv2GyVmn2l-HfWa-n064xkwW4V5ynWe8G2Vz_HdP5OnNDj-E_g9ngbHxE4ITYZSlrXgs2gKfwHuichQQfM7x1iddC2DWu-qzRbk8a3_EhB9zhYYvSasTGgtImzjbg4vGhQK73LNCw0scSi1bZvXsssoTOJ21g",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJHdo4AiNCHkcRpC0XX9RqNes",
+         "reference" : "CmRSAAAAFV0xM8ug3mGsShSL2B6bZtEDYc7qKVijh9Y6Mr-CsoGwrHGhgdBDreKcE6azKNsR-_M9FzZEDCGyITVSSV7YYl_rahKrw71558e2dpPvD8oJTHBOd4V_CLV-5fQWnrmBEhAAXLyQv1hV8S0OvRMTJU0NGhRFGKxLPQbDc7L7zeNECOeO4fgLsw",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Narew"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.2248309,
+               "lng" : 21.8661276
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2261798802915,
+                  "lng" : 21.8674765802915
+               },
+               "southwest" : {
+                  "lat" : 53.2234819197085,
+                  "lng" : 21.8647786197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "4e4f79775b6601f483b62517f4f2af03cad2cb06",
+         "name" : "Pomnik Czołg Z Okresu II Wojny Światowej",
+         "photos" : [
+            {
+               "height" : 1456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114949717114942811628/photos\"\u003emarta bogdan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJ_eBNY7V7UhjebaMieg5KnKWaZ744D7DmyaX74avSb_jJPqJSr-E_w0zCTMuZuFappJ5XxmmYw709E9d8IAQrDEdG-hKpoebsAqI4cP3LgFYR-fKbpYiNeKlQjCPzjjh8fXPlNxKoEMi2ywZCxi96VeYvoEBDml1qs53SQmflYlEhCEWPa-PLNSsgxAP2EReuXkGhRCj_uCSEp196bKDRLYcq84c6V6gA",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJEcHbL0k6HkcR-Obpgr8aDq0",
+         "rating" : 5,
+         "reference" : "CmRSAAAAcVNHw_--1y71k65Q0TPJOzlI5G74xlAoTb6ZyAWSFhZc2IxNC-ylnlF_TjS6rrp9orh-xjdlm8i7K5rMBaQ6ix2-wIiUyHogqKpLKNm8z4yHAVW_er8QZ6Qex7r4wPJPEhDzjcb1o02MJO38xM_ZtPqKGhQztC3BKlwMyOvKD86KqwD-rOzLaQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Nowogród"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.2025158,
+               "lng" : 22.0987764
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2038647802915,
+                  "lng" : 22.1001253802915
+               },
+               "southwest" : {
+                  "lat" : 53.2011668197085,
+                  "lng" : 22.0974274197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "58d9dc357e159948078f6cee62912e6a8c40092b",
+         "name" : "Muzeum Forteczne",
+         "photos" : [
+            {
+               "height" : 2674,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111587574145994670262/photos\"\u003eJacek Białobrzewski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAFGOFFQYuyuLSRLcrL6M-haR6W8LoQyVch9H462A4kqpxgiKKjqm0j6kIxbDXnDIl6NXfTMQchJc8JAsdoieUDewWDr-ttDBr7sqHpCH8I0ifi7EZ1R-F9PbHHuyq9ouEk-1EHZ6cRZEG84L2WEN4lGEPK4cIwKMFPrygxpdfGmBEhB1iFprSOwwotNbHhNjZ-QpGhTgaXjdorKw3d4eTxW9l4JGHtBAYA",
+               "width" : 4011
+            }
+         ],
+         "place_id" : "ChIJralw-UsyHkcRgaqMjuQLLaE",
+         "reference" : "CmRSAAAA35fpZy0MwpDJ_URa04HHZ9WnxSivcEZfVtLIXFbgP-WRqva01oy-XjGIcX-exYrVKW_7E0634DuEI9XI46ePZGsOr2OwFSpCh-SzsoisKPsRWDCnWMfe-XXTdgM9W9W7EhB5kMdVMYfEgDwE3Ut342ZmGhSRz66qnmUIDi65R8udqQSCLYmbsA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Piątnica Poduchowna"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0040708,
+               "lng" : 22.1462944
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0054197802915,
+                  "lng" : 22.1476433802915
+               },
+               "southwest" : {
+                  "lat" : 53.0027218197085,
+                  "lng" : 22.1449454197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "a920ee8946220da66e5aee41b60304da0faa4914",
+         "name" : "Farma Fotowoltaiczna Zagroby Zakrzewo RPower",
+         "place_id" : "ChIJY77iVjS0H0cR-nseObrbPPY",
+         "reference" : "CmRSAAAAOu7dQtP2ix1f5n-2JoGY1I46O-OTAK2-Miwv_3Qlkwjn0On78gL_kFLw5ZY7taphTYsW4OoK9FfydBZkhGGA0fHFlrBUDS_tLX5s44y55TOOsTJNOKNH7kRG4cBkr3G-EhDVx8COsaw22qSKtFYR0GDsGhTXpTJp12q6jpBKbcKnYdMbOKmrHg",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Zagroby-Zakrzewo 5 18-300, Zagroby-Zakrzewo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.84073739999999,
+               "lng" : 21.8734756
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.84218383029149,
+                  "lng" : 21.8748524802915
+               },
+               "southwest" : {
+                  "lat" : 52.8394858697085,
+                  "lng" : 21.8721545197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "4cefd2957efc0f829a2cc615414b70dee971f426",
+         "name" : "Dwór zabytkowy w Lubiejewie Starym",
+         "place_id" : "ChIJ17hoL1pTHkcRA2FyVlITo94",
+         "reference" : "CmRSAAAA6VRGQ1U1CjjZJfQog9l5xz0GhH9axOTTnV8V8iaQ9RnZDxWoXzS8bHScWnWhNdSzH_3FRQ9k01JHJ2W4-PilLC97hSvRtexY0Pkol6EAvLnrwQ5jmtJgknBZUR7kH_MYEhD3IhHGOsMYMs8UGl9ilBvZGhTdt-Yq6x38FBMRyPJzCeowEoLrxg",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Klonowa 8, Stare Lubiejewo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.9199347,
+               "lng" : 22.0850244
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9212513302915,
+                  "lng" : 22.0863855802915
+               },
+               "southwest" : {
+                  "lat" : 52.9185533697085,
+                  "lng" : 22.0836876197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "b874925d89f2a5b2abbde2dd1c4cd108644ddda1",
+         "name" : "Skansen Szumowo",
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114234313870230680360/photos\"\u003eRobert Popławski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPF-kZWLLsoVI-UBdZ1yJ4M_t6KKG1NGyL5bwZHeOf7QBWAF6dNdVTf7viw4uheu73ihb0QujqE0C6LhdNK4WD8vwgsgjxofeGJxdD3fkvXve_bM8LjMBP5nQdeucmXaY5wRY3D4v07gxFD0VZL7VsbkRWze684BtkcE2FZcx8u1EhA2qmz4mch8-BBWsu6tHD1JGhSB26bhVPIMd_iWECZFuVM7tXj6JQ",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJh_akTjCyH0cRmWQGkclV3Gg",
+         "reference" : "CmRRAAAApeM66o0oURh33cRPe8kC2phmI293FcpYdo0MKkFD2W9tW5GOqB7Oa4b3bToKfiG3AnlPAy_LGF2vuRUVKvLs7OraIeUUyQLV4nW7OtTovWjIehqLdaabV_gLRwGTevCWEhB-pWsyicCM8itN4wTSpbdZGhQIffWTvKB_joUI9c2Yl0cTUQOuqw",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Wyzwolenia 1, Szumowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.82764299999999,
+               "lng" : 21.880955
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8288602302915,
+                  "lng" : 21.8821342302915
+               },
+               "southwest" : {
+                  "lat" : 52.8261622697085,
+                  "lng" : 21.8794362697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "b9addd36f2e6dc35de8292fa26ce435f84adb7b3",
+         "name" : "Muzeum Kresów i Ziemi Ostrowskiej",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJhdtjYqtUHkcRb7I6XjHUX50",
+         "rating" : 5,
+         "reference" : "CmRSAAAAwjzOTRWZ9CHDkQ2kkrtIf_y23zI6BMBF-zLJdyFHhWjo6nt2B-eJ3ZBhsE8SMxHuEZpPnmSEgdVI6M_Fr-UGtLMrkMXySbeYxrF-k4RcaHbiSlxvycbxnR3uRk5tXG_TEhB3lLTXsnikVGafF5RIWd-UGhQ6HiISwmkTQ6b5YXlPT07EoXK03A",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Lubiejewska 158, Ostrów Mazowiecka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.38227870000001,
+               "lng" : 21.3708893
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3836556802915,
+                  "lng" : 21.3722379802915
+               },
+               "southwest" : {
+                  "lat" : 53.3809577197085,
+                  "lng" : 21.3695400197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "8a66444f50a20b98a5530908913ba1055ea7bbb1",
+         "name" : "Muzeum Mazursko - Kurpiowskie",
+         "place_id" : "ChIJoSi3fIoFHkcRueyKUBOtY2o",
+         "reference" : "CmRRAAAAp-ocQ1ixggU3scdlmyRD1fh9IyeLmCIW9E43FRtRPN9Nr9CQ0Hszyx3O1YUc6rkL91sGWhtAPfJ2sWm69NhNGKlH2O73ElKKUGoETGaUTwMdTei1UOvpVIVLj3KXUfonEhA0EfbnoxL61DJV6HI3LEmxGhTiubuaTUrCs5WnhYG7zO_9k_Fwwg",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Reymonta, Myszyniec"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.46549479999999,
+               "lng" : 21.8729546
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4668575802915,
+                  "lng" : 21.8742027302915
+               },
+               "southwest" : {
+                  "lat" : 53.4641596197085,
+                  "lng" : 21.8715047697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "f6ef1f8977d9abcc79794e5b9775bb06b026949e",
+         "name" : "fundamenty strażnicy granicznej z",
+         "place_id" : "ChIJBWcyLHUgHkcRB4DmvIx3bMQ",
+         "reference" : "CmRSAAAAhUgf2y-Zh1phZwWBVLfJv_CsEUYnef92d_evcb0q1qfYz-58ywsITIUlmoESqoRJAyyT1FFt5P0FjiWNVr8huU34N1l1zQ3xVZhzfuiN-5ikIECgtbBqz1N3jHLJSCt3EhC9q_t64yHXegSRD4w3wZDzGhQdP9q_w_GoBOvlIA-NtElQpi095w",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Droga Krajowa 63 19"
+      }
+   ],
+   "status" : "OK"
+}

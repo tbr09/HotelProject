@@ -1,0 +1,710 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCBwEAALxd10zqT8kOXGan69VA6jBJFNfuNpGxqxMg2IR7Tk3ElBy50L364sEwDGa_lq-hJVds2yLaPe3RwNkma_5Pzib1Nj9oevD09nHQGX4NDUscAnePm5WNTPe9orxorPKnEECUuK_HPNIgwlJHE2nROP4NgGxPHgkh73ScgX_fzxv8WK3mFlt4fQQf9muJNCyNgTb7oQgnlFmtd0oC7CMcDNfWuAytXa4l8CPohg0YtV5pyhi5OXfe7UONPr4e6aPLdmMs00dNz2umEH3BYUnYDax8_g93tAtYu9redSysDFuYj1jmn-UOqiiDQdhByq73a3wl6d-7lVPHh-2_gsDXEgF80g9J_USa3WRK8dG20ffvEhAXE4fNFr_YHjPnUACyS4TYGhTDevu0g8o6L0YSNMJH9_s54YNq_A",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.13659839999999,
+               "lng" : 23.1585852
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.13794593029149,
+                  "lng" : 23.1598361302915
+               },
+               "southwest" : {
+                  "lat" : 53.13524796970849,
+                  "lng" : 23.1571381697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "89f00ffea0253f571b7b978d7f92174a5dfcaf33",
+         "name" : "Gentelmen’s Night Club Exclusive",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 900,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117059928611074632490/photos\"\u003eGentelmen’s Night Club Exclusive\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAywunk6hR48d9BwLWlTyRTDFTVgJyx9mwpsIaKT4cFPvVm4BEbn1YMOCBK4etMwVMBUxT5bLmYJwOpsOSeSp-PZYYOICFN6nU1SwAR4Yw4Xuc8mkNJDugT3ijPgAvP3moxW1g1ovPE63BEfhPjtggD9MIprPFl9VJD2OuaIU0PSEhDfaNnKY5AcDUsU4QVAS5NwGhRT5ET7a_dFjVnYLK1oLwllohwULA",
+               "width" : 1598
+            }
+         ],
+         "place_id" : "ChIJ_3nSaRr8H0cRnLdWWbW4eQ4",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAwT2yGKaQy9ZiI73kYX2bpR2lvbdk0p1bL896p6csSxWQxAmSPg7V3FqzLrxitk3mz7OM3TXruVFgr0iBRircDRO5ILdHVJle8eDUEI-1AHA-NAlSk87iyjB2n2KF1fEEEhCCIE-One2miyQoGjUtI-LQGhTcrUBC9ymuJUxWotVFrH1uXZBKLw",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Włókiennicza 2, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1186985,
+               "lng" : 23.1516313
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.12061163029151,
+                  "lng" : 23.1531274802915
+               },
+               "southwest" : {
+                  "lat" : 53.11791366970851,
+                  "lng" : 23.1504295197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b501e8a55ce174eea6e32b75e129ba8b91e23d44",
+         "name" : "Klub GWINT",
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105452911172234728203/photos\"\u003eAntti Rönkkö\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGYa9McLieult0O98GTIbUmRsJtpEDPkLPnVK6qkvggZDQrXwgGkHKrcvyAPY_OGqF1kzb1Xy9LS15ReGJkKpEvq_PBjbEBjRgsLjkkds_TbXhB8SsfNal8qVylUTtoofy4zV7HBpfvWMajD86Jo_mEXxnKwBsyVcmV7dTQ6AuO8EhAFpn5c_HWS8N0v6bWXtPIAGhQ4z0IjQslV4Td5a3_vHk0NeAR3LQ",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJJTyqx_77H0cRxXq2XrP2HPQ",
+         "rating" : 4,
+         "reference" : "CmRSAAAA-lb5kjpNdMhul7hrUpzEXgTG2EUrUEGsmRLXFn_bGZrt85HU07piKtABiVCtv0esx9tpP_3wPAopopM0OYmkl_zzoPEGYk8snpKnMslufvQybMH9dV_DPBEnGsY-QYgtEhDm0DnYplDRBEH-iulaaWi3GhTPy8qFQ9DNwsHAIbP33GRMA2seWQ",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Zwierzyniecka 10, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1289094,
+               "lng" : 23.1534569
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.13033198029149,
+                  "lng" : 23.1549725302915
+               },
+               "southwest" : {
+                  "lat" : 53.12763401970849,
+                  "lng" : 23.15227456970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "d1f81ab591ce37ffc0cf5a169d10e531fc772795",
+         "name" : "Black Diamond Club",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1498,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111360406866563040321/photos\"\u003eAndrzej Niemira\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAH0S97VyBHzfcdkU1jXQWPzi4V14cE7w3kBoDWZUIJPbLrVgNVlIkgLlbWu6g-FISdKu3xLvDstMa7JJ83kT1uqs6Emjf4CCxyj-OzKYb1JY0AXmVwX88VAFJlz-qfzZoqKakew57d8fUgizyMAQyoG9uR3cH1cojhpLAh7tymjWEhDslPlxY69TsRRbK07tA4KQGhT3aqNjLFC3BO7gHMpwRxpfTN8lkQ",
+               "width" : 2180
+            }
+         ],
+         "place_id" : "ChIJeX3ozQX8H0cRXQtKZ0-IIRQ",
+         "rating" : 3.8,
+         "reference" : "CmRRAAAAW7kdiXw95RqRI9hyOEp3rtd9HzcUXpmekwkhIqg5no4LEMHl1o1uddPzIcseY7kprly5QZS40MDAGxl1Jj8DZkbYDcAVj-6WcQ7DHISCH2ZHCQwbcQUQcPQCibhiYr3kEhAcjr6GXjL5FQa4tn1MPXiQGhRLala2E5YfBGN9Z_W4qUMZ2J-s0A",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Piękna 2, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1366199,
+               "lng" : 23.1585927
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1379673802915,
+                  "lng" : 23.1598394802915
+               },
+               "southwest" : {
+                  "lat" : 53.1352694197085,
+                  "lng" : 23.1571415197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "b8899b1c25d793b842b063b97f3d9d21ba6a36e8",
+         "name" : "The Boulevard CLUB",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112811761709105571778/photos\"\u003eMarcin Żyliński\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKL3I6quaJAoFfkTsWe1IOs6-HDxIWk41lhjzDLF8Ot1OcmFSGHo12g_w15pKbJgP2d1eYg8PJIuPiXndfyHs1GXzA45jt9CkZy5sERocevTvSVztnnlvXouctxeTDgFBoVt1LeyFh-y7tZPvQOjb54PJ0G-6cRBM0WGnz3fyTBEEhCyBaozt8obP8AnKSO8O1jRGhTv6bKMpexYSWZfgVC6oAZsjS0OsQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ_3nSaRr8H0cRyFVy2npRS5w",
+         "rating" : 3.6,
+         "reference" : "CmRSAAAA9a5-wxhYGVU5L_Cu273MT65-byz8QRVRJSXgpDj75auulqO4LrSAFBQMyZ-BzTQJTxP2KYHJs0JYjO3u0H_Wm5cMFsJ_xI7eQbVjY-h7DGcp4wSxt4oXQfyk_ct1rIzkEhDvpzM3lQ-g46kT01odrrmBGhS1Bzt6SMn--dAhRxxiP_b12_Uzng",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Włókiennicza 2, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1330082,
+               "lng" : 23.1536732
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.13444818029149,
+                  "lng" : 23.1550634802915
+               },
+               "southwest" : {
+                  "lat" : 53.13175021970849,
+                  "lng" : 23.1523655197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "642373d2a1cc3c3c4a0bde9368be6a738f53ce42",
+         "name" : "Prognozy",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109808261572728540670/photos\"\u003eDamian Tomczuk\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAIagFT1JqsNpOyKAnEqUPZBZYSax1mK8SRjvg5OK1BfnUOTcJzfIuzVGBz-QVt-pJQFBaQvB0ln6DJIUguj2UdPlIpJCNKp6S7EMUCF0DQ15Ufgadw4-6uJdNrPncTlbNZBZgyjBo5ngGz-U0uGAIDH01EmPoGgxhnRtU6TwvKOZEhBr5s72zTafhY_Y02Uwo1NBGhQYV9TTlZ6qwFIkjtMY2iDcjwKkIg",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJudJ2WAX8H0cRybXrOC7QWWQ",
+         "rating" : 2.8,
+         "reference" : "CmRRAAAASX5zQiI5stWnLPExCXjyXBmsTj91tMyxBlNwrp-C3AWzPBe9Z95cAZfdK3GplzZryqN9OwnQe7iActGK8eqFIjxm9qAJvlCFgiqXFjpMGZWce3wcDA9nez6giIUaT3PrEhDG6mfg1do62jvZuFadD1ziGhTY7CMsbRgtjyRhWaPGvqAT3405Cw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "restaurant",
+            "night_club",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Lipowa 19/21, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1432463,
+               "lng" : 23.1302021
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.14444823029149,
+                  "lng" : 23.1317786302915
+               },
+               "southwest" : {
+                  "lat" : 53.1417502697085,
+                  "lng" : 23.1290806697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ee79f23c93d9ce242f386f2de34c9e5081420270",
+         "name" : "Krąg. PW. Klub rozrywki",
+         "photos" : [
+            {
+               "height" : 1150,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114280310568334219878/photos\"\u003eWojciech Krawczyk\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHyj1H-UkUmjJziQzKUEGe3asw-xCYeaGrZOXImA4cAe0Gxo5lk-UvJzcEtUiFkKzfWhC7y3h49cxTD4IwINGOsJraBRz9Gzkrh1zI66Ez0n1Hyeq67MIfvY6FFix8Xyi_gYWG3Velznyf6h5RElQDqsvWaqute-fSWSjmEnCDeyEhApgcLhrsoYb8hz_vimVOHTGhSEvphp6rQcHzwjG3NApwJFlKC4Eg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJL5Dt3m78H0cRtps1G210R9Y",
+         "rating" : 2.5,
+         "reference" : "CmRSAAAASkmWrk_f7ZDHMXZQsTq8uxzVR6mI1TtjH80oJTl5iB4Yqej6blZLBINIoIU2Or4iDCeTL7nSFkCWGles4HTICGosfIyXiSiT5GsRJkUs26KQFfk2YMIp5sPrRQzs8FU9EhB16NzxZaSmUxUBWMWQ43ALGhSmSN0RFaUi7F8o8gtmEiK_83Y90g",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Wierzbowa 6, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1365393,
+               "lng" : 23.1586166
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1378866302915,
+                  "lng" : 23.1598530302915
+               },
+               "southwest" : {
+                  "lat" : 53.1351886697085,
+                  "lng" : 23.1571550697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "8d4492494ab3c0e89d85cf4a16ff57b337b30206",
+         "name" : "Gentelmen's club Exclusive",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJdYKfZRr8H0cRNzoOK6tTq3I",
+         "reference" : "CmRRAAAAwxu65NcbS7hKx3YNMm88KVDHv6Qu9Vm9dGp-IzPOWDHoSBSJM1HdbDag--MM04_rOOA6nzrmnBmfc2hCyMV7QMjmN_U9gWI4lyQ1JoJ552FLUiuZNsO02-ufvGghighcEhD3Mtpjeaw8yss3x8Iu_G4CGhScFti1l8X68x0xARNbUKwYP6zk9g",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Włókiennicza 2, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1222305,
+               "lng" : 23.1044337
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.12358408029149,
+                  "lng" : 23.1056314302915
+               },
+               "southwest" : {
+                  "lat" : 53.12088611970849,
+                  "lng" : 23.1029334697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "c63c0401e7f563c873b9d79d94981ef9f9099a2d",
+         "name" : "firma-sopel.pl Adam Stoczko",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102462604720738291792/photos\"\u003efirma-sopel.pl Adam Stoczko\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAE2tWRxArHrnO0_W1CeZeb8pRqSvAZlvNqlSc8N5Q4YJumLIx7CW72KTYsPpuyOH-EtVLKNaXnsI_VtpwHbw7x7a0HUFsraeI4TKU2laGVFuQ2GPFI_ExJ7zT4ea0zW_TCoXnY06gXLW-bV783cb0PRo6KJEzJZrvGuj7gOqyO2nEhD_rvjtiRGrEc38PQhaeXD7GhRjOalu-v8C-KQK6VudO-UOpBeufA",
+               "width" : 305
+            }
+         ],
+         "place_id" : "ChIJFZQlkZz7H0cRzlc7LSLdp70",
+         "rating" : 5,
+         "reference" : "CmRSAAAAD_zQlyvNlNjp8_xlMlDmD6M69o-FQMDqK7K8GUmvi3umML_4_cWZ-di88lBXElvJa1px2BNuWAB5mGe5iwL_cP_Jv_DngYfa7xFeZj3DF2K8DyhY0Ms2lSHBI6RZwuPaEhC3_kOSS9nW2Jydp4NzN6u_GhRS3DH2n1pT8F4lfiEylisjJ5qGiw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "night_club",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Rumiankowa 9A, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1314119,
+               "lng" : 23.1573212
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.13282733029151,
+                  "lng" : 23.1585773802915
+               },
+               "southwest" : {
+                  "lat" : 53.13012936970851,
+                  "lng" : 23.15587941970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f5fc64a0ece473c34d33aef3b0f7555780d093be",
+         "name" : "Pub Fiction",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 692,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114103697155783170623/photos\"\u003ePub Fiction\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMQIv3KL8xfAx5xkvWp2GdhU4sG50rKcRNFm5CiHZtP_8ornD297894BWSzjMrfEiTNbPWB7fFWvPqMSLp3KRrPfXKpnZy9ghgffcvNc3pGL7jnJytBURBWpMAI98l4-vGXsGmSdUrktqrDRd3LVY-uYIZX2bzD5vFfQUZaO1Y_tEhAVQHOBW9_V17val9fziHJrGhQyyKDfNzh7-yevpfVEORSF67bpIQ",
+               "width" : 692
+            }
+         ],
+         "place_id" : "ChIJif--4wT8H0cRrhV06AJZawc",
+         "rating" : 4.4,
+         "reference" : "CmRRAAAAbX9BEsWdGa5l2iJyglUw4c6SeerwzDlsWiWeRxPJ5jEKK_0ddKRQZbPUC08b33EiybepDwKJXZCrxHSKnEoYlzmqm-9f-l1Vpariskzj70tPPH-pFsdKfz6803xsT2ipEhBrOvxMSflFVXnadtAFLmCMGhR3hhyVpOlxX7z2s-iW3Xm6H38DeA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Suraska 1, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1297234,
+               "lng" : 23.1559131
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1310723802915,
+                  "lng" : 23.1572620802915
+               },
+               "southwest" : {
+                  "lat" : 53.1283744197085,
+                  "lng" : 23.1545641197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "379dca4a01d3e66b014e997b63dfdee1729a9169",
+         "name" : "Wysokie Tony",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJxRenTwT8H0cR0A-qLDVdKwA",
+         "rating" : 4.4,
+         "reference" : "ClRQAAAA6VLfhr9WSXiMqKFbFMWJIriRqpLNFC0-gGYrEJtgUJKabjbNgBr_giBQbWdEnb_cBMuH-TviiQZjTZiUJi2glKWS8UR_9LcvtvUCKFPU-U4SELrS7DMGLfjjmMWv9YrV324aFKJ8mVbK4VzqFG4LDTZQClQhKBAK",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Curie Skłodowskiej 2, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1241253,
+               "lng" : 23.1516957
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.12551793029149,
+                  "lng" : 23.1530050802915
+               },
+               "southwest" : {
+                  "lat" : 53.12281996970849,
+                  "lng" : 23.1503071197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "dcc9e6dddb372e502174d4d2e5b9f3fd6b7823ab",
+         "name" : "Massey Bilard Club",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112150939938994153968/photos\"\u003ePiotr Krutul\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHrq97Z0A_bT-HUZkXPomuGKWa3kGzbLwMgE-qvDUMvZrKrgg9wuJNJK6RUPE3OU64F2yRRLpsn6iQu3lPk1o-xkrkx-BPpgKOuLxKf435--QKP-QtrzNPKuItkFVI85gpHUOPlKvzuJNKPgbqhYFSudjNOC7g4LCy9S9EGvr07BEhAhDEha3aPVI0M1UIutxoTZGhS3jFuWbIRYCUboI9SbL4us6zdmoA",
+               "width" : 1944
+            }
+         ],
+         "place_id" : "ChIJ3SB2bAf8H0cRy7q3vrgXBLg",
+         "rating" : 4.6,
+         "reference" : "CmRSAAAAozqlZYIoBzbHG2qGevnWT4yRxwpuawSWIXUrKpLcchgwRCwjamAQgA8M5Gjp_NslHGavSL3RhWEKduN9d8gONwxGngiAQy45ALOzCZdgGRff40f6aJL2IoVPXa-dr7zrEhCq3UqqyY4W6Q7EoaqTLkAtGhR6topzeqm1gxLnjildSNJU4bj-pw",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Jerzego Waszyngtona 27, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.11339899999999,
+               "lng" : 23.1456789
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1143076302915,
+                  "lng" : 23.1471779802915
+               },
+               "southwest" : {
+                  "lat" : 53.1116096697085,
+                  "lng" : 23.1444800197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "f9d357f96e28c82cb4c2dfea264860a2dcebd925",
+         "name" : "Boruta u Kamsona",
+         "place_id" : "ChIJKeMwr_z7H0cRPV8N99Tr9tA",
+         "reference" : "CmRSAAAA98-A2J5FSeWqYftydBC8r_FCuV8OWAtkcX4u6FhYcVmgMy7nN5jjhy9ZIo6Q0yyAoTQO9lD7hTYSD_WbL2aTdR8-0w0O_ZrYefUvCc-PQbhlVuBd2I-_2-7hd5g-plxmEhCpE2mTsWKGxsHOySHObEZWGhS1dNL1-M3n_wiGE8hYlIs7Sf2dyA",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Kręta 8/1, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1512577,
+               "lng" : 23.1116375
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.15260668029149,
+                  "lng" : 23.11298648029151
+               },
+               "southwest" : {
+                  "lat" : 53.1499087197085,
+                  "lng" : 23.1102885197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c0494e4f4bbb0c4d8b31738db8c4f72df16746d3",
+         "name" : "Pruszynka jedzenie na dowóz, bistro, bar",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJdVkZi4r8H0cRYh2vmU4upfs",
+         "rating" : 4,
+         "reference" : "CmRSAAAAA81MrqqaLGFGOSuP8opz-fweHmliTPKWLP12IcZlzLF1l-P_Q2cP6jtWKTpItnufHOEVYu9bwWXpuVTcFkeExDLe2x93uXOxK8Xlv5TFPaUKIrqoSXKQGY5BgxyDhaFUEhAfjt5xVTFtUE8B7NAHnYCoGhSzqffQcloDSmx4bj7tz6qOHi3grQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Jarzębinowa 2a lok 1, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.89737029999999,
+               "lng" : 22.8681278
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.89871928029149,
+                  "lng" : 22.8694767802915
+               },
+               "southwest" : {
+                  "lat" : 52.8960213197085,
+                  "lng" : 22.8667788197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "c96eb510d2ad4858417f9e786e37b5bdbcc3a38f",
+         "name" : "Euforia",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJodRgdjCNH0cRNoywoOLjPyY",
+         "rating" : 3.5,
+         "reference" : "CmRRAAAAuofcn1s9vZuMLwMFmnDs3GYC_ZUIPXUbnrA-ZePld91nR9CTsyZ3vHc29KBaaIeci0d0J4BvGmpUJWA50ireOk_ygYbZbfkscKloqn-JvWTtpell_S_4XAsmFu3LrxWpEhDQKT8cfUO3vn7k4Jhx47PTGhRDnfKjdjvHsevHvZJYa_TYbTbgzw",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Pietkowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.13337279999999,
+               "lng" : 23.156084
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.13468313029149,
+                  "lng" : 23.1574917302915
+               },
+               "southwest" : {
+                  "lat" : 53.1319851697085,
+                  "lng" : 23.1547937697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "0bd3a09c11965ea0d208d510558438fbea83227d",
+         "name" : "Fest. PHU. Hancewicz T.",
+         "place_id" : "ChIJewesyhr8H0cRlJFvNBCq3L0",
+         "reference" : "CmRSAAAAI8B0hvFTEEvuiMH_zsnM19WTQ4kttbms4BoYtccqQbeUbEm-FU6oqg916RQuCFLUdBe7yDlgDG7e4Mpk3Z2OEC6zmj79Eg79inFC2RoD0mA3vm_LQF8wFcoj4roOxFKOEhB1okdLy5uaXazwbcepUISnGhRy1j8yk4aDd3auzb3QwiEYjVVHGg",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Icchoka Malmeda 5, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1368686,
+               "lng" : 23.1585563
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.13820803029149,
+                  "lng" : 23.1598067302915
+               },
+               "southwest" : {
+                  "lat" : 53.1355100697085,
+                  "lng" : 23.15710876970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "a2c9db329d639ac3ab3a0649f83cb29fe075b0f2",
+         "name" : "Bicardi. Bar",
+         "place_id" : "ChIJu4DCaxr8H0cRZZPHXDqCHPo",
+         "reference" : "CmRSAAAAR55Q_6dSjs5XcX1HA9oj9vgrOtTu6i3BfeDiI_ik54Jtu8mUuRJDIAqlwADOPZl7ggoEAALZymwZF2py0-AJuLLMsk-SEx8RYEvNebsc0gLLcvMXylaAUn0vOuOwB8aXEhCLFvQ0Kpz6Q52vBXgZuBDTGhQNj_GyGPV8zaXXkqiIeHaRI5eWQQ",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Włókiennicza 4, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.13127979999999,
+               "lng" : 23.1416181
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.13274828029149,
+                  "lng" : 23.1428587302915
+               },
+               "southwest" : {
+                  "lat" : 53.1300503197085,
+                  "lng" : 23.14016076970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "bd1f36650bc10f7a7c1a42db0202c1a83cf669b2",
+         "name" : "Pruszynka. Bar restauracyjny. Pruszyński P.",
+         "place_id" : "ChIJccfUBQz8H0cRyGACYV9vp0A",
+         "reference" : "CmRRAAAA03ImmNJfrTY69dG6QnPUPDhMU_S_Mi1G3MFFq9Rvgzm5l_70qwwaTjimG1QRd9NvhfP-lYkqrCmSHMc2R7U2-OhOsrnkIdxMD_UkRf49yjECACdsWh75HXOZAut0Qta_EhD2vpYdkUh7hdKQuQOB7OASGhQ1Jjurmx8fEolpDYffXmOHUlXDkg",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Stołeczna 21, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1353839,
+               "lng" : 23.13362
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1366230302915,
+                  "lng" : 23.1349147302915
+               },
+               "southwest" : {
+                  "lat" : 53.1339250697085,
+                  "lng" : 23.1322167697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "14973a10cc9d0fe509ba7c1b97505dc4503cf835",
+         "name" : "Galeria Smaków bistro i restauracja",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106349275593583853390/photos\"\u003eRobert Włodarczyk\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJjvA0StI-vXLbqDaKq9HiPPTIuNmJThwSnjo-vAjm1XGr4HdKwf0wjSlaeSO0_f2DbhPmNMW96_rJa_hNRlEFX3GV7daU71Hf1vtbKPFG61L0S3A6CyZ005BzIcEtrlhWf0BchRZwyJgy9udwkoWBsHxoN61LXXOUTkSO4Dn78mEhAONa7SXS6U3lUjiGVv3KFVGhQFrn-PDRFVcebnpqrwMcekkr9V6w",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJVzip43L8H0cRvr9JNBPhaps",
+         "rating" : 4.8,
+         "reference" : "CmRSAAAAn2GEJhNsXneg3MwEcDyocrCBzFwcQrQzGqCncBWpy2Epv_VKSr6lEZ0jwckuhNyGL02lv7fJbTav8gv78vU-q65UOO0MUSvhU60dWBxywPmXzx-XSuUlr0PfygkgZ-cxEhAzqKgBFjDbF4-7psypwnf2GhTajuIhNWLNejSDapC95Sb-4yJWPA",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Zwycięstwa 8, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.12828,
+               "lng" : 23.17885
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1296289802915,
+                  "lng" : 23.1801989802915
+               },
+               "southwest" : {
+                  "lat" : 53.1269310197085,
+                  "lng" : 23.1775010197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "8895643196f8d25024779bccaa6518be76a3ff8a",
+         "name" : "El Bar s.c. Sielicka G., Szelestowski J.",
+         "place_id" : "ChIJLQhJXK_-H0cR2-uN-uq_Tgg",
+         "reference" : "CmRRAAAAzqL7lElcvAscJsTU-M87olxJg4IiVjma2w-UGCol1LwNlGI9r2sItnhfBcJMtTiCy577rw-k-ZIMrykiUbLoWMlXO6MgVmaPEetKEt-9l0kStCVQFYXvWFK3iaZUmJuQEhC4sUS_ZmBED25x0b1gS8XmGhRVzsGVyP6Ghho79FzQQSJTNYH4dw",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "15-084 Białystok; Orzeszkowej 21"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1540389,
+               "lng" : 23.1632405
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.15518668029149,
+                  "lng" : 23.1643748302915
+               },
+               "southwest" : {
+                  "lat" : 53.15248871970849,
+                  "lng" : 23.1616768697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "bf0a2494ac860b875fdf5b45b5d5fe6c3da32ad0",
+         "name" : "Dołżyński Romuald. Bar",
+         "place_id" : "ChIJgzNZAzr8H0cRLNV0hqOaXgs",
+         "rating" : 4,
+         "reference" : "CmRRAAAAWbpdyyByqtB9OZTdMfNzA729BCtBYAE38_1bPpzHDdgLCswgfsS01SZUi_mWwene4KLpXgoKKxetRFX94Em_v01aNHFtPcjvJ01aqv4SNWXUdZNYsErbksomVycgTonVEhBMzDI1t10oBpfNbHhzrwzPGhSOiw4cPUh93ANkkd7tqyrt0eq6FA",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Generała Władysława Andersa 40, Białystok"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,720 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCBAEAAP5dKPJyLg5sI9_SsCtXOQbyk1G1Y_mVtcNtpAMibv3wtncBV2VFUoXcLiu4lE0kJlMtdj5KDAYp81gFBX4MYjI3BiZIP-tmo_tVbDz6J7UkMGNwjGQwvw5A78Lss2rPxuzvhjycHx5M-dNKjoxlmEkEpXgkOsEBpm8YqxNBVPs42i6ZdT2FiOhlVivdrgXL9b9MprtkEsvrlX0rAWhZFEZZf9OcgGlWzaJai1wPHAX0CNm4FtKgd2HG85vryq-c-hrs7m-tlRZCqUe3HoIgWlqXFRUWOJYrPL57czNHUSDtT9N6pYvfkbFfvTtZsQexVF90a1lGRivaRQ6eGIHYQr_POAy8zRFF1q5lATnFz750EhBTIIRBa-Hk72HTZVfjiBVlGhTKovDV1RQRCk-7TRuXoa5RdI1BOQ",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.882343,
+               "lng" : 20.6216201
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.88364858029151,
+                  "lng" : 20.6229617302915
+               },
+               "southwest" : {
+                  "lat" : 52.88095061970851,
+                  "lng" : 20.6202637697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "f1afa3ff0c1bbba99179997a772f002692063a33",
+         "name" : "Hotel Baron **",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103358037567261844838/photos\"\u003eAlexander Nicola\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAIbCcJipGRFyJPUA5YPHKznxwmDwpKsSDwZQ6ElQbpQUEBuD7HsrMSlLg2Zf16YMc0-mbnz0ffOj1pWKyJcdd7kyHdBulrhE7w5xj_xmDr-ulvCpsIHuZCfUu_FG4b-Rtv88Qjr09Pu801uEdWy7Cqa-W0h92uWkKuhG9RRuuoBrEhB-KEOz3hheBCwe1oGIokhcGhTrtYPFHmUY8eqgsimh9dhGPTbdSA",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJo0A4RqQuHEcRZBcTMrYH-EE",
+         "rating" : 4.1,
+         "reference" : "CmRRAAAAy4jgFvfqIlMeB4pKSJuhs4xsb6kXIIpwFzNd6BhnAr2q5KN_-mxhnRgAVibFwh6sLPth_dlQqCpV5IOm7Jdnk2XnsdTAKoHKvZyfQeF-mlCswsVkqEE6EBuuq6owtixqEhAhwOhD_pX30FThOJxK3qb8GhQjkXuNkun-88mYcwRqS8AM2_LbaQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Śląska 11, Ciechanów"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.25557,
+               "lng" : 19.890528
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.25691898029149,
+                  "lng" : 19.89187698029151
+               },
+               "southwest" : {
+                  "lat" : 53.2542210197085,
+                  "lng" : 19.8891790197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "418176d34206b14884e47631c7053f135540cf6e",
+         "name" : "Hotel Welski",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1151,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104853385156979938398/photos\"\u003eHotel Welski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAA2D4IQm1ov1JLdu8Buqc8q-ySQ6Ezt6xHpVJ_SufiIF619A0GyESrMkEOmDdpxTpHkDSa31GcSKTF9zhTf4Q856C5oxLuWIcHyoI_gam-e_Zv9D70jQ3sjHGUN862DgY77VsFWNYw1_laxPDge5RQyaci0RlTo2-1kWXT80EONKEhAx0YEyDGlWIuj5SxHgLpjHGhS1jhS7x-M6FYTtksOMIgyD7ChVOA",
+               "width" : 1153
+            }
+         ],
+         "place_id" : "ChIJEyaQyLoHHUcR0nkrLQgTu40",
+         "rating" : 4.3,
+         "reference" : "CmRSAAAAXxeEGatHEqD6NzhmI-iKWoFm78Lw-I0uG9Es1b5wd7Iftt2b3J2Y4qU46l1i11O3JaviV_C7aQu1ivApGI_dIeULAlR0Ik4KGkbzkzIQcE7y4wWtx9lbh2uLcV86-kkqEhDCe0Bo8H2D6J9kU427pjVHGhRrk_z6uif67HuC0IXt3WV-bqnExA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Cibórz 1A, Lidzbark Welski"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.8676855,
+               "lng" : 20.5884165
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8690177302915,
+                  "lng" : 20.5900213802915
+               },
+               "southwest" : {
+                  "lat" : 52.8663197697085,
+                  "lng" : 20.58732341970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "fdf2f28aa4c1ecbf942f740162f8537420019167",
+         "name" : "Hotel ATENA ***",
+         "photos" : [
+            {
+               "height" : 1360,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114349775289703652984/photos\"\u003eHotel ATENA ***\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKKxCihQxr86oulgRv7OsQfOaJ35KEhr1P8uSgM9unfFcVPnFR2c-93XHo6VVKunkQ0Tw32dk3gh-FXH3bCjU3EJGf_hcwWKpdf0zDY6wX15xAXpK9fzro_9EGE4wyU4IDwod2qKsIZ_Kw5f7MN7R221OAtggnJKXZ0Qve3OIP3EEhCwK9r9-ckDs9u7fDPaXz-QGhTPjNstx04DLnwCOATKfe4Z8h_DeQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJU7KG_OsuHEcR2gEJHhDYdpE",
+         "rating" : 3.8,
+         "reference" : "CmRSAAAA-TEpLYPxC9IwgzoY26b60TnkHLMhRVnANyz_Jj7BDAMAp7F9_suJGibEnXr5xU1hnGrmL_kKMU7h9w58kdgB0gD_uagVik7bj8IWEgwYoQxfP2Y0Qpb2XCeS4JGliKZGEhB7EYW_8OHtenjMI1qyoHRhGhR9t-LnHhG6TAxRMeRZkF7XXSJrfg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Maksymiliana Marii Kolbe 76, Ciechanów"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.233398,
+               "lng" : 20.18041
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2347762302915,
+                  "lng" : 20.1816885802915
+               },
+               "southwest" : {
+                  "lat" : 53.2320782697085,
+                  "lng" : 20.1789906197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "2390f723dd4b1b0ce2f7a01a668c3ac8cbac8641",
+         "name" : "Hotel i Restauracja Wkra",
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117782482883236274260/photos\"\u003eHotel i Restauracja Wkra\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAE0miluhtwDkdQMkZf7HF5jEDQepDE1FNrvL6IsDxA56smEjGDSDz1olwn4HPRhaTItzK8JMZNkmCOC--h1-g635ze4bpHMvuopPxrufcRTILzWW0_Ogoofly88tSePnlofcMSGO1dAR7hI2gdHIUyJiNFvHg1oBwicDs5FjzvLpEhCTO_LPFuXp7iP2SNk1ZI0sGhSfuESoPV_9Thrs5SN7JbnKk7eBng",
+               "width" : 1539
+            }
+         ],
+         "place_id" : "ChIJqwbBPPSvHUcRd55_M_suBTE",
+         "rating" : 4.3,
+         "reference" : "CmRRAAAAzkOQzRAYQ6DX_ypV8GPwqiUCiANYWfj1vvk8TeF-wOyo5xtxDO4VVh6rRpZfh1pqFKdMcsEst3eMjgSITdRImzP3A74wR1JK8nDHlMwZGRjHgKFdqnggvVXHpLzl7ekqEhCMmhu3MprbPTLwq90KOnUsGhTLctzBNplM8sWPgu_tSmnxz92ihQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Zamkowa 2, Działdowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.196509,
+               "lng" : 19.657529
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1978368802915,
+                  "lng" : 19.6590456802915
+               },
+               "southwest" : {
+                  "lat" : 53.1951389197085,
+                  "lng" : 19.6563477197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "fe7caabbf0abe38d0473724906fed9dd19dc52d6",
+         "name" : "Hotel Dworek Wapionka",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114556106700463254101/photos\"\u003eWiesław Uberman\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHqbUkzkfggwJHesehehLu2tCKP3JOB6revR93UiCqwAvzR-bKqIRXJhCbW_BDjbZ6v2E1fBe7dTs1k7cVU6TjIrxO-S7vmwTMRggFSGnQ7xbQuisbZsEuQ0pSUO-t-xEVGhRVIR3Wpms-X9CYj4hlUQE0QDKhGfRKCJmiYrRaDWEhCJkpKl9511ckVSsTAYYG2eGhSI1LrjW6J85fY70yR6O5QVkO93qw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJs-nkyh4DHUcRz2fK4piC8qI",
+         "rating" : 4.4,
+         "reference" : "CmRSAAAALjytnTWBbkrAsLmv4rE9mJmYhJWrs74tQBRP0nrHHDCq1ysyj_AL47aIUlMblJSVzk1RSi8RtxO5I5qh1G_m33EJ7eQNpKzcV-KdFGjG0g7ZpGPXCfdhO4oJGuQy9kBQEhB-hP50Xjv0VukGhhhykJcSGhSQemir_OQP5LYb5Ratfrb2cDiJ_g",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Wczasowa 1, Górzno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.317697,
+               "lng" : 19.558324
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.31904598029149,
+                  "lng" : 19.55967298029151
+               },
+               "southwest" : {
+                  "lat" : 53.31634801970849,
+                  "lng" : 19.5569750197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "621ae51296367127543dc1cc476daffc11433b37",
+         "name" : "Głęboczek Vine Resort & SPA",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113669805131461875423/photos\"\u003eGłęboczek Vine Resort &amp; SPA\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGytz66MnXWxN3wQa9h0I0jCM1WCzC3A0yZ26qGrcItEdSSAyQs22m-kwRDF_8Buon3l8eN6LkTMSqSXg7kTB9faPxCIWQ98LTGEcYyiXe7-rNnsMp1MXFinUtD6c_pUmfDGdQGnGojLhOEFMqlAW7drOoT90akaz5XLay7s_Nq-EhBEj_cpLntFv0p1_34Xz5FBGhTZpo0dWFCwJ9nIGerngRTt6jEhtQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJZw7e-osZHUcRfTiO1VFs12s",
+         "rating" : 4.7,
+         "reference" : "CmRRAAAAa7yfd9SIOjouQgTUcKYywRnM91RommbelHz1eQQ7RYdHrIoJZD2yunIazUwV_LTu9oIwkspVn-vqOHdy8tl0iFhsR2PouPR4yDGRYkBqqmodJHhTpE1fzNZlWKre65QUEhAWGBHMukK-NAYw9dYUKnp-GhRzdvhOUS4Ot7JxmsXYb4K8w-EKTw",
+         "scope" : "GOOGLE",
+         "types" : [ "spa", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Wielki Głęboczek 1, Wielki Głęboczek / Brzozie"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0175528,
+               "lng" : 20.884527
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0188996802915,
+                  "lng" : 20.8859576302915
+               },
+               "southwest" : {
+                  "lat" : 53.0162017197085,
+                  "lng" : 20.8832596697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "8468f4617a7465b36a7f840a93f2cae2cbdd08b0",
+         "name" : "Millennium",
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103677512955140239972/photos\"\u003eMohamed Hussein\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAG0vmtyRiQkT3cPP8p75ad6rLEEAqobQXlgz2vTD4lhX61UHN-C3UJTHQiYL0_sBWp1cxsjie1GZMJCRLkmkP7JuTMsuytyaV4vvjpJM0eo6htRJTBX12yCV8I_MmZ9T-ZKADcD8VPImrQXyr7pXX9191KEvUVuKJz7V2E2mDsiREhBnWAmbbuiCI3NN3UZykuoTGhTse9PbP-s7FeQvUMnAIrvsibqQaA",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJvb1_hv7VHUcRHhD5EPkTERQ",
+         "rating" : 3.8,
+         "reference" : "CmRRAAAATbrU2HS4Y6gPZja8O9o63-REqbKj-Ypm4o2lP84HCtiWjbmX7x6FjeoLiJxYGIGS_731v5QNrfcbTLARAa_NoUuMbkXd-aubQCB-r277Z-X3f816091s51NI3fE1lE0vEhCV9avXbSofYibx68Spf9kBGhQOCMK47DssaqwXYxzD3GOvlecuKQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Leszno 4ab, Przasnysz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.2375658,
+               "lng" : 20.1798222
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2389698802915,
+                  "lng" : 20.1808794302915
+               },
+               "southwest" : {
+                  "lat" : 53.2362719197085,
+                  "lng" : 20.1781814697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "76e170565c1f01cc643d78b4afaa7e9a37a62a71",
+         "name" : "VARIA",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113507730076097107007/photos\"\u003eVARIA\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKJJVtBbyqcUjZIB7jAuGUTzwIW9ywudnFfXBT6uh9Lc-f5lni1RU1ry5YysYbJty772ecVK6sobaVFeWnAjYtM_yM32Co1tkIoJpaXPqNu8LgW3VUFzHJ2yL5WLazrzuP00dOjVJs_9kuXX9MIX-d-CJdEVFJl_kcvjKEgE9-cCEhB2FXOI1m4malGCTPFi4tB_GhQMGqKG5A4HRKHhKfiIZIKWBg5GmQ",
+               "width" : 450
+            }
+         ],
+         "place_id" : "ChIJJ_s7h1-lHUcRLYPaemI3xxs",
+         "rating" : 3.1,
+         "reference" : "CmRRAAAAHYmr_YeAijNBIW1DnqWT8nhp0Wn6SAZpAav4YpOKdxQyBvyZjZQ4uqHYbZYaI0AYwho25JnGBpifo1FWGy0InDUZasThFDUIv6DSrAnUvglL4pj7NCvBXRwybpDyExk5EhBrQz7gXBZ1Hs2VtWvl2-JqGhQqcdiaJ3JUyG-91F1Qw9OuVdJHaw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "lodging", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Generała Józefa Hallera 30, Działdowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4152589,
+               "lng" : 20.0617963
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4166078802915,
+                  "lng" : 20.0631452802915
+               },
+               "southwest" : {
+                  "lat" : 53.4139099197085,
+                  "lng" : 20.06044731970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "23431970303fa652ce13e11188efc04f7148a22c",
+         "name" : "Ośrodek Wypoczynkowy Inter-Piast",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112744522829971854341/photos\"\u003eS G\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADct2Umm7MWMiyrw80ftaAR48uxw6mPb_3NJspI3DfmjD2nfAXm0VigMy0xdXLw803w3Ft-QbVfJF8zzZ_pIVM8s-JhYwfb1MUDpYWJHnU6UnrugcZ8yk2XHsdDNWRrNEa-KJ7iNixW_05RlykSvu0Z7NIrbi8JCY2Y1PLkn3EbREhC2qHPeE1SW2_LUrlTuahWEGhRfetaA_Hxt0_Wsu2DPDIVpqhT_aA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJMU7vcHagHUcR0zl8lGNfQvI",
+         "rating" : 4.4,
+         "reference" : "CmRSAAAArHQ2uIblHCqjFEhndV_3BL-spuK_0Fhp4WxDyuXdOmU2Zct63rD8xC7yf7Tav-RabWOmJrlcgNpK_YUsj2JDpCEIPU9bBhGa5MpZ3RC2AITCQeIt5bCnKKaALP6MvEGOEhDZlAyFC_6ekPWZ4KEZ0Wi1GhQ9aqAtvj2CuzA_oHzUGkuvJdK5EA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Kalbornia, Dąbrówno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.8733635,
+               "lng" : 20.2913672
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8746744802915,
+                  "lng" : 20.2925951802915
+               },
+               "southwest" : {
+                  "lat" : 52.8719765197085,
+                  "lng" : 20.2898972197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "c2c9481e62bde1138581eea473809a8483d21f6c",
+         "name" : "Sunset",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113682384085128153276/photos\"\u003ePitoun Geko\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAACCReEyLnqwUP-i32l0kDuRIF9XtoGnQPch4kN0hPWxltgUf4u3maT2_012eAs68_NXTuvHVN-TVm2AetGLK3ireCOB0fAmtztZ944jOl8bgTHe8z77x03o4Y66wD7zr5T8ZSiuevujbmD_mEM6WMBpbj29QCFjAtM04P37dBuNREhDN-wKLsPBgIpW618sR1BivGhR4yPdIWyRlrJA2lRg496csoCCCMw",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ_9rhFqU3HEcRa_JAlXDuqdc",
+         "rating" : 3.1,
+         "reference" : "CmRSAAAAx4S2r7XuMPgvvXlWyxsg1Pj-vub4N0MER9axvHpmsGqGMFb3NqoGhHXmUe2xGYc5jiduLg-Tv1hDK3OHAuUlHm0-oWa-lamJfIp6gyPjIEMsgpJA7yLL0n6YI2_XFX1iEhBWEDNdJewHaQCQNNhuPlM-GhRWTE-w5vMolMva0ET_6PC7tE2yrA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Wyzwolenia 1, Strzegowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.244423,
+               "lng" : 20.23195699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.24577198029149,
+                  "lng" : 20.2333059802915
+               },
+               "southwest" : {
+                  "lat" : 53.2430740197085,
+                  "lng" : 20.23060801970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "04edafd8a2b40527e03ffe83810b39fb82e5582f",
+         "name" : "Hotel Działdowo. Zajazd pod Koniem. Hotele",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 470,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109596951569259833842/photos\"\u003eHotel Działdowo. Zajazd pod Koniem. Hotele\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJe3JLpRbtFwSQEkt8qXQ6Bl4u4jlgYveaCvHqY5B6QzqthS1ZH_0qPlPeS1qkAWsuXJkxjfFF2rKCVUfj2YrRy0t5oZMFxXSVfm5kvMWeWgQDQS3RchNqWLAGYpvJm71SnRm6epHtEY-V52J4210BWJVQjhfVqYswP3nppRW-PjEhCVKsBXFaiu3n5ccuYU_Bq1GhRNyDsCUDGMO18wUKABrOVfb6i1KA",
+               "width" : 472
+            }
+         ],
+         "place_id" : "ChIJ6WJmV7K6HUcRkxmJe2N8ih4",
+         "rating" : 3.9,
+         "reference" : "CmRRAAAA8j7Qnhc-nhv16Qu7CKSpDZflVAXaPDK-x1bNV0N2VpO8RYay5w4OgYzsWPMJF10cvjdFNM3kvfTc_T59Ftg7tPH_vM3tmQzagwRG5EkL0eAEjAjs3H6jp9DqO6x1YX9WEhAsQACkgdeNGQaN1lHH2epSGhTU3-14-EoaHUDWmunWcNx0EtuWHQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Malinowo 11, Działdowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.505172,
+               "lng" : 20.391166
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5065209802915,
+                  "lng" : 20.3925149802915
+               },
+               "southwest" : {
+                  "lat" : 53.50382301970851,
+                  "lng" : 20.3898170197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "224e5600d0976d0175d832e0353de42576beadc2",
+         "name" : "Rewita Waplewo",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111861958684522902064/photos\"\u003eLukaszW Kolakowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAeddrreEt8Is987kZ4NNSqd41uEotR0MSRdeBChpZD9YnsUxjppAaR1MkA3dO4-IzUlcGrdvZDw-hWuWpl_zqVa6epQkhXkn8KEqBfLrUDreup8mlgaXSWwV_p_oJE_9dNU-AAXYj3JBST-BxxxsWSTD11TiBQIh-ovTPmXVprgEhAvef52t-0v_Y4wmIelhfwKGhQPfnvr_VDo_f5xkytJ1jJWVbKB4A",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJC5dv2mWaHUcRo_SqPfJfxaQ",
+         "rating" : 4.2,
+         "reference" : "CmRSAAAAay6fWAbP0SMLuPIlDwKRDto9a6og1UTPE4XuvlzdD73I3HdXTqYz1jl2Z5E0OIabZTVjmAKy1GyfR_Hpz-2ZT9aoFNWYrYVCSS3TzqHNB5wgkzwXbJnnUgdb_IZ5_xruEhCvf8Q7c13mMZ5eOdFXW0k8GhR54I-mD1NRx9strkp5y19BGr2CuQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Maróz 2, Olsztynek"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.71479709999999,
+               "lng" : 20.4087353
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.71614608029149,
+                  "lng" : 20.4100842802915
+               },
+               "southwest" : {
+                  "lat" : 52.7134481197085,
+                  "lng" : 20.4073863197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "42390c47c264b9e53a753fa26c80641f08020305",
+         "name" : "Hotel BoniFaCio SPA & Sport Resort",
+         "photos" : [
+            {
+               "height" : 2204,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100073714737157353373/photos\"\u003eIreneusz Puciłowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPICl7kJP6KZsEr7oV80gXwgL0dXOj836KpKdplFFbivhhwCH0JVtu95_i7v19axnmdbjcyOXkhn09ZyqZSHlW0sXmNmNjwHhoiAR2qRHzRvhdX9oS72Kg7sZqD0nQwGCo4bpnZ-UWXH7RRa0NPXCRYuKqDq58Ykh5JGafXQDT2nEhClyH1w8Y0L6rgkTnc2fpWbGhTbpA6Gxg2rWM1K6IuS2wbMrd4DrA",
+               "width" : 3920
+            }
+         ],
+         "place_id" : "ChIJYyehBRgjHEcR7vIhZU6elok",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAAP079Q8JLjVYERXTwzh0E8RZVtVfjhJxW8UGlZ3NZLVEtxbsdNwGigj_whM4OWhCvceoWzMq2DGVpmynIm_sakXLaO74zMzLZYuNXBMsgsBESDHJHUiOdLd0NxnSdHCDwEhAiDBd9RwPIcD6TCSAt_ncpGhS6HVzmeTctt3qfSLMXpoiKb6NKrw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Kępa 84, Sochocin"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.8847634,
+               "lng" : 20.6020996
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8857018302915,
+                  "lng" : 20.6032092802915
+               },
+               "southwest" : {
+                  "lat" : 52.8830038697085,
+                  "lng" : 20.6005113197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "6ec7428b132e3e5ede083b05e50586d548946aa5",
+         "name" : "Hotel Olimpijski",
+         "place_id" : "ChIJo0Pjg5kuHEcRSph1oxG2sa4",
+         "rating" : 2.9,
+         "reference" : "CmRSAAAAIVciA5DTMqoHwd2INaolH-H_iSjG6CxumpbQf_eBZLp1dM6q_3uFHjkicfrKkmAm7LDbxerGxLy4N_AvKMENRFuYI9cJUbztkPnhAnjbOFzWHOS1kEG9MV2eM1uaRiw9EhDihNgNoxPshwO7Mxauj-SsGhRMqYl5CSTp983Qy6VjGA8YHLsCkg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "17 Stycznia 60, Ciechanów"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.83477190000001,
+               "lng" : 20.2648825
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8359982802915,
+                  "lng" : 20.2665986802915
+               },
+               "southwest" : {
+                  "lat" : 52.8333003197085,
+                  "lng" : 20.2639007197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "efaeb4dad5d650d10c5dd8f5a22f79923faa27b9",
+         "name" : "Hotel Leśny",
+         "place_id" : "ChIJRQFiQ7E5HEcRQqp4RfhXJhA",
+         "rating" : 5,
+         "reference" : "CmRRAAAAmqWR9cCHnfps7qplFREub6T6qYNSOaV5tGGvW_noSFLmmRFCCf0a_7FbLE2_2p3_iGr_DS9_PLWpt-0ZaPeBru9MkSynxdWfr2IsJdwP9IKz1hwQwiWPB3zBWiPNAhKCEhCGnJBOejvmU4eqdfa_jq-8GhRbh5Jr-F53OMktVRDzGNTN2ZJ6sw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "E77 36, Zygmuntowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.882601,
+               "lng" : 20.617269
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8839312802915,
+                  "lng" : 20.6186158802915
+               },
+               "southwest" : {
+                  "lat" : 52.8812333197085,
+                  "lng" : 20.61591791970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "1a01a4dcab75e811e9caf2d7f3fa00730a46fc6b",
+         "name" : "Qbatura Cafe & Hotel",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 528,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109786109787973397085/photos\"\u003eQBATURA CAFE&amp;HOTEL\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAt3sj3HKZI8mtlFJ7458A35BbTSRMMz6YlYFwQVBc4nZ_ywtylGPAQ1171H7SkkLrGNJ4OszYNrJeYAvlRYdYnNc2zHwmjKU8J7_TYWLqt7950cgY-hhw5IPjtuqZXT9NYTrRRVD279i3AL_-WSYU_mUYDGo4gU1mry6UiFv_kbEhAbte9qLZMfXUDPFN-H4jxLGhSmIef-qklEDe31HSP6tuEMaalkKQ",
+               "width" : 570
+            }
+         ],
+         "place_id" : "ChIJ64t5gaQuHEcR_wlzzauwD-A",
+         "rating" : 3.9,
+         "reference" : "CmRSAAAAc5CTD5132JlxKdzMxsZCbtPicSHed94XicNeDlIEodeeg4pbRYRvZdCtzp7f5GGQD6vQGwhhZRgc8T6IjmJgN1xD_yQxXhLqdOQix-j_fae5Wg8ihG22Ze0oi1_AFL9oEhAizB2YIAb5r-0zOB-kBdbnGhQg0sFy4rbMurKdlQA4gq1sn8wqzw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Jana Kilińskiego 4, Ciechanów"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.3546434,
+               "lng" : 19.7627038
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3559923802915,
+                  "lng" : 19.7640527802915
+               },
+               "southwest" : {
+                  "lat" : 53.3532944197085,
+                  "lng" : 19.7613548197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "0354950b5dc8610148fb0b28576e4b092b762530",
+         "name" : "Stara Szkola Trzcin 20",
+         "place_id" : "ChIJkZniS8sPHUcReqATKigTW0k",
+         "rating" : 4,
+         "reference" : "CmRRAAAAQaY6hWHmrXnKbikA_dP_j4iaRtWBUxBaJC5QRmtH_SkNuar_ALZSr_G09NMi9gxJS3SbcI7mCQmLM4Sv1jBp3iuN5bOEtyIiCYNfgYgWOWwQQgiVH44dqBSuq8aneksYEhCvK67x29w5Cw48PoEmNIGJGhQ7u1SAZdPNW1GLr3xqqQY-RMIomg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Trzcin 20, Trzcin"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.19514410000001,
+               "lng" : 19.6482163
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1964942302915,
+                  "lng" : 19.6493153302915
+               },
+               "southwest" : {
+                  "lat" : 53.1937962697085,
+                  "lng" : 19.6466173697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "be3a0930f7e21e99272bdd4ac07eff9a6f211def",
+         "name" : "Ośrodek Edukacji Ekologicznej Wilga",
+         "place_id" : "ChIJF2qZit8CHUcRGFk1m-R_zYE",
+         "reference" : "CmRSAAAA85QUu7QoxEarBWm7l7cvjjCOVfjoEYVFnFs5KN7NYkjoQnV06QyNX26MfjfxvIX3SL8WRPeiKAR6pZAI5YY7JeEZVds-KR_NeBdoshzrJxqDHNUnZIojhmeixwboe1VREhCcnCRnWlTrt7NwALpyI_aoGhSOsrolVEqY4lLLhrSePVuCGynbbg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "OEE Wilga, Leśna 12, Górzno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.9461162,
+               "lng" : 20.4858607
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9474651802915,
+                  "lng" : 20.4872096802915
+               },
+               "southwest" : {
+                  "lat" : 52.9447672197085,
+                  "lng" : 20.4845117197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "a33ae596b7bfd4a0932b08440a4fa78f79b07906",
+         "name" : "Uroczysko. Agroturystyka, pokoje gościnne",
+         "place_id" : "ChIJK0h7dU0yHEcRbK9Ah5N-jsI",
+         "rating" : 5,
+         "reference" : "CmRSAAAAh7UWlkzeBTHiFGfS96uKIDv1AIr8rbotDQQLpHLD4_N3KGphEmuLxcymJc5ZXjhnA85FSJP0kIw6TtIUs-SrDm27UQrwTbXPQ10Eh0SRVsJRVLa6quT1kJrTPWW7sdqyEhBJkG9pasG_2Twn38ZNGMwmGhQNOflZLQcpkKBSvZo-IDglnm5GSw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "06-461 Pniewo Wielkie; 25"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.11809339999999,
+               "lng" : 20.3681894
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1194575302915,
+                  "lng" : 20.3694769802915
+               },
+               "southwest" : {
+                  "lat" : 53.1167595697085,
+                  "lng" : 20.3667790197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "16d71e2c07b7b3996d1d88d36a250e20c711e73d",
+         "name" : "Ambrozja. Hotel, restauracja",
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117197293402161120783/photos\"\u003eMarcin Piliszański\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANxsTSE4zj8Jh4y5u6zDxVoP8a7s3WXiFTil5_rsRaVQ_jkOCij1vJ65K9_pVYvD-V3y_tN7O3BCyGaC2CDVEnGPHwha4yzdfOQ0kusGTy4JJrBQA3nHjgvjRMBbyKSk1TGTWVuFGoadvzbEVu4SVNz5tTI7-pzRVEV1ZSSNjLU0EhB7ISQWv6ntaJyJp2hoKxCQGhSI5LsMojuem9ZUyvnwzuB-5JpZmw",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJvTT4OQu2HUcRDqaZJAZ3c_Y",
+         "rating" : 4.2,
+         "reference" : "CmRSAAAADJEOASk9-3HnVnt3AmKJQzRDoyUr2w_zksZm4ncdC06XtjJIH2rqSHPlhWKIAQeSAjELS7m2hKJmDiwt5tTtquSgBrxpJa3rV3lAmBxKOEtUiPOXSdgr1nVeXovHlM0_EhCUHBmOUA6q3TLKUcaeQKMvGhQn7pKyDz99FW5p8lSGhBru4N8DPw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Zuzanny Morawskiej 19, Mława"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,106 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.75407089999999,
+               "lng" : 19.1997224
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.75535543029149,
+                  "lng" : 19.2007948802915
+               },
+               "southwest" : {
+                  "lat" : 53.7526574697085,
+                  "lng" : 19.1980969197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "19c318605552c2d6f379ca82412068b839fc8bda",
+         "name" : "Prabuckie Centrum Kultury i Sportu - Stadion lekkoatletyczny",
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116297371029783736785/photos\"\u003eWojciech Pietrzak\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAP0iqSMnkdmgtOYBjSv0Q16SLK6NrcXb0qlGR05szV0KIB9GAUv1hVTNf3qeV0J7wrO2dmfilYBlMUFHOmcPG4BkH_rMliMduV9_MAtYRmYuRPYhgmpz0-cY3aUBPCnnmg_979BAtO-iuiMVHu1Zx0AWjVLgclYzkZOGFa35mSg7EhDtUCmIyrygLlCTz_aqTGOxGhTA7_mTU8yvGMJjP1AnEJrZQyPk6Q",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ3_Z1AVBNHUcRHO7DqS222X4",
+         "reference" : "CmRRAAAAtFV5U3G84IYvJER457X3V1OSHwgXqCUhVGCJd7NRzd09ReHuA5cqE1RIMjMnc5TrGz1MKBujFe2VTF1d_FCNed7opG2N45EYNeUuRuWEKHwjOr5VYP_p-6AI7PTV4nwUEhAzcPmVEicBdklJN0sy1FslGhQTyhxdILt7fkanMhgy5y44JR_CeA",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "point_of_interest", "establishment" ],
+         "vicinity" : "Polna, Prabuty"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7400124,
+               "lng" : 19.2095159
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.74136138029149,
+                  "lng" : 19.21086488029151
+               },
+               "southwest" : {
+                  "lat" : 53.7386634197085,
+                  "lng" : 19.2081669197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "958865717b45c2eede27c8033c02056b1cf03d54",
+         "name" : "Stadion lekkoatletyczny",
+         "photos" : [
+            {
+               "height" : 1344,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110661417739594977743/photos\"\u003eАлександр Коровицкий\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPTmcq3E31YCvVzDXZt8Ux52ssG4f4rY07sjiqfH0lEt8XEqC6Zh08O8GX7OijmUoTdtlO1SHkwvY_3BcpAZ9n9_-vRnNx_85FiUjIjq5BRF_NlfXe1AuhjrojmSaShhHnDb22qkN2LGBrGdWUQDgYfV058lwXGeKxUaXa-qPGy3EhCXUgStPSxc17IFc1jiauQGGhQN68yxCbwZzWraB_Pf05L9xfca9g",
+               "width" : 2240
+            }
+         ],
+         "place_id" : "ChIJyxVDSBVNHUcRypnFdocvQYw",
+         "rating" : 4.8,
+         "reference" : "CmRSAAAARtjTbth_Aq8r11hQbDq2Ah2lBijHre-qzJ9p4r2sPndtk3QyToA0prHPBgz5r0VsyLFS96jrabM1QeOcUUIM99ZPeQTi6awWbKgVmFAlx-gGlLAZxnIPN83qfKq4H-8BEhBrew0FPmLWiX6Gt9vIln4OGhQI9MA0Skg8Hs1Ec47M5oUfwKd_6g",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "point_of_interest", "establishment" ],
+         "vicinity" : "Prabuty"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6359333,
+               "lng" : 19.453665
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6372822802915,
+                  "lng" : 19.45501398029151
+               },
+               "southwest" : {
+                  "lat" : 53.6345843197085,
+                  "lng" : 19.4523160197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "87dea88f51dc54611fda8a00a2e09d91ec242022",
+         "name" : "Stadion Osy Ząbrowo",
+         "place_id" : "ChIJQaaHBytEHUcRCRehwNhusG8",
+         "rating" : 4,
+         "reference" : "CmRRAAAAOHPYLZaPLrz9gZRVfgmX67iyYfryp9waCtOR1cNDl2-MoA4p0GhuGbytf2WD-rch6v2_rGHqiYYFewMF2s_R7kKqzmCOtMVsYcTFp13a675HmsyBWszU9H6bx6UhbYgUEhBalthP7pI8F17ndQBnGhJMGhR06nMNLvAa0mp0Q_K9RKFpl2u77A",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "point_of_interest", "establishment" ],
+         "vicinity" : ""
+      }
+   ],
+   "status" : "OK"
+}

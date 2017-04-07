@@ -1,0 +1,697 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCBAEAAPvcDV6ServmEGkTBUt2dh5TxVo0A2zcwwB3QrypczPC9j1m6XsBSewBU9SNFvUc4L181I9Op1BdBOHNN5fU-obR6WHEo3DJjG9iikrYdA8OFtu8145RoHLfTWIa8glr-tZmUL_yKN3yGeUiBZoCkU5TWyvfoy3tGNKgA3nFA5OaSnLIfMTPoohdeObLX0z8qMuVS509CyfC7K2QWDz9qUKM6x0SQ21dzsImYq6bIbUaMDtTM41-atUWvq3Bti1DvbWb0XkaG6IhcwxnS8r4JzXOyqiiii_4AyZKKFqAWovJe5FF5HhT_4laLqzv8B9R1TEw98aYpsh6_mbScmPevGLcH4lMvJb_xeKPwfNDM5IKEhBHFeQFyU2mLOSA86tw9aH3GhQB-xrJWIcQhu3MZXGxRNeYKnMvVQ",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7031765,
+               "lng" : 19.0717184
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.70452548029149,
+                  "lng" : 19.0730673802915
+               },
+               "southwest" : {
+                  "lat" : 53.70182751970849,
+                  "lng" : 19.0703694197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "c281571a22d36b6576951272dff8294abbf5bc2a",
+         "name" : "Zajazd Otoczyn",
+         "photos" : [
+            {
+               "height" : 2336,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102757169436404483574/photos\"\u003eDaniel Ochenkowski Ochenkowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHU9gIjEY4b_-_dXD5hpvYtFdaEgPA4utBbc0_WouSP9nv-7VLjESMyvgN--3DU1FY2n0mtlU6wCBQ56dMNYgbgpsTf52Sd-xP3oBfW8NBHQczeRDOnZ21moSOORT7fv_vApILJU8iu4I-D4MMpniN8fVYakoURVfBRnFb9Jwe46EhBl6YKXvv7B40Ed90LrLjM0GhQMDXRJYxDKpjuCkzJIcAZ8FpHe1A",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJqSb3OIKzAkcRj-fnsHTDLYA",
+         "reference" : "CmRSAAAA-Nr0v54EYewNK5WAUZVchRVWan4KpvFcDjJpwMp3B5ZWsBq3Y1oN3e0FIgtmAbQ5Jyk0Nluum2uyjbcQDomco0jwqdmhvHH1hYwhvastTW8e5h_-gKoSTyhbDDOs9C_hEhCt2i7V5ku2rvF6WQ_Wt9rJGhSoXGzD-MrZ9vBEogSoXUUwjudOIg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Otoczyn 33, Otoczyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7175196,
+               "lng" : 19.1895101
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7188685802915,
+                  "lng" : 19.1908590802915
+               },
+               "southwest" : {
+                  "lat" : 53.7161706197085,
+                  "lng" : 19.1881611197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "a8efc215ea36619e171c3b0af723aa2d5bedfab2",
+         "name" : "Wodna Farma Sp. z o.o.",
+         "photos" : [
+            {
+               "height" : 3840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115772612653183444069/photos\"\u003eGrzegorz Pakula\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAABLqIrMtHTCmOXzPf56LHbAky1TcS8f1QJ5Og17M4uFbnu4pFzlJ1Sa-AEniZRVD9nAtpwdGHQBExSbTS3Ubp2zTj1V0tw4OIsfjBbXijPixEZ-WoaXREtRUojSPicQGoD_dAcVqh5GK5BMme0BFGhxqMNI2rrUk-jgKpfw_plYSEhD--226HjXFIuwrg_4x0a0jGhS0gRZGOeVrSflWE1Y1nZacyh2guQ",
+               "width" : 2160
+            }
+         ],
+         "place_id" : "ChIJsfoYq5RBHUcRLyvSvhbP17A",
+         "rating" : 5,
+         "reference" : "CmRSAAAANToJHT9AvS4pQ3NHEq3XIF6-9abzk0rvpsT1vDYy95HlH4yBgaZtIHo6GXPuRtx8qpfFYrd_G4JgHTVLf7bmSmPJHhq_mF0T47PBbellM4dSyMpRcR3dQyIK8IdMXK-6EhB93Jw2Xf0tJqubh3rMnW-SGhQjv7G5D_sz_ZYQFqlVkdrP0ADMag",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Kołodzieje 22A, Kołodzieje"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7197144,
+               "lng" : 19.1775445
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7210633802915,
+                  "lng" : 19.1788934802915
+               },
+               "southwest" : {
+                  "lat" : 53.7183654197085,
+                  "lng" : 19.1761955197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "7b1b5a15fd6200cd6d604f824b25951f761ee285",
+         "name" : "Stowarzyszenie Gospodarstw Gościnnych Pomezania-Ranczo Anders Stanisław Anders",
+         "place_id" : "ChIJzUNEht1MHUcRHhMN02IvPMs",
+         "reference" : "CmRSAAAAwGy8Go8e4uRQyVxU8VjkokszuyEjPuLgXGJ510jq8XGmdFrsndlg2z6S50wsETACUDAzXgy6S1N1pauQOclX8v7snPzmOziahgw2sy_URosYv89Y2CIJov1Lva8htlwZEhCjk6rjgQiIQjlS0f2o8DN-GhSak1aOanhZATtLZfFm_yo3twGO6w",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Kołodzieje 16, Kołodzieje"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6798478,
+               "lng" : 19.0512425
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.68119678029149,
+                  "lng" : 19.0525914802915
+               },
+               "southwest" : {
+                  "lat" : 53.67849881970849,
+                  "lng" : 19.0498935197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "08b8b0b860591ea172904b1ac5db8b6488b55d89",
+         "name" : "Strusie Gniazdo. Gospodarstwo agroturystyczne",
+         "place_id" : "ChIJf3WPIvW0AkcRfCBVpfW1YS0",
+         "reference" : "CmRRAAAAX9UtdRbOTakzay_Z4A2u3PskXKsUexpK8ZHhWL5jcpdIAdYlht8TbakOaCt_cr0eqzrile3vKe-fyWrt9PqXuV75yibOG4lUiFlJC8NVADKGcc0Oe7EBTPHEnhh_lHpQEhDQUHLxYHbrQfVHUhK00lZvGhQvJ8wwOu7OVfH3wYGxm5p3Z9lOdQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Wandowo 55, Gardeja"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.820805,
+               "lng" : 19.2175349
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8221539802915,
+                  "lng" : 19.2188838802915
+               },
+               "southwest" : {
+                  "lat" : 53.8194560197085,
+                  "lng" : 19.2161859197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "74d9896e5151600dc58c28de4a589489de37a508",
+         "name" : "Hotel Pałac Rodowo",
+         "place_id" : "ChIJa0UIrc-sAkcRDs4doCUwDR4",
+         "reference" : "CmRRAAAAcW0KzIyleDmGBowEIPpTmPi8eq9qgSn46gl1qbSv4BbQS4ayUFWhhnLR9SRccJ5BKGX_PZ9wln3HwquPN_VUROUBx-sfUp21YwfchtxUAcqk4QWABQ2nbzPRbg5l9X2pEhBTEfB_NyzAJ4b4IW7KnhwmGhQHablNkWQc7VTrBSSmlBpTVYqEdA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Rodowo 27"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7349918,
+               "lng" : 19.0178292
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7363640302915,
+                  "lng" : 19.0193093802915
+               },
+               "southwest" : {
+                  "lat" : 53.7336660697085,
+                  "lng" : 19.0166114197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "111461b707c37cd0589730585108816ff13ad62c",
+         "name" : "Gospodarstwo Agroturystyczne Dworek Myśliwski",
+         "place_id" : "ChIJqdwUttSwAkcRGehTwZGpEoE",
+         "rating" : 5,
+         "reference" : "CmRSAAAAa0NFYGKpTgTkWbKbaO1fWS5V7idrVvtii3w0I4CfXpHbQsEc28NByw5LuTV5eFfR37Gp2m2RxF0ttnAisWIaKqGDkNVkmHL_ETvUb69Kr8ukQp_6UqIvlNs7c1Ieiv_xEhA_qM2aYePrDf-3ayD17q2TGhSIYRqnPI1UPBYQX2WF0tMZCJ7ZZA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Cicha 8, Rakowiec"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7169932,
+               "lng" : 19.3340802
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7183047802915,
+                  "lng" : 19.3354389802915
+               },
+               "southwest" : {
+                  "lat" : 53.7156068197085,
+                  "lng" : 19.3327410197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "fcdbd55966221ec4fd66a636bb7d547ae4d643ca",
+         "name" : "Warmianka. Hotel, Restauracja",
+         "photos" : [
+            {
+               "height" : 3888,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114528086629950819099/photos\"\u003eJakub Romanowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAB8mh8057ngSsRU27qGMLJ7SrDcskiWNrqwCaxL153eIk7Iwvp4mMhThKr6qd26b5WPZaqBkAxrfFmdZ97fZfyItCUJX9LTCI0UmRPHsbig-X_ktFGwOKDxsicLY1FDs0DiASjlkQZ66LtFnCbG48yj0yglYX-o3z2_Sn6jUktZ2EhCjv9uwWZG31mY5yKhXog9CGhRuvYRpyow6_FKET1DkHjdc7IHZPg",
+               "width" : 5152
+            }
+         ],
+         "place_id" : "ChIJF4gqykFOHUcR3uL5m2Z3cAU",
+         "rating" : 4,
+         "reference" : "CmRRAAAAhAsi2lp_-nAw6Eygsf1xGDIY--SYdOve8piUnZHI8ZxwUp4Nfxe5OWX1kyOWaaA3HKoNttpuEPxPEO8F7RnrqRyIEYH9xHHZWCM6-L9rEBw8VFxQsLkYw4A8sSV95RXkEhCYsvzefhSLEcjxZks_LNEEGhQ1ycAEHp55jqRYka_GjdwP5CcO0w",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Słowiańska 3, Gmina Susz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.65236399999999,
+               "lng" : 19.12533
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.65371298029149,
+                  "lng" : 19.1266789802915
+               },
+               "southwest" : {
+                  "lat" : 53.6510150197085,
+                  "lng" : 19.12398101970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "131027bf17f600fb8056d194d3824becb6dc70cb",
+         "name" : "Pensjonat Przystań",
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109098296425810674340/photos\"\u003ePensjonat Przystań\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAN35SCbIP1WuOVp2fTFqtkE_PFrwOKWSb17wVYSly4yD56zPa0FuQBtv5enyPspDCh2Ja7KIgZdOlZr3PljWvGkcPwPhnh5zyZhAF8FllLB8iDt9dg3x8H75XtwXUifTfzvarMSezDt9K4fDsFFj6QuhvVjE-IUxfG3q2zo-vz52EhCy_FO43PtxrZUl3OZqCfWtGhT0l1lQMcNWZ8eNIjbOc34fp8QsMA",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJc6s4ZzxLHUcRTwhiYjWvoyc",
+         "rating" : 5,
+         "reference" : "CmRRAAAAEbFDTELXzFHH5ZX03nPRy23DLS-e-rpYsKQ_TNUKP2rMoGvOYGibTbk37Vc9GH8dHGZH2G9EMqz9Xl4vGBe56OySpswhsIBXPK9UcZtIieYdtofyPRUPK4Z1A1vO_nrzEhCARhQmvOsybOc-RV7OZySoGhTmu7BOCsUUWi99o8Mte2QoIQG8XA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Jaromierz 25, Gardeja"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.74788599999999,
+               "lng" : 19.229507
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7492349802915,
+                  "lng" : 19.2308559802915
+               },
+               "southwest" : {
+                  "lat" : 53.7465370197085,
+                  "lng" : 19.22815801970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "f1e2f338defc0f5b0f20c54a59d65ad6f643f68d",
+         "name" : "Pokoje Gościnne \"Bajka\" Bożena Jankowska",
+         "photos" : [
+            {
+               "height" : 545,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102216647977388983758/photos\"\u003ePokoje Gościnne &quot;Bajka&quot; Bożena Jankowska\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJBeP_xawIW6wEjVZc4P3a-4xN2f1uvbaVKiU6LNnohtvmMMW7inFnTwaWtrmNRWuIYwYtpFQAqt56K4jLd2JJuv39IOEPZ31NY9mMxMNUtL_r_HHmh3BvE9KAVGDRm9WGuO72j7u5KK9KYFOrxZIUpajCZ4wGgsQ7Bd-59SJAXjEhDBY1B7JCLxiBStDGUxoq1FGhTjRl90fKThiG6TmdaWWrxMhzVbWA",
+               "width" : 728
+            }
+         ],
+         "place_id" : "ChIJU0_T6G9NHUcRnk4aieQopyQ",
+         "reference" : "CmRRAAAA-BTJxglT60Pk0R0dLHmpeGM-PILFwF_v-0vOYoPUfuMLNMaItPp2vsMjHo8-DP9Gsw4EUXWPfZbDUqx-mjV-33Cht-IF2E_myTNhCxw5ndsHgnGvvqmSqLvMvnzJ9hHNEhB01xASn8nlgVGzOroF0S6GGhQX-BkCuB8f7QEkUdBoTkxGIzLIXA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Rypińska 52, Prabuty"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.674062,
+               "lng" : 19.2816997
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6754109802915,
+                  "lng" : 19.2830486802915
+               },
+               "southwest" : {
+                  "lat" : 53.6727130197085,
+                  "lng" : 19.2803507197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "6c7951624b7f52ff15005cf8574ca3506a3a08ae",
+         "name" : "Pałac Bałoszyce. Restauracja, hotel, jazda konna",
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109428584153703563164/photos\"\u003eStanisław Kucharczyk\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAN7mOwGPfoXvIINGyFsdz0yfi0r9lw8g_XtoNiGRZKE78AJrDmAxe23Bk5ZqpczfE_oP2lEkI3eZVGAOfLG9_S3fmc_t_qf4z6r5K3eG8nlR84CGW3iqn-PxF08h0QkJtv485k9RFLkDJtenOr-VCLnUFyZcfsfPO3AgrBZWbFDgEhAlawpn6QBC-R1mkyefPaIbGhSnWee-txPV0TaOHEP4WIdNhOCk_w",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJwWRyEaVOHUcR-TZMvEg7Xeg",
+         "rating" : 4.1,
+         "reference" : "CmRSAAAAX2ntpJLEPpiz_jEx0eRwc3yFBEwCao-iSNo-qIgJ8zEramWeS8lL-6kfw-5eLFPbfY8yrhcldePZkansOBSv8fwi3K3rOWEFJmeOdZlkKLOhq9mBZ8k1Wjd_MAsvIlhREhAHzHMbNWEaQZf4ZVRYdb-rGhTP6K4JiP7XVsDxtHi5iwh-hTYw9A",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Bałoszyce; 25"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.66433800000001,
+               "lng" : 19.4590254
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6656869802915,
+                  "lng" : 19.4603743802915
+               },
+               "southwest" : {
+                  "lat" : 53.6629890197085,
+                  "lng" : 19.4576764197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "8d88813aa49a143a49cda0003623af836a701271",
+         "name" : "ZAJAZD W CHEŁMŻYCY",
+         "photos" : [
+            {
+               "height" : 1872,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104003089049001467971/photos\"\u003eMiłosz Klepczyński\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAFEexUenZyA7lplxGnMLXlFhJn24B9ZsdXrA_wXPAS3Hya3QE8k4RU-LdgHqJR5xpjZ2QlY7kb78CBiZcP3XBcnVQxejlbR2ICVTRE7hQdPbNAKbo43Is8wptfhKkRZTG6XyrIl6l8RzdOrVRQ21nJH99NmI-d-MBBnPg--dfunYEhA_LBXkxn1wtWO0ZJRAM4jVGhRAn6nPvVpSdufLWexTxtBJcyMY9A",
+               "width" : 3328
+            }
+         ],
+         "place_id" : "ChIJb0n5WKVFHUcRndaM7hA9rRk",
+         "rating" : 4.3,
+         "reference" : "CmRRAAAA59VXilGDNRtXmY6Spnkpm7q82jw6QJkemSdImMXJHmerB72J5ua3b6JiHlpbUnGV6WAZHzyxYJ1KyjncVH2H-oHCBpogw8Nlax8wDtnQjaA9cuV1qAKOoiYslRBCFC3xEhDCvbOrrzdPouaOXN7VolRuGhTgekK2btFYU_n8YPknGTnZCrLccQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Chełmżyca 9a, Susz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.673897,
+               "lng" : 19.28265
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.67524598029149,
+                  "lng" : 19.2839989802915
+               },
+               "southwest" : {
+                  "lat" : 53.6725480197085,
+                  "lng" : 19.2813010197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "ca4a0e4b9c510fbde058a2ccf1f343e6a1c48605",
+         "name" : "Hotel Pałac Bałoszyce / Schlosshotel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1067,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100713050917240817847/photos\"\u003eHotel Pałac Bałoszyce / Schlosshotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADjh42bpL8qJCRJf38VjnahYJIchS9cZQfHqgllU9dY0TC76RjQ_GdMhrWsihid2swXG5XRKfUkvoX_NwPOoYkw88BcsinE4OZQSRHQU7OPe9Qqh4oAD5IJuCYjr34dWkRnZ-X-dPhrtg6zxO6CNQlZsIhgST-MVlYEF1PQpl9f5EhAKWoOffP1cgs3W46mRD9gKGhTkR0BjFh-dmSE_V-cR2w-fl27xig",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJSUrSqkFOHUcRTHGXabbESro",
+         "rating" : 3.9,
+         "reference" : "CmRSAAAASnPIRhozdgY4z6jQ5Hw7bhlVsqTULltZWf2SRgV0Sq_6GJ4rqCGkQhDrneZu1f-xOZC1pPyofqITurrLx5oWjxx2dvssBUr6RgwkF-BSZf0T3Cc0ugMy0O6JCY3Cy-PTEhATIQ-vPulpMq_Q_bC-1I5eGhSRI2iWWhgqk4a3HGNs-xMb3yQzaw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Bałoszyce 25, Susz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.651106,
+               "lng" : 19.07161
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.65245498029149,
+                  "lng" : 19.0729589802915
+               },
+               "southwest" : {
+                  "lat" : 53.6497570197085,
+                  "lng" : 19.0702610197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "8f2d2586b36594f22d69a9a55c25e7bfe5795e24",
+         "name" : "Stajnia Sarnówek. Rozajny Małe. Wypoczynek. Noclegi. Imprezy. Szkolenia",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 716,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109181100005485726820/photos\"\u003eStajnia Sarnówek. Rozajny Małe. Wypoczynek. Noclegi. Imprezy. Szkolenia\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAE70ViAfo3OScc0LbUs46Ow21pu9OQtoI45ttJBQ63oecVaOI8BgFVZAUrfpRsRp8iOxrDTgONc36XiCHyj9vfg6iP7Sn2TkYW5eii8e9Y1TAV9qbglVywuD9_Zp9pFst2ucx2iBIp-mcBLbbni9c_B0_JcwlxJeF_gcXK27rBC7EhBHGpt3n5ABxeNOKvgBFXnhGhRni80KzQhArcYEHTO58PxP03dFdA",
+               "width" : 1268
+            }
+         ],
+         "place_id" : "ChIJ6Vk78h-1AkcRHXAW5OJ5WQA",
+         "reference" : "ClRQAAAA6hgaCt_XENMx0M5_75itW-8TQYoQ4OiYtKZIwkKNBOpAkaurRuSf04rW72bstmcw_R7VPORick5Csk2fi1mRnOT9gdmhUQ3hWIKTFUpv9jYSEHlA6x8NkZEk8J2Bm6LDPYwaFAi0M3zJp1I52rbmgyzEivritEjR",
+         "scope" : "GOOGLE",
+         "types" : [
+            "travel_agency",
+            "real_estate_agency",
+            "lodging",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Rozajny Małe 13, Gardeja"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.75484900000001,
+               "lng" : 19.226607
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.75619798029151,
+                  "lng" : 19.2279559802915
+               },
+               "southwest" : {
+                  "lat" : 53.75350001970851,
+                  "lng" : 19.2252580197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4f6118574ed687059d1a245380c84f5229bbc1d3",
+         "name" : "Ośrodek Jeździecki M T Chrząszcz Stajnia Konie Agroturystyka jeździecka",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108243295272725169844/photos\"\u003eOśrodek Jeździecki M T Chrząszcz Stajnia Konie Agroturystyka jeździecka\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADPmOw5kDoEhnz-KwxD6jbWlJmHV9iweKSR-Idr7Nrw4l_E6jGZZoBL-0bXU5kac5DEjX9krRNTdd1qFGcHgD0TiE1BgPEPJg253IP2IHQnv7PXPZI4lCDxOrnfE_L_qZSCTVD5G10wrPs4kJ5c3k9eGWUAx82XpeJXPWNUB06DBEhCekEj1jTl1RWMNht-Geh1dGhSCOzEmahw_FS2AjHugAH85kdhQtA",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJMWf6tKdSHUcRbidOaVJpGLo",
+         "rating" : 5,
+         "reference" : "CmRSAAAAlhSFN3WCwGrL73nuOJu4kJPlxvtsPp8YA_sasb6jgDVdu8sLixzH5KoV-lMfobuz3_vXSbN4acPQqTqW3MpOY-ULTNsND5b2oJY1Y5lvjL0igzRLwAKYyKKhmgiYVJpOEhAp7EfgMGBReBJbLwiY5emqGhR_uJ13FITFDmeyp8JQCt_gpEWwKQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "travel_agency",
+            "lodging",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Julianowo 79, 82-550 Prabuty, Prabuty"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.72850649999999,
+               "lng" : 19.3505291
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7298554802915,
+                  "lng" : 19.3518780802915
+               },
+               "southwest" : {
+                  "lat" : 53.7271575197085,
+                  "lng" : 19.3491801197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "db5d2e0a1d794f046b0e6db7e3e785c39a092b48",
+         "name" : "Gościniec Pomezania",
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105012845094470841320/photos\"\u003eAnna Szatan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKCLUeJR1c4Wfe47_B2TmfX8tFTieJ1n7OlrX78GCKUzT8-rLLMBTgNHV6a1bItqRe1iLpEhRUUjaEYu-6mlUSHTIY252v7wTs_wQEdnQMIr6gCiuPqwvQ_Eg90ZrcIs5BQ7krUTKQ7gnVjKr23CEVPVio41XvDvznaL9ExikmNCEhBFxlp-J1eATxf_jbTAPxElGhRgn9Y6tdjBjKJZ13VkyB-4B4rR9g",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJSWV03PoZ4kYR3AuNidWP_X0",
+         "reference" : "CmRRAAAA46tMBK0KfGBrDHSZUaTdUqhWuh5QjfuYFADqCxkYnmDXzPdbW-FlZhRESDG_mtIR6pI1-Rc3g38FcjuTnpp26iktaNSCwEC-3ma53ZSz-BHvsHqRGIhcacxGfyLVb5VtEhAqfrDcK9VAy7yB3wEVLyGMGhRyLBByVOY3zkTGE6IEBHS4Vcn5eQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "lodging", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Różnowo 11b"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.75522549999999,
+               "lng" : 19.2035594
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7565324802915,
+                  "lng" : 19.2048198302915
+               },
+               "southwest" : {
+                  "lat" : 53.7538345197085,
+                  "lng" : 19.2021218697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "290221ad9f27d5e524d8212c68021b9f478d85c3",
+         "name" : "Pokoje gościnne - Miejsko Gminny Ośrodek Pomocy Społecznej",
+         "place_id" : "ChIJMzvN3VpNHUcRkcLT4spKkgo",
+         "reference" : "CmRRAAAAF0JJHZjinLHQMYJshDOyW3CVEits5bAH6dKPiQymHmxvdI37nqncaMxY9GKi3TvIgfGYXLMeHZGn9kaTWh-J6FOa6uvZvcCEioe2QGajutpGNpqabPBoBwrCjXccIOTpEhBqrE7Pt4sgIDawH0zqCpsTGhT1LgbKwEdu0YwVxd0Zh-cH5EAMGQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Łąkowa 24, Prabuty"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.68031479999999,
+               "lng" : 19.058404
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.68166378029149,
+                  "lng" : 19.0597529802915
+               },
+               "southwest" : {
+                  "lat" : 53.67896581970849,
+                  "lng" : 19.0570550197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "ea3949090b9d0e377a4783e7878acd9a9d42dc9d",
+         "name" : "Pod Brzozą - Gospodarstwo Agroturystyczne",
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110657064876853981288/photos\"\u003eZespół muzyczny Lotos\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJan_uSenS41Mf6sOHNINQ9uA2Q3QDOa-fkmv18AbE3BRvv63_QTD4GWlLc9VbDxEXYiG3AeDrPzOqyLs8qqISsSUoRHHa6Vxn9ZuXN_TmXL2gCOBI2CwuwpbVOeAHSEZA5kSIrx44hNFJ74YZ2Nthmb7abu7-3cStk9KVjvZLMGEhDzMwfLYikUuwoYtkm0BdFMGhQU4bOfzkT2t8GBfyvDxrZg6EYP1g",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJ1br8Coq0AkcRjMzmMuDY0jE",
+         "rating" : 4,
+         "reference" : "CmRRAAAAWYj47iWF9NGMU7stgHyl8Rj42ppAA7Ca_X0VhEP9EP48XDUwxH7maRLJN6L5j2Ej7HMbLHmOiKdYoTQy-6DTJXFHJba6RUfatJ_otH_tK2GPoAuxwtWWXXjQa11F1UTgEhBa5GCwFtzrlv5wd246-dngGhQ2GS8PXoCPK8C79L2vWwtRElRI9A",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Wandowo 42, Wandowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.72419799999999,
+               "lng" : 19.180646
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.72554698029149,
+                  "lng" : 19.1819949802915
+               },
+               "southwest" : {
+                  "lat" : 53.7228490197085,
+                  "lng" : 19.1792970197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "b6480dd818b80145d1a49f1b1c2f7d20246f981f",
+         "name" : "POKOJE GOŚCINNE REZJA - KOŁODZIEJE",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103893734389472531802/photos\"\u003ePOKOJE GOŚCINNE REZJA - KOŁODZIEJE\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANqzf0wfnADeD4-xiuyM_e7VrMURmIj79ny9roQ9gT9uLM5yrHrPkSz30SPz0YTlWGaLJeZQXSQfvmkZgiSz95V0eV-09nN401_A28x5Qngxb79lomdvYgt1gDOwSCBMxeqIHoP6em64p8JKirHux4RbNQpb-3J4n80DUDXUE4FBEhCUDbkLPZ-uXTvkYGc2UwuXGhQK3VJCtnVqXIDTkt0yE8GFHQlGAA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJwVVxmCdNHUcRE4ORK3ei-ik",
+         "reference" : "CmRRAAAAlEIEv8JdZeSxt7i5gkCBiu1V_cVQZdO4Dlt2I1V7mVHXe7SI3GICBOEll3XfXAh633WtFdeh2yS5wo8zGgK2DcGfeiIJhkLnxKSf7Qm6b2PixXaCtRfnR19Rzo5u19HuEhBP1SS_TVTtog307KMWXWMnGhTclxltc9QXmmWRJRb24gRW3gaQyg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Kołodzieje 19A, Kołodzieje"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.72845179999999,
+               "lng" : 19.3506441
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.72980078029149,
+                  "lng" : 19.3519930802915
+               },
+               "southwest" : {
+                  "lat" : 53.72710281970849,
+                  "lng" : 19.3492951197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "53179fdab6b71dcdc29fd94777938a25527d6d6b",
+         "name" : "Gościniec Pomezania",
+         "place_id" : "ChIJPcjHTTtOHUcRxPVskQo8Lwc",
+         "rating" : 1,
+         "reference" : "CmRRAAAAa5S2zt2HqUu5PS5eEAUwE_bYvmmJyia9muEq1p043PAxvdMeC3HQYxozrpFkdrY4Un4M8o89XqEsobL8naD7p_p5MKcrkmOZTmc9DmyHZ9zcIBbI5pTaHvtEjVh__cssEhC5N_lLSjY_FEpex96vTdTmGhQ-xTYotlB8E8y-J-rAasCRjXTyLg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "11B Różnowo, Susz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.59391530000001,
+               "lng" : 19.4397176
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5952642802915,
+                  "lng" : 19.4410665802915
+               },
+               "southwest" : {
+                  "lat" : 53.5925663197085,
+                  "lng" : 19.4383686197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "88e1dfae316e719527e7e784cbbe97e1ad2e78de",
+         "name" : "Motel Ordynat",
+         "place_id" : "ChIJZz2rduNGHUcRlDs-eE1uo9c",
+         "rating" : 4.6,
+         "reference" : "CmRSAAAAzcTCs-BNcU_oeiCP6uGjkZudrSmHHe_0u5V4EC97pz6NihOOGWHB-yt70S_ti6tPIzhkgw6FryE1OfcBo4jOe6IfXdUwN_SEsRwOgjFnXYKUAtCZL5q6Ojm3o4S325dgEhCqeuZc-WEt8744B8l6fG_aGhS1rvWGxu_heUOlg3-ajbpLAHq3Sg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Laseczno 53, Iława"
+      }
+   ],
+   "status" : "OK"
+}

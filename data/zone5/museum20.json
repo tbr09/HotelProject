@@ -1,0 +1,697 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCAwEAANhtl_GNZrrVIDrKXOoeNEIf0P4ENVYpMt4wDKptJ1xYqbtnYQLX0rQKvWzgHuH89xL9UtsDH5aS0Bdlk35eOzjcbH8iutRVp2eol3rNWYcu83dsXTzInn9PtXf8aKwx2QN317UKvw6DCbVs2MQRjihMcZ0w124wdEQHYL-C26jMt_Cz1CsthLrk_0TOD1BdcK6iElTOQTt97eY28Q9WQmmWMKvPewC6xZMyXr3ZXBYR5AwShZnlIafsZ0aRw0ei34-IObl1qjxZ6ee7YkbpX0J1VBCqEZa9-US1621FTB3X49lVl0rJ97rI86sUHY0ujbJ_tt9xbbjL5G0LjgM1W_YTnwc0IEnORvWGKl2wneGqEhBFsH5HY7qyL0B7aHwUyfNAGhSy2g0JkJ3teKaWkO0lJ8pUiLg5zA",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.876506,
+               "lng" : 20.617977
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8778826302915,
+                  "lng" : 20.6192081302915
+               },
+               "southwest" : {
+                  "lat" : 52.8751846697085,
+                  "lng" : 20.61651016970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "b92f9d168a8c582b6f49810b74d8cc80b4f46534",
+         "name" : "Muzeum Szlachty Mazowieckiej",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 492,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106681908102863129669/photos\"\u003eMuzeum Szlachty Mazowieckiej\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANZCCKVIDhCWJ59Eye3qKD_lqJ4PVaha0v_iDr6meJdvXcOLLTRGwPrWqHDfL3snADyh856Dw4hDgDCP5AYC16dDvnCYJfTOu4bUxp4UDcc9pR8fObJcVOFTCvSfxTbWy1lynkH8-vzoUExyjK3AKDH1IADTt9-x8pqQSEnWfeYAEhBbu7UJL2NTcV3pNz3G96ZkGhTuV7XkJTrLAt56cbDHu2uyKk111A",
+               "width" : 492
+            }
+         ],
+         "place_id" : "ChIJM7SJ4LouHEcRCuzgFVX2JvU",
+         "rating" : 4.2,
+         "reference" : "CmRSAAAA-hIgZx65jSU1kAeKP0HzTepe9-zYwY8nD6VipkHr1SC-jsd0KYf84DxxDy-PWXuTtD5txt6ZVdkCGYlVhnWwcBpdIwGGGvx5MDus-e6jGPqc52th1twnmFxk3NzAsYaMEhBSFRPJfGj2PHWDTI4eLyiAGhTGy_60tb2BF7oeiqyfgvEOGNrJnQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Warszawska 61, Ciechanów"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.862899,
+               "lng" : 19.632161
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8642038802915,
+                  "lng" : 19.6334894302915
+               },
+               "southwest" : {
+                  "lat" : 52.8615059197085,
+                  "lng" : 19.6307914697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "01b7471f3bd42ed8eaf1d431b4c59087f22119fc",
+         "name" : "Muzeum Wsi Mazowieckiej w Sierpcu",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116369195900257129513/photos\"\u003eMuzeum Wsi Mazowieckiej w Sierpcu\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMrbzhSbto952qOpBpb-4FbYE-Yxd61QlXLtUByEyYwfedragTI3Hlh2bQDl_h2wwmIAkms22Kpk9gE9ib4rozmhM-TqkOCKhJ-WsQnA5zm6Q8NElcNFlfOuSX58k1SIAsC_Rdxg3cuALWRS-wyf5k6VIEZkvysxy4d8BzLP591MEhB5lVMB_KoRGg_hbuFbs70YGhQefw8M9_IqNnEsJCHp_r3S-rqysw",
+               "width" : 1203
+            }
+         ],
+         "place_id" : "ChIJvwv-RGhfHEcRQYSmHKKL1ig",
+         "rating" : 4.8,
+         "reference" : "CmRRAAAAO_0YrbfwlpH8Mwu0i2KauBEgsD2NAmD_okwbqv7UUBIhGJbgths41XGSw89egAHvw5OCxwEOavqmVNnds6MkvA0eYb9V42ew6rIVDiEQ7GKgzoFnOw1N5dK-qkpid9N9EhBl4hAX8u2KsvHFyUZlYkfBGhTK7-b_ThY-bvAR4kBqAFjWwWi9xQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Gabriela Narutowicza 64, Sierpc"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4859824,
+               "lng" : 20.1252254
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4873313802915,
+                  "lng" : 20.1265743802915
+               },
+               "southwest" : {
+                  "lat" : 53.4846334197085,
+                  "lng" : 20.12387641970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "113b93481397bc7f6335a0bec3f8296b3ebb1f33",
+         "name" : "Muzeum Bitwy Grunwaldzkiej",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110313020834730938626/photos\"\u003eTadeusz Wasila\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAACaSUZ_E9lBurXBmG5c2HWUL-2YQL4mtx_1zA143Nq0T5-jaKKWtUedM9jlZsEfue3dng9YBlvjgPnhzCFzQ_bY24U7y3maoeLNN_AMox6tTRjrDapVD2DFDM1OOac7lnfNdbAw3KvShbqu9M4SEKBVCoW6S3Mffe0WourkVmn02EhD2tH_QjOSJwJPOFZBMtxqwGhRX_jCjzsnnT88U4zGtPJL39pqIRQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJYeUkrZGuG0cRku4aSWLNF9U",
+         "rating" : 4.3,
+         "reference" : "CmRSAAAArY8VUQSq7oRxfS_1ZPP9HDE5K-2XES0ktNL83_U0Gd5kPryUxh905opC4aQ9Trl4P0-qScosMXbnjm4FkLg6YtG_5D-OWHnQ07dtkLfq6lZb1Kkii6DwefP6vgsCZx9YEhDLMCRE0iSxyBSDjcJ8zNmnGhTFbF-9SdxohTppfsYbNDB8QIIBow",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Stębark 1, Gierzwałd"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.88458879999999,
+               "lng" : 20.6190829
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.88591853029148,
+                  "lng" : 20.6199979802915
+               },
+               "southwest" : {
+                  "lat" : 52.88322056970849,
+                  "lng" : 20.61730001970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "aac763fe9b85f7ea95e6be2317f83f24e72b4bfa",
+         "name" : "Zamek Książąt Mazowieckich",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104282290185383267783/photos\"\u003eKrzysztof Różański\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOME-b35NzWaltpmagj-E0frQ7QSkzbTtDqM8hxlDjEof6FpGzVyvZkXeWiz9-84tx5pUsRn_GxORAJg0ZDyVtaBui83IxPNPKydmvevnA6fFiBe6AYBc7m0Z55GdrmXH9pFUIsOlDRumi45mV2ihWmQOFCHsDN2Q2_vTE39j29gEhBynWbiEWdGP1OKX7JOoB8aGhT1DUXDc0pix_57ssSpAsGPQnMfDg",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJu_jvrKYuHEcRnh68wDJxTg0",
+         "rating" : 4.4,
+         "reference" : "CmRRAAAAl3BwICeNcTyaRsAyfUGoF_Og4wHLlAmkUxYPikIFInP6oNvmX6wyNSWlkGhtxCY5PNI_ND06k7FvPi-kc2mDeV-lhqe2SPEreslgNBkYnd6Ayype5ME0O1ABgrJh2V9WEhACYbA_puR8i40oy8NzgmekGhRyO9z_jdUQ-a4eCt20zuk_0IKRLw",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Zamkowa 1, Ciechanów"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.23302899999999,
+               "lng" : 20.17899869999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2344495302915,
+                  "lng" : 20.1801883802915
+               },
+               "southwest" : {
+                  "lat" : 53.2317515697085,
+                  "lng" : 20.17749041970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "a4b50eafd608a088b1194455764b92bea8387b19",
+         "name" : "Interaktywne Muzeum Państwa Krzyżackiego",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117750299997732610028/photos\"\u003e김학섭\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADmMpv0bV7hlmkwKPSHb4uIY11LKF4ZeMeyJL3FRiKU9qJdmuaa0lIkjdKDZmIewxC66bUGngNqXuHGg5w7WX344KBAd3Nz82e8xo5Mi0Pr-bEM8qI1j25pd3A9HyJVn7K_C5sdap-tla2KuGrXSpjJ-n817v94MjQh3LIrFANntEhDulTWMvaR9VnPjs59tzifSGhTt72OQJusGpaiQlD2g4vafI3pXBA",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJBYBea_SvHUcRinSqv2IrrrE",
+         "rating" : 4.6,
+         "reference" : "CmRSAAAAwq2Lw388Fng84Z9mxoqpJ85wj0ULBxooaD-KHTpFlw1LWiDez8uqSaBqcCIFrT43WRuVFQxUleps8nKVmaJBAbStSiCdcnwvxN7-c_uA9m80YQ5lMEcQ4eBV2gEQdNmNEhA1ZNtngZXdakAjsJ4dkdaVGhSxxOonb7dYGvtsYYx8hPzlgkA6Hw",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Plac Mickiewicza 43, Działdowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1122256,
+               "lng" : 20.3797779
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1136394302915,
+                  "lng" : 20.3811412802915
+               },
+               "southwest" : {
+                  "lat" : 53.1109414697085,
+                  "lng" : 20.3784433197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "c45df33922b93db2cd0393d1025ccada0d88bc52",
+         "name" : "Muzeum Ziemi Zawkrzeńskiej",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJm87oAQi2HUcRb1NeDH6gMFU",
+         "rating" : 5,
+         "reference" : "CmRRAAAAAzTCemjagSeMhF7XiPMVtzsJ_3q_VSVIb4JO04ZvoaRjY_PeMoOiZCCFeoEPMkfGLKTvQ7eTmuYdXCU9ny5HISrWscMehyd74wjQi-Kp3sXFpa3kmMdVD-BJSeG0bc4XEhCS9gSN9Kt2aU0g9ueMp-S9GhRjlh4aiLTOlwk2eGaGUhNDdIIlMQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "3 Maja 5, Mława"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.905615,
+               "lng" : 20.716331
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9069639802915,
+                  "lng" : 20.7176799802915
+               },
+               "southwest" : {
+                  "lat" : 52.9042660197085,
+                  "lng" : 20.7149820197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "1834894ca6a917b4cdd7be3461db48255f390557",
+         "name" : "Muzeum Romantyzmu",
+         "photos" : [
+            {
+               "height" : 2714,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115367540393955357294/photos\"\u003ePiotr Kwaśniewski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMt4cYaXEr7Nz-zLnQjqfV3OxPV2lrM0-zWNAWINIopqw-xJODnYk06InvyVrQXtkAlyk06OHZT1q5cf5CCW2LKDDLpW5UXyVEu35vTKN-zn1RAW_W6rLQYoLDv4rAMdVPOA2j-NsM-YaONeBNQOHzXR6U6bRjp319jElpcF1uG1EhDU_lH9v1_prC0sEqg9GPH8GhQShfidzowyuU0NlSVjmmVxJgS5Fw",
+               "width" : 5048
+            }
+         ],
+         "place_id" : "ChIJOYKMfLArHEcRSM8yIlXwpIo",
+         "rating" : 4.6,
+         "reference" : "CmRSAAAAP4BZQgviWn1rdbQ0o2undCXfzMxk0mnrP3ZRQ5TL0IF42ivNHQCrfPifRbL75J54DSdcpxUnRPCrw-CcjBlQ2n6N9UKeR1m8yniLnxqWHvX4ju81PZA3QMfAJLA4zEMeEhDsEJfMxcxgEixQGCA2E3SDGhS075HCwCMGuN18iZ0asfaI7Ew2qg",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Zygmunta Krasińskiego 9, Opinogóra"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.9624622,
+               "lng" : 19.8900528
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9637430302915,
+                  "lng" : 19.8914774802915
+               },
+               "southwest" : {
+                  "lat" : 52.9610450697085,
+                  "lng" : 19.8887795197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "27a9696382299639f7b706c61f6dcafc89508f3e",
+         "name" : "Muzeum Małego Miasta w Bieżuniu. Oddział Muzeum Wsi Mazowieckiej w Sierpcu",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 787,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117146180219391352874/photos\"\u003eMuzeum Małego Miasta w Bieżuniu. Oddział Muzeum Wsi Mazowieckiej w Sierpcu\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPZt7WPW13p-gnkZbcUwYkgXPXqD73BDRaS9UggTbaLnnQpu-nodenOlafAzONkQ4v55dHuCFDvZTOtfC5II_sJY8Gl6kRxblX2UyJjBXFokoOS_ngxeiGimkFnm_RxQaB2UoQ4VUWWYTH44sZg9gvk2ubyg1IQnwTy2wV_INgjLEhBRtW4Uw0r4IPgPLAY598ooGhTLq2hW1RsvqGGPJWLlMqt537HpYA",
+               "width" : 787
+            }
+         ],
+         "place_id" : "ChIJQeI_GsNQHEcRgmzX4gQqirU",
+         "rating" : 4.6,
+         "reference" : "CmRSAAAApUi-Ma57acmg1QQMlsOQLBwqeQPHntUrAPcOZZ3s2aqNnKlXPGcKOg4u_2BDrk_oupYIaK_zHQbOSn5n0g47CtPgJHTNbwwXrCpbgQJLP22L5mHnpurh0pqlgPv6OybAEhB-SsjOr415mX_d8AA8oiTMGhS_qyxV0pqxcl_D1Ju2ihftVRDMjw",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Stary Rynek 19, Bieżuń"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.2613118,
+               "lng" : 19.8227343
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2626437302915,
+                  "lng" : 19.8241599802915
+               },
+               "southwest" : {
+                  "lat" : 53.2599457697085,
+                  "lng" : 19.8214620197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "0832c918b5ae0d5fa7d3383b26db0d110dd63d2f",
+         "name" : "Warmińsko - Mazurskie Muzeum Pożarnictwa",
+         "place_id" : "ChIJMz5tTHsGHUcRYHnW1DEpZd0",
+         "rating" : 5,
+         "reference" : "CmRSAAAAOUqu7EH8OPEks5mLZtWf-a8QexQ5sLm3lHrcveUhYQiMNYlm9fLf9__-vDGMhoDFu1QI-RGnHVgMITDs09sB2HD-HmPQsUP7SThxyl1yontQNRHhzQ2TEQHZABszF5dnEhCwekIx0tgG05ct5kDWDHMTGhThXWWJC1mEStcyeXUFXXSJjwgEbQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Nowy Rynek 15, Lidzbark"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.2937871,
+               "lng" : 19.8611597
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2951360802915,
+                  "lng" : 19.8625086802915
+               },
+               "southwest" : {
+                  "lat" : 53.29243811970851,
+                  "lng" : 19.8598107197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "dae99265ecb874ba05ddd85fd5e628b7f1f2e1a7",
+         "name" : "Welski Park Krajobrazowy",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 640,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112951105943263320269/photos\"\u003eKarolina Snowarska .blog.\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADFaC0JNVfncd5D1zwmLwzKA9IpimNW4bzV-AHKBl9RhDCZX7sCvhJP5ILgtLaPHJ9NSYuJr5PiCcRoI2W6YivnV8pwWXXWh5DQtShe40CbifhyKzn_FYhcb1lbYflnqqsC8qHXE4jj1Xd7I1Gd13cpQo9uxkOOEKHB8nG559BEoEhAJ5L2Y3oKr91vISXmO8uEtGhRU35_RtyQlr_3k5YUJ_KNk0k3-uw",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJnU8xXaAIHUcR6PaZ5yv9Ark",
+         "rating" : 4,
+         "reference" : "CmRSAAAAJh54uOjgWokdW3elxjCL4oqMiGP8GCcpoXYm-vXGRpAr3rpnvAl4b3lwA3LtLmCAKj5C7lh0gVTgJzZmuK070QOQ975LrLMt2zNRXtwN2rDy6DifykctVwMf0nbWKk0IEhDYDjUZzggnq1rqnHYZs1l0GhQK4WOiyvnAwpplAskcY5rYjIW4sA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Jeleń 84, Lidzbark"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.3594859,
+               "lng" : 20.4290772
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.36061188029149,
+                  "lng" : 20.43224744999999
+               },
+               "southwest" : {
+                  "lat" : 53.35791391970849,
+                  "lng" : 20.42802045
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "86f36e73f75a90ff86028b23e84740d992c91c14",
+         "name" : "Muzeum Ziemi Nidzickiej",
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110282013102017529730/photos\"\u003eŁukasz Brzezicki\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPU5P6byOnfx19ts8FsLk6B31CB5k0QUUa8U-zZMNtnqfP5Dm-Hqi76NJKjWfaVqnE7EQ0emDtNX0n88o4UQl4T16qU9kohXWGgX2ydFNUqtJtdwTSNyflrkfJr1xd0XROXqzA9Nuk44c3srIQK2y_nXOWFGeoQ_kUhTg-plZYEHEhBD7ja0654IPdM7TH4qeW_xGhQMgHXchj4gfd76MUgYkSNEqmZ0qQ",
+               "width" : 3872
+            }
+         ],
+         "place_id" : "ChIJtenIhO-9HUcRZn2HCyrc5As",
+         "rating" : 5,
+         "reference" : "CmRRAAAAN5eYCErfwqQ7OhecaSRjxoUyHrp0DhzXnEzus38Jo2vIGUJjUesi28h83qEzk8h1woi8wUlu9RBPflj8KK0bmSye3XjAL5YWc4TE4XatZVfDU96_OgLrcrM9taDmZxxpEhBhxkx--2jcBhxV3pCunlwYGhTBIaczGfajyDSTOhBg5hU_Cd_QPA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Zamkowa 2, Nidzica"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0209589,
+               "lng" : 20.8826204
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0223048302915,
+                  "lng" : 20.8838376302915
+               },
+               "southwest" : {
+                  "lat" : 53.0196068697085,
+                  "lng" : 20.8811396697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "10f49724a45013e02b8c517cfb052b8449575bd6",
+         "name" : "Muzeum Historyczne w Przasnyszu",
+         "place_id" : "ChIJF_OViP3VHUcRaIPerDXVeuA",
+         "reference" : "CmRSAAAAj5qNvF71YDTIdvt-LSgk1p_LQONlZS34CykrP5xTg3jqDwQpAAdmPk7KTxD9OaairWtLi35rQNlBGksvR0BXibdpZSy-GpxNOclgffpDhBr2lZHzszDjjFU0ON0xlEK1EhDvVoBH8R-Uyc3XrrvfMLdyGhRrKV465mU98NYVK-eUById9SdHeQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Rynek 1, Przasnysz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.788235,
+               "lng" : 20.6877737
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7899354302915,
+                  "lng" : 20.6889385302915
+               },
+               "southwest" : {
+                  "lat" : 52.7872374697085,
+                  "lng" : 20.6862405697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "1545d6750fa19822acac383dfc94e7377bd85475",
+         "name" : "Muzeum Pozytywizmu na Gołotczyźnie. Oddział Muzeum Szlachty Mazowieckiej w Ciechanowie",
+         "place_id" : "ChIJp9V_NQgoHEcRNTBmBNNgfh4",
+         "rating" : 5,
+         "reference" : "CmRRAAAAhw0FwIqP3vaDkK0fSWHIllgD1GFvdJcpStnrR_9PdHApPCvEzNDo3uyazXsz4p4m7R2YiPFJXi5YLH9-Sj6DYFivR_Xk-d9sRYyeYV1RH9yxBhL1FDJ7fYLYJVtLQFLMEhBVdfAFOooGRifK3r4cQo5zGhSZfiA9Rj8EPH7CmxHQlwszo48g4w",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Świętochowskiego 4, Gołotczyzna"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.13078789999999,
+               "lng" : 20.3487517
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1318921302915,
+                  "lng" : 20.3502437802915
+               },
+               "southwest" : {
+                  "lat" : 53.12919416970851,
+                  "lng" : 20.3475458197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "ccd1115b0a12652f9c1d208a174e51181acd52ef",
+         "name" : "Mławska Kolej Dojazdowa",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110154236069518216628/photos\"\u003eMichał Świątek\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHnR8Nnj5uAuL2a1tWg_xah8kdAzRKvxKgsOPwa8zcpf5qGNgRJ0Rw7ow9dHAEhDA5dAAZ-1KxjaQBWKarJ60ognlXTN9V6I4wjtIjKpYqehrRqwEfMmJzUqiPWxSXc-q6Ea4DSRDrt5PALFEo8RSMt-wNjwQ_Zh8d_DJz2uXYTHEhAhDt-D0jvJM6dhrdFFB6PGGhR8u45rL-1YMAMNq2ue0a7-Khc0rg",
+               "width" : 4928
+            }
+         ],
+         "place_id" : "ChIJW4M3bGO2HUcRGUfgVjoFxVc",
+         "reference" : "CmRRAAAATB-KAERdtsYJXC-YUCmPPxJRN06FQU_Z_Zl1FTWjNjAgjt7uVeVYD59EPsH_7HzlSsMo1FEYmF3DH6F2r8GBH447qZ5NO_wP3hXkGApvJxqDFIRb0B6xE9vVN2AKqnGmEhBRmIaTCazVzN0nQ94AdN-rGhRjiK_o2qn-8w8uPDZXD0cg5QLL3g",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Bracka 9A, Mława"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.94253,
+               "lng" : 20.0923
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.94351143029149,
+                  "lng" : 20.0935364302915
+               },
+               "southwest" : {
+                  "lat" : 52.9408134697085,
+                  "lng" : 20.0908384697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "9a739d8656e12f0bbc6baa06a94b54f2db2dccf3",
+         "name" : "Dom Weselny (?)",
+         "place_id" : "ChIJRV_wJd5OHEcRSdmw2xXIDI8",
+         "reference" : "CmRSAAAAGLd9uv953-7s4rU7kxGGNTfVt2yEX_DhuNR5nWhPejyWUKM6vWSAEBE6sEi069Tqvcuw1ctHjQmb3XcyZdTR-k7ECo2chywIM52hgEmNpsczyku-dLofBJpGsoumxLZ0EhBaSYrLdW9QbRc5OrWMLnkSGhT2VlMfgnee75bozrH2Ms5KLRR0NQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Raciążska 06-540, Radzanów"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.8556214,
+               "lng" : 20.4592674
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8569703802915,
+                  "lng" : 20.4606163802915
+               },
+               "southwest" : {
+                  "lat" : 52.8542724197085,
+                  "lng" : 20.4579184197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "d5ebe53c3f5794019939d7782069b596ea7f6c2e",
+         "name" : "Cmentarz Sulerzyż",
+         "place_id" : "ChIJUQGmYDwwHEcRMwo6L-nb-Sc",
+         "reference" : "CmRRAAAAMkx9qub7IPR-0qYXVvEtAq2iGCVBIy9RHeW2UKevZAvi5vpFsuDQ9TS-Lf4Hi1io-OjEFJkKF9gMzmQIisLIAh2-t1j25t-tf8DiKUOfZ_1E0hO99-_oV9h8Lt-cW5YHEhDHpW-5RQuf52RXPsKwtf8LGhQR44BMZQu_a0Eq-ocou1EGcUlfGw",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Sulerzyż 41,, Sulerzyż"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.01515759999999,
+               "lng" : 19.6293863
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.01642483029149,
+                  "lng" : 19.6306605802915
+               },
+               "southwest" : {
+                  "lat" : 53.0137268697085,
+                  "lng" : 19.6279626197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "f1beb464b5d2e0cc495247f8d80dd9b95e3353f2",
+         "name" : "Skrwilno",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2368,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114825526771629832937/photos\"\u003eWanda Cymerman\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAA4em0FjaisI4pEQWJzIqWhVzMfC1lUSTLdSrz43FOnEs2xOr2UZzfj70RX1Go9GOrdUss8FIkCKB4-MTRhtsB15c1EXubIu95cn3JESu5Tpc9pScJdtCe8JRUaR8crgNSgALLVw7tBmj95rr8BH49QVnWp1lpjxAQRwvu3RyYFZEhBxdNrPCyfG1UCh8WH6qSZ3GhRx5W98lYXQnSCh3FxDPv3sgSoA_g",
+               "width" : 4224
+            }
+         ],
+         "place_id" : "ChIJB89RXYH5HEcRDPZlhwE8MpQ",
+         "reference" : "CmRSAAAAVzGJtL9rniSTZ1lZuVTgcFCjyFg-J8Yk3kStvzW5Y-kh-u_ADLrif5H5wQ3A5go2bDvDkTRwNwIAkB-FCeSbuxZvyhNPjIGG0VDUS9E4F7eOrW3GleJoV_gSaU78x-D1EhDRkNUSC9sAMi7QOsF_wXDIGhRgFGVQpzgiSodEL9nfIih2PVvv7g",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Bieżuńska 35, Skrwilno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.881875,
+               "lng" : 20.671028
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8831774302915,
+                  "lng" : 20.67255513029151
+               },
+               "southwest" : {
+                  "lat" : 52.8804794697085,
+                  "lng" : 20.6698571697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "331371ab494ec49a1b56e2a5d2ad9a798dee4ee7",
+         "name" : "Oranżeria",
+         "place_id" : "ChIJC16OkuErHEcRlOe6xyIzfTk",
+         "rating" : 5,
+         "reference" : "CmRRAAAAu47W1gjcTyBQBTEAt-W_ZTaps5xK3pQSer8gzfvFs25sVhsP2ES6TW8ou16vbe5CtNPMxYzUxipX-HvHmmsNC48QK90JXCkepQW9xP1K5GQjI1gYOE9caiDgr__ev39OEhCoC1PwihunOa5AIoj9UIqPGhS92nMai-z5DPY9fuHMhQoQzPJg2g",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "06 406, Krasińskiego 9, Władysławowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4865262,
+               "lng" : 20.1210952
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4878751802915,
+                  "lng" : 20.1224441802915
+               },
+               "southwest" : {
+                  "lat" : 53.4851772197085,
+                  "lng" : 20.1197462197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "e07d1b952b698a7c64476fd33b33356899fc0490",
+         "name" : "Pole Bitwy pod Grunwaldem 15 VII 1410",
+         "photos" : [
+            {
+               "height" : 1667,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108005930285142991414/photos\"\u003ecolinSTi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADjs4hE3Um6NMEfKPWedyW1DIOeVO-uma_eneK0FJyoqXybxPjefwZCNgHWS0FewvZTQkaPD33JVfC--lq-nCky4Pmg6FMDkmF9_m_uO48bNJeUhFGIp4oGjcK-N9nJBI1714rlDzd5bdGxIHXxGpWlS87j9nuJWwXJF6brLwgyXEhC3kT7RCp55ULomhRz7Ai1aGhRx0nvA8T-c5dcm5MpnafUMp0TGUg",
+               "width" : 2500
+            }
+         ],
+         "place_id" : "ChIJK1R9pieeHUcRMoFP9p_ACaE",
+         "rating" : 4.4,
+         "reference" : "CmRSAAAAluLlSDFxAQ7UWxcHi7UChXgVJt9JIJhe4J_2eOjB1eB3rVB-jMWycB4pV11JS0SoGf2TFSNq7x6YduAG4mdT4SMZDTusTgizuVETCOd5ba07eyLk9ak3TvgvuFh5296LEhD9OIZAp9xA-YCakAVFGCQlGhSo1phqEqS_yvB1LkWQymhw0bkQ_g",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : ""
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0209511,
+               "lng" : 20.8830561
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0224561802915,
+                  "lng" : 20.8843929302915
+               },
+               "southwest" : {
+                  "lat" : 53.0197582197085,
+                  "lng" : 20.88169496970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "652b693e5d4eae097bf31829b304109b5cc00ba5",
+         "name" : "Ratusz Miasta Przasnysz",
+         "place_id" : "ChIJua8Jif3VHUcRiZ4y1bjQ-Tw",
+         "reference" : "CmRRAAAA6-GTS01JN1OYCNGnhGM2_F3JJS68bQBYP_tbvg-X4Gapd-Mmd5dtrKxmpW3HxBXrIx3rzqqIrRfhqomgTL8DmbpmEi4_v9aKyFDwKLA_PcA4pWKDADkAXh55JDWVEsTvEhAo85ZhBgWlmOgEzogbV-OhGhRK9u4VlNK4hoDadPsgg5GI7vsacQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Rynek 1, Przasnysz"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,213 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0538591,
+               "lng" : 21.4253501
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0549435802915,
+                  "lng" : 21.4345991
+               },
+               "southwest" : {
+                  "lat" : 54.0522456197085,
+                  "lng" : 21.42226709999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+         "id" : "0187268a8dd874a6efbdd11014e115fefde4541a",
+         "name" : "Lotnisko Kętrzyn-Wilamowo",
+         "photos" : [
+            {
+               "height" : 1390,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112603297658903914885/photos\"\u003eAleksandra Szelag\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALHOLYnJ4MdAYWlGrwl7JfgowF4X3d90Ox8LEV44wjL0lYij1Mcz3kPanEl8Rwg8ZPbg5OIWjqRkFwjwTC4mpmRjpjLhjS3_AQJ9vYNOwAeRKUQg7rYHoIeAr1WuYYT8N8omMlBRFR-STdi6PK4deIdYEyt9WvhrLNTIdr9ZnMxlEhCxeqqVWeUMZB255lRAwetdGhTB4ZhOvtrMtHI1-jF2l4ro7FgTlQ",
+               "width" : 2100
+            }
+         ],
+         "place_id" : "ChIJwUmQTik74kYRAcLhG7FCLKo",
+         "rating" : 4,
+         "reference" : "CmRSAAAAh_r8eYc2vJk-2YpLAHd-3h-CQZgQ_I-cSvpE6VzK1hn51a9T87IVPVK2loqqFQpcZP5wmH0hgRHx_L7IEy-3oE1R75D72WPmb2SlDtQdTVZXCHoyp06lFLDycyXLrFJJEhAaHwEeWTnuXmDM_CExcB0dGhSZ4j-mO2RTgNMIiKiCASAYtZSc4g",
+         "scope" : "GOOGLE",
+         "types" : [ "airport", "point_of_interest", "establishment" ],
+         "vicinity" : "Kętrzyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.056733,
+               "lng" : 21.745037
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0580819802915,
+                  "lng" : 21.7463859802915
+               },
+               "southwest" : {
+                  "lat" : 54.0553840197085,
+                  "lng" : 21.7436880197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+         "id" : "f403a09a08a3098f583752d32a5b0f776e2d9899",
+         "name" : "Motolotnie Mazury",
+         "photos" : [
+            {
+               "height" : 979,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112406742759457177611/photos\"\u003eMotolotnie Mazury\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAgpjlOSZ3Ecwmu1Ae7VssCOhaEohZ_qEI1jbT1WIKOrH8uzj9XK2vy2QbyXaGH5sglwzv0Vu0LWZ-07Un2g7Xs2TQjZPnZ5lYtFyfEYExGUIL2M1SaHW1Q50rgE7wqQxmXDT027_lPbel0TDULlbgcUkASSB91CQn-mC8Q61vVvEhCT-btHqjzW31IELj9v-kGCGhR0fSzWW3r_cpl0u0XXOH51W69Cbw",
+               "width" : 981
+            }
+         ],
+         "place_id" : "ChIJgbntfeyH4UYRsY_6bjFArbM",
+         "reference" : "CmRSAAAAXZ5DUFX1GkXIuSOyqGcOhRyBdSgOid55ysi9goJIaKtl4-AhK37xLcs5ry5vz-Ho2ZrvdSJh5cFKh-rjkY_ytyMXJP3az6PuxFDpyDfzSTozvozN5AKbXUSBAB8yDLceEhBgHolzUfOGUs3RnVhtz1DaGhSJ9dY0IVbIaSSkT6S5IMRsHQWVXQ",
+         "scope" : "GOOGLE",
+         "types" : [ "airport", "point_of_interest", "establishment" ],
+         "vicinity" : "Antonowo, Browarna - lądowisko, Giżycko"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0527726,
+               "lng" : 21.4284083
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.05412158029149,
+                  "lng" : 21.4297572802915
+               },
+               "southwest" : {
+                  "lat" : 54.0514236197085,
+                  "lng" : 21.4270593197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+         "id" : "1db846c2fd5f3849cb375575b6fefb30c54b935d",
+         "name" : "Aeroklub Krainy Jezior",
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103925374196563377284/photos\"\u003eKrzysztof Gołaszewski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAN-7j9yMdUy7I_CPwVAOfDYgJRsiaJqxqoPQBoFvZhGDZrbgZdBrVSgmJueFpig4XhAFp7jIw7tO1IgY-He41GTQXqyD9Wlkx60Cg1r_3aQT2c42NMb3i5dZ_9ggK9b7LT0nk0yLAzTuqNN-eMudxdLMASaWD1BEEjpPOOgGv570EhBBUo7SVCFkATNt-mpEWQ4PGhQd7Cwe0o4beZ8HEWqdgi9GyxOhng",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJU3pxZNc64kYRKYRp4LPgntU",
+         "rating" : 4.7,
+         "reference" : "CmRSAAAAiUsFqiUPW__u-6EFyJKx0W-oG7FcMKgoe35mFsZ6RBk4nhylsW6skdT-PAe0H_gq3OCYAeXSG4KK2ZruFq4VYS2_yGFgjHZGLmDbzLxGp3GJyu1TSa0Z8dBiHRN7vgKNEhAasT_vBHnUXfK3j5iBw74xGhQJM3GmBo1yOTDT69vO7tty0Agxdw",
+         "scope" : "GOOGLE",
+         "types" : [ "airport", "point_of_interest", "establishment" ],
+         "vicinity" : "Lotnisko Wilamowo, Kętrzyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.825266,
+               "lng" : 21.318476
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8266149802915,
+                  "lng" : 21.3198249802915
+               },
+               "southwest" : {
+                  "lat" : 53.8239170197085,
+                  "lng" : 21.3171270197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+         "id" : "73ac333035420fca3a51d056e8f87c2c2e3cf731",
+         "name" : "Mrągowo Airfield - EPMG",
+         "photos" : [
+            {
+               "height" : 825,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109080200840674108811/photos\"\u003eMrągowo Airfield - EPMG\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAjFxTGMCsvWn6bL95VTr4Glgm-reKkWV9fDnwF10V7rd808sbCQt4mJJ28LEZs1NijcdEQGLTpFiEIku9CvX2zWiWuMf-keMZc9g17WpY2ktD02fuMPmF9vXUMqIKN0Xbvof5AVkEbp26-kSyxgkdJ6nVWUaQHZoxnIgFvVlATdEhDqQVv8SEVh1m4V6LkUzq0vGhR7STddubuNzLnmy5eiN8JjkngrKQ",
+               "width" : 1100
+            }
+         ],
+         "place_id" : "ChIJ0S230zUa4kYR3NrnR0Hkx7g",
+         "reference" : "CmRSAAAAOA86gRTkx_MhzTjnsSfdLEaqif_AOksNjK-MktZwRm_eXfIAOWDsJ8h1QIF42C5Fz5a_kW7WfO6wOun1IkAbnikPQJkMdga0PfnvkPwMIkyygp60DOsY2HOftQNKjNS3EhB5MN3HhYCm6A9mLnbWtxOgGhTpQNG9RsEYyQ74bf0qCB5TcIIzJQ",
+         "scope" : "GOOGLE",
+         "types" : [ "airport", "point_of_interest", "establishment" ],
+         "vicinity" : "Mrągowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0835361,
+               "lng" : 21.3661736
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.08470278029149,
+                  "lng" : 21.3676669802915
+               },
+               "southwest" : {
+                  "lat" : 54.0820048197085,
+                  "lng" : 21.3649690197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+         "id" : "c4f183226952e2a2980cc019defa4609924f6c7b",
+         "name" : "Lądowisko LPR",
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111272913314656670752/photos\"\u003eTadeusz Daniluk\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAIb-QpoCyXKfMFxXOaRsLzhSYsx5j7aAEToJpxc-szLlDiFTr26zHLAqdEhS4hrqeq3JsM6L67uLhdhrbI6MmgrDMrbtt-7b97loqoBHsmgch9YpNq2U6b2H9ukqo99BZcrx8GYreZ0i5Z31TNB_JdgpMItX1fd5kFk6qDPMMhEyEhBu3uHczTcbyqtOkPrKX3dEGhRj3D5l-NouGE5njU6QHJMozkbt6w",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJpzJax0M64kYRXMJ_ErHvkDU",
+         "reference" : "CmRRAAAAYSwVjeL95MtRsAe25_1jnM9-ndhzOEDj0wz992dfTgPu6K908RVHFKBTPKJwv8hr95Hem-HcNYGcXjOhyCsanCTpZXuoq2cdbxvml1GvH2Xo8JAWuimwDFoFCVD0vq8NEhBiMXLPyshPIqtNUZ_PHZN6GhSbXhvUeINSXWpmw6BXRvxSjDMcgw",
+         "scope" : "GOOGLE",
+         "types" : [ "airport", "point_of_interest", "establishment" ],
+         "vicinity" : "Obrońców Westerplatte 20, Kętrzyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0054781,
+               "lng" : 21.8216213
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.00710669999999,
+                  "lng" : 21.8278491
+               },
+               "southwest" : {
+                  "lat" : 54.0037144,
+                  "lng" : 21.8146957
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "4e5f3e50710517a7f840efb566d3df117d5c50e0",
+         "name" : "Lądowisko Giżycko - Mazury Residence",
+         "place_id" : "ChIJp7WsPLmI4UYR91M9efqGopE",
+         "reference" : "CmRbAAAAOM401N9GcEPcpAian46jVjhGQ0Yuw2eI7Ki4DaqvuwkrZjWzDaszNEkL-Wk892rn35FNWYTKENSVvLMvY6E6Sd2375rq43-T5XzScv7CuEvHdBnPN9rlnYula1G3JcMMEhAhUhE-5kw04GeEyshTvU0GGhSCnO1nOPad3rbSTnKNpTeaGNP5PA",
+         "scope" : "GOOGLE",
+         "types" : [ "airport", "premise", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

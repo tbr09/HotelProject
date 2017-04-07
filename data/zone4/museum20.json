@@ -1,0 +1,687 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCAwEAAJu2XpPVLNj0J1jSEPnCr7UU0-3ksR6-YdQfxMvr8AXOqPnqIm5PXsPJRsdKO40-1Vo9yS0AHaXvSMEdrqF-BZo6rSmUIwk6no4PyuAZURmSICQPiTq9XndraTn1k-xyTHMci03s48U-XA31zbgU_0czFFY6BXKUW8Mxa2bN3SidZ7fPrB7I3B0gyPDlIG6Ji7TJ_qpKfwK0oAkG8r2zMxeg-phVpQ1riEssutK7EszOSdsi5p1xAkx25s9SUbijcKgPhC_VjODH9vdKolXw4ZyiK21bOdLxHEotnJR7lWo1RZi4vZZrMEEahCF9AOjI93PSEeewEK-paMZb9p2N5LXAZpCgg09RFj-sE6-szplSEhDRoHN9STYS9EYhOcuKyoa4GhSvqgMHTZef01mi6HWV_UoogXJsMw",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0966416,
+               "lng" : 22.9284106
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.09799503029149,
+                  "lng" : 22.92991368029151
+               },
+               "southwest" : {
+                  "lat" : 54.09529706970849,
+                  "lng" : 22.9272157197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "575847f7feb21571dd7ae11a14eb17ac7349f1ff",
+         "name" : "Muzeum Okręgowe w Suwałkach - Muzeum im. Marii Konopnickiej",
+         "photos" : [
+            {
+               "height" : 3672,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111508093084936550039/photos\"\u003eAdik Blond\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHp6WsYA06UeEMnIPZmqDfu37oiBUZwxu-Jd_kQzTOr2qjLusLZC2BjpoU-N-CDMRosrLWM9n4XQywen-hKnXtFpHxU4ZdKr8SZlDRXEKauHsQYcsCBvWlDP9H4oFy1Wz7T2QtFCBKlDSQvwltSMFUJt244N8kBNkElZK4D2d5v7EhAub6WB-r10mxDLwk745s9ZGhRv_mu3GYL-YrwwkYNmrYwHUHeX2Q",
+               "width" : 4896
+            }
+         ],
+         "place_id" : "ChIJ3aLGFjsC4UYRPJKk-ESejWI",
+         "rating" : 4.5,
+         "reference" : "CmRRAAAAYGyqu123KLjzXu9XDqrRaJgWmIpd1FVYxSiPF2l3oWrpKg5dTwYw9GgI2g_Y3h8I0jGnvm6Xwooy439v_NohjHM14FJFmx3VSs7loottA-byGReQA_QZf3zaGBHbOHfdEhAJBXMQ4EvcJM1uVSJGOG27GhQjWZ5xoqKPSs-WPkLrXAwGWGos7w",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Tadeusza Kościuszki 31, Suwałki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.843013,
+               "lng" : 22.992198
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8440564802915,
+                  "lng" : 22.99421633029151
+               },
+               "southwest" : {
+                  "lat" : 53.84135851970851,
+                  "lng" : 22.9915183697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "f55ffc85c9a9d162a21da6cf843e288e3fe67d7a",
+         "name" : "Muzeum Kanału Augustowskiego",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114894447149850441663/photos\"\u003eAndrzej Zochowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAACbOBwM2WX2K6rUpw-YsUsPTI0x5cmhMN6BqR-fz5umwKzM42Rze--HhRsDP7GF1x-OXgQdwn644oUrlEKOym9DdXiQTTNvOyebpWtOWML1j-7_RBLzlluZ4wTKYWZMVnXZBS7frfUPOeGnfQ2tX4dlRauhk0LhdzYo6rPVkmlOREhAq44O9ZKzHa3qy1FyGj289GhQ8EJoFel6J7K2GX-geWH3gdr26mA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJlayH5_hQ4EYRMRR28K6obcY",
+         "rating" : 4.2,
+         "reference" : "CmRSAAAAU-dl1iRrd1zOplIkQJ6JMHNtVSqfpe3P0ogbubr-kFSvSVYI-jD8vcrG0SoIGlNvUG9fx-SBm92f-kKkqc8tl7-SXw-e9CMixHeukdeIP_auSzTMGyQTAs8fnVvW6yOEEhD4MM54qPirl3f5_Jurs_jzGhSc5FdQ5r25bG347c5DOhGgLNG_fA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "29 Listopada 5A, Augustów"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.839422,
+               "lng" : 22.9817779
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8406809302915,
+                  "lng" : 22.9833583802915
+               },
+               "southwest" : {
+                  "lat" : 53.8379829697085,
+                  "lng" : 22.98066041970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "b5709aab1c2f7be14523a135bf2682db49059559",
+         "name" : "Muzeum Ziemi Augustowskiej",
+         "place_id" : "ChIJu26K-FRQ4EYRrH-KR1eIcAI",
+         "rating" : 5,
+         "reference" : "CmRRAAAAIIs61NixPZWx2L6zaHZuNfvocHkh-1wqZ-nqpig8-M4Uu683aBC7DD3FI--9a948J11S8u59pRXkMyaVId9Xk1uzCaszkhNVA7iXfIpnIGXoJ4QQ2Xb1EGMiM7rukCCsEhBmUAZg9lBUkS5EjCFAAa7fGhR1ZIVbbhK0R4XJJLC4PIDRaB7fdg",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Hoża 7, Augustów"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1043125,
+               "lng" : 22.9275573
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1056685302915,
+                  "lng" : 22.9291494302915
+               },
+               "southwest" : {
+                  "lat" : 54.1029705697085,
+                  "lng" : 22.9264514697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "c453ad889ab79ec1b620e7fc6a3ad9e006f07187",
+         "name" : "Muzeum Okręgowe",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101829984935914740370/photos\"\u003eDominik D\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADzlRLA_wfUDe-LLQblujRegXKitMp7uzdoUKrgiEtOZZN5gpw1-2k9uFrP8q7MmuQ7QsGJXX1ommIDaobJeQhWbcxeTVPVVr2mIFhlDdufOrG2C3IynZYi1TUKqsvDA0Pp-AnR6vfsSrHwJwxBFX7XQP3R1Kjz8HcEi1SFF5XOyEhCW3LpSbsJITXb4pgSa8DFMGhTl6hARWdfMKeaE_IU1nOBaZfOZKw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJSyqSkDcC4UYRs9T8CrNEgJw",
+         "rating" : 4.6,
+         "reference" : "CmRSAAAAvVxO2yfhwE97oeOZQkwUImBd-z8M9JwcUUPi_AwLS7FRsXkZZPeSHJ-JnjICfGTkjz3H2rZL2GIqdKaM5_v99jV2pNdgiZ-FK4xujaD6O71cDjKQxFWxeA_ZImlhAe0dEhAGZ8qyI9pJek2cxr_VWoBsGhQDZk8lGHO3OMdYEqQnXREm6WVe1g",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Tadeusza Kościuszki 81, Suwałki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6522302,
+               "lng" : 22.4547765
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.65358043029151,
+                  "lng" : 22.4562549302915
+               },
+               "southwest" : {
+                  "lat" : 53.65088246970851,
+                  "lng" : 22.4535569697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "60b980733a8577f9c0445771542ac18553f57a4e",
+         "name" : "Grajewska Izba Historyczna",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111478321234044346406/photos\"\u003eGrajewska Izba Historyczna\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAKgHTrt_gMc7_Vhx5NnpPi1GpowzivOJxaS4aleFGmIabJZn_RRO6K0xkO9HZYEtxVPXvDXP_s-sV4Ve7ImpPJnYooP97Bspgbo337qr6_7amlWy2UtmpQHGFKScVmsW4ilyVObXRQY0kNVu9UiskexGbcg1A5aLhiIIFfhohQHEhCPi3BEGvHkRP7xroKpEXkLGhTtLBZWiwLfpS59AFNcVj_9EMe20A",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJ1cHAPt3L4UYR9uZErmC_juY",
+         "reference" : "CmRSAAAAhZFRe1ARU5Q2tSWzk7J116LWTAImmLzaV2bGIv5tEqmA0oqmdgAKfCqtYWcrjz5rN70lwVi3EFCoLtcC1trIrOfWuSvqxgXRj_6sEkrqjMZitSyWvA6UmzF1JB6DMzMUEhDDAIRa3kkH8RBu5keFDD4iGhSi4KiY1HZVXvKTjaSRlyhMaoL_9g",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Ełcka 30, Grajewo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0753374,
+               "lng" : 23.0756504
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0766863802915,
+                  "lng" : 23.0769993802915
+               },
+               "southwest" : {
+                  "lat" : 54.0739884197085,
+                  "lng" : 23.0743014197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "0e74c013551280c11d2ec926e2db6aca370d107b",
+         "name" : "Muzeum Wigier",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106566436024306496598/photos\"\u003eAndrzej Petelski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOd2LOthuDF5YbtZdhbFgqfKrNFvAlNh71_phJIoExghHOQIj3XnBNSFxWCp1tRmtevD3lu78NJJ1GyNn0UJnPiI6cD1dt7aC03hvcRYYWwfvtAuUBGRo6KOtx6On5U8wHROxA9l3A-Isa-YnLMBi7g_-J2AfSHbmnUAsANEL-ucEhASANKjJWoQ1qTqU0a3sorWGhQJ2QxCpnH6V9olz_vC3IalCfeCoQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJpWXzFjoC4UYRrM4nyPudNJ0",
+         "rating" : 4.7,
+         "reference" : "CmRSAAAAlqiy8b3MO5_fdtOGShmrrzNJthoydiiJCBn4FBZC925LqE2kW8SSC93HU2F8Q_YSGcBkNrU4wDopA529sKTbGKVIULYSFyQ_9AR4HZ6gmNCwQXGxyeweiB7t_T9ECTiUEhBfKHT8gIaLc1RWMpgJlh-xGhQaTa9ms7qjqxCr6aapAMtRHpKFLQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Stary Folwark 50, Suwałki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.647456,
+               "lng" : 22.4725851
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6488774302915,
+                  "lng" : 22.4738740302915
+               },
+               "southwest" : {
+                  "lat" : 53.6461794697085,
+                  "lng" : 22.47117606970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "90d40669233382b86d8782422a96c7cd15b44db0",
+         "name" : "Centrum Tradycji Mleczarstwa-Muzeum Mleka",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108927080116026123685/photos\"\u003eCentrum Tradycji Mleczarstwa-Muzeum Mleka\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMD0Ln332Hq1xGfuQhquDJxDU9pPCmejPspAHNZueV-ZVR4RgPwlft4IpZIx3HrthclMYXfVU8HOHFxSihCYGui7jZ034dH03bMSpbnJRu4bYhGpwZOonZivzC8E6dnj9lOvrJT4bUhSDbHv2qpHACKVpcqN7XSZGH1Uii9A9xYAEhD2hgu-ncNnDKMSwT-FjVhBGhQucxdSzOgVzN89k493CKchixWEhQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJAeRg5L_L4UYRV3Yy-FCGF7Q",
+         "rating" : 5,
+         "reference" : "CmRSAAAAysPI5seZICXM1mof1OCozSzcC_aZV3l7jmry_XwqNPvHBnupo1aXGcCwDb19qdH-7IdOOQm7DiMUoeY7SF5kLcF0trSywUhea8U6xX-ZtQMU8sDiHhA9dmw3DIduW4BAEhA4ROQYIvJKOFE7cpJQgTL4GhRqV1qGqOhG1NZ5oBpXO7xDbpi0-A",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Konstytucji 3 Maja 36, Grajewo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.085173,
+               "lng" : 22.9292953
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0865501802915,
+                  "lng" : 22.9309953302915
+               },
+               "southwest" : {
+                  "lat" : 54.0838522197085,
+                  "lng" : 22.9282973697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "eefb54a7e33c0f6069907d0624d4d407013b5cff",
+         "name" : "Muzeum Historii i Tradycji Żołnierzy Suwalszczyzny",
+         "place_id" : "ChIJb882tSEC4UYRPAkbRS6h31I",
+         "rating" : 5,
+         "reference" : "CmRRAAAAzPvevhxFxA6QLbI7h2Ty-JJ-ShVcu7m7RIWj368q2eY8aTrQgJzgqSqx-VXDwcj24mRSxTuevvd566OkU-sxKtYra63W6Tvy-bYHHT40W1v32gPlXVtzxZoGVknIRHojEhCQKoGqxGuSNqYfMZZQSwlnGhTNjKnjbxAc9WOXbiTXrfHuCx6-tg",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Wojska Polskiego 40, Suwałki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0966076,
+               "lng" : 22.9279894
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.09796713029149,
+                  "lng" : 22.9297039802915
+               },
+               "southwest" : {
+                  "lat" : 54.09526916970849,
+                  "lng" : 22.9270060197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "8957a908834cc5f511afffa50bced55b3bd08f2d",
+         "name" : "Zaułek krasnoludków",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2016,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100244595630869675582/photos\"\u003eMariusz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAE9GaXtGyIQ6CcMev-r_kAAk0EnpQT_T8GPCaYmeF-ucLMSZB92VQGRgBnDQOsg7n926ocgFfPLa3R7-qE9GDc-ykN7FPjrJSvgkU7Tte73fMus0KqBRvn9apRUDMSodCTEVtVBs7EHISOOeC9IE1F8JZLBESQHcHjdaxKyL6DDqEhBm1mngiBYKnzPyz9YPXx7rGhQPNnyUXPqS7l1wxrT1aAfFnyAwjg",
+               "width" : 3584
+            }
+         ],
+         "place_id" : "ChIJC9ZkFzsC4UYR1kXYk3L6uT8",
+         "rating" : 5,
+         "reference" : "CmRRAAAADWOwd1eYubEm8PxQoN9i9GCOxBgve3MlcAYmn2R9ORnRdYFTR5i7GmZVQorD8Ta8l_EU4Z4eoSWbbTLYhoIQYlhhmoGm4qfy9d8VYkeGlxH8-9GE0PSuk4MJuKP0JRifEhAIADBIOM9-9ag8VpgG4PIqGhSuimCgA-cLp37LAAStOM7oy3GIYw",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Tadeusza Kościuszki 31, Suwałki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.82418399999999,
+               "lng" : 22.3646986
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.82578038029149,
+                  "lng" : 22.3664768802915
+               },
+               "southwest" : {
+                  "lat" : 53.82308241970849,
+                  "lng" : 22.36377891970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "afd37c8133a3f7518c4c682b290e44fcd1c55263",
+         "name" : "Parowozownia Ełk",
+         "place_id" : "ChIJkyddwYG54UYRjo_9Jhi9jkM",
+         "reference" : "CmRRAAAAVuQEyb3DM6R7TRxaahvblaF4Js7UlgJggJcCDnHqeHVaUmMZp4lSUQxgdEN0hCbjf4JfoOg_gT30koypbmlMO4b2sEA5BVIFZA_dQ-xTZrDejmRg9Os_-mM1KSlJaUEWEhDnG5P1yfF7dNbMft1IgPYVGhQ_Um9FSd-HVaaHOWXK5rnXhHuPog",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Sportowa, Ełk"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0895585,
+               "lng" : 23.0177367
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.09090748029151,
+                  "lng" : 23.0190856802915
+               },
+               "southwest" : {
+                  "lat" : 54.08820951970851,
+                  "lng" : 23.0163877197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "3e6b6b32e88f2337f2257f5d02300d6de87cd313",
+         "name" : "Jezioro Czarne Wigierki Park Narodowy - kąpielisko",
+         "place_id" : "ChIJe-NAar_94EYR3TIpMfCRw18",
+         "reference" : "CmRRAAAAuDK3foe7WMW_qkP1pYCP2f75lkztXOrTH_cJNPkG0AbDHh16-Qkrt33PvWJ_-xt07gbDqpXC0ksVTNaqcIpBi8BcZ_3dZuWsaiLdLoV0CaJVzvqW32l9lNmeuvSB842zEhDO19xlOL0alumaoquh0z_nGhTinA9pwOumFI6ovnIDZCJGpk2BxA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Suwałki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.82634170000001,
+               "lng" : 22.3642098
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8277491302915,
+                  "lng" : 22.3650087302915
+               },
+               "southwest" : {
+                  "lat" : 53.8250511697085,
+                  "lng" : 22.3623107697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "59e89638b9fab39e23e18a191f4f01de7f13a8b5",
+         "name" : "Skansen Pszczelarski",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104115322021514165396/photos\"\u003ePaweł Hrycyk\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAkTV-Enx1NkNsAw35vuUyIQTB7cSbQUCccC3BFRKCfQ8gVkOxeWFKG0CmJXSXXtSmW79sDobxGHKDXBugHsj9bvruFud3v9Rfswx0M2ouVPHFjbIDPLCJhoRZUWipPV6pVqL7xTW2k2GohV6J9lE-1hZdAshlRMQUnLZOzuW-ggEhA5dpTGT2tLbkowGh3SWdTHGhTJcOlxk4w88v6-ddCv58at1wNwZQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJZyMpiX-54UYRPOQH2NyKzW0",
+         "rating" : 5,
+         "reference" : "CmRRAAAAKpP2sTtAmFQhxrp3qC1N8V9CK9cGOJvY_PErtMN_nhQLM2UXiy2svIMAwhVVYss70Nj01bX3iBNl9x4KYDT6d6qI1HKeCi1qtRCW8wLQ3wDXKG5DAUL0x5VYZFENwWviEhD6zABzzeVT8vm6VsjlSPOzGhSOuS3VEX1sJZafZuAIjK8cOdwZyw",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Wąski Tor 1, Ełk"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0690892,
+               "lng" : 23.0872137
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0704381802915,
+                  "lng" : 23.08856268029151
+               },
+               "southwest" : {
+                  "lat" : 54.0677402197085,
+                  "lng" : 23.0858647197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "70033113e40a617644afe60219c6cd0aa23f53cf",
+         "name" : "Wieża Widokowa - Pokamedulski Klasztor",
+         "photos" : [
+            {
+               "height" : 1824,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105653364002882573629/photos\"\u003eFundacja Wigry Pro\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAFFQ1P16oW3M8V4piTDtZpMBQSnLJ2YT61aru1iwpvBX-HIWIpC7NKpkWyQu-WLHqa4KtqXLdN8MmLeiWscNTvbmwnOVgpEXAF9tyVkbcKw4SwmwSeee_X4aVoSTuEnxDa7THK6quX-B8N-l661099LyHkFYhr345Ycru4AbicAQEhChuDmjTIdIlR6Q5ySiEWLzGhQPDKXrXJBl-LB8zXU4t_gdkDKBoQ",
+               "width" : 3248
+            }
+         ],
+         "place_id" : "ChIJIyHxBhL84EYRUe3vxfRCncg",
+         "reference" : "CmRSAAAAEpsO0XRo1f3VL1DzLWqZNPlpKQropbuaLK8p8AVhDEBs6PWW7QD5L2qdTC5CgrHoN-Ftl4aRAtUB5uR39XG5ZOXu9OpLnm9UI6K7MhbbjOiWvIFfORJVUgumf7NL8suUEhCrn6D4kBuxhHsrqFiBCxsGGhQgG7JTTd96tydYPrKZoN2WGqkzIA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Wigry 11,, Wigry"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0353813,
+               "lng" : 22.5000121
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.03675518029149,
+                  "lng" : 22.5015327302915
+               },
+               "southwest" : {
+                  "lat" : 54.03405721970849,
+                  "lng" : 22.4988347697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "d28571863eb0a95ddd3dbaba690e0d52b338b833",
+         "name" : "Wieża ciśnień",
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105261604081981100030/photos\"\u003eKornel Laskowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAEMPI7yIXqaDIWUBijqHl4j9WWLtbmAa2zNIhavSZfb3CJOb_XT9veZjcOhqXr1PnJudC8lUWAf_qBWbizL-MxUnQVKh5MOh49UeZEePY57taevwtzUsvEGulZtJZqwjtCtrU12pJAt5RA40uyGcwQ5PEWhrDR3QbH0uL3zXRV3kEhAldZatpa0PqxJfyxzqf73XGhQTq7SrTKcnkfmjB6N87skfJJMvRQ",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJE9PTTiGn4UYRLWyiXpwobsE",
+         "reference" : "CmRSAAAA0ThKiuwg1Wc8-IS1U0m8tm_IUpotXpTE9ImbSEIFFn8ZJYav10pp2JLMFDBhykuXulyjLTW0dbJZLJHLVO0fRZSS1Lhpf_nOMfhxBGbkUCIz_bHmvLbEm7FdrJ4fXMtYEhCLT6rp0NF1rcSniqa37cUrGhTnfBnlxeQNc5JThnzn6JgoKK1GhA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "plac Wieży Ciśnień 9, Olecko"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.824566,
+               "lng" : 22.3516384
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8258766802915,
+                  "lng" : 22.3528032802915
+               },
+               "southwest" : {
+                  "lat" : 53.8231787197085,
+                  "lng" : 22.3501053197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "740afa97f37fce46b781f9234d75f547aafc19dd",
+         "name" : "Muzeum Historyczne w Ełku",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJeYzR8nu54UYRUUkZzHHc45k",
+         "reference" : "CmRSAAAAc0zLU5VJfercwbOLwzu1c93B5J1XXh5u5CcmVdar27NMpEchSnXiyrczpioodRxaZXFiyOsjfXfO22KJTfMxhhwG2GwI_HwwMmIFwQ8_eki4EJi9_0CiQzbWClFSdnc-EhAUHpR_34EX0Dh1c6la3_4PGhQVpId7LiK97PqhWIispoxo157v3g",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Jana i Hieronima Małeckich 3/2, Ełk"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8174789,
+               "lng" : 22.3507287
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.81882788029151,
+                  "lng" : 22.3520776802915
+               },
+               "southwest" : {
+                  "lat" : 53.81612991970851,
+                  "lng" : 22.34937971970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "8bee2677e14ab621dbdc03360b9600a2fa999ae1",
+         "name" : "jeka Elk",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104150267094227475918/photos\"\u003eАлексей Толкачев\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAABdOYHD7wQzO_TyNBg85par9qv99Rw8decslemXErfhvg86rXuVCG3SgeKYsJaEzsQIy4W2vR3KC9rIrvoAOh5lLM8sMoow69xJ8YWGPNpbp7Wyb66kD0REptzCEoplXla8q3sE5SFtc1Ygxgejdzdlmo6JKxOcEKLxMWqQcN8a1EhCdBUvYND34ZxtpM4gg_AbjGhR6jTNalaB4Mbt66U9Y7SNyhspOFw",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJRbLPEHe54UYRKFU8nHnsUgQ",
+         "reference" : "CmRRAAAAxETlpqT7g4-Hj05-ZuUkVd4G_M_-URZxV0AZNjGsT3ltBqzgRxYVDC16_Sa9WJhHAUAJQlEIWJFZlVa3gFL1JRjcqKhADOXkTV2luoXx1XAnr_1DDdv51S2Ox3XPq22EEhDh7oaDndqHVPYnZJMYLMC1GhSD2LnEj0hJvNi5bHhfMYL8nfMl2A",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Ełk"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.07458,
+               "lng" : 23.1055459
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.07592898029151,
+                  "lng" : 23.1068948802915
+               },
+               "southwest" : {
+                  "lat" : 54.07323101970851,
+                  "lng" : 23.1041969197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "7eea4473d185be0c3e1e8d464f188c999896283d",
+         "name" : "Cmentarz w Magdalenowie",
+         "place_id" : "ChIJbREIRnT84EYR1zOfrV2eBGc",
+         "rating" : 5,
+         "reference" : "CmRRAAAAHlxKACWEfzGFGSG_-vxdCddZ76pANvEqjHN9CniA52RKB2OIEwgRqz8FNFP5zdfxiLwOdoBcF2FxCezlxhF98xWNAalM6d2UE91e1atUhiLA1w9iqzUh9951ur6WHYNAEhDrQCishcYP5ZP3r2c4WRvCGhTK3ZJD1bAkBmZU5lIuUBTd1FxR-g",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Stary Folwark 6B"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.646713,
+               "lng" : 22.456055
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.64806198029149,
+                  "lng" : 22.4574039802915
+               },
+               "southwest" : {
+                  "lat" : 53.6453640197085,
+                  "lng" : 22.4547060197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "ef931c8511017ff6c0f5e26ca46ff31911e668a9",
+         "name" : "Muzeum Sprzętu Rolniczego",
+         "place_id" : "ChIJS7hK4-jL4UYR-5wiwKNakJo",
+         "rating" : 2,
+         "reference" : "CmRSAAAAnkIy9fkA44DDIN7DtqN6oJYWx9v0a9T4SSA-MNL3w1jyY1MsC3Y_RC5qogOrJ3iwjIUsGF0IjRyyOq72rzXffqitP6p0G813XDpJgSmXOqabZDOybDeQ5cFM9OgDa-3HEhB0pjLAhJJxJW8KADfyDsyAGhQk9-sHf3S_yNOvCo9UJswzW7vY-w",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Wojewodzin 52, Grajewo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.96605249999999,
+               "lng" : 22.338462
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.96740148029149,
+                  "lng" : 22.3398109802915
+               },
+               "southwest" : {
+                  "lat" : 53.96470351970849,
+                  "lng" : 22.3371130197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "30dc92e4a8eac2616ee73720c8e7e832a52ecd23",
+         "name" : "Henryk & Melanina Castle",
+         "photos" : [
+            {
+               "height" : 1728,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113624215850382846899/photos\"\u003eYacine Lebbane\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOUCEXfx9cuVxvSnb2crsDg6nWoFnZ-4bKZK3OUiqaDuuPNZ-dYdp17ZeMuZlgtVrbfv1PM5rmAh0nsmte7HdA7hSmQnWK-kXIQ5hgMDHJ2eQz_yFO2vNGrn3lUnjGloJ5dTt8u5QxpBOW9wb1kRUI4j-9JT1FJNG4b7jpGrIa__EhBqkPsg5M7pN94TilHFmE07GhSpxcMW0SVcYEX7MQDHIWiO-LGq-Q",
+               "width" : 2304
+            }
+         ],
+         "place_id" : "ChIJZadzlAGj4UYRXGnbpplPLBk",
+         "rating" : 4,
+         "reference" : "CmRRAAAAaB3TXMIhC5CHpt-85OVxScfwJfP0gqwLm32OFqaxt8l4dfa-Mb_Cszxab2Z-wOt6imsz7Xtt18sE03Oxgz-N33F6smZCnD4_-eRgMBBXC4ABKnu3KsNBpbHk8eYj2KN7EhD03hCJW4niC2sc1BbAmFqhGhRWwJTpkTDCSb1cysCSUQwsjPNfLg",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Świętajno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.89829,
+               "lng" : 23.419824
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.89963898029149,
+                  "lng" : 23.4211729802915
+               },
+               "southwest" : {
+                  "lat" : 53.89694101970849,
+                  "lng" : 23.4184750197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "b5aca3bda182190c0bb07e66f963aa51581839dc",
+         "name" : "Cmentarz z II wojny światowej (żołnierzy radzieckich)",
+         "place_id" : "ChIJp1RSoq6K4EYRJ8nYnjcBZP4",
+         "reference" : "CmRSAAAARmsSVxVEqUIJEnh0FCRjhYQKjLCwW_LRXVBpxSBauDxR79c27kfP8bdDHlT1FcNBC4d807TA7YfYOa4GL-AycQ_8BJhyhWWEI1w1pJxrG85PrR6R7dRkHexRThKV4SfxEhBgF_KBYTihfIozX5kBWF1zGhRadroTgU7YieJ8JTPzFGrFu07rUQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "53°53'53.8\"N 23°25'11.4\"E"
+      }
+   ],
+   "status" : "OK"
+}

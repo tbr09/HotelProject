@@ -1,0 +1,697 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCAwEAAMYxnPuUB-EYO-AR9FvcvxUK0ipyx9eAyKvlvYpbuTSsjX9j9mdX506NwgFUiCkb5We6wqoFSsh8BJV_-BTpw5eMjwRm_eSudxuPw8Gp5ngAtHUj2568hXHJWgdH7PMfdFL_NdwnwN4JRS8ruFLMN6WPijNwrifDMLe8QrPYezed_uRywpm4LQ44iksj6tCJE7-MpVS8jQv8uIyZmBtX06tuJa7lBJePzUxrSwEl_ZQEzMPdRixMxtqmqscPY6lmMaHV8ASsUUUtxuYOUExkqctWDK4C7j1NZFNrEvTDd198UWftEqC-LlODzZa7U9MJKkj-NpYppTtLuA24HjYQq6lrDqEBjm6a9tBpMlqUczPTEhDuExdIT_nSS5XoZfh_-YyjGhT2IwVw-8b_YLKTDCIREmFJQbdYeg",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7759827,
+               "lng" : 20.4796277
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7773753302915,
+                  "lng" : 20.4807195302915
+               },
+               "southwest" : {
+                  "lat" : 53.7746773697085,
+                  "lng" : 20.4780215697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "e1f52c241bdd31596af95b643666e97c916a06dd",
+         "name" : "Kuria Metropolitalna Archidiecezji Warmińskiej",
+         "photos" : [
+            {
+               "height" : 2358,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104511891766486706819/photos\"\u003eRyszard Kolo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAG84GelYE-K_7n7pav8VcfB8kAWRRFNUj5HyzsrcgpqnXBEUg2v5xiG5zDXGri4QEzoe9eqHFYZ3a3qYw9XxWkEJq6b3vJVdc6C9et8v-ay6C9PlKQR1K6R4Txuw0lhCnLorghqhGOkOKZJCJs4qoVTVPnKttqs8EsLF0ms-LDEREhDXIhxdmOIYhqiipa1jUHdzGhROFHbUmiJG7HR845TZlv-eYFB47A",
+               "width" : 4191
+            }
+         ],
+         "place_id" : "ChIJH6QectR-4kYRCB_kburemmc",
+         "reference" : "CmRRAAAAVSvzsXmjcF5QBFsGorkI3ykPhTFfzwLhXIb85k-0rxSsUD7eMRJcGbbWUjL6Tlrwedf4HojvEmRYaA2sD3s5L7whw1nXhzoqf8IK01f9D_NQty-JPOc4B52ZrcB_Ne9jEhB3GM2ZWpufSs4Fv5WoAbDrGhQbidKijrAFYD22LgX-xHqpEzSgpg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Seweryna Pieniężnego 22, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.77855149999999,
+               "lng" : 20.4873394
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.77997403029149,
+                  "lng" : 20.4891877302915
+               },
+               "southwest" : {
+                  "lat" : 53.7772760697085,
+                  "lng" : 20.4864897697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "b129bfacf975f5c2fcd4b442acc80e918da40298",
+         "name" : "Kościół pw.Najświętszego Serca Pana Jezusa",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104150267094227475918/photos\"\u003eАлексей Толкачев\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAFIeFlxgO0_En12OGMWiJmXLXnOOVOjeNdLyDnoggySf148Pues_bejNpqBjr2IKNUCL0Bg-0krLJHFsj1kQgc0rJDILQygIDVIYcnKesELKyWNTNs3r9p7zTjOB0woU_obXQhmNb1-bSmHo2fb1ld6CAltFaWYlzIppE9x-LUOlEhDqHF-nNpExQI96jKx6PaLfGhSTERGTwSmp0h6hlNboXnhHtRl6XA",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJIYWiLS154kYRFdLUxMhNNbQ",
+         "rating" : 4.2,
+         "reference" : "CmRSAAAA2MGA-PkhPp3BiAAaBxX5ARuxMcSORxmuw3jruPM-2w_AlxRUgIhFOIYrtRPaeRCkQgEj0ngbHUyHe0jMktxyNbFVl8hSV3UQXBsy_VGT3URPI5IHECEBvEOzNQrsGnjoEhC0osKlHQQOSA1vMDDikQffGhSVepGAmzqKHFDjws_TITRY8nCvZg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Adama Mickiewicza 10, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7652298,
+               "lng" : 20.5040727
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7665787802915,
+                  "lng" : 20.5054216802915
+               },
+               "southwest" : {
+                  "lat" : 53.7638808197085,
+                  "lng" : 20.5027237197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "6bf5bec4fef3669abe9c4cd53251d3c62a7ac73f",
+         "name" : "Kościół pw. Chrystusa Odkupiciela Człowieka",
+         "photos" : [
+            {
+               "height" : 2370,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112146519648162252995/photos\"\u003eCzarek Komar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHsVYArbLB7erDtJ--D2okGrYh4LTbwYdaJchz2p3qeCAvxj30eExQoiaydd8TsdpoqzUKMdYoqMbcdZ1hGYpNhoRm2SmzrAnXNVrehvlbXIw7D8ijJqXv0U-s4CX1GcRSHXOSDQZP874xcQtNozPtBRH8nVxkgkZUP2KhRZSR4PEhD36QnIVXyRB-M-C9DjeRSWGhSv0A8W40VGeah2ksQZc4zTj1uP-A",
+               "width" : 3561
+            }
+         ],
+         "place_id" : "ChIJt2E-NN944kYR7E3S7WZsyzs",
+         "rating" : 3.8,
+         "reference" : "CmRRAAAA0jDk90EPMEdoJaZqdh0PL7Auqf7qj23E1UOO5LpnQHBMFzqkRO0u0d04wGGE9dNoq5YoiRhyJOWDbQQqVrhivVnZoYrqnWxzs23fb-X36OjeQuJ4upnyOMxEHWMpTpTgEhAXhvFuCdftzMLOyDUozQe8GhQpzhhbGEBTp9LuFwPJU-fgzP3dPQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "kard. Stefana Wyszyńskiego 11, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.78457629999999,
+               "lng" : 20.48485639999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.78577303029149,
+                  "lng" : 20.4860708302915
+               },
+               "southwest" : {
+                  "lat" : 53.7830750697085,
+                  "lng" : 20.48337286970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "362f710a0156dc4cebba07bde73fbe282c2e1ccb",
+         "name" : "Zgromadzenie Braci Mniejszych Franciszkanów",
+         "photos" : [
+            {
+               "height" : 500,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116434875802169221751/photos\"\u003eJarosław Skórski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGuvG7BT6MPtKacOLE-RlDvi6dvVw36BzpjbIral6JwFz4j2VsoS_2RrWokfsxIZRpvCWFPsByWP-3w27Qch1ey8j7y66eVknpNJzjPmmgsclM6KLYsoBurwxii1JWNToywItTRVBntTPQ8hmvqrQfShJuzjeBEF8A-NXpxliMFIEhCDfWWD6FHK9-jnJpfLVD3TGhRQ2YMsRM4ZF8VKasx1uVWBIQFtBQ",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJ02QGK8x-4kYR2s4Gdd5woDA",
+         "rating" : 4,
+         "reference" : "CmRRAAAAV5qcJIQghqg4WrcVdrQ99iod9PrS7ow_OML7zZnxD24u7ZwRJzpk3No5efG1yf6quxc38MNh3wYIY72WpAOUpavsnv3czTXF4exiEtaObtOtBlShiMJn5dWg9Y1doeR6EhA3U9QqSIxcr8KeXjEZ-EnpGhSdZNgy8tS34WK_pSbEnCZA8wAefA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Stanisława Wyspiańskiego 4, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7508523,
+               "lng" : 20.4544867
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7520627802915,
+                  "lng" : 20.4559764802915
+               },
+               "southwest" : {
+                  "lat" : 53.7493648197085,
+                  "lng" : 20.4532785197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "a01fd35b5a399a5613a58fe934b0f20e73f00360",
+         "name" : "ODA. Olsztyńskie Duszpasterstwo Akademickie",
+         "place_id" : "ChIJc0LmvUl_4kYRvAg78RR7O0k",
+         "rating" : 5,
+         "reference" : "CmRRAAAAXgDLeUFD8_KofAFqXwlJsEfFnHxljg0U_ldHsQdbqXhkMKWLbkGICHDRtzVw28T_fqmHxGkcH3hu-tI6aUg91AYX3Fer6so1cUnuFpCtz-byiF54BJEPZ7uW-CNXJpGiEhDkp-MaFB4nVIgRG6ByK_1iGhSY4QiThcZOQcglC91L-bJETzq8aw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Benedykta Dybowskiego 2, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.921074,
+               "lng" : 19.920164
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.92242298029149,
+                  "lng" : 19.9215129802915
+               },
+               "southwest" : {
+                  "lat" : 53.91972501970849,
+                  "lng" : 19.9188150197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "b713665367dc7be784a48cc37d02e61fc3dc978a",
+         "name" : "Parafia rzymskokatolicka pw. św. królowej Jadwigi",
+         "place_id" : "ChIJC29RQcmY4kYRj8_6f2GgGFI",
+         "reference" : "CmRRAAAAwBSDiwK--ujarf6HoDWnHArQNM7a4I_l7gMTNlM1BNLRVxwNucINyKiJho3GBt8V34HbrjGfogKYuZR62fK4jq-XeeunedDpXpx6tuSyyrC_KhtLrKw_rV2IN1LakfWlEhAceKqBACFqlYSrgTEnXywZGhQ752ZjjoaR_WHy1LgUuf2a3iPHDA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Al. Wojska Polskiego 33, Morąg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7365889,
+               "lng" : 20.4783387
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7379378802915,
+                  "lng" : 20.4796876802915
+               },
+               "southwest" : {
+                  "lat" : 53.7352399197085,
+                  "lng" : 20.4769897197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7731a9c776bc2b4833049ad66d470cd55477a129",
+         "name" : "Parafia rzymskokatolicka św. Mateusza",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114028577347282337345/photos\"\u003eTADEUSZ KIEDA\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJYrUFi99jYdIq7GDA0JRaK58Hyilh9SvLXTiLwKJocg-iU6VZnPrhiVkSquA5Xbi41f_CBqCdVcecbn2Fm3inm9QM5C1HTUN5VqVmX_lBn2z_TRyWabyt6bgnybhS7vIRdQQotPA7Vs-LmIJ0hOkdbcIuVzqmEeCpRP76s-katWEhCg1rbK7umAqKhBIvhdmb5tGhTVkCqfl4-TowSVbG0HIq34H3rKCg",
+               "width" : 2336
+            }
+         ],
+         "place_id" : "ChIJN5HhJbt44kYRjgh03IEWIPQ",
+         "reference" : "CmRSAAAAStXu_XjQipdtK1Zdgihu8mx9tyTEnkg0Qs2EEiF47tqAMPujFesfm-v6WSk6ZOSlG4CE1c7EihEbm2IdhDVTwY4lH5J7S5Mw0f3Z2zv0TaGi_7_NvZIJLp0re5LVm2kqEhBd5txZlcXd1hD_twNVKJOaGhRQoVKX1JxFEha6kAUFh9egUJ2S3Q",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "ks. Jerzego Popiełuszki 20, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.125682,
+               "lng" : 20.725965
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.12703098029149,
+                  "lng" : 20.7273139802915
+               },
+               "southwest" : {
+                  "lat" : 54.1243330197085,
+                  "lng" : 20.7246160197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "afff59c364e591bb1352bb70171d90e2409be85d",
+         "name" : "Stoczek Klasztorny",
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100999868041346226209/photos\"\u003eMagda Bortnowska\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMFOnmA0CrPiJImbrNXhAQf9mRb4Lu3CG-iu13Payvw5Umb7cZJ17yzFFEGQb2TzhzFomRlukcxyht0bkLWdSSaTudx9jP0553eeNX7s41Z9BhMPcI3VFX4iqVwbVE3aynkpXxsxqBKEYGJY8cn1OuPLnIfcm6JevOSe3Fj2q7mpEhCwto-kLW7_IFpz6HcrF4GDGhT5MPpzOPVwvWI_FCAmc0-mnSFlmA",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJnweT4bde4kYRX4yBK2gK8Y0",
+         "rating" : 4.7,
+         "reference" : "CmRSAAAAVqyOokVbd2FTYczhGYZsFMrxwkEMqtnSI_EZK7jnkMNnUb1i2Q0L_Hr3reVymNzTpeChOBXSgBxlmqjoMUnA5FRiBrnPyPJTiyJD0qV8ahjjbdngNYR0mFSuUvVN3cNvEhBXtW8ZPdLEhMjkcneOuPj4GhRhGnBxkxUC2ngpfFZj3zfIadUjAQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Stoczek Klasztorny 30, Kiwity"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.77617179999999,
+               "lng" : 20.4776813
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7772579302915,
+                  "lng" : 20.4787187802915
+               },
+               "southwest" : {
+                  "lat" : 53.7745599697085,
+                  "lng" : 20.47602081970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "8cdfb78d278fb7f807d8fa624b7375ecf9340990",
+         "name" : "Bazylika konkatedralna św. Jakuba",
+         "photos" : [
+            {
+               "height" : 1333,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116434875802169221751/photos\"\u003eJarosław Skórski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAI_vdIv4zc2G4sw-nLJBLaXbxkMlfPOr249nzioVpVJrmKX2gk8PvrYecNW7hNJhzZRqB_jUQApP3Ch7-MOseKbXAbRWcqmcfT_arNKb69gKg5C3Cc16UPgWS5f6T-ofAvOobFTp38AsFRSzyUb1dNWD-sr4RodoAhZCUV2ufqOYEhDpmHxQnRu83wOHxdC97j2iGhR68PeP6MCoCU658zIZ3D2Rwiastw",
+               "width" : 2000
+            }
+         ],
+         "place_id" : "ChIJYUviG9R-4kYR_ecW0KpY5zM",
+         "rating" : 5,
+         "reference" : "CmRRAAAAu2BVY80oKv0h-ZLU6ccxeKkxbbW96C7joi4ROk4bz8lHutJH_5-4lMYnpjyVgNw7ZtM3bNKeitkizylKQI8CpFn4iduX05yGawQnVV6PV5nMp0VigTkKeO3DNj3BNsgLEhD92ontiawH_W0XncWAlll8GhQJvdFyres9334A4zY2YgjjBWYAhA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Stanisława Staszica 11, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8287657,
+               "lng" : 20.6915107
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8301579802915,
+                  "lng" : 20.6928724802915
+               },
+               "southwest" : {
+                  "lat" : 53.8274600197085,
+                  "lng" : 20.6901745197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "d587160adbf33da00c9b1d3b1050b087a9e690d3",
+         "name" : "Kościół pw. Św. Anny i Św. Szczepana",
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111208148906112653360/photos\"\u003eRadosław Szałkowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALnPeK8fgJW-vdRCxhhPU5T-xY2hEwr_t8Cg6JLFl5aHxaBcRCL8x2sZC4Le2tOX7u_oqCpvTnY_t-OOEdSGnYjlgRrR6AwBS7IJcTVMdyyuqO5r_k2d2g58dGVLgpwmJzkf5nPK1LpuaTU9EU0Z0i9P0jeCm5aAKb0XyKC0RxYpEhBZwNMub62aO13ca9c49sniGhST__Cx52blIIG4aQvgU8XuIulksA",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJmQ9zW2Nw4kYRrywBi9yO6u0",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAAnFDqG9H2xUlG-t-OHRpjrn4wyGpns7DtAQSAnqvYWSNMEJCs0PmRnNmFAUFCz3xNlgt_CalZkZSOoO1lgvFovXpC5zPZmIKOXu8sZFafhW7RIPGmyAFVjzr7xXcrfZhJEhA4Ke2TBIK1UNpu5OK-DFj_GhSbli1eGNmCpPn6Fp0GyA2m1UB94Q",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Nowowiejskiego 4, Barczewo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.948921,
+               "lng" : 20.317239
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.95026998029149,
+                  "lng" : 20.31858798029151
+               },
+               "southwest" : {
+                  "lat" : 53.9475720197085,
+                  "lng" : 20.3158900197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "62c64a996b55dfd4b00c24a5f7e53c52af0e6708",
+         "name" : "Parafia rzymskokatolicka pw. św. Jakuba",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115511665081911807924/photos\"\u003eParafia rzymskokatolicka pw. św. Jakuba\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADvn_5KFiTeU1K-LZ7L-BPOysB6uZTs3SxRf4l6IhrjrGdbKnRaDaGDwFlh7VE7NtfEAayeAMJQKzH428nTW4ZEfijYapbfN1QM6hs-QK9kMYRdc1zFfhS3THVb8sO661dptoCzX74hlTejb3mFR758qQAAZsX3K7rXC5VNAEzVDEhBYqEMpqr1TvIcOO-ue9IUtGhR_TUJUIiY5-AGlBvRftUQgpXr7XA",
+               "width" : 537
+            }
+         ],
+         "place_id" : "ChIJGVMptE-P4kYRNoTS4vaIjXU",
+         "rating" : 4.5,
+         "reference" : "CmRRAAAA-PYnLZf6bl4esmqu9HUGNlxXWqqiWDQFz8_u8Lxw_2ma3aiAOuy_5BBUrHIeZkUrlRJjDkyo-4oHiYqRdjdAALxrI3Mv6jVgtuNQrVwdVoNGcQspQ4Bxg5ASLtFv-u44EhAtsI3GqN7F24pyFtbaL9pZGhQYAhW8Bd4TEvfdVNGcW2459Ft8eg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Kwiecewo, Świątki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8084709,
+               "lng" : 20.4412383
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8098198802915,
+                  "lng" : 20.4425872802915
+               },
+               "southwest" : {
+                  "lat" : 53.8071219197085,
+                  "lng" : 20.4398893197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "b910bc948fec83647a6357085b1bda010c6baeaa",
+         "name" : "Kościół pw. Św. Arnolda",
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104511891766486706819/photos\"\u003eRyszard Kolo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAACrQK76pwEHVZbQZ6J2EcMhmXm3y5eF8ROY_Lakaz0vcR-AovWZIy19uBhdpxbYEYA_RDv9FUu4lzNWXI53KZPqPepgmhnMDX7XC0RQ8vqmsuVr3GASZ0EQe6n7ddE3ccJNT4linoH5xKD0PWBcrP2jtiqjRAJdrGH7egK410xEsEhAFylchZJNTbaRSIAkbXCFXGhS95cNSRQpl98JiJI-A84aMrG7yaQ",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJzz5sXIh-4kYRrrVb16V6EmI",
+         "reference" : "CmRRAAAATBN0qEry2A1bcTwxxKnMf4jtgC0xkoRX8ZVpX2TwZOsIht_tRxHdOPzyXkwnymhVUUDjkvVvDlUq05wYJWBt7eDb2XaNnWhvzpvvIg2L9nl54nP2z_ULslnkudYZb0bREhC150fDt3yJuooudHeFT-glGhRf5xqlTMxIxUgMLmpolO7VYvq4kA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "św. Arnolda 1, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.907609,
+               "lng" : 20.326076
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9089579802915,
+                  "lng" : 20.3274249802915
+               },
+               "southwest" : {
+                  "lat" : 53.9062600197085,
+                  "lng" : 20.3247270197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "20230f14f4ccf7def60911b2d0d5726a5714f7d9",
+         "name" : "Parafia rzymskokatolicka pw. św. Mateusza",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112211969256407216075/photos\"\u003eParafia rzymskokatolicka pw. św. Mateusza\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAF-85wKqcZ955ZWoO1R8o5GoFJMDRlxA-UO37MamPjPUgF3yzwsNoykhnGsCEPliLkWEnu9kege7hOV_yXIvC-F3bMZPpw0VTf0wTZltStmKdFmFvybHHn_X4rs0aeuYtk1YaFHRw4B-sp0NV0Ot8BXUqVmWy0vrvlKBin6hzN3zEhDNWCpBoEjHGvPeIkydU-miGhTJpY13l0sF3gMrdZ3ypKvXW8lZTg",
+               "width" : 1360
+            }
+         ],
+         "place_id" : "ChIJr6jWdWyG4kYRRdO3vHX2msk",
+         "rating" : 5,
+         "reference" : "CmRSAAAA_UIKedhWGCm1jAhg5nJWZjkuSXReugeTJReMxc43E15xlFrVlNwpnQGVLtQjWHUYzVVglVr8xcVx4Q-4XRdL0hoLGUz0KxkYzcARIZf_k-oNQaDb4rRwSZgccKmn7RK-EhCCTNcmlhWvFKNt7N5SaAXBGhTfXsZC_5Qm2BnVJdUlYgtU-ZxRHA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Różynka 69, Świątki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.76642809999999,
+               "lng" : 20.4229094
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7677762802915,
+                  "lng" : 20.4242123302915
+               },
+               "southwest" : {
+                  "lat" : 53.7650783197085,
+                  "lng" : 20.4215143697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "bfc9a28fdbaaf702d8245e4497777496a1e13282",
+         "name" : "Kościół pw. Matki Boskiej Różańcowej",
+         "place_id" : "ChIJc1Ls_Bl_4kYRoXyjjSQRoqA",
+         "rating" : 5,
+         "reference" : "CmRSAAAA1tcY4O0kZQqPRXFBW98yoFX0kw6cDQqlc2rKJX1SAq6kHIL0TyLPPWqQHvsugR-XXI6OU3Bvzyeae9D1CQ0qw1Jg4YU2vIcZWLc8VAkVdVYKahe0Kl0d9S2Vs2RiK7DNEhDmb8GrCuXr8OIEqhZ5QEm1GhRXO8zxUewUUy_VpZ3twP8Y5MLV_A",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "10-823, Żniwna 7, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.985522,
+               "lng" : 20.40138109999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9869021802915,
+                  "lng" : 20.4028602802915
+               },
+               "southwest" : {
+                  "lat" : 53.9842042197085,
+                  "lng" : 20.40016231970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "10de12d062e9d6eb9fba871f195a2e310df0db39",
+         "name" : "Kościół pw. Św. Mikołaja",
+         "place_id" : "ChIJ5cL5URSJ4kYRW7uCn6I-Dog",
+         "reference" : "CmRSAAAArTTl7of_8Z5JUBBRLBycqrzGgoYakGlMOIIXH05Y44F_NrZZ9dosysosU31eSx3SZGW9WnresIqMk9FOhQ25jegad3sbkHm_sysljrh3EGwd29CfGesRnFQWnakcRjimEhCLYD8tgQcwuCaHbZCt4hftGhQyIftXDw9eXyiS8KS_fh84ydx6wg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Olsztyńska 2, Dobre Miasto"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7909607,
+               "lng" : 20.5137176
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.79247773029149,
+                  "lng" : 20.5150945302915
+               },
+               "southwest" : {
+                  "lat" : 53.7897797697085,
+                  "lng" : 20.5123965697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e3ede602bf9a0a21e7102f8fccb4b5b7a0e13b92",
+         "name" : "Parafia Św. Anny",
+         "place_id" : "ChIJFWF580h54kYRRYooGmLZPM0",
+         "reference" : "CmRSAAAAV7YHLN0iTOuReqra9b374UK_6w5ty4f5hsi78yhJN40EnFm-g22bcsNHQyxrYHAHBFp558nU8re_3RwmAOWFR6F1uRHxNn3KjqvmyeGx3CiEJM9WbzE5kOOnqHu_0fNOEhBke4FSyUI0e7bhde3qXDGFGhR_nK_atiymPnNnFqT1gf9pnHH33g",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Morwowa 10, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.115018,
+               "lng" : 20.1302852
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1165201802915,
+                  "lng" : 20.1315089802915
+               },
+               "southwest" : {
+                  "lat" : 54.1138222197085,
+                  "lng" : 20.1288110197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "45b5111766ce9640adf9e11ebb9c368272055c58",
+         "name" : "Kościół p.w. św. Jana Chrzciciela",
+         "photos" : [
+            {
+               "height" : 2848,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110684414681185904684/photos\"\u003eBartosz Morawski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAH4Shv1c3FE-Hi8VeCVZQFf3_J05N3Fi_u_90L8hcNqHdZEGQKXImvzoN1RZsQMjWwAyBS-knwY02fFeYbfzDcho-As4RUrXlHjOAn7MHVomyuArcpeJUHkARqpLKPR6foJaLpKKL1j0j7WnXSju1PreHyjHWtQq7fOUGfGNxv6uEhBK5e9eacYxyZ_vqIEHKftMGhRLkcZ7w1blnSQmCugxVzqIpOzr2Q",
+               "width" : 4272
+            }
+         ],
+         "place_id" : "ChIJq5McYPKU4kYR076DAdw9cbw",
+         "rating" : 5,
+         "reference" : "CmRSAAAA5PgnfY0VvuX369UPxDoxWxkkHCanmhFSihzZBhqAhTvU06eKr6j4lXhuQxbaVlAUle3pnlyNdlqbzI69XFCU0iDuS59sVn_3hrQb1Nl8xmJDZ1Fj38wKfSkKSRA3sBccEhD8zsh8Ays6uJYfC9yTifM4GhQGOR6bOcbghIUMacQ6l4nR-mbU2g",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Kościelna 3, Orneta"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.959619,
+               "lng" : 20.3677376
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.96096798029149,
+                  "lng" : 20.3690865802915
+               },
+               "southwest" : {
+                  "lat" : 53.9582700197085,
+                  "lng" : 20.36638861970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "0c52fe8902020f95b581db67bb0a39e6c4ec33ff",
+         "name" : "Parafia rzymskokatolicka",
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107859500038597168267/photos\"\u003eLech Śmiglewski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHpfYmyZWjC_RrKpEM8xEbAeVVQaiIDYOdCR9rspo9q_CZNkyr22EnnAaYDDAjlkOHPdBcYrZMkiQxREt2cj438-4HMFdZsqoibo0i6t-ED_MFX6oYjBH-5tmqlZ85NKYODmq0QFAcRLIHyQAnmGetcan3Jno26S9qFh5fSSIArYEhDexn1xRQeUdmFNG1AGzeFOGhQ4FboQ09ZJjlKbom-yrkhArwOCxQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJuwJKRsOI4kYR3daY9n6q1_Y",
+         "reference" : "CmRSAAAAcBhinY1wehdnL1RuOAa5k1cHJT2-3z327dCAz2O9DmWvDBPCe3NvfYwJ-LRTJLQbQGcrF14NtDBkomd1995iBDBwS91grisRxUpdEo_SyYStzt7WYC8uqYXqSEJUM2YvEhAixCBdZ35wLsO8tTG5SX-9GhS2t72xxZDnUcKipdMM5ijwDCnNuw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "11-040 Głotowo; 38"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0096417,
+               "lng" : 20.0751851
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.01099068029149,
+                  "lng" : 20.0765340802915
+               },
+               "southwest" : {
+                  "lat" : 54.0082927197085,
+                  "lng" : 20.0738361197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "a96f5dbd753b84116a9a398da53aff2d56970404",
+         "name" : "Kościół pw. Podwyższenia Krzyża Świętego",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108842248041898719760/photos\"\u003eIrena Stolarczyk\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANcVdFhWO0BN8kZ_AmDreLnV3ic14jWwAYBfjg2JXvMSiCVh2kN23ybV5L6yIzFy5ZA556OGp71djKDr43zdY0THheAzB8bYx9jDXTRy2rKhfwvSr62-JzGwbawTDWHImDG9n7oTP6FmOxWHkISCXTYkzd_TP_GVfjfuQXeCa7Q-EhCCNXaiizH2px1ZW9ANDbWSGhQVsZUXcE7JDsjZsniREWZIyT-pIQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJVbMhrzGX4kYRTesXAk-uHsE",
+         "reference" : "CmRSAAAAfukHECvOCN-d1Ch12pvEQOhBOYABViCUcdqVwvY_cbvyfK9v7Tpfdzbdso-F1Sif1eekpJe_0Cy3XhRq3zUF9Hurl_YvhIG-CSZ2s6X7Q-S0v5EG8gdM1E-2lFU8ZquVEhBT1i6p878_v6YXGCOcNzJ1GhQvgP0PbIYLSxIrwx5_jkJhSvJNIw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Kopernika 3, Miłakowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.92129740000001,
+               "lng" : 19.9268718
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.92264638029151,
+                  "lng" : 19.9282207802915
+               },
+               "southwest" : {
+                  "lat" : 53.91994841970851,
+                  "lng" : 19.9255228197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "488b10eb1ce28db14421386882fc8a633956729f",
+         "name" : "Rzymskokatolicka Parafia Bł. Michała Kozala, Biskupa i Męczennika",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102226404945929510772/photos\"\u003eMARCIN ANTONOWICZ\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANWClHIIYxacb6Tg8wR4_YMLSHC7D-aFx3NBGSbhoyjvv6YAF9Sefrp6OME5Cj8QgFJ73IR85JjFdkK-koc3Vs4-Y8_gyBqXc1GezoRoZAJOuOVPHBJi5zIQzU2BDTzZ7WSBeo33We3I0l1M3soBhYxPz2zSHc8HG_und26yOzUhEhCZJgAyuyQjVQmpXc7BUtj3GhQgVjqb7ABwaXXWGfCKYF8Gih6zQw",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJ3-EEVs6Y4kYRtKav5jlFreI",
+         "rating" : 5,
+         "reference" : "CmRSAAAAsZwgpp216B_5k86SnsJ60IuIjS38NYq0cSXlj0CgnfxPeVxLoL8ePb29E-ZboTeOij20RrKEIgrxEElOAwQqmW6WeSg_50BJZEm256HQtcAnlLDfNy-Eci_FJrh5fKBHEhD71bee7nuJBnz9n9nhm_uBGhSL_mu5eJkdptfDzSxaM8kYHPWPfg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Stefana Żeromskiego 4, Morąg"
+      }
+   ],
+   "status" : "OK"
+}

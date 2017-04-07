@@ -1,0 +1,630 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCAwEAAGXVt08WMn9g1s9y-BWdCSAaWr6fgYA7MSANqBoZYuOYLT27zcs3oFTsnz7Ok1J4cEj7J-QPhyq8IXl7tknJeF0pmc_bcwRZANE3NHaOR3MQeoSX-zoEE-XyidS17CWXwZvhFKmw9SQaoQcScrAcCzkWZW8amh3v37UULSgKi57Py6QEQxTnDcbhn1CnsP2MU7wX-K9rNpBkL4kjg4b12B8JVSwI54l_PfJgYX_6m_ucePgNFaDGNC99LSrMk4KX8X2e_t9_AwG9kKXjD7nipdWv2w-zNStnB82vYsmqDa0I9yYK9XUoB3ET-rBkXsig7Huk4uQIWz0hFZSNewgRL8oW4bjDxPuCS2eWFbAV-19JEhDer2xn56tFMAx--hbxYqF_GhQcTobno6-bbj-bHhYG_R186XMg_g",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.29031,
+               "lng" : 20.52453
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.29165898029149,
+                  "lng" : 20.5258789802915
+               },
+               "southwest" : {
+                  "lat" : 53.28896101970849,
+                  "lng" : 20.5231810197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "e2befd19b18a89fd20afccac206d799d538c7f1c",
+         "name" : "Kościół pw św Jana Chrzciciela",
+         "place_id" : "ChIJSUkFEme_HUcR4wDe3FfOmwo",
+         "reference" : "CmRRAAAAne756j9y_i-RCRI82BHT4xjy6Plph2KKS4IEmapvWIMC68KZwnvgXHfv5Kujg1IYZpuP6_jH6toC6RhOWQ1rPK7RlMplTnSfts0_NAJ3vc0mgCCYog8qWOl7jOpW9ixFEhAcH3_goBHkbDZI9WGhjNG_GhRZ6FwEB2_Ph2UtVIVBy9G-awcu2g",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Janowiec Kościelny 72, Janowiec Kościelny"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.919192,
+               "lng" : 19.7240531
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.92054098029149,
+                  "lng" : 19.72540208029151
+               },
+               "southwest" : {
+                  "lat" : 52.9178430197085,
+                  "lng" : 19.7227041197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "133f52e7361ef99450722999f7dca5e654afc938",
+         "name" : "Kościół Św Katarzyny w Łukomiu",
+         "place_id" : "ChIJsxl-q2BYHEcRPRp4ldNWnBM",
+         "rating" : 5,
+         "reference" : "CmRRAAAAzK0Yqr9gwy1EJIIvQr3hh-nJwOd9jUZPdthyvkeaYQJdSIOlp-YCEzgydFRM78lXgKTvUJYcnn8YQjLGBP5Ty_9yJiKgSrG-Jn33MRTrs015LWoJnvrOf0OpWEQe2NvGEhCtUdZa7Cc-SrA_7ARHplu0GhTaSH6B7XmSUldEscbgFpc_COSjQA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : ""
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.8898166,
+               "lng" : 20.5976164
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.89064004999999,
+                  "lng" : 20.60010025
+               },
+               "southwest" : {
+                  "lat" : 52.88734625000001,
+                  "lng" : 20.59678845
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "cc09b85970ac31c63094c33ff3a62c195bb6aa7b",
+         "name" : "Parafia św. Piotra Apostoła",
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113457310669731193116/photos\"\u003eMagdalena Banasiak\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGRERzBrvyvjQvy7gImerB8wFIkpIARcoI_cE2UZEhSdnjhnXw5mzhDFpspvz35-QPPDgGcRTEPIz70d_uW5ZYh6vCZFRnPq8NCE2oHIGFZbLbgXPELuUcLIksHpYsnoHFe9w6swPom6sd44gbq0U0y4Vz4anAVtg7R00TG8gHqvEhBWRnKVVfXel1rJylcV18s_GhTFAVbskvFDCg6piO85Vt7PLaFpQg",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJc8W8hpwuHEcR2toP8ojAGpY",
+         "rating" : 3,
+         "reference" : "CmRSAAAAM3R57H3_bjPe6bGGTHfPT46-KQwatJVpvW2AxEhQxTmKRSn2cbBuRc1QUV-TOavibbBbkynCCW39zxlBmwd6xuOTjg5ai6xgUMtiw7l8wEufbR3XzJza9OYjzTv6Bp3PEhAxvZumWUBl1kBV1UrwZVdbGhSNKs4kv05h989yXeIPlL05fWPbyQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Stanisława Wyspiańskiego 25, Ciechanów"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.2350977,
+               "lng" : 20.1747015
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2364196302915,
+                  "lng" : 20.1760173302915
+               },
+               "southwest" : {
+                  "lat" : 53.2337216697085,
+                  "lng" : 20.1733193697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "0b3b2dd1302a36b55066f21a3f1871ca592534c3",
+         "name" : "Parafia Ewangelicko - Augsburska",
+         "place_id" : "ChIJldBO0fSvHUcRoftzudpZq_M",
+         "reference" : "CmRSAAAAtFVd-9fSvWsZhKtzVmYnG7af723GBbZGOQfr4Uwa77Egkb9wCyBipmP15ALdi3PuZqzXLC4pYQ_k7ianEYVmeKb618lChrEV_vxtfzOd2J9EFpgU7iffwu_VR2O7Bp5mEhAmV-osQY-ElDVtXxZg6eWTGhTqdLZc9XRrEpdox69T-pmgahmfvg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Władysława Jagiełły 28, Działdowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.94270789999999,
+               "lng" : 20.0892053
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.94405688029149,
+                  "lng" : 20.0905542802915
+               },
+               "southwest" : {
+                  "lat" : 52.94135891970849,
+                  "lng" : 20.0878563197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8358966b663e52ef97692c1d76f259d3669626cb",
+         "name" : "Parafia św. Rocha w Radzanowie",
+         "photos" : [
+            {
+               "height" : 2619,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108730518484751223169/photos\"\u003eŁukasz D\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAIO7BPnTaHz3TudNUytWIvF2PiXVByo4QGB7kTf27HJQ4bkAdpnt5g8Rcr2QiLW_431l1XynMspuY3nVYAfX5Yqmxm33SInmnJ9w_ZmL5fGgvuuEYv8uACIQb0JMKGPsRxxaDe9wc8D3PzAqHf9K5pc4IHxb1Tpycf8_9RnBS82sEhC7D_Y94jMBzMsZqWSXAg-7GhRdpMY6RCPpO_-KngyVRTdBh6z13w",
+               "width" : 2158
+            }
+         ],
+         "place_id" : "ChIJD7VgL95OHEcRuXU3k1YR9PM",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAAktxBdjGPZerjvHRfrxawPVpQzVgXM1_i5F6qnfk-ADVhp2DzoPpPYzdf8Mgjqd4TUHexvw3-TVgZUwniLxrUOnHOgfdFfAlf5gz6sJIFW3Oe9KyNS9tLc7ZNXYSpHS1QEhCZAItInXderxXbAaTl-mFAGhSH002AVYGP4Qmb0WyakWse2l5yTA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Poświętna 1, Radzanów"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1204794,
+               "lng" : 20.3780475
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1218283802915,
+                  "lng" : 20.3793964802915
+               },
+               "southwest" : {
+                  "lat" : 53.1191304197085,
+                  "lng" : 20.37669851970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "e0e205523493a14496b8a2955319a3ca7f165b59",
+         "name" : "Kościół pw. Św. Rodziny",
+         "place_id" : "ChIJw5a1gw62HUcRFP4ZavIBaSg",
+         "reference" : "CmRRAAAAfFSIma5BKfq8GNktdp5EiaVPNpF-_I7Bop0kngFygZDNYObAbCevkf8mfI13auIKrQCt2W5LrdQw5p5Wrr_VJdyPtjYshYoIJx6jgIHfVfH4BfTio2LDog2kJin366R7EhDtsBxOqWbbcVXaJOWkJBEjGhRg0OUiDCIQgh4WCDLCG2vLaxtsiw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "kard. Stefana Wyszyńskiego 2, Mława"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.818786,
+               "lng" : 20.2840126
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8201448302915,
+                  "lng" : 20.2856197302915
+               },
+               "southwest" : {
+                  "lat" : 52.8174468697085,
+                  "lng" : 20.2829217697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "49bb9f12dc3902f99fe3341bb518259abc98c08d",
+         "name" : "Kościół pw. św. Stanisława BM",
+         "place_id" : "ChIJZYe59J45HEcRhx47ow6KXok",
+         "rating" : 5,
+         "reference" : "CmRSAAAAPC6uv8XQPnmvJTOE3FlzBRTOwjiBk65MrtR1PQNY-LaZS9WvXz2TuvyHeEXOReT3l286P2LUAjTgZcVhhGKiBd5hjoBhRKw9aICCT-pCcctPEYd-I52_sdW85Pc89S8TEhBmLIz1Tx0jt5A3c6h5ENwgGhSGbL1O1sQeS_m__vs-jYETU3TzMQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Kościelna 1, Glinojeck"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.3599162,
+               "lng" : 20.4242594
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.36129083029149,
+                  "lng" : 20.4256821302915
+               },
+               "southwest" : {
+                  "lat" : 53.3585928697085,
+                  "lng" : 20.4229841697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "241482b182b4b1cdc1b48718500b6f21d4ac32c6",
+         "name" : "Kościół pw. Niepokalanego Poczęcia NMP i Św. Wojciecha",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112548050478380540534/photos\"\u003eTomasz Jakubowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAC-Cs_kvWIIiTKkuoaTulMFK-HQlx7KAkZXkmqS59D7P7XxXhCgZYxH0NP7QG4HP7AlVOVMx845wU5yfsaGMU7q5-BaiLVvXMOpPfeJg9Df-RdFAqWnyhptXbXUXh1ljWUljZszSOAIIx91pRvtNKq6HU3fwmmW1QqDg7jbQQXgbEhBVkX5VL7dIslbofGznFCTLGhRPSp4KVoujcfTlUKkitjCv8I4M1A",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJX9zb9e69HUcRi_jQbRZUQrQ",
+         "rating" : 4.7,
+         "reference" : "CmRSAAAAP53BhQO6eftXSNKw9DXbiSRXt32wjXDX-SWsv2KfbyX9BtzL9wDfWXNaZkatPUm49w7s5pF5WxU5di9RaKrKIBmT0Unoo-s63YI0GO4fn0DTPwO9azZoCqBG8AXHNhYOEhCW5egCgrqa5pu-R6AvffsvGhTfZMrYL3bLd2IXxLOXX-2TkdYmDw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Młynarska 12, Nidzica"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1064433,
+               "lng" : 20.3718403
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.10786873029149,
+                  "lng" : 20.3732332802915
+               },
+               "southwest" : {
+                  "lat" : 53.10517076970849,
+                  "lng" : 20.3705353197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "e8d52efde5ce0d5c9e9311a7d68be9cd47a85a74",
+         "name" : "Kościół Wolnych Chrześcijan. Zbór",
+         "place_id" : "ChIJn3Xh9OS1HUcRcPGyP1_uajQ",
+         "rating" : 3,
+         "reference" : "CmRRAAAA-WGV3vqD5sVlgDfYsjGRScaPpzdzFeLKQPN-_HM05Y2ctJ8Bw_wmBNMxzT8ZzTk9bG4JbrvEryUcmkloYektdBCPONuoy2vbkQtsA13EuANQyYGCjRqbyhzIhBXh0_ZZEhAJ2-iUFhp7ajbtc8gXTGE1GhTl78ap8GaKHdm3O6wT79fUMOCU3g",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Generała Władysława Andersa 26, Mława"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.8940953,
+               "lng" : 20.2792168
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.89544428029149,
+                  "lng" : 20.2805657802915
+               },
+               "southwest" : {
+                  "lat" : 52.89274631970849,
+                  "lng" : 20.2778678197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "8db0a7638adad60ab4d63a66c4134b1fb369df18",
+         "name" : "Kościół parafialny pw. Najświętszej Marii Panny Królowej Polski",
+         "place_id" : "ChIJTXSztro3HEcRWOTjZJsUvD0",
+         "reference" : "CmRRAAAAM1XM1-ceAU6dHKXpzUsGu0ekhOTlQDNp3wtjsW5MpBsRKr5tEyf8JWc4zs81vOINyLrcdrKLL2PanlL6uc3n6SmVpVMAP7PjyZz6GKifwS1QEWQTHfztNDvSweeRjowkEhDzCLFcxOOwoAZGWxI5T6oqGhSFKZbP0Xq_7DYGHimdQW6dUQPp2w",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Strzegowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1117606,
+               "lng" : 20.3824367
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1131235802915,
+                  "lng" : 20.3834607802915
+               },
+               "southwest" : {
+                  "lat" : 53.1104256197085,
+                  "lng" : 20.3807628197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "52c905f78cd5aefe1a2b64adfc389fbb19648318",
+         "name" : "Kościół pw. Św.Trójcy",
+         "photos" : [
+            {
+               "height" : 1667,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117144476716291663773/photos\"\u003ekalumo k\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKUTZZno5xt-B7zTXV98v6IbhteyWk7TnMFz-Yj3sFjjkGEdilbmFuCxHw6FnsFGPU4dBRnzp4c1g8rUPhZEeAwLIK6YZJyQpi43i_d634zBeUhWcDoB92v-jaycEDNNy1mUcpqbtXjBgXBQn1NDJ_slN79r1wSQedqTdtNsLW7AEhClXx1t_QkjRW4NC5rfLj54GhRG8dKxbzcwCKmcvSUjWuytxMrs1Q",
+               "width" : 2500
+            }
+         ],
+         "place_id" : "ChIJUzPm9Ae2HUcRajFpCvmYVpk",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAAv4ixeFcvLky765mMiXxZzYw4kKUpcKAST3xbN6z_I_V8gr0S_SYxym8-I2ImnsgcOJr2z2S_QXd1tZJl-UZ23XaVgFKRi7tzHSZ2bOZyaU1kZywJLshl1a2ZnuL8TqXwEhBlASiUl6lMNsbQSkU6AQ02GhTBouLbgo5Zbvc4EO61OVj7-dvYYw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Stary Rynek 18, Mława"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.2451778,
+               "lng" : 20.1983305
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.24665643029149,
+                  "lng" : 20.1998687802915
+               },
+               "southwest" : {
+                  "lat" : 53.2439584697085,
+                  "lng" : 20.1971708197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "eb049ffe6be6a8735323c3ae837bab069fa8aa05",
+         "name" : "Kościół św. Katarzyny Aleksandryjskiej",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102226404945929510772/photos\"\u003eMARCIN ANTONOWICZ\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAI6D5auKIh7F1HIDLhEf6kswgihQPDIXgR3lxV1SWRbvE-JYFMfDrAlhbEquihPOkoYUnbETxixUA3gfjefzz2jbMkX13AXdbHEqElWgZgREYsMCTJxxQmwOMjebvdifRre0QItRj5IDcmSHs-VTSLAcL5Keogk-kSPTWRRSRVmbEhBDvWZnNUM6261dcBUfmOvrGhTAKt_vXsEhJ8SXvoHfLhqsIPp-Jw",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJ86WNslqlHUcRAiGytPRtiH8",
+         "rating" : 5,
+         "reference" : "CmRRAAAArYoaMXnSU3D5CkDfqqxYc8v_vvcptSobKvJwqus3Ah4_bY_TMH0jlLmp9kEuXPhv6YP1VfDJaX5yx2bPAXJyMbHKeiQreNFdxNYvr31UVUn9fQrlftqgfVNQL8BYNI5YEhC3bWzODBrXb2u5LIGNhM1rGhT3UiX9RfrAqSLE_8tCWi7x-g6atA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Jana Matejki 59, Działdowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.3712809,
+               "lng" : 20.4334679
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.37266638029149,
+                  "lng" : 20.4345028802915
+               },
+               "southwest" : {
+                  "lat" : 53.36996841970849,
+                  "lng" : 20.4318049197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "daaaae30b1279a8e4a501dcee41f2dc4ae6f7ef5",
+         "name" : "Kościół pw. bł. Bolesławy Lament",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112548050478380540534/photos\"\u003eTomasz Jakubowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPlCuIaCP4B3L6338k0t3eWsp31DS0akCVauqpPgWsW2LsZ9_SpFubg6txkf6FZ4m88FgrXXdx6HjkCs94A3RdTeeq4FpDxpsGjW3mnlybGBJmt-SubpmJ41rp0cnrDfUF8u1MqVg9JCk8p8QpSEDF748_2oBnjY609rJNUS8xcvEhBVqvxzYdvmR6C2dn2y4jUyGhTjQaevIcmmgXAyul-J0PW5Woplhw",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJPc2kOfa9HUcR7E7RWpojB5k",
+         "reference" : "CmRSAAAApZ4s7_Gjbz27ZtofEY2sJIAizrdMUTOBZdlL2qSaCzuKj-kpW9FBMjkmFbqCydzVXzS3HJuc-ZIdTWtKKivJDxqJ1H2UB6whoHfntpZUelUwfr8Lq0SiUIUmCxPtcySmEhAMGCITbVY_8kjWs3sEe3WkGhSAI93M_AhbD3GRKtgLFs8mzv60fw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Żwirowa 4, Nidzica"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.8764149,
+               "lng" : 20.0285589
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8780468802915,
+                  "lng" : 20.0299579302915
+               },
+               "southwest" : {
+                  "lat" : 52.8753489197085,
+                  "lng" : 20.0272599697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "3fad9a7bda3f2be8cb991df12deb78e4fa722ae5",
+         "name" : "Parafia rzymskokatolicka",
+         "place_id" : "ChIJESJtob1FHEcRXsnpgHXOvSI",
+         "reference" : "CmRRAAAAoHijD-fM9ccqDrlzqMpsz-pfnHdlo1P9y7FornR5yyVsbx4k9s6jkfUeBQx7w10KX9yzKcvKUbzT3zv9i6Hr94cerfmboXs5ba8PJrDh89GDVk5U1EAY4ntM_6v1sW7-EhC3_t54fOB8N_dC98UwZXUMGhTMN3xp1J1u4C4RizAsAc7_c_omfQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Siemiątkowo Koziebrodzie, Kościelna 16"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0106012,
+               "lng" : 20.1219918
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0119853802915,
+                  "lng" : 20.1234661302915
+               },
+               "southwest" : {
+                  "lat" : 53.0092874197085,
+                  "lng" : 20.1207681697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "241ee868c56a8051ea9f62d2f333bb23087999cc",
+         "name" : "Parafia rzymskokatolicka pw. Św. Wojciecha",
+         "place_id" : "ChIJN9y25FFMHEcR2vNWPMPpg7Q",
+         "rating" : 4,
+         "reference" : "CmRSAAAAHLnfWCbWFZu481QSdoWRgFPrCkgKtG2yY2DWRrNmFRBWCClbcHSma8AJspS_Rfl_fXC1OXzqgZDKMVGJAvH6ARyWuLcPdwJ6eUpQBQpRHJkKGYlRdRSHcLpw-mjZODFrEhBAZfzsU2BScNElejQdGDmfGhSX9DiFCpcswSbDH91aya-VB9S42Q",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Wikariacka 1, Szreńsk"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.2628132,
+               "lng" : 19.8236918
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2639787302915,
+                  "lng" : 19.8250580802915
+               },
+               "southwest" : {
+                  "lat" : 53.2612807697085,
+                  "lng" : 19.8223601197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "9c04d42a0808917b29f0508c5b1894d51a2ce169",
+         "name" : "Kościół Rzymskokatolicki pw. Św. Wojciecha",
+         "photos" : [
+            {
+               "height" : 1832,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115679769669213465648/photos\"\u003eDaniel B.\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGmO2kz2K3E6e4fro8Pg9M5AugKtTM9mNxnehFsLASilpUgwcCAe67UdehvpvKCGrvf1gRrB7ZrXYKA0oTm4RpeWfckr9PreJxgZhbd-BWIdz-LJOOK9_mJSEZObe7mh5bNZM5aVqWuNpuFJCtj-u4GX0iw7Ur7g36ZLLDvdbXyFEhCu1zgCnYsWwvi5ri65V5B8GhSwdla5NkLwErwMEzTEgYZxQMRCTQ",
+               "width" : 3121
+            }
+         ],
+         "place_id" : "ChIJ6_rgK3sGHUcRlccW-SgiivM",
+         "reference" : "CmRSAAAAT5PnBqNEDIqlBGbn3WaUXjt64GIEm-apUyVoIy_hpI8kDdheVcOC1-5YYOa4Cd366KXMzbmDMs2Ylnza4YDLlOEvL5hKhqUptnFEwe2RqQVXjSJzjduyJhwO9YtTZOKZEhDLOAKZ5NgsZTewSbEyJtXTGhTuBwaVIYePPAJFHiTYEKZIqPvqfQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Działdowska 3, Lidzbark"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.8941248,
+               "lng" : 20.2791927
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8956224302915,
+                  "lng" : 20.2809798802915
+               },
+               "southwest" : {
+                  "lat" : 52.8929244697085,
+                  "lng" : 20.2782819197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "31f0346b205ab4b6d720f6ca79b22b8ecf723f71",
+         "name" : "Kościół parafialny pw. św. Anny",
+         "place_id" : "ChIJi_5bxLA3HEcRreNffuBY0NA",
+         "reference" : "CmRSAAAAq4Vzc7_fmKszooC7PtFDTQKMrwaT3GCj5kyltG0zGT_KvoFz2FNWvOuzd8vAuwGKkMz69qzbayOjElxNOSPYuLL6thcIazg0g7hjvQEAlWuV8Xd0F3EPfgxbHHRROKBFEhBblruUQH7H1yxrk5_rAitFGhTq52gF6Jrqb8Ssm1c0SShQ1PXdxQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Mickiewicza, Strzegowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1037338,
+               "lng" : 20.1772714
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1050827802915,
+                  "lng" : 20.1786203802915
+               },
+               "southwest" : {
+                  "lat" : 53.1023848197085,
+                  "lng" : 20.1759224197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1aee5791e4ac8f3b5a2e8ff77f3cfc8329c874cd",
+         "name" : "Parafia rzymskokatolicka pw. św. Mikołaja",
+         "photos" : [
+            {
+               "height" : 486,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102364645512679759397/photos\"\u003eRobert R\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAMaHupjDcGT6Usg7frcMaH3rt9ZE_SzfhcvPX50vp8LJEPwREwzSCmN0VbCQKCAr5z3xx3OmdZtwBVD1l_aYq7ICS4m6gr8dHhsCCwr3LQjjAA0WGVBZ1BoGiCZIIPUO4SvnYEVKZwhSrU0n8252zgBuOj1z7u9X9SPCDKkLB8PmEhBPBSF5KOqY2ec6bLa_S5d0GhTa37hZMauJRFehWAyes0cVl_nApQ",
+               "width" : 729
+            }
+         ],
+         "place_id" : "ChIJI-EBcFWyHUcReQbl03WEpFQ",
+         "reference" : "CmRRAAAAj0BUwoXE5OQHtvDC5EvPnax9KiKdpTme3dyFYgpLQNpnSGJjzO1Wf9BufYSy_wjClg7TLsI0wJx2oYnyXfYCB1COgOQVyXepmmfbon1HnOxfLoDCB7xPvxNEkGFdmtOGEhDcfvDM5rsIPtZYXy5HfsiEGhSui8rHmISs352uEPdqkKmuZXsQ1g",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Lipowiec Kościelny"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1176091,
+               "lng" : 20.0314712
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.11895808029149,
+                  "lng" : 20.0328201802915
+               },
+               "southwest" : {
+                  "lat" : 53.11626011970849,
+                  "lng" : 20.0301222197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "15093b6cecdc4b74fb65cb07bb0b5ccd3d1681e9",
+         "name" : "Parafia rzymskokatolicka",
+         "place_id" : "ChIJLxvo_k2sHUcRPCFnDIv_A0k",
+         "reference" : "CmRRAAAAg_wuFgD8qhXs7mZyr6sYFh1CY1OhpN-E1o6FoOBgr_HErXKGT-uTnrbDIE6OrQ_KA-JHOjYfR4FP-AO-WjU7ApOZ7rKHe0IXNPVDIxGVT0-i7uhvvQ1Xw6atBvoHSOt9EhAty91fBTJItBX7Lf3UOL1AGhR1XN92b7bmC3jPceRFopz_vvnC2Q",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Sarnowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.2650051,
+               "lng" : 19.8189195
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2663267302915,
+                  "lng" : 19.8204332802915
+               },
+               "southwest" : {
+                  "lat" : 53.2636287697085,
+                  "lng" : 19.8177353197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "e96be14d33292c002ff8bfb0f6e45eb82d0c9f70",
+         "name" : "Kościół Ewangelicko-Augsburski",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107470922556620683276/photos\"\u003ewoj zgo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPHlNl7zQa2AmJXSrJHwOM-VAn2JEOevNs6MptN57QaIZmXBuoPYsBq8QJApKrsrKBwDssOieVsrrMpQUhG84OtAatPquWi7mVX1NZIm00zzi0QDbEtLTRnnQZWFZBWMPeoFkfDrHKIGoKw69tVRnXVRi2bCtEi_BgvgEb7Ui924EhCL_kn0TpvoOaduModZdfHQGhRTtd0ug2fepq5GbyzgG0vccSgyAQ",
+               "width" : 3872
+            }
+         ],
+         "place_id" : "ChIJt3QsOXoGHUcRQyN2nzgBTk8",
+         "reference" : "CmRRAAAAdTe-mNHx47bDP-h8_w5ci8C9jfEdiwJ8SCw_T1uFrBYB63m3zxDFzda4oGuzgaEqAZqt7bX034APkVjb1gOFPKAGj1PPZ52LpnCC6PiN0-zUUbMGMVFf16UwjiZV5xIaEhCv3YVfU0USZmRHq7C66yZ7GhRKNadiH2g_p4WqkFZLuAZBMBZOng",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Górka, Lidzbark"
+      }
+   ],
+   "status" : "OK"
+}

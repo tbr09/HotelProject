@@ -1,0 +1,563 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4085572,
+               "lng" : 23.4877956
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4102385302915,
+                  "lng" : 23.4890150302915
+               },
+               "southwest" : {
+                  "lat" : 53.4075405697085,
+                  "lng" : 23.4863170697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cemetery_grave-71.png",
+         "id" : "865e316e9b4628cfcaa6d013779d92bd720cf1f8",
+         "name" : "Cmentarz żydowski",
+         "photos" : [
+            {
+               "height" : 2982,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112355234725020358257/photos\"\u003eAnna Suchocka\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGTQa4PZEP7xRur5vSgCiadffPiOIeaXbuWLRTxzgIDhFb7x5EmoYQxFxs5TqQzXYQuL0mlFCV4l4VTqoJEySDVmWt77k7NhXm_1D9m_weXB0-lag9uEi0KXKZ3Qjl4KnE-TzPVqU8Dg7Av65O47iuRuFKviZkQ97soRaPoJdTohEhB0B88_Bb427TTK0X3h_JbXGhRy5vKW-4wSZsMMVsWD9T2qmRKS-w",
+               "width" : 1678
+            }
+         ],
+         "place_id" : "ChIJ-b3GvnkJ4EYRPc9E0SOyVNo",
+         "reference" : "CmRSAAAAgZ8hURtlDQjiTdG-Nzkxgb_iwPWL_A2gnhg4N3a2DYRhzSRB3-md-hkFH4jVHZvW35RQgtbLoKf7tgRZz46SFLU8sA6C0ZqCHuj9LhfG9YewCVEojWqCmaV4YKL8M37ZEhDkJf_k6G9BtAQNbnsvF8V1GhRoKm8XP1cMLi6RMEAgi41IHNhAvQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cemetery", "point_of_interest", "establishment" ],
+         "vicinity" : "Ludwika Zamenhofa, Sokółka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.2683379,
+               "lng" : 23.7750518
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2696868802915,
+                  "lng" : 23.7764007802915
+               },
+               "southwest" : {
+                  "lat" : 53.2669889197085,
+                  "lng" : 23.7737028197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cemetery_grave-71.png",
+         "id" : "10bd744fa242db8751063263af54298ed768df2b",
+         "name" : "Cmentarz żydowski",
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102943169110385405338/photos\"\u003ekazimierz piekarz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGQkm_XxxoK5rHBRxzEfvqZe419jopy0PBi8yH4SK8YcKLZY4DZ9dQChaOvaFBj40SaiBAoj7rjvnvxFI_litfRNTd7K9g8CyrwAWEL_sEVQ3tlQGPIxxywUXSF5-SMfUzuf0qBve1gOHRtAHwBbBT71HRQwPpV0UutYd9sOTMEkEhAII5gFmf6RxqVoyF-Lg8FtGhRPHnAqpM5hnzPyBlIssCHxieEdeQ",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJn0zzt-Hv30YR7vg4p-4Gz3g",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAAUZyYFA8HS3cDkEGe97wa0qDZA4NWABTGyOL7ss8MaxQsU9Abzubph5_uHJSJFIl78oIKlsdqzlvpYxc9rNJYgnuS-FYTsVUjmynubEe8XR3C8C21SA6ASUudEDxpEOF4EhAGIDvE82ZLZe85Op_Qmd5TGhRXEiVwFN2WHtRACPSNSwVwTMyCIA",
+         "scope" : "GOOGLE",
+         "types" : [ "cemetery", "point_of_interest", "establishment" ],
+         "vicinity" : "Poland"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1602797,
+               "lng" : 23.1810287
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.16176008029149,
+                  "lng" : 23.1883022
+               },
+               "southwest" : {
+                  "lat" : 53.15906211970849,
+                  "lng" : 23.1786042
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cemetery_grave-71.png",
+         "id" : "1eeeef130b492d7ffd81c8eb3cad7246e92a5997",
+         "name" : "Cmentarz Miejski",
+         "place_id" : "ChIJpyp77iz8H0cR0bFQE3zlkxI",
+         "rating" : 4.4,
+         "reference" : "CmRRAAAAqEBkmWZND54SubWj2zRs1boVmEsW5Spu0Wh_AWZTSPJDuynwKWlWJw9OajcXfB6T-c9F5DCidloC9x7n3_gpC4rTAX0e39BfUbGtB7oMALykykAx6oRKtZvHQkXn4zvsEhBeADVxzBD_sXqmqHGz63xEGhSx3atjFQoaoH3iW5dlPkUXrEh4uw",
+         "scope" : "GOOGLE",
+         "types" : [ "cemetery", "point_of_interest", "establishment" ],
+         "vicinity" : "Władysława Wysockiego, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.15248399999999,
+               "lng" : 22.842636
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1538329802915,
+                  "lng" : 22.8439849802915
+               },
+               "southwest" : {
+                  "lat" : 53.1511350197085,
+                  "lng" : 22.84128701970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cemetery_grave-71.png",
+         "id" : "317c0db7622c196dfec0ae24c287a2483bcee7ea",
+         "name" : "Cmentarz Małych Zwierząt - Rzędziany",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJAwHbL-7mH0cRZpnRRfgJOIQ",
+         "rating" : 5,
+         "reference" : "CmRSAAAA27E6_QkpHTQgQXiZQFx3aqgSJYaVV5TTsIif0b8gORSecJTnICh0yijw5-hfhjEs8Vka7Pd7yLgCmb-out1Si3y4OIQ08Sx1FQ53wfUvmzRE3D0sIf9F-Nuj2cvsrzA4EhC4RyReaWRq_iuIU6YBiDn5GhQO8hv-2o-11mU_u1mzzsn5AqD6XA",
+         "scope" : "GOOGLE",
+         "types" : [ "cemetery", "point_of_interest", "establishment" ],
+         "vicinity" : "Kolonia Rzędziany 71, Tykocin"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1705845,
+               "lng" : 23.16486759999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.17193348029149,
+                  "lng" : 23.1662165802915
+               },
+               "southwest" : {
+                  "lat" : 53.16923551970849,
+                  "lng" : 23.16351861970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cemetery_grave-71.png",
+         "id" : "05935fe7bb7cc10ed2b148222d813848a3c62510",
+         "name" : "Cm. ofiar faszyzmu",
+         "place_id" : "ChIJc0MQxbX9H0cRcsmBumBoDNY",
+         "reference" : "CmRSAAAACWrpTe4qF87FOEqs1ku2CMDYOCU3WMYRNZP8l5usdKXKMr20ULT5YOwXIFL_hvwwfEXOvqW44w-136XE62c-SlUzX900u78hVHOxYSLRzMI-gPYmawhSe9Fu3eX4hC1DEhDpUjUQeLu0LAM6DxYLJ7bUGhQLOwQ3YqvJPc7Ua08LnKqT4ahxhw",
+         "scope" : "GOOGLE",
+         "types" : [ "cemetery", "point_of_interest", "establishment" ],
+         "vicinity" : "Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.10872019999999,
+               "lng" : 23.2130942
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1097977302915,
+                  "lng" : 23.2148208302915
+               },
+               "southwest" : {
+                  "lat" : 53.1070997697085,
+                  "lng" : 23.21212286970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cemetery_grave-71.png",
+         "id" : "0f953d697c8de17763c999a4c55f26cae4873670",
+         "name" : "Cmentarz Św. Proroka Eliasza (Prawosławny)",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104180038455006878839/photos\"\u003eRobert Sadowniczy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADVSeGBdvb53uyCAT43slJz4yPYiOyU9P7z5RegLFM722ljvBjBmCY-KsmbIZOh5cPHy7Z1OhDEdw4QOXusHsDPm-9g-b-fwctfZShbImkdBVcy2oUB5xhs_16clpm3C_IJkz8U0Ac-rwUdb3AOp1Ct7tCU0nV0X9KuupW_vr2XrEhC24CCe-BMQaRD9g9WMzrVOGhRfIfbD1bMmDWFexowt_JXqA4eycA",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJER7o6yz5H0cRlIpZGXfi60A",
+         "reference" : "CmRRAAAAkRFep9WmhmmegOSO5Ok7Y5KRVnwfl24rMJ-mGaMxGgPeebdNZBQllFtl3TkQ-uZ1C_C4vfkTIHhiuMGKcDN8MKZqCT_WsBe2viifEidsE5lQ4SfaTvG3gNd55he0DA9fEhAVedGWLFMv8aXkrBjMYUVnGhQpLxFEdHTPuqB43o_3Me19G4-CnQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cemetery", "point_of_interest", "establishment" ],
+         "vicinity" : "Suchowolca 37, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.9819284,
+               "lng" : 22.88777009999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9836168302915,
+                  "lng" : 22.8889144802915
+               },
+               "southwest" : {
+                  "lat" : 52.9809188697085,
+                  "lng" : 22.88621651970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cemetery_grave-71.png",
+         "id" : "860fa38e8ff4e7518a76e340c053c36c53bd5f7e",
+         "name" : "Cmentarz",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102162517322042860644/photos\"\u003eWojtek Kosinski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAO2lYDC0bnD0wMwCeU-ZLeJGHvAkWKyYAgVFceUiSkx0029GRISXm73jXVUcYY8Zr1sBpsLyGJCY6AHUTEV_GCZfn5iKNNroDcnzeBeWtSHE50Nbsj1pKPrV4wiGpnlSrE4eHdsUIgHxm7zxQkpvgSC3UXaynzVijz6qPWAz87TOEhBiUSwND6lZy0B5Zo9fF8JfGhTuWp74RZDzxfPAMPA2WQncOvuS_w",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJ8YtxlPftH0cR3JxKySSSpQ0",
+         "rating" : 5,
+         "reference" : "CmRRAAAAE5CVmWGjrTOKtEGGfEls4teKTo7VkKAEXg1qdonb5UE4obpLWvABkO7a77HL5eHKOBkz-lHMV3X-u8rjNjXUFmhjXnUSAKKMAQMAv-xKOBvuBnP7qNldaXOn3u70ldeVEhDb7XFKWhdhaKHtxTA1r61CGhR-fDRtGaLdAKByPS2eUIqjnNuu0g",
+         "scope" : "GOOGLE",
+         "types" : [ "cemetery", "point_of_interest", "establishment" ],
+         "vicinity" : "Żwirki i Wigury, Łapy"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.99097499999999,
+               "lng" : 22.872914
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.99232398029149,
+                  "lng" : 22.8742629802915
+               },
+               "southwest" : {
+                  "lat" : 52.9896260197085,
+                  "lng" : 22.87156501970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2f136ca970d7d06dcc5d0e7bb1bde121c641ab67",
+         "name" : "Dom Pogrzebowy Kosińscy HADES",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113602476109695897411/photos\"\u003ePaweł Kosiński\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAM1E6An8ttbtQhuUizFzCaxp_ofYiszmqCwHEKS0syerQmYtFQJ3e3M_bk7xNipkljFWYGsnM9Glf5x9ZpvD3dUU5KSwuwVFgHNrjcea_012CkUnBAYDL7UThj4Wbhk9cBFQtHq_1SWUhhTAR-eD3LVvz8fC1nri0wRQO8RZ7BkbEhBOQW4VdhbLvRGuPNTF9TgGGhTsUVHp34tWCEC6e0YSFs17UYuRNA",
+               "width" : 1102
+            }
+         ],
+         "place_id" : "ChIJX0keQeTtH0cRIO_gQ9-nqNs",
+         "reference" : "CmRSAAAAm9b3LxBX98pGH46ZjY2hKwURdRPzZtl4368RXTNvmEVDDgsml32lyr9JX1VMEVi03MVlkYlaJZS8dcY-RaOTPExhYhQpPLreQzbCTN1b8JNEJhxBbOV1Ak8MMgBMFWB4EhAitpqieVTDnu8vz_I-tnGSGhSHZbwLyDFvBLXVGqJno-Ow9MaBOQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "funeral_home",
+            "cemetery",
+            "church",
+            "place_of_worship",
+            "florist",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Matejki 1 A, Łapy"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1528338,
+               "lng" : 23.1915727
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1541827802915,
+                  "lng" : 23.1929216802915
+               },
+               "southwest" : {
+                  "lat" : 53.1514848197085,
+                  "lng" : 23.1902237197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cemetery_grave-71.png",
+         "id" : "c5f1c9d256e0689cfe3a43478d534cbaac9d926f",
+         "name" : "Cmentarz Parafialny",
+         "place_id" : "ChIJCWGxa4L-H0cRSGWdTpD3DpM",
+         "reference" : "CmRSAAAAoxBDpbPZvInXjRHOzltDeMQtrlPtc5EAuaTB6uaqVH_HI-G7W9xEC5qoqMxxxb8G3Qyhj7d3s4bNMZiSiKIZCyyMQq0afv70Or-s0AsKtL-gdKOlqTPayE8B8UoFINBgEhAWqbPgetgRLLhqajh44SHDGhTVSmu6VK-ogEC8T4aAlTpFZbD0Bg",
+         "scope" : "GOOGLE",
+         "types" : [ "cemetery", "point_of_interest", "establishment" ],
+         "vicinity" : "Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.8336804,
+               "lng" : 22.7830625
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.83502938029149,
+                  "lng" : 22.7844114802915
+               },
+               "southwest" : {
+                  "lat" : 52.8323314197085,
+                  "lng" : 22.7817135197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cemetery_grave-71.png",
+         "id" : "0f43ddcaa6d2d557077b7c80d4d67700917f8af7",
+         "name" : "Cmentarz",
+         "place_id" : "ChIJLRaISQiOH0cRA66ihnUxRBg",
+         "reference" : "CmRRAAAAauBFEXb2Ja_XCkuNeK9mXBdL0Ufmjdq7B45tCylj2xxHhVnPV059sYt-z4b3fPaA5Y_b6KwrdWNmWcu_F0ZVSXOMCttKVabLXp5LgnE1TTH_3xx3-qn7hRqHP5pvBm1YEhCszxlV0virN7kCiYI2BUdtGhTi6W0LGS5NhPw9Eu7qeR_h4MIoYA",
+         "scope" : "GOOGLE",
+         "types" : [ "cemetery", "point_of_interest", "establishment" ],
+         "vicinity" : "Hodyszewo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.7580112,
+               "lng" : 23.1786458
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7595234302915,
+                  "lng" : 23.182013
+               },
+               "southwest" : {
+                  "lat" : 52.7568254697085,
+                  "lng" : 23.1775234
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cemetery_grave-71.png",
+         "id" : "023ff7a0501ed9df41d1cf50fc2ca55629a672cd",
+         "name" : "Cmentarz Komunalny",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJk0o324sjIEcRFiPdjbt0Ddg",
+         "rating" : 5,
+         "reference" : "CmRSAAAA9tqbxBiZAoeAFEw--zZUxVvnSVv4vdXl1mbHX0JJs_YbcU_3D0fOifElTpUPkU64DMgwkR-tDO3hpTSFvZOaZOJFMlFiEodHxVHfSUzjag9NK4mbBQTOYQuyymVIsQh-EhCrZIWPzekxQ8xYiQjC4I0HGhTHgJyEZ1rMye3xYhH_7cbkMLMs0g",
+         "scope" : "GOOGLE",
+         "types" : [ "cemetery", "point_of_interest", "establishment" ],
+         "vicinity" : "Wojska Polskiego, Bielsk Podlaski"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.855451,
+               "lng" : 22.7014267
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8567999802915,
+                  "lng" : 22.7027756802915
+               },
+               "southwest" : {
+                  "lat" : 52.8541020197085,
+                  "lng" : 22.7000777197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cemetery_grave-71.png",
+         "id" : "7718595a47bd8f6bdfb56aae27733f9b8d850b24",
+         "name" : "Cmentarz",
+         "place_id" : "ChIJ7-0S9tSTH0cRNW_8JVXtI4Y",
+         "rating" : 5,
+         "reference" : "CmRSAAAAFrpgpDMmZU2RcpmXPFpK6eWMJOLSAC7XBAFZTXz-qAK7uF2K0S4jOZzG0kQHg3WaLMLO5zArCx_xWHWzxilCn4Q6jSliMMKAXyRRAj7miOyiFAhN6ScG8vV62s1fHeioEhDYLbgvJPgnlmR-PBWJ2DeBGhRUsVGDGzh7qUpt-30ncn6KK2LDhg",
+         "scope" : "GOOGLE",
+         "types" : [ "cemetery", "point_of_interest", "establishment" ],
+         "vicinity" : "Główna 1, Nowe Piekuty"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.15263849999999,
+               "lng" : 23.1974452
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1539874802915,
+                  "lng" : 23.1987941802915
+               },
+               "southwest" : {
+                  "lat" : 53.1512895197085,
+                  "lng" : 23.1960962197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cemetery_grave-71.png",
+         "id" : "7677a4bca8e94da0c0cfdaf2a964b1ad7e9d4d20",
+         "name" : "Cmentarz Farny",
+         "photos" : [
+            {
+               "height" : 1245,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105740410785193498613/photos\"\u003eIsa Garro\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJ3PFKBiRA8NUr2_RYdtSEwehR-QxEWIpUJiixnOw-fLago0Wl_QzCSyWJMVm2cc5Lu8oGIuz822gcWrL9NJSCYFQ-DahDJqEnyfCpdjJQwnQcda8kJpQnQ_rKz6sVIoyB4IrSQlwu8ktwyITjUMTNYozoPQuaZ_ZZdR_Btgf4cKEhAKdoVlmEaFBL3V2-QAaIEDGhSVJJpqj7U7B_Add6LYTeAW7txqpQ",
+               "width" : 750
+            }
+         ],
+         "place_id" : "ChIJgQovv4P-H0cRtInyQ8BnPos",
+         "rating" : 3.7,
+         "reference" : "CmRSAAAAZxkjuZNca5UKOQj0KegMb3Xi5eCaKpjvQuqmZY-g5DIa6mhqV4Dnlgw00q6cm7_po1_0bTlqvbMd96V44u_4JRAupIwQ55KqM6-rrpenK71qoH90B7LnMqB8Ct7zuruWEhD32DYTeQGER-e2CLpfTm4bGhRnvMGycJU4PmiOIcN0PYkWU3MfGQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cemetery", "point_of_interest", "establishment" ],
+         "vicinity" : "Władysława Raginisa, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.15043499999999,
+               "lng" : 23.1960584
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.15112125,
+                  "lng" : 23.19687710000001
+               },
+               "southwest" : {
+                  "lat" : 53.14837625000001,
+                  "lng" : 23.19360229999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cemetery_grave-71.png",
+         "id" : "b8ef4fbc8f82ebbf977fac5fb57c0d2a501d82b2",
+         "name" : "Cmentarz Żydowski",
+         "place_id" : "ChIJX70DgIT-H0cRwAVfvHryoM0",
+         "rating" : 4,
+         "reference" : "CmRSAAAAGcH8sZUP40v-vVG8u_pqW2AH9Mb0lnH83Q80MxXE8sSp74oo-Skk0WE6Nl5VwLHZwv8K2WjyBwvm2sQTUhDB1jpc81sMIj7f4fHWznbXb3Y0wYwCdpNtsbeCmE4vvOMMEhAETPgN-zG8SMqTwEzrwqdAGhQC5NV-OIUyO7wtPuLogJPqG20q1g",
+         "scope" : "GOOGLE",
+         "types" : [ "cemetery", "point_of_interest", "establishment" ],
+         "vicinity" : "Wschodnia, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1514532,
+               "lng" : 23.1841884
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.15481259999999,
+                  "lng" : 23.1868161
+               },
+               "southwest" : {
+                  "lat" : 53.1503334,
+                  "lng" : 23.18331250000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cemetery_grave-71.png",
+         "id" : "bb936dfd16abece0adf78f15032e2bfebacf8cd5",
+         "name" : "Cmentarz Wszystkich Świętych -Prawosławny",
+         "place_id" : "ChIJAYCpiij8H0cRU_aLgGvNDkE",
+         "rating" : 3,
+         "reference" : "CmRRAAAAzQGa6kOsQ7DpuNPMSMCiu8URQyfqb7q2qfsw4z0eiabM8GV_HMcMI6BdPtbtYD_oEVkiTcf0_MrTxQfGiySaAygnet1BvugaHpoTc2izMHPSC6uYMW9ybIk9ZIVa1O15EhDEn95YfeSzyZ1e5MGadwNfGhTcyx7DuKKGLH01-gsG7jy82vjXGQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cemetery", "point_of_interest", "establishment" ],
+         "vicinity" : "Władysława Wysockiego 1, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.14485529999999,
+               "lng" : 23.183254
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1463697302915,
+                  "lng" : 23.1839389802915
+               },
+               "southwest" : {
+                  "lat" : 53.1436717697085,
+                  "lng" : 23.1812410197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cemetery_grave-71.png",
+         "id" : "2f7ae1672e2c7523a3e3029614f74e7a3d41551a",
+         "name" : "Cmentarz Ewangelicki",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109789689965796550074/photos\"\u003eCezary Suproń\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAF2ZNOAIUd_izBaIJFxEJeYxC97FneX5gOwXBcAbqJyE0ngLaeeGhWU3hVdPdTWEdrin_46xb1gLqzvtkbrMTZW5hbxUMZ3FBgPAZL9bhHvTCXM2XfbGxjPPhpoamjajd_waIVPuBtzlcliJJQhTqstPKGsrOoYo5cHZUZzhP2JlEhDF-wg8VMoSjkqKg6SShRJoGhQuirbDwRnL7jifk1-fTyj_nMe_qg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJfyrnB57-H0cRI3sAsyDySQ4",
+         "reference" : "CmRRAAAARDMoBT6kCSFsl8I4DnmO3drgKePyG0z9BdgGWkp5Vic9xiwvnZ6AWEXMPYJxTJroYPU8SE8YZPdC1PSQ8G8Wncie3S495TnCsJHhcGmuOGIRurAtAO99KIrZyzTudIG0EhB1e3wihTAkTS7k86rNHOFTGhT1GHbTlz91FPtrEwlWh4HCCmV39g",
+         "scope" : "GOOGLE",
+         "types" : [ "cemetery", "point_of_interest", "establishment" ],
+         "vicinity" : "Generała Stanisława Sosabowskiego, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1475067,
+               "lng" : 23.1133428
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.15126405,
+                  "lng" : 23.1170164
+               },
+               "southwest" : {
+                  "lat" : 53.14338185,
+                  "lng" : 23.1110252
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cemetery_grave-71.png",
+         "id" : "8480ca1230186d1743bfd1f8c287ad9a3e47e290",
+         "name" : "Cmentarz Św. Rocha",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114170694347864468739/photos\"\u003eMałgorzata Zimnoch\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHDb3RlPubeIVhB-G1gHewQeTgOlmFcO7NEnWsQLEpwf2xl39senuQxzgJXRuLuhI5N3b4NmZ6UMLVp_lGFsqS6y7EXoD8BFj1mbUIvvTiBukvIGKL-KKUahAHQkOMUFxiqIvQ9KJFQa-62xNYVtLnp3S6ZL33flUoAzVsS8LU3iEhAx3HaDrN8N-wdnVygxb7sHGhSjIJ2droZUGFYx-xZF9CNAK_IKkg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJxbBTL2L8H0cRfS1BiFi9HS4",
+         "rating" : 4.3,
+         "reference" : "CmRRAAAAKxfeMHCIm3Xq83dNLsBRPAoqMWjdlcMwteej5vWRj-toXmGHf457UqeBgCpLU3BXWpvjV-8ZCrU4K8t_uFukc3wDaidmL0r7a-LpAzUYOP-grlBIAhLaDSCIKGIINwRwEhClmLbr915vM2GX9HXxm4zZGhSFiiQvptOd44Pwm9tqoCEoa4Oesw",
+         "scope" : "GOOGLE",
+         "types" : [ "cemetery", "point_of_interest", "establishment" ],
+         "vicinity" : "aleja Konstytucji 3 Maja, Białystok"
+      }
+   ],
+   "status" : "OK"
+}

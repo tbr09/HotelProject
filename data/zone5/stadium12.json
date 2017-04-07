@@ -1,0 +1,389 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.2399914,
+               "lng" : 20.1941437
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2415028302915,
+                  "lng" : 20.1949570302915
+               },
+               "southwest" : {
+                  "lat" : 53.2388048697085,
+                  "lng" : 20.19225906970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b42912ed25d8561d3ddfc0184862cf2c78f461c1",
+         "name" : "Miejski Ośrodek Sportu i Rekreacji w Działdowie",
+         "place_id" : "ChIJnf4i8FmlHUcR5aFJ4Ds5F34",
+         "rating" : 4.6,
+         "reference" : "CmRRAAAA7Axki7_wn7DFmkVFXafE2Vf8mmpRR5GTeFkyDwEY5VcK0Aibyk8RVMVVyQ4I40fyYtU2u5h50QSUgubIKyxrqqCd4SBuGcuwrsssT7zKI-v_A4M6BxtCNl9vxuh39RHeEhCllzEBosJp4gFMNbd5Ys6HGhT5uhxElU_KL5Fz8LLFFsX2Vd0egw",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "point_of_interest", "establishment" ],
+         "vicinity" : "Robotnicza 10, Działdowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1240481,
+               "lng" : 20.3793205
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.12542973029149,
+                  "lng" : 20.3800448302915
+               },
+               "southwest" : {
+                  "lat" : 53.12273176970849,
+                  "lng" : 20.37734686970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "51eee2adfae9fae46be02b0e0b8734a0fe26a9c8",
+         "name" : "Stadion miejski",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109478894967848978126/photos\"\u003eMagdalena Wasiela\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOak6-IPBM_ubkubpyHcCXfYYSB8jx3fYWE7Y1U6JODqZ3HDh7V1SYxesAOgMYWf_gBSu1KCTA9zxIIoW5XlUlVMydY9-wyfpwrQEcgtz4V4ikZ_TMlhIXV-cHcotZixXjUj94iZ-g8kg4SNpt25Y71Ya2GFDFe-t44vTzgGfgOBEhCDlV7KP2g-VBtZEjBUc7w6GhT32YypgPEKaNvytT_tuFjBwQ5kSA",
+               "width" : 1836
+            }
+         ],
+         "place_id" : "ChIJ1VlJDhK2HUcRtS1xLy40Xok",
+         "rating" : 2.7,
+         "reference" : "CmRSAAAAnIak_E9htDHCGEtaqhTPjQucyvCqQaoZDclgq_Z4AIqPnqlGnHYpAZqZnSDESLiwsjk8k3GNurAKf0La2TAsEXmZEUBk_1QtnnUhN7horx2tqWvfW8qRp7LR79x5XyazEhBzaGP24W9LM314s9ALmxdKGhSky6YAyjKKdVCl2o6OLx8HJlQIiA",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "point_of_interest", "establishment" ],
+         "vicinity" : "Mikołaja Kopernika 38, Mława"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.874023,
+               "lng" : 20.6112371
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.87586528029149,
+                  "lng" : 20.6132398802915
+               },
+               "southwest" : {
+                  "lat" : 52.87316731970849,
+                  "lng" : 20.6105419197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ccf3bc205918323499da8c481c02ec58c1d85c6c",
+         "name" : "Stadion MOSIR",
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103876344245120814916/photos\"\u003eMaciej Sokołowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAABcFnS8r6_0MYsF4tkbeLV18P5YsjOIsXwwbKWy4uK3UlDdUIq9C1LOm-fshenSJBruMk8QVcuWHpyhLg-vPmQnSy8k1pTitgyAXX4i2rhPH22kFFcSuh3PIzzlp88502cp_YFhGaHNDsvX5dZjmT9lgocnBAd9RlXGaDdBGoM4QEhALpT5l_cygkUXdbaLEa08uGhTHkpQlcd0srS8r8IVP5r20aWp88A",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJG6305rsuHEcR63B8nzJZ-XM",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAA8U1lpayu46XrXvTnBUngmWc2P5AN3NU5D9x-UBCw50GRc_rkAime532exfZM8rggeZE309DtLXeffMobLSkg7Y4aSN4IvQV7sZAvSI5L-zjPrREp-peRbe-593_jkYTNEhBk9XKLoDDYcEUCpFjW80cGGhRwP0uY0nyE6HKCiPe1BLzKTDdYeQ",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "point_of_interest", "establishment" ],
+         "vicinity" : "3 Maja 7, Ciechanów"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.2563549,
+               "lng" : 19.8017594
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2579986802915,
+                  "lng" : 19.8028517802915
+               },
+               "southwest" : {
+                  "lat" : 53.2553007197085,
+                  "lng" : 19.8001538197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "af0bd7264c980a42c260e3776f13acd14c3b94d7",
+         "name" : "Stadion Miejski",
+         "place_id" : "ChIJ-_z_J4AGHUcRlyg1Y3pnJSU",
+         "reference" : "CmRRAAAAkEfS9UTcjkM-STUrGfu5PHv2YIT9JJt9fe8WVA0mku4dkiDD2CpfB1UrLRnXPGzZtE84Y6rFMSK_a4hT77-bElbqUQrgVRhbqHtAYBlf1Q-DX1j0m_5ls4UI7qvXbQpvEhDE3wWZof04lBn_9IdA6qaVGhQoBfo_mlbWo4KKUTJBvEZfCcQTXw",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "point_of_interest", "establishment" ],
+         "vicinity" : "Lipowa, Lidzbark"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.84863739999999,
+               "lng" : 19.6632699
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.84967693029149,
+                  "lng" : 19.6643456302915
+               },
+               "southwest" : {
+                  "lat" : 52.84697896970849,
+                  "lng" : 19.6616476697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7895f0de8c9ed8233b94b0227635c26c871f86c5",
+         "name" : "Stadion miejski",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116370851295988769576/photos\"\u003ePiotr Wolski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAIskxCDdO7FkF1VXnUdTxewDM1GapHnyWEIDkEZ1rLm9VS8mEE9Ga5Y1Hxqgfa-tdMzlvaKLkQVDMWFRfLWHiT84r0sofANZUUjnJ8PGa7nOpat-1lmP7fzumpAQ1xluf9f6KNbv2b4Kp3mBkSJgNsrebc541j6xO5H0yJ5t5qa5EhCeF2mu0g_tYBdc66_w5IuiGhQYR_XHVSYiF6WqaXfTU6nDpJni8g",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJI26vuG1fHEcR_UkJkgyPk7U",
+         "rating" : 3.4,
+         "reference" : "CmRSAAAApYXoLwC-VjNXN6m16O5HG0bMi9ZptSdvs7UWi9jz-hKNWI-bIvtGU3YhdfkFpHHGRDG8gdQmxr9nhNt4CRXtotqHSYy2_CaXo0ume67PrVjHbDGRHtASxf7XTFrCtrVjEhBNXuhZpt8AxjT9oCX6SpEwGhS0Y_goFaUCXuxgvdUsG_5kPdOoRg",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "point_of_interest", "establishment" ],
+         "vicinity" : "Świętokrzyska 26, Sierpc"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1679559,
+               "lng" : 20.2872788
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.16908738029149,
+                  "lng" : 20.2882316802915
+               },
+               "southwest" : {
+                  "lat" : 53.1663894197085,
+                  "lng" : 20.2855337197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7924a44f9a8faea163b6d9f0f7cb8c02e7b0762f",
+         "name" : "Stadion Sportowy KS Polonia Iłowo",
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105532239201473107005/photos\"\u003eMichał Rz.\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPXl2ELgTcoR_g6ic07SF-dUywc93jVVxb7-PY0DVW2rGtnxdDFXllSDj91jwzPUPTYoOAz-lxJJGt47Pse2s2S5iy03QUijqmda3FriPAQ_UNrmKXTwY7jhXT-SBHKShfNZfCkK2yvByMpFeACI5aHLoACtPAbKD03vLnjcnxNlEhDUkbTHEHfYZnzwxVRT-7PIGhTDb5pwylQOjPsPnbswUhcpCH5f_Q",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJh35DLSmxHUcRm21P1kYDuQo",
+         "rating" : 5,
+         "reference" : "CmRRAAAAwf6iyFxJscX7vwFiHtQ99vU9dwtTvheZ0Jog-qskTKb_RGk-yaKHTLueTPAGLMgO4r2imqIW3wfsKwXg2jrNtaEYbRBtJGNk1Uv7jiA0K82AdOwDWShmph8HjNzzw2MWEhBN0QXAQlAHvfhoO6rKTDzyGhQ5lQj8lVy0OD5_uiXBsySwgqVDWQ",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "point_of_interest", "establishment" ],
+         "vicinity" : "Akacyjna 25, Iłowo-Osada"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.8656097,
+               "lng" : 20.1967871
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8669586802915,
+                  "lng" : 20.1981360802915
+               },
+               "southwest" : {
+                  "lat" : 52.8642607197085,
+                  "lng" : 20.1954381197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "17bf159f7b152d24bf5df8f5c270a0023289ca51",
+         "name" : "Orlik",
+         "place_id" : "ChIJoxGZbvpHHEcRWozlpeeiZkg",
+         "rating" : 5,
+         "reference" : "CmRRAAAAqvfrxlMZWoZnTbV3_sAopF4DC2YZXplGq2kj0BpQX5BaE7E-ntq2CFAgHXvj4F8Cii_YQ5M3PbuxT1cIgyKCbe7EY_AtXTv-c6itqhZtdUcPxkCoZnnkIcy4PeAF5zfgEhBz4Ie3qKjtZxR6TnpsbHsiGhTS3zTZtSQCnkGY7sTU6jkw10NfqQ",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "point_of_interest", "establishment" ],
+         "vicinity" : ""
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.199416,
+               "lng" : 19.7778557
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2007649802915,
+                  "lng" : 19.7792046802915
+               },
+               "southwest" : {
+                  "lat" : 53.1980670197085,
+                  "lng" : 19.7765067197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "68ce8899b219e8438626eb76259749e678661a9d",
+         "name" : "Stadion Bryńsk",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116345145779991633901/photos\"\u003eWaldemar Klemens\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANyCW4ZkMgmRyblH4pSqRyY8SRVCrH6sqAc830GDv47BOSjDzs8mlQ6O6NmfaC_fx0dahTKKRs5v6NajZxG9k3TqE4ptoYX8QVD-fAJ4vSTcSSQml1eHrTThU1ueV3aHsdJ5yPkbY40wh-MejR8FD2ErTuCiykVqmQPm-vhxYpZzEhAV6kznLS8cUlW6yj8z0ogIGhRBtV2Bnk76wECO1FGNIdYlYDlKdg",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJhykzOEMBHUcRyPAkUahTkxE",
+         "rating" : 5,
+         "reference" : "CmRRAAAAbg6n0E_Cn8UhZCg3sM8fI_ScLTlJb5cbnO09Q-m_S8rSrogQkGDV4puJhYFtfB2LcW1RjNXetWhTRo5cRX6YV51_28DL64qb1Df4K4tpTp37nAnSJcIelEG-hXuNPOrkEhBNPBp8X51gtfrzxcuL8y_DGhQFg3FuvAkfCRQLYTAoDeV2-bm8Mg",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "point_of_interest", "establishment" ],
+         "vicinity" : "Poland"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.8747564,
+               "lng" : 20.613047
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.87610003029149,
+                  "lng" : 20.6143912302915
+               },
+               "southwest" : {
+                  "lat" : 52.8734020697085,
+                  "lng" : 20.6116932697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5187dbd76650778dda22c27755ff6bd9fa841105",
+         "name" : "Ciechan. Miejski klub sportowy",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111529843314527530546/photos\"\u003eDarietta Goluch\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAJQeVS-RcXTBOhe1UJIGusaC9ZGVpb977qTwrK9CQFBewbZxN_sr9keIBt4HVxsZhVWMWU69fuiRCeVBnscuZwig2ONUkU3S5u-Oo9GrGkWWf3r6TgUQp_C_t3DHaQ4Uga_5e0rX5ghcyxFukKTOv8o2DLJ9udt8pKSINpt3Yq7EhDHFZ8wnbMpFj3HApWfUV3gGhQblAKig4CuawA3QZCdGlhAPLxN2Q",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJRc2h6LsuHEcRJsaDdHs8uoU",
+         "rating" : 5,
+         "reference" : "CmRSAAAAq3TMMYTmGfoa2JriYGydhbLwQfRdC9hdPduZNQczgNw10oZ2lldgUEZuKMw0FWlFWeoNXIIsVobvme5n2aQCkJA9ojGwbN2SnbtmlkFBtYl5f9Z4HfXtXbvG_uv1sT25EhCnJneEBkJYr_vS2u1f6DDPGhSCHU8Isru0yUr2gH-fqYXFlbAkag",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "point_of_interest", "establishment" ],
+         "vicinity" : "3 Maja 7, Ciechanów"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.9027678,
+               "lng" : 20.7156202
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9041167802915,
+                  "lng" : 20.7169691802915
+               },
+               "southwest" : {
+                  "lat" : 52.9014188197085,
+                  "lng" : 20.7142712197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bd6d9cd948e840b946f6025209c9964fbb23fa05",
+         "name" : "GKS Opia",
+         "place_id" : "ChIJV0u89rArHEcRN4wrWzaLcr0",
+         "reference" : "CmRSAAAAQPkUec-l0xC0VftuCcSyTj0jdShtkVZVgLeGISayfjq6xusHBafgIeKV3LVJUc3mKgsroKHHnAT-2Wi2lgLM4grEf3g8zlshtT5hDgeRO3vPDybiRfImbTkLvGMZPqLLEhDoef0Xel4XSB1LeKIu7LisGhR_3temj6oQbT68ZN8EbcPZ9I8plA",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "point_of_interest", "establishment" ],
+         "vicinity" : "Norwida 4, Opinogóra Górna"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0171832,
+               "lng" : 20.4418434
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.01856068029149,
+                  "lng" : 20.4431451302915
+               },
+               "southwest" : {
+                  "lat" : 53.0158627197085,
+                  "lng" : 20.4404471697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "40be822eb657af918003ce915342e5caffe79bb2",
+         "name" : "Boisko w Stupsku",
+         "place_id" : "ChIJR15qn07LHUcRnTCtJ5x-Nbo",
+         "reference" : "CmRbAAAAxXw_mcNpERAMHsSsLrhvWxslRxZWP3rO60p7vC3Gc5oUuXu-7wkJ0rSoEei883IcJKDQf6BIXc40EazelZ6Z3LWVU6ORlPdg7rFpYpw8ymCmEGTV2Z_Q6Jb8QWvhzQUFEhCzmAkTTOM5KHEJUYLOTEgDGhSoBerpd8p0jMBSkHsH53lJkyTltA",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "premise", "point_of_interest", "establishment" ]
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.2531988,
+               "lng" : 20.8956378
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.25452988029149,
+                  "lng" : 20.8975706
+               },
+               "southwest" : {
+                  "lat" : 53.25183191970849,
+                  "lng" : 20.8940114
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "36a5bf15b9e4a441f0d2c0ed3aa341eeee049c7b",
+         "name" : "Stadion Miejski w Chorzelach Imienia Jana Konarskiego",
+         "place_id" : "ChIJXTrtCLfdHUcRFeEIuRFo4FU",
+         "reference" : "CmRbAAAAEoWS6MM16pgTJUFwLhCjbjQ-miCTYv-4WAkrah0qLsx6Uu2PtpIP7_A1ZY0bDtHzjbdxQL2P5xGdR3KLqnO2AqSLSef7Djg_lpFeo6OBVKE88Z2Q3ZYXpbwmXLCjLuT5EhC04ZVcZZnQrWiL7ICjN1S3GhS9tbN8reyJkkDqUbJDFSrQLoM60Q",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "premise", "point_of_interest", "establishment" ],
+         "vicinity" : "Chorzele"
+      }
+   ],
+   "status" : "OK"
+}

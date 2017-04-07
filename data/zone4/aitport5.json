@@ -1,0 +1,166 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.863131,
+               "lng" : 22.433031
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8644799802915,
+                  "lng" : 22.43437998029151
+               },
+               "southwest" : {
+                  "lat" : 53.8617820197085,
+                  "lng" : 22.4316820197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f0592b7546e2b0e318741d7471df6f429e42b253",
+         "name" : "Bus Szymany",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 362,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108633702714246889544/photos\"\u003eBus Szymany\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAD_CgdQU8c5Hd_sJmDIWm_-4EvJsUletjItB3t2sKc9qXd1Y0JjVf4FwMeAOQRBYP4gl9q7LRFXgSouk9UMEKub-p2jEBIwhLBnU4a5HDE4fzbnFBDU_x60b5SNlPsi9iuMuQLk_OgETN2ADhoOQpwIl6_isybo9Ghamp9FlMs37EhAmATO033BjkTBbrd_92ayfGhRa1h-exrq3tU3IOnqfPh26QjuH1Q",
+               "width" : 360
+            }
+         ],
+         "place_id" : "ChIJw_bnKPW64UYRGdnLXm7IORY",
+         "reference" : "CmRRAAAAgwaS3neESLI9jhlNkbiyVoaJVEKZ2Qmrj-nUWvGnSyyoZ4OC2ba1vGQmvTR_6o_38Hq-OoqiGmN3e7BkebelCEBcPdq042E6lGKU7sJjHqHsfSu6SCp2yJsMPvhgYweNEhAdLuk5dPiR8V7wqj79zoD_GhQ038EdAsGu0jQIwc6auRSn1hMbAQ",
+         "scope" : "GOOGLE",
+         "types" : [ "moving_company", "airport", "point_of_interest", "establishment" ],
+         "vicinity" : "Przykopka 9, Ełk"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8310614,
+               "lng" : 22.3507978
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8325976802915,
+                  "lng" : 22.3520237302915
+               },
+               "southwest" : {
+                  "lat" : 53.8298997197085,
+                  "lng" : 22.3493257697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2f5093c920e3cbb7409170b8462173798ca2a21d",
+         "name" : "VIP Car Ełk",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 581,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115076104174706666545/photos\"\u003eVIP Car Ełk\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGhnyvUpMLMXRduilnyQuIbQ_9D7-Nk_pc4mMPPtp-XkdWO_21Uik07-wp6ftYHoaiKmQdRYAmzdvelbUpQK05I39ASaPgRBJscyWvekHVFSd4VkyI4rBjOOufWuen5pd_PBlW_hGEJaKLRUVrJ4WW8WxPU-JY6puwVBPoeLZITVEhDCjLSm0syZF9MhibRog4IgGhQfKV7z4AAH-eW-RE8ZoCMvmGb4UQ",
+               "width" : 581
+            }
+         ],
+         "place_id" : "ChIJx9PP_de74UYRwUEo3cBwegs",
+         "reference" : "CmRRAAAABiCmOXhEetRVWx44BMuB4b7Zjf-6MqWrFVG3oy1a7XXjW4nl4plKo1aESKngIHx1Nt6OjHYLLzRUZyUmhDDhkSI49h-8iVMeJQvySHBeSf07USouFj9Q4r7-1N2bn-ugEhAAGE1_KBiN6o0IxI3X6OAXGhShvJSCLFCzrbxD8MvF0Zhwz4sY9A",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "airport", "point_of_interest", "establishment" ],
+         "vicinity" : "Generała Władysława Sikorskiego 10, Ełk"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.041807,
+               "lng" : 22.4960947
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.04315598029149,
+                  "lng" : 22.4974436802915
+               },
+               "southwest" : {
+                  "lat" : 54.0404580197085,
+                  "lng" : 22.4947457197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+         "id" : "b1fc06ec44638305f7ce2e7b6898c27c8cf560c1",
+         "name" : "Heliport medyczny",
+         "place_id" : "ChIJG0cTXCWn4UYR6qDXGNFLJh4",
+         "reference" : "CmRRAAAAnReasav2n1bv6rzMp7vkr8qmCFvde6S5X5aZtm1uG9bvvBx_q14QhKGp_nfPpS4mXEOApocDgfjVsdZtjf1ZPwYV8MhU6i9xbCj_-Ls8A20ylYCH51GKZAGBVDFawxqkEhC4J2t34fC0Re5lCc0GsmCCGhTxIIa7Xk5YOHWhdsaAluuif3Oa9Q",
+         "scope" : "GOOGLE",
+         "types" : [ "airport", "point_of_interest", "establishment" ],
+         "vicinity" : "Olecko"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.9835116,
+               "lng" : 22.4016608
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9848605802915,
+                  "lng" : 22.4030097802915
+               },
+               "southwest" : {
+                  "lat" : 53.9821626197085,
+                  "lng" : 22.4003118197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+         "id" : "70fa8814a8f65176ced7363b9aac49b3de7596ca",
+         "name" : "Lądowisko Cztery Żywioły",
+         "place_id" : "ChIJLTMN--yj4UYR_TQEIFsRXAQ",
+         "rating" : 5,
+         "reference" : "CmRRAAAAlNGZNqNPqr8skM0OkFZSc0YpjNpFbZZMUiKG0SL3qJiOlCXmJ-8onkUBS0W4c6szGX7inxu1fb-EC8I0waLqcy1P_hy-eMjbDd7Ye3YkYCjeBR2O_Jo23nQ_mJV6GFN6EhCuRzEAmt6DTCWccaH2Y-mpGhQwhxUn2P-Im24W4Y-GjBeQFzASIA",
+         "scope" : "GOOGLE",
+         "types" : [ "airport", "point_of_interest", "establishment" ],
+         "vicinity" : "Giże 50, Giże"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.9072372,
+               "lng" : 22.2338933
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9085861802915,
+                  "lng" : 22.23524228029151
+               },
+               "southwest" : {
+                  "lat" : 53.90588821970851,
+                  "lng" : 22.2325443197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+         "id" : "760823c6bf641bf9c3f0b15f0538cc1f6a06760c",
+         "name" : "Aeroklub Stare Juchy",
+         "place_id" : "ChIJB03iHHG94UYRr8a7rD0J3Gk",
+         "rating" : 5,
+         "reference" : "CmRRAAAAiAvrptB3I0YMaav6jq9yvooEakbRClNUHTBtEPt3U3p7JM6hrT3ZQv5PkN9MgaxMj-hG3z-hn-emT_xkPZTII2VK1xl3WF8BBanfMESLwhtJpzcPEGLLjoroin4ZhikPEhDQZSiispExRrjMAKqpALhqGhTphNgu8ppN_viAjNh0-k4IZpWxvQ",
+         "scope" : "GOOGLE",
+         "types" : [ "airport", "point_of_interest", "establishment" ],
+         "vicinity" : "Stare Juchy"
+      }
+   ],
+   "status" : "OK"
+}

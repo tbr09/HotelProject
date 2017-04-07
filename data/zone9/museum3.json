@@ -1,0 +1,120 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5666881,
+               "lng" : 20.9896356
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5680370802915,
+                  "lng" : 20.9909845802915
+               },
+               "southwest" : {
+                  "lat" : 53.5653391197085,
+                  "lng" : 20.98828661970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "ca0da52fdd0dfd308a2e3c83aa0cef75a57fb017",
+         "name" : "Zamek Krzyżacki",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106834828091268793155/photos\"\u003efabio seveso\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAEv6TkIrKkAZr5lWW2h8Mnp9ypxeHZ17EcAyZgPewXKUdYxjc6YKLGUEyIojHIoA8cgKH4zYXKRv_nQFU27C6UCnZ3zA60-Q6d6Htk-qvgdXxCfDodRki9csxfTMnpIH1oRFbwOo2bdFwaEtNPMby3Pz5xImYkkE84DrYM4P-1EsEhDpdUaqXL6jfTzmW8GZ62j-GhQup80qVUGVgCsJfCVBLPMZ11oISA",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJY3XH9Rf3HUcR6Xx0q6WNIRA",
+         "rating" : 4.1,
+         "reference" : "CmRRAAAAvTgBTt8Nnqz9cqAWCIE-5KmfQ3-Q-_CkTqwtSRhri1FK35CgsfsVE1TEPAXhHUmHNu4h5wzEqdVH1jLvZfR_9fqvr6aq6NndBJw9ZAoIE_wi_HTSng0CbopiAAZn6xSnEhAs1HB7AXSlpbCgIaQRUFvPGhQGK56Os2J7c6UHo3eVT_YCZAOxbw",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Sienkiewicza 1, Szczytno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5662931,
+               "lng" : 20.9902704
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5677933802915,
+                  "lng" : 20.9920929802915
+               },
+               "southwest" : {
+                  "lat" : 53.5650954197085,
+                  "lng" : 20.9893950197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "c331ed10833f2de21a83e2fbe5c7743d2074f936",
+         "name" : "Muzeum Mazurskie",
+         "photos" : [
+            {
+               "height" : 1746,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109780741023407213152/photos\"\u003eDaniel Przewłocki\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAEPe_me-9Gbaf2EdI6VQlfzTnqnays8Twd7TwioNTr22uGrXaPZEHQNHAArtiMAlzv4ZpN7vjQwT4yUXCoBIjV1aC85Fgw4lTK6UqJIw7IHMvkQdurR8LCBP6hUrgg_vVg6y1tPmDtb5F87pP8vA-jHosXmYS5qHP0e5P1frPHSXEhCsYIjbLRwDiCeGL-dtykQUGhRBJYbfx3jQtuCHX96aeUgkFfYnHg",
+               "width" : 3104
+            }
+         ],
+         "place_id" : "ChIJPc_V7xf3HUcR2DrEHb1tHEQ",
+         "rating" : 4.3,
+         "reference" : "CmRRAAAA0yi5i8ZN9xY4sqYiMfTiRYQVlSibrnrTYFv_jg_BwAn-7cYBfH1qtK1711UIc09KcQcXm_fNKXLqyU87ACo6sq_piGX0J-bOrE_x2RtOgXF4-IpCVotWPJsGE-D3JJsyEhCm3RWuRHmH9HLhpry-cRfeGhSHMAptSydF8lwCrqnZoEflmmrNKA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Henryka Sienkiewicza 1/12-100 Szczytno, Szczytno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5663632,
+               "lng" : 20.9900984
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5677121802915,
+                  "lng" : 20.99144738029151
+               },
+               "southwest" : {
+                  "lat" : 53.5650142197085,
+                  "lng" : 20.9887494197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "d35c951637a82e5ba12e793cec2aba8a9625b6c9",
+         "name" : "Muzeum Szczytno",
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115787376483503097112/photos\"\u003eJarek Tomek Przęczek\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALuakXUyhX6u1Z-R13d3GukooEw083xZoUpPjMbroYGIAKjwTXjVHxMDzRZGIghSMfOiIlRhGujx-o4EpW8bauwCpemRnsUb6LuNsNyujwfbRWbV2MXoibtOd2389QC6A1SHe5QooVdCIJkYaKCg0Q3Z2VqiFIy5bFDrjMELjsaNEhBhndSvN5c97ptlbSCrvcdhGhSZ5NLj2PHIuvzvvUHpa7Ltp8Q3Dw",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJafmt8Rf3HUcRPoAwhF4EkZQ",
+         "reference" : "CmRSAAAAuqHfH-PsIMbn3PM-pCjWr-MWovmXTJyPLslwxfSrdi4kiQx6CQU2RRKJ0LgNoR1_Scyz3AbIYN-jg3rPfwFowFVZ7G5GzAwv8fbai-s1_EhVyjmLsLdGcQNdCMSM5lEYEhCKdsJEQ4SoU6Wsw6hmxUFkGhTUVw8ViMW0DMptvgIXUE33RceM4Q",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Szczytno"
+      }
+   ],
+   "status" : "OK"
+}

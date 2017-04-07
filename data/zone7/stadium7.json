@@ -1,0 +1,235 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.17874419999999,
+               "lng" : 19.39788579999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1803887302915,
+                  "lng" : 19.3991534302915
+               },
+               "southwest" : {
+                  "lat" : 54.1776907697085,
+                  "lng" : 19.39645546970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ba0b94694284cd3f81efcca2a637b4338de81bac",
+         "name" : "Miejski Ośrodek Sportu i Rekreacji, Stadion",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102226404945929510772/photos\"\u003eMARCIN ANTONOWICZ\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJG0eytaZ6Y1CbwEO_1yP9xj_D9PHrN9ohieF70FW6DLAFTH4OKeZKBhBRAJtEGF_h0nj34vb54KmJ_n0_dli7QhWW--Ht2u_4DFNBoCEE9H6_l8wTocvghxq7a8njKbaNxvQSSUPe58IdilhNNhSatAAIR7s2MaXUnz4gE-KeizEhBSjeAWc52yGtkbP62dVtshGhQglPxU2hXbaC3dB-PObzFZ-xCCWQ",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJPem8SXFM_UYR561qt0vkKuE",
+         "rating" : 3,
+         "reference" : "CmRSAAAAGxjbnl9rVKooROxMdP9xnluzb6ENWlGIJdX9GZzYvY2m0bcflhD9qcUYOOEY9kNeiy6HH2wn2wbG-CKzQv1YlgnezPEPIAzaxHRdLlzoFWlRJ7TO98C8KK_jddAUId0cEhCVLNZcR9Jt_QDk4irV-6ybGhQHlk1_QBAlz_PxT2CM--Cbrq2JoQ",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "point_of_interest", "establishment" ],
+         "vicinity" : "Krakusa 25, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.165876,
+               "lng" : 19.421288
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1677496302915,
+                  "lng" : 19.4225178802915
+               },
+               "southwest" : {
+                  "lat" : 54.1650516697085,
+                  "lng" : 19.4198199197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "599e5c8f767a42bb2ca5614703dac8878f7fdba0",
+         "name" : "Stadion Miejskiego Ośrodka Sportu i Rekreacji",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102226404945929510772/photos\"\u003eMARCIN ANTONOWICZ\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADGiRa2rVMilwWPRF3fvQQ_mJwiITgAn36W1ATIKB6SfbTi1QzHTzRbzg_GSo4u8KEVyIi7Ha7vvGL_xGgTK5qHxdxA7sRXxwjI0Em2i7saXIFsxUuHTZiBoK1-BivSyTB1T4_boXuQ2Do57VkaDH979jm40ycx04W4bFqU7ZB8JEhBOFaw5NfKiIq-4PlgJbfv1GhS4BoXi9co2WdvPf1tMBGLglysHUg",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJKSdhIYlM_UYRMuZgkZ5sO3k",
+         "rating" : 3.6,
+         "reference" : "CmRRAAAAnwSzHvazhOfWKYPilKkljSSwl8GJUi9krLl88SDiTFyW2kMsq2aDGKCsaWBvWVB_yB2EmJP2m46EWclP4l3Ii9rFMvgLIhHHGUHb2hZOQfkveneYgzxlMk1An3zOKxZIEhD9RWtDah66g_UNzAvo5Q4jGhTwHtkR3o7x1sZ28K-CMvEuRZpVUw",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "point_of_interest", "establishment" ],
+         "vicinity" : "Agrykola 8, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.04993,
+               "lng" : 19.2025065
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0512789802915,
+                  "lng" : 19.20385548029151
+               },
+               "southwest" : {
+                  "lat" : 54.0485810197085,
+                  "lng" : 19.2011575197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9d46fad60f5b91dda8fc17c0b3d216fbf9335316",
+         "name" : "GKS Błękitni Stare Pole",
+         "place_id" : "ChIJH0ir1yRR_UYRDnUVZ7pUmP4",
+         "rating" : 5,
+         "reference" : "CmRSAAAADxa4cunK3dGHncpP2gvCuorzzz9DZMG7BNc36Fnsz-9tmp7eC0FWogO5F6YtoxAku7d1_E-Gicz6J5W3uSuFgb-_mnRlC80N34WF9eqxaZRS6jdbjTLseGVULLKR6dYWEhDkb_WJ3ILzFikHVJNFH4_ZGhS6cTCxGOfioh8yBC8WktFLJZp2kw",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "point_of_interest", "establishment" ],
+         "vicinity" : "Bema 7, Stare Pole"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.2053063,
+               "lng" : 19.1193899
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.2066757802915,
+                  "lng" : 19.1207338802915
+               },
+               "southwest" : {
+                  "lat" : 54.2039778197085,
+                  "lng" : 19.1180359197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bb784722375aa4124d922ff69668425731281774",
+         "name" : "Ośrodek Sportu i Rekreacji",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3056,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107480427618831794949/photos\"\u003emarek galczynski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAABKJSLQT6s101aLRZCp_FI06k6t1LgKvBnf30305hPlJ0EHccKA1CD3HoHohcNjd4suaZegIiKCeklpoKsz-I5my1tgboewImVgKV5KI_400e0OQ9-6fezo9nn5Tcin4W4VjR70jM3vPfHu37D0WM0Gso_2G8Om-OLca5lVtQR5KEhBHZ8NivFu-xBzgxIdqlQi0GhSthTjCiGpllheHZ2zP_yxRz9Tk9Q",
+               "width" : 4592
+            }
+         ],
+         "place_id" : "ChIJywLVTr1c_UYROZHXWj01L10",
+         "reference" : "CmRRAAAAhhSHorc8DqjuvI3i1PbwzEUGb2Olt8pYzK37h9rQhHjd5oPZXo9L4J-rbOwpqxoPelA3bitlt_HfyERuSyXst3wJuODfW4WpwxEPiTktC3ns9R8WOUd24QOU18nnEjxSEhD2eNfd-GCQ1XUWbqXq0G98GhTN7iA1KOzL3_3Bpb6-04-MLv3XJA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gym",
+            "stadium",
+            "campground",
+            "park",
+            "lodging",
+            "health",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Sportowa 5, Nowy Staw"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.92201170000001,
+               "lng" : 19.173837
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9231576302915,
+                  "lng" : 19.1749579302915
+               },
+               "southwest" : {
+                  "lat" : 53.92045966970851,
+                  "lng" : 19.1722599697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f50a32431f21256511ed833b34c5f8086fe346d2",
+         "name" : "GKS Powiśle",
+         "place_id" : "ChIJI683CiSqAkcRoFdlVFoQnhg",
+         "reference" : "CmRRAAAAA6lgldQZr64rnrJFPcOtHP3PhaDbWxHzEeaa1Jo1hmdw-OVftRC2nfNZuHt65Dx8i6zHGFmS6ttXyrJUipr4t4e32cWKfr88GqHBu24XYGPFztIn4dCAF7DABkoSMOLCEhBZ_r8rdhI-SEfkmyiWbn9XGhRJbWcuI83Tu9np2-HPMR8qmIM5ow",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "point_of_interest", "establishment" ],
+         "vicinity" : "Sportowa, Stary Targ"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.9236742,
+               "lng" : 19.3504292
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.92471013029149,
+                  "lng" : 19.3514142302915
+               },
+               "southwest" : {
+                  "lat" : 53.92201216970849,
+                  "lng" : 19.3487162697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3c5bbc0f64c89a2d7ed1afe9eca12d2ed8eac319",
+         "name" : "DKS Powiśle Dzierzgoń",
+         "place_id" : "ChIJyfbQhp6q4kYR3oQCMqVNhGA",
+         "rating" : 5,
+         "reference" : "CmRRAAAA-T-EbHtOBCNq1J7TfmhvaW8jZJudYarod42wskGMy8OaAzT-RF9jzFIal7ZngYBc4t-rwhNK3nuMiGRPyFz2VCUv3TocJ0ntk9acdEL-0MFxt_znU-IwrnRkaNobUq7lEhBCRrf-a84pqMlCKgB-jRyQGhRgGyRZQzQHFgpO2we5ix0UsKrAZw",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "point_of_interest", "establishment" ],
+         "vicinity" : "Krzywa 19, Dzierzgoń"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.04366350000001,
+               "lng" : 19.0454342
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0449545302915,
+                  "lng" : 19.0465242302915
+               },
+               "southwest" : {
+                  "lat" : 54.0422565697085,
+                  "lng" : 19.0438262697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "290320548a0112c82adf1e9d212c221906b12eca",
+         "name" : "OSiR w Malborku",
+         "place_id" : "ChIJ_br7vZ5Z_UYRVOZyvDFf0B8",
+         "reference" : "CmRbAAAACp0ESKLj07lZ-W1hlqXmT52Al5kyns03FxMLrzNeKRziU3GA35LmVTXcS1GyEaHVx1InXgXeCN2j2YGjih4p3bLX6oR3RAQCJDbQIKFCc_8EU4HER-Pofzu_9VOxioWDEhAUNwExZclbaRlJgYmqeePJGhSHJq14KBbXUBv9mVVXSp0Z0yn3cg",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "premise", "point_of_interest", "establishment" ],
+         "vicinity" : "Malbork"
+      }
+   ],
+   "status" : "OK"
+}

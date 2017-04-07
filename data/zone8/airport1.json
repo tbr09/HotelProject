@@ -1,0 +1,32 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7245703,
+               "lng" : 19.2061615
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.72591928029149,
+                  "lng" : 19.20751048029151
+               },
+               "southwest" : {
+                  "lat" : 53.7232213197085,
+                  "lng" : 19.2048125197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+         "id" : "6d79717f1d000150a7f24c7c4b283124d4961bfe",
+         "name" : "Lądowisko Stary Kamień",
+         "place_id" : "ChIJredsCBxNHUcRimv6cJJtUu4",
+         "reference" : "CmRSAAAA_5gy9tDzZPiVZyguSr9rKAEXaA1gSpO0nHOrraMjy8m6vISkFH1m4XmeerOrNZj_EA5R87vIqnDIQNJRk4UMMLG2rP7-DBWGQ77JwOFdgbz1Rnv6aJk0Yom3XsRoqmAgEhAlp-PeQmPi20Tkr-K0ToOMGhSP0HkIpLEjuJF5u_dZpdqiWAMHlQ",
+         "scope" : "GOOGLE",
+         "types" : [ "airport", "point_of_interest", "establishment" ],
+         "vicinity" : ""
+      }
+   ],
+   "status" : "OK"
+}

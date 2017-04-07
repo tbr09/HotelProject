@@ -1,0 +1,308 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6217644,
+               "lng" : 20.8790875
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6231133802915,
+                  "lng" : 20.8804364802915
+               },
+               "southwest" : {
+                  "lat" : 53.6204154197085,
+                  "lng" : 20.8777385197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+         "id" : "7cf2bf5a8458526009f0b32195ff428d7244e3ee",
+         "name" : "Ochenkowska Barbara. Pole namiotowe",
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100271264801287092185/photos\"\u003eZdzislaw Chojnowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADAqTMy-5IqJetUOk7a_TmwqTykdwtlrISH61oN0ouDLUhX9JnQtxFNbrwgoew8zBTA5yNQHX22mAP_PdNGqHW-Ixqw3ejVDmGC_sy0--N6tQdcpQ9bX5NWrVoSZUuiSav6ZZacD6xRSk187WcXT5jwr1Qhkzj1DUAjAFj_3-ysbEhBpgZg1Ead4n13n9OCTuYcQGhTdEUrrxKnY8q3n-DdABZC0uXkHIA",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJX00HxwH1HUcRqSaM5HegErs",
+         "rating" : 4.4,
+         "reference" : "CmRSAAAAszvewFsN07f1L3FDyO-3TEHUIreVoTwwJ-h3ZEwbm4_8IxNizkJ7PrYX_LI2iBs-nFY19-jRD6X7mPMtP5yH-GXoXUcz2yHiAPs6gYIrVuF1cwYFGWdhGYeKa_zUiSfPEhA3bk_xZ9CFzxRNycSJF494GhSdjKFNXvCSzwdTuMSZk3zVGjfA6g",
+         "scope" : "GOOGLE",
+         "types" : [ "campground", "park", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Grom 102, Pasym"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.642399,
+               "lng" : 20.866813
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.64374798029149,
+                  "lng" : 20.8681619802915
+               },
+               "southwest" : {
+                  "lat" : 53.6410500197085,
+                  "lng" : 20.8654640197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+         "id" : "cd0b7c6e4399012c39e2ccd02e001abd6c9833ea",
+         "name" : "Pole Biwakowe w Elganowie",
+         "photos" : [
+            {
+               "height" : 1078,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101777377827607422540/photos\"\u003eRobert Głowacki\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAv9OzGtQ2ewRQJGXhWFugWpqwO6GuIuWaHB72B3AdWb4nRJh4u3eCEbfItaql6f-C-rPNbsxwbkb9Sirj_9rFfMzT53JZK8T7PoGcAz2QbEN-QU1zS4OCCOWjxFU39G_prL_GivvbcuYU_sEQSJrS0r2vpKJOf7IkSO6A_bBZ3JEhClrl0DY3WEXM3qECRVYD9fGhS3KlFAjgEuqr_CMviFD_B8MLLKSw",
+               "width" : 1612
+            }
+         ],
+         "place_id" : "ChIJw41nyG_1HUcRnUrsUpUwIug",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAAY7blEww0r523T_HVpWofjGBeac0AUKnBDW6dRyk8dt2Ta5zlkOzW-gpcSojayejTv4sC9q5i-HdKq6Lkagky7dtdGFevYC0PUbowHwY8EeVSQ0bGoxeTCihyUCB9TxWSEhBwdrpLwpDmp5DDXXTT6632GhQdaJ8vjueIyPziK5wL1xp9EwuiIQ",
+         "scope" : "GOOGLE",
+         "types" : [ "campground", "park", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Karola Małłka, Pasym"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.546581,
+               "lng" : 20.805654
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.54792998029149,
+                  "lng" : 20.8070029802915
+               },
+               "southwest" : {
+                  "lat" : 53.54523201970849,
+                  "lng" : 20.8043050197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1465a366a935f90bde0fabef9cbca2bbade227a6",
+         "name" : "HUNTERS Paintball",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 613,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107233796146956750162/photos\"\u003eHUNTERS Paintball\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAIifJxk0fNtxn657IJpdKFkuVH_pgp_wXsxnc1sqT8iMscr9hxNP0gcDk4TEDFHAhXCH7huCu9p4vqU8eG9XY1o1Fi6ZySWzuUIpODBwofw1r5pB2gyOqcZvoqEux_zoEiHg6rN7ihgyz7gaBVpdSUcnK6LhO8bIrjK11J-4FIWtEhDVLKmvisn96c-pubJHc1WGGhSPJ-fU1socCtgZUeXidyPODjynWg",
+               "width" : 613
+            }
+         ],
+         "place_id" : "ChIJu4t2uA7zHUcRrue6is-Rvx0",
+         "rating" : 4.5,
+         "reference" : "CmRRAAAADq9Z1PCF92ccnWTynIpVzPvP5fmJilD7fkt2lb-bPMf9PTr7MvRYdFEupku_eXgyMK3fb9dvQQudOVtSmhG8WhDvUEDZJXO2jBLK5PJTobAxuW6Pn5-zmfFHELEi9nVlEhBcRxJ412nUWpgSYHloNo_cGhQ_brPtnSeK70Uw5lP0JJtfigluyQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "rv_park",
+            "travel_agency",
+            "campground",
+            "park",
+            "real_estate_agency",
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Brajniki 13A, Jedwabno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.550791,
+               "lng" : 20.7963574
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5521399802915,
+                  "lng" : 20.7977063802915
+               },
+               "southwest" : {
+                  "lat" : 53.5494420197085,
+                  "lng" : 20.79500841970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+         "id" : "c65fdd7a95ac11733d9d612d8cde76ac22728b26",
+         "name" : "Camping & Pole Namiotowe - BINDUGA - Warchały / mazury - masuren",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2990,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100493633686131680557/photos\"\u003eCamping &amp; Pole Namiotowe - BINDUGA - Warchały / mazury - masuren\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJHO4xVUdjid51Ox1pYjbipjWSwXLUO-mvNqJrfyOYFpBAmiYgGxRNrrHHVXZlSNQAgSS-nyT8aQff5EZNmiTwVpNXzAkKKVMG5TZP4Bkvszsk8vfK94keP_RWMpitsqDW-_cIXftTqC8VpPTCyyhQFsBghIObOChClTI0fegfUHEhBp2dq2z5IkAIhb6ZaL7KQbGhTc9U5K7vn4utA_wCz8dw8dtLFgDQ",
+               "width" : 3990
+            }
+         ],
+         "place_id" : "ChIJt1pz7g3zHUcR2BHI8thfTQw",
+         "rating" : 4.7,
+         "reference" : "CmRRAAAAsFJjTBASc3Q6MK9G2qplzXS_8JHwVmyEQwTqa8Lz4yb4ckc512tNZJEQsOIM-f4Pe2JpZHLagFhFmgF3CHslpmgGmVE6-HmaQ6JL_fUbLOTEjsIXPcWsED2bte2LzEz2EhAprP3sF3P60wH8vLqhEuHHGhTKF_JxySxwueyGbup5jlMYaDw75w",
+         "scope" : "GOOGLE",
+         "types" : [
+            "campground",
+            "rv_park",
+            "travel_agency",
+            "park",
+            "real_estate_agency",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Brajniki, Jedwabno 13"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.55153600000001,
+               "lng" : 20.793366
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.55288498029151,
+                  "lng" : 20.79471498029151
+               },
+               "southwest" : {
+                  "lat" : 53.55018701970851,
+                  "lng" : 20.7920170197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+         "id" : "62e7b27d1d942dd6063e33386a40cdf01fca2aef",
+         "name" : "BARBADOS.Pole Namiotowe Warchały/Brajniki.Camping",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116957181538718133658/photos\"\u003eBARBADOS.Pole Namiotowe Warchały/Brajniki.Camping\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAz4AT_5VWONndlbesvmvAc570Oj9Z9xQVd1-gGLMLAS71PSNjve4OUc7QXLmgNLNGXkFeKDb80niPsfCxYlnerJGJWKzj87VlwX5e9zzAsd4He1aofTzVMZCXePFbE-J8FX1mm6E6awR_aPgjdpWgiR1qvONsJHzs51_wDoXgkhEhAB9XzWrOtgU3zvPbXByxksGhQSZiT3Eg7YDZ0O9WG8epNjVmEGKQ",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJFxXAOxLzHUcRrEXYdH8D7WM",
+         "rating" : 4.3,
+         "reference" : "CmRRAAAA6ZwpFGxu7pC2bzIYHbI6BxhYtJnO4DEiJRrEjD8u2O6wLigsTD-Vf9NWqUCoY1HLQHsApiCEXzzzGMfJ2shvJAX0jho02r7HR7TKN1jPkJoGFPmrg6NdM7yc9S4tGVNjEhD4riaQUNz3nE46XUdLN3WOGhRLC5Y_rVHSORybd7M8xdhrGe2ftg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "campground",
+            "rv_park",
+            "park",
+            "lodging",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Brajniki, Jedwabno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.635936,
+               "lng" : 20.82878999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6372849802915,
+                  "lng" : 20.8301389802915
+               },
+               "southwest" : {
+                  "lat" : 53.6345870197085,
+                  "lng" : 20.82744101970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "69e0df67fdd0abde3ba93f0c340deba7e0b596d3",
+         "name" : "Monagarden",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 696,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104363269860352589347/photos\"\u003eMonagarden\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALGGN29g3-NY3CCCeN_O2xeJnY-hBkes5W8xX-3blCWrudQJl2pz3j_ALcCEpEyirBiAK1cE78QreNOQfrGED14aV1zcKijz4PUcuGA9b8Go1hYqlo-nXGPH1y3chy2GxYVJoeKw1qjvz1dAbn8atr1vqIzDXf-1yd5aMdbks9UCEhCAlHJp6EHsJmj6XAIKd5OlGhTf2reqTUpTn8iVlzmb307VyvG_rQ",
+               "width" : 1306
+            }
+         ],
+         "place_id" : "ChIJOR4n6Dn1HUcRl-n2zJW3N7c",
+         "reference" : "CmRSAAAAxYiti3hSiM0JqPmEqf00HalPyyN_00fB_4awacpilzEAhtF1-zQ_czCV0n-9RDX57my1CYagsLTV9h-6-lX_qTAvIGwiZbvXLCbPLEJRPIWUFnXDaCtspuL9VFkri_NuEhDvYy0THLsFoa5MahXjJD33GhTfXFa2BMbU1VORbMaaMu14DrTQ5A",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "general_contractor", "point_of_interest", "establishment" ],
+         "vicinity" : "Leleszki 31, Pasym"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4712012,
+               "lng" : 20.82590859999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4725501802915,
+                  "lng" : 20.8272575802915
+               },
+               "southwest" : {
+                  "lat" : 53.4698522197085,
+                  "lng" : 20.82455961970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+         "id" : "d76f5ff7338a7f6fcb6f9a2ad36f999ed0e13e60",
+         "name" : "Pole Namiotowe",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100078329944466520082/photos\"\u003eEskey Yekse\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAEOxTB2uOXzVrHKjSvm0EDkf_RgGsqEp30HXHedd7ge42ZhJXF24TDRW8Vob2emxthp26JfBkXioZrDgNKs7_pxK7BLcC-asMiMel84DLO-F3UFhUFKJkhlE6aUXK87Iugb73G5PJMlblCqVZ36oo4PrV5-VDvoGkxr-ZV82dNoREhDmNroeA_mZLg6SysB7nKYeGhS2s9B32SM-Lgr_pbz4X4PnmCjnLA",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJq7Sr2QfuHUcRONGEM5W5dgE",
+         "rating" : 3,
+         "reference" : "CmRRAAAAy_52jBosbYkIOrIHQRPBqGgNSaCQ4OagfgI3ecZKsVJ6Y9GfICGTwa6bboTkt9d2HuSb5-bpIwKAV4XA2aSU_g7jg9caxfgOwGqq3Y0DewDYIwr_8xfK-bKIzf21WQIjEhBy8jjyQos-xN4UVNkg_re0GhRLxbWJqtIYp1XO9s9hgMq7_zSRKg",
+         "scope" : "GOOGLE",
+         "types" : [ "campground", "park", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Jedwabno"
+      }
+   ],
+   "status" : "OK"
+}

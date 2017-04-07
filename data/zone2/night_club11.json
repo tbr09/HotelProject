@@ -1,0 +1,389 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0769314,
+               "lng" : 21.6100055
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0783210802915,
+                  "lng" : 21.6112153802915
+               },
+               "southwest" : {
+                  "lat" : 53.0756231197085,
+                  "lng" : 21.6085174197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "53478ef2eac9fabe01d5613efc4f4063655297ab",
+         "name" : "Smakosz",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJFaeaY29BHkcRvFD-xn4FAWw",
+         "rating" : 2.5,
+         "reference" : "CmRRAAAAzq3HI6Ec-2SHd1GwncpfvGnt2_GirMeDSWsZBkn4Tmx3HmKRf1qnIe0aCY-5EUtrk7a9H8WSas26PAVFBqIXEiYk7DF6nzYlHTcBs7nmqGZQHP_fUVcJ5MdQFARTsGEREhBQGVcI5toSQCPJtW1QcVslGhS7o5Q04LyCPHiE0c4ah7twxdbwQw",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Benzol, Graniczna 7, Ostrołęka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.08853939999999,
+               "lng" : 21.5577266
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0898168802915,
+                  "lng" : 21.5589628302915
+               },
+               "southwest" : {
+                  "lat" : 53.0871189197085,
+                  "lng" : 21.5562648697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "fc6097f11adb2dc98b0f8bb2c207d158f988bf3f",
+         "name" : "Bar RANCHO",
+         "place_id" : "ChIJidu6O-1BHkcR0k7HUXHYEWs",
+         "rating" : 5,
+         "reference" : "CmRRAAAA82LIXpDooRzZl7MRdwvp0v_UlZPjXlK7RbirncGqM-YgrYhb_3ecY7yWmO_IZ7I5qSenxKn7L8a9CYNRaPOXZY2aM6jEeDHESssEgbYqktf-KZfTQh_H_New5KQoEJJEEhDMR-CuPKR_gQ5PUkhh7vCPGhQG4-rRQpy-PT7yvtgQGJeXk0CT6Q",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Stacha Konwy 6a, Ostrołęka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0786424,
+               "lng" : 21.5953821
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0795664302915,
+                  "lng" : 21.5964161302915
+               },
+               "southwest" : {
+                  "lat" : 53.0768684697085,
+                  "lng" : 21.5937181697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "ecd9096dc8145edd480b96e23a38fac4f9a36704",
+         "name" : "Platinium Club",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 712,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114779373223423943723/photos\"\u003eDJ Shaker\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJJ9mpaCu5o2ChHMSeFeqP927AsdMP74ixcOkhsgZq1DyVo6fr_VZCOwrvFlmT9Vza73mxKsgnq3-C6wAbhcCqVGH9TKD3lDyfnlOsqQi8I7ArPKohH4TPPienfAJ6n-ye2kw_ZHkfbDDZSQBWgowBww55AN_NBu8yDrcFY_Rm7zEhDRP-WTRur2knVBzFNWtLXFGhRJ4ZNBJ95Q3B-MsponU8Xe_D0Xsg",
+               "width" : 1072
+            }
+         ],
+         "place_id" : "ChIJE_BejnlBHkcRqt-vXfLNfTY",
+         "rating" : 5,
+         "reference" : "CmRRAAAAv3Mk77J6JDqFD8J0oOIqvlHXhSbGZUfOytyCK4IPzJpJLswKdfIB1gfscvyO_9tsvpqypfTwSsRICZMPJoxjYYkY4AlT2h5sLnSrM55_S_LGBLBeX2UEO9qxMfa2972pEhACbpvB269vlShzPNp0DUFoGhS69q181UCUoyPTMtlFbqiz1MVRhA",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "11 Listopada 125A, Ostrołęka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0895734,
+               "lng" : 21.5801295
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0909223802915,
+                  "lng" : 21.5814784802915
+               },
+               "southwest" : {
+                  "lat" : 53.0882244197085,
+                  "lng" : 21.57878051970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "ead618d100d8b47af2c77c85cdbf9135a4cf5dab",
+         "name" : "Dworek. Bar",
+         "place_id" : "ChIJk2VrrZBBHkcRbj1AdnEaIRM",
+         "rating" : 3,
+         "reference" : "CmRRAAAA2i52pSFZHc3KYI9sVWxBTwMn66wiEja09q7kMTSxZWG3dA29NnlRLXGwOSAjXJOXIYzs8OpB30YPSOzCFr-v7ETkEcf8qaIbK65mpLsllhAcGkM91BJYK02rfFz3U6thEhB0QZIApzjTWJUs13646ByOGhSLPoyCFsjSWvm4g9pE9wfnDyFx8Q",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "07-410 Ostrołęka; Traugutta 14"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.08295649999999,
+               "lng" : 21.5758274
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0842511802915,
+                  "lng" : 21.5771324302915
+               },
+               "southwest" : {
+                  "lat" : 53.0815532197085,
+                  "lng" : 21.5744344697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "c0fe23ac13eaaa5be5b272051a148128a182c627",
+         "name" : "Cuba Libre",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2336,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100659743704607542923/photos\"\u003eMaciej Fifi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKvBNywxyU5lmOiDdV14fvaFcFjPANLk0p6_3JKe9yClALVQbUdC1juOJHKp2te4orY1ZtHBC8_YM88zRcJHx5DuIeWn2AIiw2nqimwIL5SdWmapO8mzyBA3th41guWAQ8uwLcSRRp8DCZXI31NEEEu2OfD8qOm_bY-zHRubW1NyEhACXxs6Zj_POMcUzlvN0bx6GhRgCGv4PEPh5Ti7pTYkhb3EOVJ46A",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJibBJMoVBHkcR0KFMpouAWcI",
+         "rating" : 4.1,
+         "reference" : "CmRSAAAAYA9Wfe79rHZwa2zGuZJWINAmTpijHnxxbhvaj7EvCmTCpLVVWe4p7e9AYVuGu7uN8C4HV-R0g5vRk-5WXlg_FHgP8uYRZApuK9_XqNZHRolBiu6DgbYWPT2Zr3JPm5ynEhAIHSJlYYhgaMJrD8UDi8OyGhSDIjHSbdrzkLUQeBF8GNwxZkTogQ",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "11 Listopada 9, Ostrołęka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.08166109999999,
+               "lng" : 21.5694585
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0830451302915,
+                  "lng" : 21.5707696802915
+               },
+               "southwest" : {
+                  "lat" : 53.0803471697085,
+                  "lng" : 21.5680717197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "9aed923b9812f75c10b4f1dc64f7ebbbc960d550",
+         "name" : "Miki - Bar Piwny - Gocłowska G.",
+         "place_id" : "ChIJbc3un49BHkcREbL88BiFGoo",
+         "reference" : "CmRSAAAAY0jU1j0cGYgTn1MiIrbowpZ8ea9m_2wJHz_7LbForUVPjIKOxZmpZaWeoBX8NaaAZICYCmlkMHvoXGCxxpPvx7wWPOfCXorzGwhJKBCMTQopdcxASvgcXCky8hx2jNHQEhBLxGRud061mdarCY3k7tfDGhT709FDutna5sfLHT5dNy7xsUrDUA",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Adama Mickiewicza, Ostrołęka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1703185,
+               "lng" : 22.0647392
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.17154623029149,
+                  "lng" : 22.0664267302915
+               },
+               "southwest" : {
+                  "lat" : 53.16884826970849,
+                  "lng" : 22.06372876970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "17fce0b4e6a5f744907b9101eb14f029cfbd9724",
+         "name" : "PUB Warka Łomża",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109733301835512457750/photos\"\u003ePatryk Ponichtera\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMLrZSVFalENjqtUoWQBLSdxrpe2Xx6g3uZDdq7TqWeUElRtgMr5oKb-Y7BqGGPeUQHU1BY29CBooWxNYTzopguK52gY2tTCVY-jqu10bL8d7-3zef0vCx_tc8SZK0Q9haQ_ehiSSmuyDHcYjWMQ9xbRHkif7iFlpELrDPml0PxAEhDyQp4gt1SA0Yc_iFQbKF0oGhQc7cQX6eT6J-LpCR1bEeNGg-3dIA",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJMcefoZIzHkcRMqgQwpGFzHQ",
+         "rating" : 4.5,
+         "reference" : "CmRRAAAAlosh-ukX3w3AcixR6pucRtx67f22NFaP9qkXKUDAHMWMIHJhd7A_9PZAQ0hNCpvggCyAsnDlTn37W33mFJB6F8jtum7ezQxq3nx0qm7VlxnSFdoGthM6Az0Gwn_Z274PEhBW3-xyX8DNJELnwLctQSf3GhSHCDzxgXhJYW9MyMizQ0dd7pnZ3Q",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Aleja Legionów 54D, Łomża"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1736777,
+               "lng" : 22.0864747
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1750176302915,
+                  "lng" : 22.08784208029151
+               },
+               "southwest" : {
+                  "lat" : 53.1723196697085,
+                  "lng" : 22.0851441197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "160a47f9b294186eada6449500a01a8ded6594eb",
+         "name" : "Stara Stolarnia PUB | DYSKOTEKA",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112026210663105483034/photos\"\u003eMarek Sobczynski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHa87f5nujSFRdi-0A7fvz5wU1VXRDuYFyHozWqn3PX467kFJnZyQFWOInmWimcOAA6t5-NffLlZKVnNVRFx09R4VmlQOqbRREeq4o25KICOfDZ_rcrkNZNEHcaCDZXB-MdSKDz14kpfwkwh9WJtfVu2ia51T3Bgag_J3sv5eyUsEhAkdamR1Dm0hpPSY7kR2-QcGhRXd9R8u3D9-le7ZKeUQwIal7sVrA",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJLT-8t5kzHkcR-0q2UQRXZwE",
+         "rating" : 5,
+         "reference" : "CmRRAAAAxqem_TE1CMMIBM5jQZ5ZJqmohXtCskS3U35RdK6NuIudki_CEYDY1iOFY_cg4HJLVMRDS4BQlqUmuirBWjGgBG3PDuB0ojwLY1w0s-uznH6IhyvU8pMp5K8YxDt--vAhEhAGgc-2oReIAiTNxLfhZDZAGhT0lzq56XcSEVH-c2n0SQ9MSRc4tA",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Generała Władysława Sikorskiego 298, Łomża"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.9967277,
+               "lng" : 21.2967075
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9980766802915,
+                  "lng" : 21.2980564802915
+               },
+               "southwest" : {
+                  "lat" : 52.9953787197085,
+                  "lng" : 21.2953585197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "fbfc83e2f7505e6ed5d25e0d7adaa5f9ef9ac9c6",
+         "name" : "Capitol Club Sypniewo",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111021656621459292272/photos\"\u003eTomasz Tomasz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOehzR5NpX94Rs6FtnvQYF5hNz9Bf2gEchuYo9EFfNwht_1MoPzj4Gkzm-DuM2OuXmUKaiC-3GzthQq1NoJU2dq2kXEifbfqrgZyQZJZN9ZQ8y7HhsEWH-sLwRLe62LHWGNeRvaFGfGnaOYDG8n-4USaSetPDaNj7YsRt-5m5_giEhCh3KjXt9xRtjeBwv532tmJGhREa-QaxIyS7PFYCnjHM1cRKuOTxA",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJFdAB4N5lHkcRg8Vsvt9HvBY",
+         "rating" : 3.7,
+         "reference" : "CmRRAAAA2py39_CaxKqY2omdDpN7K4HJDpnG8S0UCqNvuFaRCGpeWu6UcjXKUtXvdZQPePL2SkUuC355hsHBD-uZKchQpER-0D3o29NDIuvHVIcnE4Letp8lYy3GxqjtzWh_x9uMEhANCLEjYEimrKp8TaEtbTWxGhTmuDElWXwsYE1fZjBfLGpU71Ujkg",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Ostrołęcka 47a, Sypniewo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.3172459,
+               "lng" : 21.3623357
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.31859488029149,
+                  "lng" : 21.3636846802915
+               },
+               "southwest" : {
+                  "lat" : 53.31589691970849,
+                  "lng" : 21.36098671970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "ab68b98448277382f28aed42f2fa37aa3a8d49a9",
+         "name" : "Ibiza Zalesie",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1344,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110607763965178876123/photos\"\u003eAndrzej Mitkowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAABRsgoWfMh-awcuLDzMM_SfE__beUCJfOiftTq-kyMCXoMlDqNA9rgJ0tRFcuiCXYTL_BRB_OhISz247hlvwKG5o6TUQwOA-FaCXLIaPcdtEMj9VmM50WUj7neUgtY7LhScpqJdSi91wFEHeqAbG9zJBYKgh7JcYoTXwXtpTbzjvEhCNgFXwhlTme8cnY0JWE5GfGhTWpuueeq0YYPmGSerSd_b57Ballg",
+               "width" : 2240
+            }
+         ],
+         "place_id" : "ChIJpz8wp10OHkcR2-bA2jqenbU",
+         "rating" : 3.7,
+         "reference" : "CmRSAAAA4HukdsSCaP0bmrX3YV8yISRcHYFgloLc2SYHgOdLMOUXRFfI3xxSFHqy5-M4UIVGIC7Jm8dHuoHHrS5OwKt_4GZRXFgbIeHa6yTwZXL2-LMAwfPlpHwE2hEcNVHnuJgJEhBYSR9TYqN3H4UEAMiuQhv1GhTGMUYiFt08pHnkpBMmV-KahvZuAw",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Zalesie"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.802082,
+               "lng" : 21.703466
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.80343098029149,
+                  "lng" : 21.7048149802915
+               },
+               "southwest" : {
+                  "lat" : 52.8007330197085,
+                  "lng" : 21.7021170197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "0dc41d082b93efeda17d9505289fafbd9ed5018c",
+         "name" : "Jarzabka",
+         "place_id" : "ChIJNzaL8nJWHkcRCyGqCw9gRSc",
+         "reference" : "CmRRAAAAixIlLnPGLFHrQOKJ-1SRY1c1RYhWnw-lZ_NKmf00h39mQWX9wdbP1GFGBGrlH6TIK3B1_c5Idn9GrQa9pXDMk6-mbCX47GowsnXYEsz8rWk60aLrFleIwb2IozQ7fV2sEhDxIfoUsqv2-zGRFyyjFdj4GhSso0rn0t_TBeUifGpdNxm_uLOnYw",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Jarząbka 23, Jarząbka"
+      }
+   ],
+   "status" : "OK"
+}

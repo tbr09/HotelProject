@@ -1,0 +1,690 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCBAEAABu2xLosWxAxMos6axn3c1CbQ55fFx9u-0mG98z3v5Txrc6SSkqB9f9334zG6IB7tTzGBqChgWTYntcjZAl9j8hX54ZrIo62q3ZQyuc5EGdZVTRXvOH2NHelwnBqWfQ1WVCqc8XsfoMmOuUzfb5G7NqVHBegAelQT6ioba0zCrlPDN5TrWmqFB8Fv3yxgSz1jnza-gesY9fdd3XWMWjh-Q7IN0tCjGmOI_woJQrRDFueoBffDVz_aFNOtK3VA202GOSxzRQdhgmhxcnSxO-4AuUOTo6193Ve9TM4FZD8xzaX3buzE93KCFrUSOTMudSYM-ExRI-pxPfqjRLTV7XNRtzHosQpQDuaALkpaP2k8mDVEhAJAwlL0HcBURtQ7zrI2a1zGhSgABpc2VSAwdwQ2eYMOqM6sn4LSQ",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.611043,
+               "lng" : 21.131494
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.61239198029149,
+                  "lng" : 21.1328429802915
+               },
+               "southwest" : {
+                  "lat" : 53.60969401970849,
+                  "lng" : 21.13014501970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "76dd003f3ee42a1d8c51f8e22f14bfbe04469812",
+         "name" : "Domek letniskowy w Jerutkach",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJP7jUyYn4HUcRiP2Szbn6UFg",
+         "reference" : "CmRRAAAA65YT_dSzvA_Xmm3mvKTtIWMxo5YhuEeEg3e0xOFEk4JiiXTMJz9UUwHdV2JkqyzTHQgjBqbajthf-w0KOiP6Q0r9GlswJqp2ZmKkWnoZ5Podx108uZSwcRTOakfZLBMrEhA-2N0C9DTVI6r3VrSHj60JGhQR2vHDvY_UKtoY3vAY1HTAQhQHmg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Jerutki 45, Świętajno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6140676,
+               "lng" : 20.9534744
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6153528302915,
+                  "lng" : 20.9554132302915
+               },
+               "southwest" : {
+                  "lat" : 53.6126548697085,
+                  "lng" : 20.9527152697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "dd85ebf9e9fadb21184ec7a9cdbb689029dd0b18",
+         "name" : "Chata za Wsią",
+         "place_id" : "ChIJ007eUT73HUcRqfxyJRlFULE",
+         "rating" : 5,
+         "reference" : "CmRSAAAAHx0Gac9uwrNwgOONNZ9m9icc1goZKts4UzKcXhXRqbwCqu_eBLeRKK5h8VNpAGapGH22icP8bx8c2Az8cEy7oZ_8y2JjKiBOswtxcbxq3HSAId-OnlZYbSkGK6HYXl9hEhAtms5mSqK550DUiJfGoNf1GhTYZbQdxd7KWzyAvbuI3GhWkWhfDQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Droga Krajowa 57 15A, Szczytno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5693614,
+               "lng" : 21.0047347
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5706572802915,
+                  "lng" : 21.0059798802915
+               },
+               "southwest" : {
+                  "lat" : 53.5679593197085,
+                  "lng" : 21.0032819197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "088dc9f0fb191423b56100470ed77a28f27f4c6d",
+         "name" : "Helena",
+         "place_id" : "ChIJs5hgnRP3HUcRBXdIdH_waF8",
+         "rating" : 4.5,
+         "reference" : "CmRRAAAAOD1WOCCd9HwjE72z5tNecA5fvyF9K4-CofQN7ZJ7_TtqyZLu523XZ9fWhT1K8HBm32fY_RhtYPC3VKaFxfWY04xT_OmCquEUfUo3Ieg5LgmfeKylFzNZVCXOpsMP2fvvEhCKx3k2t1tk-ftxaOWiHqjiGhQpJQULK8HjdEKvCEGwNb2r4SQyYg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Michała Drzymały 2, Szczytno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.49845,
+               "lng" : 20.881754
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.49979898029149,
+                  "lng" : 20.8831029802915
+               },
+               "southwest" : {
+                  "lat" : 53.4971010197085,
+                  "lng" : 20.8804050197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "95f0324560331a573a23e10de6d010204c2be60e",
+         "name" : "Orzechowo",
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109529389863883755672/photos\"\u003eOrzechowo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGsfIPzdoRvPwZ-9Cx9E9myyQihLhDbY3PKlWcGKcBml2hvaCd-R19ikYpEuHywy5Rz1kXByiLFvmmgiqFn5-dD6Gq_a_nzgnzsr4OU2BF6TV_tLG66WyVrXHlpGNXbU0IUCg1oc_hCci6OPpV6daEV7kaawCGKYmv4sqzdHh12fEhC-D39FNcy97KoBt55LzjveGhTBoR8KX6sj4a0MnU_IWhd8_M5YWA",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJDT54W77xHUcRCMuYPuWINYc",
+         "rating" : 4.4,
+         "reference" : "CmRSAAAAHEA6eYKekp8AEA4F1sqvv-J6saqMqaAZUrW_PH7Z3bF1IbGT_rxOJU4QSJgsEkUvCA5RGXAKrnfiHJm1wHxqpChMIBL85-_KXnP1K80CbQ1W9NN636wlfqSNhITy0jWxEhAkIhDDvNq3XfiTc5guJPzVGhQvC8-54sfCJxa4BPsIA1f0bVVQrQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Sasek Mały 4"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5264316,
+               "lng" : 21.09306339999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.52778058029149,
+                  "lng" : 21.0944123802915
+               },
+               "southwest" : {
+                  "lat" : 53.52508261970849,
+                  "lng" : 21.0917144197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "d98b91fe4f430cb689526aa337bd2532fd6d26e9",
+         "name" : "Kamez. Gospodarstwo agroturystyczne",
+         "place_id" : "ChIJjQ-km335HUcRjS4ZX74trn0",
+         "reference" : "CmRRAAAAHf1YDiDL6nwniofBeGIqQuc8mWGh-o5GwmHf_Cq-N3BN8C9vtfPfNdqJR18udkiyCPrtyy8o6YnnaZPobBn3xOtPrWEjOPF3Bo61wlEmd9--ii6crrUWd6QoXBIYEjvtEhAKBxYp_q0NpKy9vALMDBiIGhQ0mD4X5In5oKhnQ9aWI2P-9q_ltg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Wawrochy 36, Brajniki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.565132,
+               "lng" : 20.9954098
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5664809802915,
+                  "lng" : 20.9967587802915
+               },
+               "southwest" : {
+                  "lat" : 53.5637830197085,
+                  "lng" : 20.9940608197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4cd99583f6dd219e3b0125467df66521d3fdef59",
+         "name" : "pensjonat grota",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102755306202780522850/photos\"\u003eAgnieszka Nosal\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAP6kFen_Ntkdegxi90YAV77UBlBnlRIB_ws61T7MGqgJ7au_WiuVMiAPkgVIcNg6mNMoLnjqOiUUhHHrcg32c1Y_pG1g2y2NTdq98IQbo_yLyNqGoCbzZ4mqxshuRL9x5rjguwpFKoGqEwJP0Ie81iMtRShs0wqXjP5CUH0koq84EhAri7Epo3CUMcGb3FN7fgjGGhTqMQ8owZ08S2p_bOngGegw0MNOfQ",
+               "width" : 3096
+            }
+         ],
+         "place_id" : "ChIJKUbY0hf3HUcRWv-P0uU0MRY",
+         "rating" : 3.6,
+         "reference" : "CmRRAAAAtctwG7TEqR_lFjBp4QpZ6_Gx1CAP8LesqhtK6l-tFiS01NkDJXvtYvaOLWadJOZ9V2-xuU-eZHWoR0L_mnRk1ojrY1ehyFgGYnBVMsuFSADKCrDZkySX1GHXrPTfplyAEhAKgS0QLYtOTL8VoqCHRDRmGhRmDqNGdcHZgFDVx2IH-RE5synUVA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Wolności 4, Szczytna"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.540488,
+               "lng" : 20.804171
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5418195302915,
+                  "lng" : 20.8053846802915
+               },
+               "southwest" : {
+                  "lat" : 53.5391215697085,
+                  "lng" : 20.8026867197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "f6f88cb5aa652c2ca1b1af09f248813d78fbee68",
+         "name" : "Rusałka Ośrodek wypoczynkowy pokoje kwatery Camping Imprezy okolicznościowe Warchały Jedwabno",
+         "photos" : [
+            {
+               "height" : 1071,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108996444642808887731/photos\"\u003eRusałka Ośrodek wypoczynkowy pokoje kwatery Camping Imprezy okolicznościowe Warchały Jedwabno\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAI5WAAkEw9zdyhbFNYiv8HkXEMBkMss6P2VVoLkUurGl4LasMxg9fQlcWzJ6x22Oa_2oWypuyPNm9VqHhmzlebcaAwgJg-USIjLOCpT7srTvw5yZlaDIgipFiPe0QmLICoXMLUK74R5gNsCi2Rn7rEfwapWzKAukpHN28SBoK3I4EhCBdDUpJtfURxnZcCTrO-goGhTY_BWFuZqXoNO1hZ8BtxmYWMs3pw",
+               "width" : 1072
+            }
+         ],
+         "place_id" : "ChIJy53zp6nzHUcRKelLAGDxYOE",
+         "rating" : 4,
+         "reference" : "CmRSAAAAdbA7tcwihIEQy1pukxHoOPcd-NOFrEKgwz2XEeEaAruGUTKDR_lKLJt_M7YFIQoGPHlRiK4oAciZjjKGCjDIK4Dz_DCYPNPGryIVnSkjDXRNRi-x0cbM_3QCUXw4S_j1EhCuhcElg_Nxgy9QbWTpM8WyGhSu5PgrzdInvSNWrUx0ZKHmcaOMOA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Warchały, 10, Brajnicka, Jedwabno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6225675,
+               "lng" : 20.9185246
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6239164802915,
+                  "lng" : 20.9198735802915
+               },
+               "southwest" : {
+                  "lat" : 53.6212185197085,
+                  "lng" : 20.91717561970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "1f7a6e77d48b2cbd1ed323c4468994e5464278e4",
+         "name" : "Łoś. Ośrodek wypoczynkowy",
+         "photos" : [
+            {
+               "height" : 1360,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107428808028567301928/photos\"\u003eJan Kowalski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGjasqp3c9kW9EETmQg0VT59pJCOdjxfk0Ud5iiLsG1pNYCVdggn5gu4PUmi6cbI6QR_FEUt2vvcU4m8tZ6LTzuLFETt5f7pmWeqzSu64nqG0__1CIwHFIUr2zs0QevjMU2omK9zYAhosXr-NtSnjZW1HWmFSkRUTjjKqHptskMMEhCwgsKkthJpz7fCMycZoPXgGhQ5UUpS__YXLb-ZUvrWhchSkMa2Qw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJMedYMNz1HUcRxAxc0fOzm-s",
+         "rating" : 3.6,
+         "reference" : "CmRSAAAADfxJSOVEgOKFSV8TwuTDD6goqky2UG7tutV_Zyi4ii5uoRFpldCJCeJZcglV2PRsFgeY0aZUDCoBM_MkxIJf8tx2jFks7RbG0A4ERQwqc5DqSS_Hl6vJfEe5bd2ky8CyEhDINCMLEjzOQ2DyQih1h9QrGhQ1-8em7bEkX330p6bW6o1uEGXgdw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Kobyłocha"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.55477500000001,
+               "lng" : 20.819319
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5561239802915,
+                  "lng" : 20.8206679802915
+               },
+               "southwest" : {
+                  "lat" : 53.5534260197085,
+                  "lng" : 20.8179700197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "acf07be29000f6da5699c0494d584135a9c87fda",
+         "name" : "Ośrodek wypoczynkowy Dolomity",
+         "photos" : [
+            {
+               "height" : 3936,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105526380465218154313/photos\"\u003eJacek Wachowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALT5Zn801wVB_t3JI8QbX32dh68Kw1uFO9gXGs0NRYLgVrhjFMlIKBw91CPVvOrtaLymUNp1C7Psow1TtBg0F2pk2C9uH_LXhfinmMPxd6X18hjJL766qiUW-Y8wzAiLouONoSkpIPpTAFHFp1jBxYub1AaL5xJqxU2OTEVOqYpnEhBK9h9A5Q9j-3tFw-kMoQglGhTeymUmrp0aLnM6mZf_hQqGnEYf6Q",
+               "width" : 5248
+            }
+         ],
+         "place_id" : "ChIJxbJx4ITzHUcRCSCt0tTP5uU",
+         "rating" : 4.6,
+         "reference" : "CmRSAAAAiZWX_pW31Y55aRtz9-kdipXxgTyc9cX3kMrK5ZONJBaKQjWsRuARaE4fS3xgS_A079m9E6HeawJ4Bvk5PBlX-rd1PA5gP6_9z-AAfDEKhNd6FF9wVfJT-ihOAZ9h55ZrEhD6z9tb12Zc-xPAZCkxFu-xGhQI_HF_Zt9IUo4gWAHRFgJdvcARAA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Nowy Dwór 13a, Jedwabno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.54740899999999,
+               "lng" : 20.801464
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.54875798029149,
+                  "lng" : 20.8028129802915
+               },
+               "southwest" : {
+                  "lat" : 53.54606001970849,
+                  "lng" : 20.8001150197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "5eca45b2479c068c8648e651a8c61dc0ffb2f7d7",
+         "name" : "Pensjonat U Kulasa.",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 748,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117467357500850006702/photos\"\u003ePensjonat U Kulasa.\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAABAQGlCRwOHh8WW_VB1gtn3woK-tAsx-ux2F8gZv7Rx6LM2yGWb1uHqFlor7aYEd12I7iXs4_I68OYiDBsVHDRt-BhAtnqtnOR7vXEQd_pZYtVRL_POm2VDLI_sF0mb7Ovv-LfR23lj0ItVEzLjreGumoBOLcf8THUS9wnxy9ATXEhClOirMCBGAmT53y1j5ebK5GhS_LKMNAmtM_sbN92VLcqRjWv8n9A",
+               "width" : 998
+            }
+         ],
+         "place_id" : "ChIJmRQ_VczyHUcR7kuyZvlMbjY",
+         "rating" : 4.1,
+         "reference" : "CmRRAAAAn4dRc4Gnb89ZaDKHXD9BaloQqCc20CtZyPe5k4Ns_4cbQ62PSz9qX5QC0egxMRIloorzDbENKd7LVJ8KqfJTNI00SiRjacdC7kg3yOEezcyNz-ofVegAJWQtFxTy4qiIEhAZG5PNsgIjSz9tQ89UXn7oGhTG5lw13jMPoG7-l6bf9ENbldtbXw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Brajniki 13a, Jedwabno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.63545999999999,
+               "lng" : 21.134159
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6368089802915,
+                  "lng" : 21.1355079802915
+               },
+               "southwest" : {
+                  "lat" : 53.6341110197085,
+                  "lng" : 21.1328100197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "81fd2c62d9fee095cb4ef1d7842884c83e014265",
+         "name" : "z",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJGxWwrMcH4kYRbpXHDxeiAhI",
+         "rating" : 5,
+         "reference" : "CmRRAAAA73r7I2xI_wR_5GWV1ERmesdzBAVrC8YOlKT8HRUjJ33gOUltxx0i6fEGD-wW63srZ7QFIY9heB-0D2pJ4pesH7LId046fgLarwIT1MvnWvtXdMaJe0AVMo-fwxAO8ZUSEhCjJeJnU7sMyhrLdlYgyozXGhQ_nXRpG6g1ymjD0cRq9J-fDo11Sg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Marksewo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6147911,
+               "lng" : 20.8508519
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.61614008029149,
+                  "lng" : 20.8522008802915
+               },
+               "southwest" : {
+                  "lat" : 53.61344211970849,
+                  "lng" : 20.8495029197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "4e3a08619913108ac9b2fcf0f583b0d058509ca7",
+         "name" : "Gospodarstwo Agroturystyczne Jutrzenka",
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103372126637487517032/photos\"\u003eandrzej nowosad\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAP8dM0X35-xFiVaVCx6tpBCwy0dYDeRIcoPn-5helnhI6UXeRpHvn-wSnrzCWH6xHKAy8_pHs_xMp4KqiqOxo_BMgdQ43Ro_dm4jEx56S5EguhOM6hlYRhmsVeLYjTrBNOPJ2PyxOliUDpEhaOApduOQiPH9fSWRz49hL1-V3stuEhBCvv1YcrK5V9EGA3BsRnHVGhQ3yvzgnT8CwUs8hsC5i7yrTxCqEQ",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJyUs9xwH1HUcRIm49p1VC26o",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAAabN4O8qPYIu1PKLBC840etkHf1qmZrO4wppG9VlEDDWye_EFmYpndGZX8-XnVUkxZNo41YNarv1cLTlsljBpRD4uGNa2KKdzH6nXYRZwihnFMckvOO4bH2fhjigeFlhvEhCFwJu1UJb-PgQ_btJpSuAVGhQ5ijy--QejMK8BQdsSPXrQ7Lya7Q",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Grom 31, Brajniki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.55977189999999,
+               "lng" : 21.030883
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5620657,
+                  "lng" : 21.0322176302915
+               },
+               "southwest" : {
+                  "lat" : 53.55900729999999,
+                  "lng" : 21.0295196697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "191803512cbc20e76545335fcb0c7efb630a28f7",
+         "name" : "Hotel Leśna",
+         "photos" : [
+            {
+               "height" : 1224,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106444508138951992426/photos\"\u003eTomasz Sudoł\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKcC3wyLU7v20vPoF3dFN4r3pHH5QxenTuRygQdWzJeW9R_Pvk-y4rGekHud1TzyHmX7SZr9TY9-fNgbAn-DRI2Xf5-3sRkdLVw8dhkmrRU4ImW8n_xcrCt2csvlOhL4aLIlzmLw4MprhA6QFxSgzuAnSTlAuWJHyBK-dW54az0kEhAl3ZxKzGRNL88nAMXbVr8KGhQAYfQ_8GxL52GvSzxeluj0Pe8B5A",
+               "width" : 1632
+            }
+         ],
+         "place_id" : "ChIJPRUHxGD3HUcReTSXE7zE4WY",
+         "rating" : 3.9,
+         "reference" : "CmRRAAAAmFjIE6PU9cWsni9NzerpNRhidpkz7AcWQuOnnGt9N72UkU4yFa2ZgLnFphnJaNiarF_adwaEL1JJj-_Wuz669jpzZ1Vby7l1h7nR7N-uhPL5-HYlQB4WLWE3Ku_xAkpgEhCOXgiXAY1YKA8oOtw0Y_b6GhScf8EnHzbEcNyhB_SzlYV-Fk_lvQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Ostrołęcka 6, Gmina Szczytno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.54812099999999,
+               "lng" : 20.9088693
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5494699802915,
+                  "lng" : 20.9102182802915
+               },
+               "southwest" : {
+                  "lat" : 53.5467720197085,
+                  "lng" : 20.9075203197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "62c16c5361855e7a8474aed766a4c1f2a0787ffd",
+         "name" : "Domek Sedańsk",
+         "place_id" : "ChIJf4ZyhK72HUcRyoOCcWvVoGs",
+         "reference" : "CmRRAAAA-6UisbJ0uSOggnMArTBpwsTiOctZr7VDFVtYrJQL-Q0QBvwUS3Wl1S0dPrAYwtHC93tZkQMrwRD1jo7te4P4u0NpVvGIOUd6O3YMTPWHAeSy76CnJnlyLKCWWQNvX_6TEhAYeEIS_4RvGk15hNvxM0gaGhQ8ezFbjmM4qecqcqegqtHwgIgjNA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Sedańsk 5A,"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.56104819999999,
+               "lng" : 20.9981654
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5623506302915,
+                  "lng" : 20.9996267802915
+               },
+               "southwest" : {
+                  "lat" : 53.5596526697085,
+                  "lng" : 20.9969288197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "023b8d94be5b1d43ca27afc5234e6ec32e77035e",
+         "name" : "Kania",
+         "place_id" : "ChIJgWFB_z73HUcREL3djfm4y9I",
+         "rating" : 2.4,
+         "reference" : "CmRSAAAAWAXmKGgQ8fHNGueXnSHaEARRiGJdx0dXsBTvJCzVBcj6O4NSRUTlG2DJjDbU7DZRtXG3A6m3IzuJgB34CG9X-DbnqT7Ynp2uTpCa3EBS75vUHUTGz_l3dFuUYPCbyGnaEhCkB8z6WY1upSm6w_qz3moEGhTreUKgL7OZgIebkfsnsIId8KeD3w",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Bogumiła Linki 2, Szczytno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.564726,
+               "lng" : 20.993915
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.56614493029149,
+                  "lng" : 20.9953469802915
+               },
+               "southwest" : {
+                  "lat" : 53.5634469697085,
+                  "lng" : 20.99264901970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "09e5339c2b95813ff6ce67dabf79fce59a7a7cff",
+         "name" : "Krystyna",
+         "photos" : [
+            {
+               "height" : 816,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103878537094723843071/photos\"\u003eGrzegorz Nowicki\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAABWsLMbCyk2bcr0LvRA3wl2d0-DP56U2JkdVtlqC8k2k7gHzpmnM4CWk0mxTkb_P-vulyVvE9cga6Juyq6DhhkN3ZCvRYXytk9PkiBys2blTpATJ0EOtLNukNJf2hGjOBQEPItSbikhNIFziAdG_OwcVXRWgtjZkim7OtceM09xwEhC615xXPfaWlmbijZtogxpZGhSW3WSU0Ptt_I9AuVcfgbKnmyguXA",
+               "width" : 612
+            }
+         ],
+         "place_id" : "ChIJ788niD33HUcRkFl0PdLdIdg",
+         "rating" : 4.4,
+         "reference" : "CmRSAAAAKb5MJomxElv5zL8x_SMkNWW6bNn9xIFIGunO9vMt5QNKn_aiTNYL5ZmyDiUgivqaSnwR80oQluDs4lNL_oaqxlHCj4wPvijjCbEwnWJHNKKiDtrTJYrZvIPPCWa3RCr5EhD6QQTC8siZA8t0mAMK5Po6GhQ-A_-g5XIiNxSw2cf5SuhSVm0XPQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Żwirki i Wigury 10, Szczytno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.55575710000001,
+               "lng" : 21.0102614
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5571032802915,
+                  "lng" : 21.0115646302915
+               },
+               "southwest" : {
+                  "lat" : 53.5544053197085,
+                  "lng" : 21.0088666697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "1c6c948dda99d40961e3890e2e80ced846f8155e",
+         "name" : "Pensjonat Teresa",
+         "place_id" : "ChIJKdoMC0T3HUcRo1ZQN2mFOD8",
+         "reference" : "CmRRAAAAZlO3YatF1zFZj0z4uIFLUFQETfDCtFFp-PSQ_9tXRA1jl2ybilZwD9L4OCePMvmYz_3IO37JqIOESsNnnDrw_JzWMFk88Y_ystWGu9leekFUwL9qXWYTWfil_YH4G1R2EhDBfXViFE6AsZBrkhOvk24rGhSM-DLmJLqKpSGk0WLAijraq_Ii6g",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Władysława IV 12a, Szczytno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.609115,
+               "lng" : 20.896908
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6104639802915,
+                  "lng" : 20.8982569802915
+               },
+               "southwest" : {
+                  "lat" : 53.6077660197085,
+                  "lng" : 20.8955590197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "a1d527523e6c96566ae87c0b08aa1e27b041b2a0",
+         "name" : "Domek nad Saskiem - agroturystyka nad jez. Sasek, Warmia i Mazury",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 586,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109263802631975748881/photos\"\u003eDomek nad Saskiem - agroturystyka nad jez. Sasek, Warmia i Mazury\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADs31rfoGL7AkNyoyU9LuhQ_7P2AuZmI-eEXhu2lRvD8EoaPlILskYBmTHiCj9VBehIpRmX5mBtEAf4T8sKZCtusSZqEgknOkSKulrLJnzN_zBiPxKenkNlqU3o366VyuFRyOCEhrHfL3QgmNPZiyURXu8t2rFWq0HD_OiD8ylrXEhCus2snSHqXJfqyOb984aPhGhSieGmQEAB7PgYcoF2a1tm2tFdXWw",
+               "width" : 586
+            }
+         ],
+         "place_id" : "ChIJk-A0dMr1HUcRhIQ-wA2JbRk",
+         "rating" : 5,
+         "reference" : "CmRRAAAAcV2m6EsgJ_ZnUQ8BDKroFmBlK8z74ySk7PDvl6fY5U2nDbXtch17JKlSD0VcR9s18kbfWzJZFR8JvyHiPUeCOkcUIbSgSzi_TT2ofKSzqYtviSh6aX3AxROeTwzNT4D4EhAGnC_ZFrHMiXVm04Q_5t7AGhReLqQZ3czT-MPThIpcG0GzGkt8mg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Jęcznik 11C, Szczytno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5638575,
+               "lng" : 20.9970691
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5651499802915,
+                  "lng" : 20.9983172302915
+               },
+               "southwest" : {
+                  "lat" : 53.5624520197085,
+                  "lng" : 20.9956192697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "d230db724063ee5eced202470614fdf062fff645",
+         "name" : "Hotel PBP Szczytno",
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102377169955496394537/photos\"\u003eHotel PBP Szczytno\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKmXfG6_rOE6prceShdSmUyL_n2Ovj6UVx0mzPBcjcqWbDLI2tErbr7mOoHKjQEUKmC4awnx5nDYmOQFAGrZuMLrq0iGn5IozvOsbXyOZYjJo9bQT6V4FT6yLCnip4mq-5a2O_I4qSyIv_QpjSkFfnMCBqhFDak7Gj-fX64_1ZenEhAIayMWoAgIPp_EztcJev5TGhTn4IkrYtFkhuvF0b3k-yBMbVN0XQ",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJc3p5BD73HUcRwZ-XlbyCweM",
+         "rating" : 1,
+         "reference" : "CmRSAAAAoPtmOc2cNqHiiQCDekiM7lsr_ID2cWLgM9fmop74BZsQgHnLznfrYJwmvgkw8HJpHQpGG1PlVxH2OVXIo5RD4WRbk6UeiLJ-d5xbtnwq72YK3IGnDS3h-fjWUw4x54itEhD_izMp98jaTVbxbxGcunYfGhSxraRvHzh4kI-ujgxtgKN-JAUO6w",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Stefana Żeromskiego 7, Szczytno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5651636,
+               "lng" : 20.9982958
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.56648823029149,
+                  "lng" : 20.9996787802915
+               },
+               "southwest" : {
+                  "lat" : 53.56379026970849,
+                  "lng" : 20.9969808197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "fbff5cbd23cee70d2335a15f269619de2ed5e7e7",
+         "name" : "Maria",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108249581465317235049/photos\"\u003ePiotr Przytarski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANbjrdPRCFgkM6rxxxmQC_SWVTmAiec8FBEJ2uXoEfk49qicAFyCgvJF-ELjAC131k02UMoCO6vGuFQkBZWRCUnJvjRaqwSCca-gguade_Ehh3z2vc3pgSXCunVhxTPuWtIfMGJX70J1_nIMcJMoWCJ81PuezlJTqYdkBKaI_vj5EhBUDf6L31gZNg0V0qv-YNEiGhRk-ZwSR-n8hsXYBxGMkmf1W44G2A",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJm65L5hX3HUcRA0AeVMO1svo",
+         "rating" : 4.3,
+         "reference" : "CmRSAAAAbH8RhQ02m6QgfKbvDGJdcdlLa2EsbgabssKV6gjJajcwxqyXXHLlfvG5doH8nntPIhZspedrg_eftjkaj_6jjsuPQ-hlnnnaJ6XN_ZkLyZwBSZXjDXhs8s5sr4es5KJGEhATzbbJ1mdwJhUy0W_HKcwJGhQs0iDzGhrVJ0TjepLyvGNazstovg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "1 Maja 25, Szczytno"
+      }
+   ],
+   "status" : "OK"
+}

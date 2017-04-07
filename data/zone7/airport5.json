@@ -1,0 +1,187 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.14151589999999,
+               "lng" : 19.4236019
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.145487,
+                  "lng" : 19.4245655
+               },
+               "southwest" : {
+                  "lat" : 54.14019219999998,
+                  "lng" : 19.42071110000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+         "id" : "052bf3934b56f82d39d77a414f0ec463c2838984",
+         "name" : "Aeroklub Elbląg",
+         "photos" : [
+            {
+               "height" : 1219,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100549112037127473846/photos\"\u003eMariusz Pieczykolan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAD1dPE36lZnmxIZODfGN_p1Bu9S1qP8qo9CHIqyu51KeFql1WzTn_l-THJoe5LYZwE2aLkhb8-F1SJ250csOwGxCIvQsodB2f74ywrU2bnW9eoxbr8f3j2Fh3WATUOsbdum0NUvdCvnmV0lU_5FzAXQ5kJN0JR83Mx_WpgOLkuINEhBgE3q8RRwW2x8kNYnuCvDGGhQ8zNKfRcbJsX9pJQVPYJPAQGIkog",
+               "width" : 1724
+            }
+         ],
+         "place_id" : "ChIJ8av_ruZM_UYR_bWlJm0j1z8",
+         "rating" : 5,
+         "reference" : "CmRRAAAA4sH5Vimz8LxzOjKB8NVaLBbg9QrKD2BzOHUawjP6gklvFxzdAjKtX5CXlQeW1h3l57YIShBOCAbRsCYqSMfdCbWjvClfsFA9Bgw_2es0JqZ8dp12_n9ziLky49WhjAzQEhCRiEDj5TQUsIIoOfX9a_M5GhTkZw_igj_m2pnuk07YqrEupwfbVw",
+         "scope" : "GOOGLE",
+         "types" : [ "airport", "point_of_interest", "establishment" ],
+         "vicinity" : "Lotnicza 8b, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.14446599999999,
+               "lng" : 19.4229324
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.14581498029149,
+                  "lng" : 19.4242813802915
+               },
+               "southwest" : {
+                  "lat" : 54.14311701970849,
+                  "lng" : 19.4215834197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "85e3659838f6c0c132de2ec6bb189328fbd5e099",
+         "name" : "Aeroklub Elbląski",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107293388126660285033/photos\"\u003eAeroklub Elbląski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALb91EYRq8-QsvpHz8FWIUahoZIleEdBvzyx0-AzpPvt2lr6206rZT7HlFqYMOW1ElrIfDv9oCNUwY1usvVdIRNOEjy-SrL9uVfmoxRTyscwFTjHCzL17iKuJvppwgTEH2uc1m74Yns7uMhYZPD8_wam3McHLB0F9TojcOkixn5rEhCkD1g5S_J4zQpKYxCfo-6IGhQTR1IVtEnJIQsPgTuC47yNp6znbQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ0UExwO9M_UYR5GkbDD3_OSE",
+         "reference" : "CmRRAAAAq8MfSSli-h7oq2BWIWK9_QZ38KDoCdW2A3Thdu_r9thLQxgONVPI8_syevbzH-996KCFc2DLv4gapp3S4v8wN0ycgoLEBOPurwvJcrvo4fzLg5hBKfYFifokXvSJoo5JEhCmpxjPgAddijgxraib6wTEGhQZ6IXedHOqGBwyYGvE3JyDDMeXoA",
+         "scope" : "GOOGLE",
+         "types" : [ "airport", "point_of_interest", "establishment" ],
+         "vicinity" : "Lotnicza 8, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.029753,
+               "lng" : 19.134291
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0311019802915,
+                  "lng" : 19.1356399802915
+               },
+               "southwest" : {
+                  "lat" : 54.0284040197085,
+                  "lng" : 19.13294201970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "aefe14747f4ea3498950171a25fbe3e17f99cda4",
+         "name" : "22 Baza Lotnictwa Taktycznego w Malborku",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106144225859060348238/photos\"\u003e22 Baza Lotnictwa Taktycznego w Malborku\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJWgQ-yLSsEAGdkuNOQC-w-rBi7IwoI_MdM1VRzqkBrU08uLqbW5hEPEREefaNJgRRW4QHDEnChA_ySatzvHgjWz1w0-cRLdcvqYM-8zf5J0VOx8TIQK_oeflyEE262MPfajbtJkFcMqFcjdypk5_Xn4m1i3c9zAPgVKt1tWcetkEhArIbov-Bz55bjkw8V-LS4eGhTRL-nk0M4fOUBKEdnmPVTxUs9Jtg",
+               "width" : 855
+            }
+         ],
+         "place_id" : "ChIJhVVsZT9X_UYR7LGoiU0Qg_Y",
+         "rating" : 5,
+         "reference" : "CmRSAAAAixzeKjtAHkfqVveBNPu7TcNaGF_vZB-BfPYj6NFWZMVKSp1WfOhzL__1Rgq15f7q-oST2C-JGIani6znh7Q35WgkyUGGyVtQu4M5PzgKkgbVmHmzqIfFzctxobnO2pLTEhDmj-d8OUGxTQv8i6tJQEY3GhTNDZWIIEJtoI6d-O5KtM2V6ppIIA",
+         "scope" : "GOOGLE",
+         "types" : [ "airport", "point_of_interest", "establishment" ],
+         "vicinity" : "Aleja Wojska Polskiego 91, Malbork"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0293696,
+               "lng" : 19.1142897
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0307185802915,
+                  "lng" : 19.1156386802915
+               },
+               "southwest" : {
+                  "lat" : 54.02802061970851,
+                  "lng" : 19.1129407197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+         "id" : "e79e343aa868dffc586671d3b64ddd89af120efb",
+         "name" : "Lotnisko Królewo Malborskie",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104778059582247433323/photos\"\u003eSuperRadmor\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPC2Z5906risd4uiEgWR8OyVyOFA82PAstR-4-3589t1bxy6712sPTlRa-xVWodJuYUPnL0gx0YdMC7nxX1PZkbWEAJ4km140gdIb0hC597cQMm6NEMDqz6rJ1xsWM1okZRinwFpCnNLffQlWuOw3YZIdVl94PbnsYljheMbh91jEhDLuP-BjKQlZf7pVtQe8l0xGhSIifJTxt3ioXqzau2Tb2Y6leVqgg",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJkyvtcj9X_UYRtzBx7A_0Psw",
+         "rating" : 4.8,
+         "reference" : "CmRSAAAAC0ePMRnqmUWJrOvkR90hJKg1TTLTq5vUqhPI2VLUJUXR-bgtsnlOs3FElRMXrwxLxkFqd8XvLyJB1CjOUa7vfUydZr8uhiRdnlrP6q2T1GyZE1hgrBfuhNQXZu6cx9BpEhD4zpTud5NP8h30Now45qHrGhTXrCwUh-8qMUe_AZL12qiM5kcOgA",
+         "scope" : "GOOGLE",
+         "types" : [ "airport", "point_of_interest", "establishment" ],
+         "vicinity" : "Poland"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.14376600000001,
+               "lng" : 19.418378
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1451149802915,
+                  "lng" : 19.41972698029151
+               },
+               "southwest" : {
+                  "lat" : 54.1424170197085,
+                  "lng" : 19.4170290197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+         "id" : "819c988e85a8dc947d548addb0e8be176a5a4ef7",
+         "name" : "Amun",
+         "place_id" : "ChIJaxNq4eRM_UYRWo7fcOG5Izs",
+         "reference" : "CmRRAAAAjb7sQgWlrMk2VPh0ik9bosWtxtL8Oo4qSIjaRdPerlzSL8rZEU5WqK1mhoDti0EAfd7lFtD4V1rxTdJmGAv1soB0vtJotbmHVeKTqZ3drWmAHR1lQgnBQDQDG8LQxYDXEhAB6m1QPkpeJnLLqDfTeTgYGhSPIXPamWgjJkscbbDtskExf2StmA",
+         "scope" : "GOOGLE",
+         "types" : [ "airport", "point_of_interest", "establishment" ],
+         "vicinity" : "Nowe Pole"
+      }
+   ],
+   "status" : "OK"
+}

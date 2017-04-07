@@ -1,0 +1,610 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCAwEAABSM76zz79tNaz3U2x6lIHZsIKj2UY4YODGXFWyvRoF9lg_5HZ3bqhOwi7CuZZAWKle5Okbs7khOOJ82g_bfaE_auxTFAI7nBbebDMOfY7IrTMmww9dkghsFEDVLIIzImlUlUjCVQvJ14c1FrBcFsw0QkKJL97sX1GXujK_6Ntlfv3ZbSJRuNqYGRmy417pX9F1OacliNBdXGPgA6bYPa96-kEys2ZgdGptPrs8e7uealCDY3DI4NXpO2lSFfyUD1DuUT7FHuKswaiXnm1YbKz0kRGPxs_VXx2-G9M3b_b41qDdFVW7ADfN2vyDTDBC7gBKOCfdihPhyp86cRZYf5JeUwnETDdY2j2vmJTr4zRZ8EhBLRIApHmO7kFkyz4s1SB17GhQFM3Bpl9m2i59U829Ro-uBXXHfxQ",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.04150199999999,
+               "lng" : 21.7722631
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.04286853029149,
+                  "lng" : 21.7735595802915
+               },
+               "southwest" : {
+                  "lat" : 54.04017056970849,
+                  "lng" : 21.77086161970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "8500e37cfc572020e6b343e61e343d8035bc844f",
+         "name" : "Kościół Chrześcijan Baptystów",
+         "place_id" : "ChIJ18htZNyH4UYRDfid6Vnztyg",
+         "reference" : "CmRRAAAASckmjgK3djqmBYRrH0wXt4TlsfrERy4vfciDS_ShOjuoHz3vSmmZGtvu9CeYKTrwbWIqrvDPzTWiqIjuE3t-7wkwzkWNuOhG9UXL3uOAYmsKqeeDVTyojuhKHfD0WJHKEhAyK8r-T98D-FLPnzuyzXfHGhTuOQiKObraIUd0WimFbjnb1Wpr_w",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "aleja 1 Maja 22, Giżycko"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7988859,
+               "lng" : 21.5760266
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8001851302915,
+                  "lng" : 21.5772849802915
+               },
+               "southwest" : {
+                  "lat" : 53.7974871697085,
+                  "lng" : 21.5745870197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "c74707beb2da3d47d694190005a78256724f9380",
+         "name" : "Kościół pw. Matki Bożej Różańcowej",
+         "place_id" : "ChIJJeFJ9Nj14UYRAsG8d8cpN2k",
+         "rating" : 3.7,
+         "reference" : "CmRRAAAARXkJeyMA7QG2HIveTyNZ-zQ2c-PPYQjp0ZFNVDRb-sqybcm9vR5zaMmtNpf49r7-4AETMt-kqgOtMzIxRtcL5EDKN9PZT6NPSXyDbsyGEaZVPvu9HX1Y3PLPpSm-FGyEEhCKWeat3DFdbGZ75VM-mdJmGhS8Ugg5OtcN92u_ZMPjXZNO_J9e1Q",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Michała Kajki 27, Mikołajki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.86736029999999,
+               "lng" : 21.300151
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.86863623029149,
+                  "lng" : 21.3015613802915
+               },
+               "southwest" : {
+                  "lat" : 53.86593826970849,
+                  "lng" : 21.2988634197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "36e1f1e7aeec08ce58e36bb436a68f8c88124ead",
+         "name" : "Kościół Zielonoświątkowy",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108764139501498648398/photos\"\u003eBogusz Świtaj\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAptPBT6CeGFHUaj3FB9_mVijSoy91DaHEiAs9fz_3w8w2yG6vymfc9m3EiXQhoYfLz7-CSC08BMBXouX105TaYpn9CJjL8HfKzzpvZEGRU3Gy0wyyoUXnxqpecTB55zIehb0tpkGuLM6q7tYZ7nUEQHqGzZ_wXwB6ppFNqGlgxDEhB5uRM2zj0KWmDC4amy5pwVGhSgswO4iI6K85ChIh5JfHnOM5wY6g",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJERP9qOYZ4kYR6lTIPV6PipY",
+         "reference" : "CmRSAAAA_ZPkEn4dOxn_qZ-YjuMKrbLInmcBSqMxhAJz6vzJJ1ijdX5DiwDs-jcSigZ5nuAm-4Bn_0YAb3Bhg3TdixAIk4jNFw0qGJnpUjSxuS2xLwIDHD1leR9W50TemiagYaSsEhCF4qWFWVfkFBmSAdpaSlvOGhS89r1ZZd_0YOxCuBzSZxrrqGrj8w",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Spacerowa 2A, Mrągowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8011431,
+               "lng" : 21.5765587
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8027461302915,
+                  "lng" : 21.5778452302915
+               },
+               "southwest" : {
+                  "lat" : 53.8000481697085,
+                  "lng" : 21.57514726970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "3ca1bbcb568dd58471c6325c655bbce00cbc0c06",
+         "name" : "Kościół pw. św. Mikołaja",
+         "photos" : [
+            {
+               "height" : 4272,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111104281393099090876/photos\"\u003eAlexei Chabounine\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPjPf35AIkurs11UXlWCLPfkzLfrO-GYt5XdRDk1vv9YbUSddrn7vzpeguZkx5x_HFwMvyMrMFU5tBjnBb26LXJMAQ7uRcg6D-ZxTb-YeXWtrdO9Dtq_MR62P5f3vhrKKDXew5p7ncO4QkdCnImUA4an5dpDn36Pj4PMbkm3A7nuEhDYuVLDCtPaJwO0oEzdiPfoGhTyJvq9mJN9-Yq66EKrwuiMqEyFmg",
+               "width" : 2848
+            }
+         ],
+         "place_id" : "ChIJeTWEatn14UYRjqv_Z3rfB_4",
+         "rating" : 4,
+         "reference" : "CmRSAAAAs5Kn-_6OBMMWLglzyMK07qxtBYqOOAmK55jLvkXIS-BwoacKTyytpIUh2V0FQbEE-wS6OuM869NlznwVqpIiA0io4dMkc5cje-oFPcecquLn5Ydb2QJ1zxNekyB6Pn6PEhBOOqkbR8tRgCA7ul501ZNTGhQGHo0sKv2S3KZkEz8pvRMlhKcEAA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Księdza Jerzego Popiełuszki 1, Mikołajki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8634,
+               "lng" : 21.289009
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.86407715,
+                  "lng" : 21.2905679302915
+               },
+               "southwest" : {
+                  "lat" : 53.86136854999999,
+                  "lng" : 21.2878699697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "f7e363c6f69e193730c291bc46372b6a91de8ea3",
+         "name" : "Zespół Parafialny Parafii pw. bł. Honorata Koźmińskiego Caritas Archidiecezji Warmińskiej",
+         "place_id" : "ChIJC6U63-IZ4kYRF9NJmNcjxO4",
+         "reference" : "CmRSAAAABdUkQuLPJT2Asf1wXAoV5C-rUGl4LvXvgkp-r7NbatYwwxB4E5r0gPMmRZ_hAW3jkTknis4MBhhxDCI9fpu8NYsBvXMAC1Om8O9PSGdS8OpamwAwAsOpsG2HiPiP87ysEhCO1BbWedkBsIt91JRwAI8zGhSTMdbFUPHH8giBQOCYdrpgVP-1TQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Olsztyńska 16, Gmina Mrągowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.809857,
+               "lng" : 21.9461126
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8113078302915,
+                  "lng" : 21.9475551302915
+               },
+               "southwest" : {
+                  "lat" : 53.8086098697085,
+                  "lng" : 21.9448571697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "56626d02cc4418ecfec23064ea1f176810dcec95",
+         "name" : "Parafia rzymskokatolicka Matki Bożej Szkaplerznej",
+         "photos" : [
+            {
+               "height" : 3288,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100626849490353271344/photos\"\u003eArtur Grabowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAl-HnoiRFEk2D7R9ZMiUHy0D179xWUNA2CdrcaB9Hyw0VagZNJNniE1ebdUEuTYdLxkCHzD8buzNOvup-JMTN2S67sspRNtLFbpQ7TRved-5eAuqLkM94dUFXZ1A6ZV3WFzpm1G3TY_jnj1vpvM9QEAv0EcgtrI6z_Dk2lI9xIbEhAO3wKOMbr6Lv_l3ERlcQ6JGhQwrnsFpo9s2oNacsXjSllBys8XWg",
+               "width" : 4384
+            }
+         ],
+         "place_id" : "ChIJR52i-7bs4UYRIVbpaszXB0U",
+         "reference" : "CmRRAAAAUYQCuT7K6G0QgvCPyboEW4ZkelqpVJQs2bU_7Ves_29UZaGrDQVTDD3jEBxghaKR4fyAUD7hQl8PI1SQtXbrLTzOEE6evHuoOu8yabu5zeXxD6tIdRkqHQTsAUlIfayTEhBIiJGTTFz5IvPPtJE2cu16GhTCvrxbhpVUQIFUb1CbiduY6ruUwg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Giżycka 1, Orzysz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0355566,
+               "lng" : 21.7701817
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.03704793029149,
+                  "lng" : 21.7713898302915
+               },
+               "southwest" : {
+                  "lat" : 54.03434996970849,
+                  "lng" : 21.76869186970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "2485647ff13f43cf7f9ce0b0a143c17998de3294",
+         "name" : "Parafia ewangelicko - augsburska",
+         "photos" : [
+            {
+               "height" : 3088,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111082516993476467955/photos\"\u003eMariusz Bronk\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJlm-B4OflwgcaGuXPV8yN7kPbiDlTjSJe_6G93Cn7epf4GFOlzQZLZH_caKizpWiNyFvQiqzV2Wk3455CpZ_bR2Rx2NLV7iP3cOMP4GHwnSNGMH07nUyNpvQcsIywsrMOOv5ghfttaAhCMxQ0SahTI0a4RjhvUq_cn9M0ZoPlagEhBIGGfzLxA56IPKrLPcehkcGhSP6V_n0_HACSSvvGsIdze6aKwxog",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJvYnlttiH4UYRSu6gdbWL0kc",
+         "reference" : "CmRRAAAARK1LE25NxMuAbIudSyxVh293T6yXWPlcuWkXSlE2pGc02YYW2dgjkar5iQoMV-UW12LbBfhW5YDPeq5bxTD0EvdBH4jE5h94Xgbmp4o0VwcSt9IL6-WIeHT5VU0i1TJ3EhCo6NYAZqGU099Rp_qxAZbGGhTMpU_R-15BlQzbLxvDhw9KTKurGA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "plac Grunwaldzki 6, Giżycko"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0132488,
+               "lng" : 21.7368359
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0145775802915,
+                  "lng" : 21.7382401802915
+               },
+               "southwest" : {
+                  "lat" : 54.0118796197085,
+                  "lng" : 21.7355422197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "ea5d369b2bc6cf4e7c520ef08ddbca42a5543f48",
+         "name" : "Kościół Adwentystów Dnia Siódmego",
+         "place_id" : "ChIJJVJn3z6I4UYRINIG7eu1dHE",
+         "reference" : "CmRRAAAAsDLyX5YpbNfcWJnB3gw-l-vA8EWcdD1KDWsM28p3pw_DAIVKtWCQLSTLszDya4Gkl8oEc3tWU4i28TspPhmDod-bOozSiLJU335xUKsvfkzygjZDSurF7S8GOcgm0ybpEhCsPekwvqvXlQYnY6Dq5fNZGhSauUOIfyGsnUoEpkcnxQPQC3ZfIg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Olsztyńska 30, Wilkasy"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.9385957,
+               "lng" : 21.5418094
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9398975302915,
+                  "lng" : 21.5431862302915
+               },
+               "southwest" : {
+                  "lat" : 53.93719956970851,
+                  "lng" : 21.5404882697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "cb1e997807156883c0ac91068ee706b8d293def5",
+         "name" : "Parafia Ewangelicko-Augsburska",
+         "place_id" : "ChIJCy9DOach4kYReSOko6Z6PeY",
+         "reference" : "CmRSAAAA-BKY_dblVWHZREdMCA6JW0qqJbnRlYcIttbJ_RvTccHZSHgCus9LQONMtDw0b6hQA3RODo3bzfmnmUKynqfMS4HmWTnz6TdbacLJwrmf5EJttFA9TQE6JfzI3Qb8Wy7oEhB69oFuf2N-mVKm2V83vShQGhRaJI3Cu_LM2WZnHEnDCWMMU4wMPg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Partyzantów 6, Ryn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8709071,
+               "lng" : 21.3052556
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8722581802915,
+                  "lng" : 21.3064785302915
+               },
+               "southwest" : {
+                  "lat" : 53.8695602197085,
+                  "lng" : 21.30378056970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "efd3c71a8def395a7bb92439e088919ee9281696",
+         "name" : "Parafia ewangelicko - augsburska",
+         "place_id" : "ChIJKzT1eN0Z4kYRx60ydFJpAIk",
+         "reference" : "CmRSAAAA_LL6NsFdEzIR2SAelaAvUzD2CZFVh0xquKhOXnclNyiEMZRThkDcZidMGElyW_kD7zYElhNcIWv5kDZmZmsasSv_Bn6izP4Wq-aPlUc8wlLWvy55jyP09puOwHTXQtQ3EhA2BAjH-zuc05N7z0q341cQGhTzL6We_nAor5Be0NZ8LotEF590eQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Kościelna 2, Mrągowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.871236,
+               "lng" : 21.2845087
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8719676302915,
+                  "lng" : 21.28700545
+               },
+               "southwest" : {
+                  "lat" : 53.8692696697085,
+                  "lng" : 21.28367645
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "8b2045c63918ff67329f3e9da04e94fdca3ae2a8",
+         "name" : "Kościół pw. Św. Ojca Pio",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJB7Ze4F4X4kYR6UlbzQbZw_k",
+         "reference" : "CmRSAAAA010yaYBA4xtatGJoiSGDUvVOPXE83J1Nk5q5DSBTGrn7imwjIq0TZ3_Lia-7FRljD5w6edz25qWlRscnVkqCvhTeKlubEV0SEXGCUnzpJJEJ6n5f6ofwe9FlTgfwD50iEhBom2d3OpoS7rzS85ZQAFB8GhQzDhrS-nhBCXIFDGCWFlb1qVkGAw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "osiedle Mazurskie 42, Mrągowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0358328,
+               "lng" : 21.7703367
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.03724268029149,
+                  "lng" : 21.7715543802915
+               },
+               "southwest" : {
+                  "lat" : 54.0345447197085,
+                  "lng" : 21.7688564197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "81de5db3447fbe13645bfeea15b2c1bfe44e871e",
+         "name" : "Kościół Ewangelicko-Augsburski",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104425411121139004516/photos\"\u003eWOJCIECH MASIEWICZ\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMJhqYv8mUndfs48qz42P6euHoM1NyyuKFakRujsD_48GgdwSYb50AowPzkZ7ZYc8fiYuTQCxyK2pPYZQWRSB9e7Y-kXRIuBWGubFpbFj6H6OUGU65Kx9XqNWzYCHPqrnnUjyj9vlNwCMLOWqBwrFcy761C9j69PQJvswrqFKkjREhAcETJwpPcKXo7n7DjAJ73-GhQrpX_m_ZItc4s6Oz9jFMEdNFTF2w",
+               "width" : 2340
+            }
+         ],
+         "place_id" : "ChIJQ3ZxyNiH4UYRmvH2y7Ag4WE",
+         "rating" : 4,
+         "reference" : "CmRRAAAAnZ13qPuTYdh_es-VVGnyz7XAPJGbnbZL7WIdkLSQNJCqJnR38rnqLaR-xMH0w42vNs9w-7aWLplFvMZ5aemOuT005G4ZITY4hZfUpgG0PwiBDPJat-yj7e_Y49uFwsCaEhCEUEikLEXy62qEFew-HaNmGhQQ0Gzn3sr84cLdF-LeoPPaMaCsOw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "plac Grunwaldzki 3, Giżycko"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8097654,
+               "lng" : 21.9511637
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8110240802915,
+                  "lng" : 21.9525165302915
+               },
+               "southwest" : {
+                  "lat" : 53.8083261197085,
+                  "lng" : 21.9498185697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "2a6f8bae874cf03e4eb6d596b9444c317b234940",
+         "name" : "Kościół pw. Najświętszego Serca Pana Jezusa",
+         "place_id" : "ChIJEaD7SLHs4UYRGjEF7BUxCu8",
+         "reference" : "CmRSAAAA11hOLJz4NyGb9hgldaLNVK91yXxv1gl7K-M0BigQ3ViR0cX5y8VvVULYmjCkh6o6zE901AWFw9Y09I-Mohh3vMOXmn7UHCljEtChN1MUTWvV88AAXF5vJvsp6WfjTYOcEhDW1lqZ6TRrw9rptBOfBgS1GhSaYDSMKvk9KjdUmbq9Pksi0iE23g",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Ełcka 19A, Orzysz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.92380139999999,
+               "lng" : 21.3062629
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.92515038029148,
+                  "lng" : 21.30761188029151
+               },
+               "southwest" : {
+                  "lat" : 53.92245241970849,
+                  "lng" : 21.3049139197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "cea6aa341edda28476103ae5adafd34d54f103de",
+         "name" : "Parafia rzymskokatolicka Świętego Krzyża",
+         "place_id" : "ChIJzyGPMukX4kYRAv8uvBxIj90",
+         "reference" : "CmRSAAAA-8gxRyIhJAPG5opcRVUW-vg5ADRmhNqjNxTrRMxtNsMkdrTp4Nu6HCAtLAa9tcqMkc6uMXkm76WkvkGi2PBR_gNeRmnZ90KmVvNS82L2V8koHdMjNhsqPG4orRyayEEqEhD5VZsxVa3ZcegRnGKDULGaGhTRMNYsVdaPNSaBsFSYevjDZDK9gQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Szestno; 50"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0122207,
+               "lng" : 21.5834219
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0135696802915,
+                  "lng" : 21.5847708802915
+               },
+               "southwest" : {
+                  "lat" : 54.0108717197085,
+                  "lng" : 21.5820729197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "c9353b2a9f65b8582491e2f1802136d6eedc9fec",
+         "name" : "Kościół p.w. Opatrzności Bożej",
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112396922087827684685/photos\"\u003eHenryk Brodaty\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAIf6rNVD52wvUGQr8988SV0gYTp0qQGxVIL5htDHSZRinmYMsqmPzI_5bDOkPKFgEDmMo_Rje5-URaWSNJZ-OMGNNVDLYV-VTlnxDrIztaTnkD_amZilJqv3ejYhb8ZzubQ2MHTQ8BeNGGoVKN6QZCgVSBBInp_9y_obAG_GCu9REhD3TnmzexuOREy0D-IlG-CuGhSL5yUoKsOc3JdqXQ3beX0ebv4Clg",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJdSWXBpIm4kYRsgLsquAMs4s",
+         "reference" : "CmRSAAAAI88AGOZtbKd8b6-weD86dg4K80hXHtvJZIf3i8sU5lGzTsOcCDvv3gJEAqyN5Fqqllr9NjzcZCdwai1lHZsJDu5EBDcP4IZ96tuMfHoRXVexV4ZkAwr0-bgbCJGLsYbfEhBRuKB-vHqmnfKC5y3xf2GfGhSNYa7aRHWj6J13wVAgK1q89_JL7Q",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "52, Sterławki Wielkie"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.85118,
+               "lng" : 21.63241
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8525289802915,
+                  "lng" : 21.6337589802915
+               },
+               "southwest" : {
+                  "lat" : 53.8498310197085,
+                  "lng" : 21.6310610197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "80fe45c1620910416e53792e1b874567321d2d8b",
+         "name" : "Komtur. Agencja turystyki i promocji. Karczma",
+         "place_id" : "ChIJ20B7Ohn14UYRKQJDMdsqQuI",
+         "reference" : "CmRSAAAAm0EXwLEuIzV01cvbHl2-a0ZIcIsC4fJuntD9DQ_k3tCQCVLM5oCONOOvQbqVB8FnhT9hjJMtxKTsQ4R_NEtt9AY2dSXIyTmhZTpXOKAZkF0esAvHxoLl45nOQOiAlblvEhCbDU5pEPzyZxCBETr3CFOYGhQ2ewNh9PymSNOT45SiDyMElUxdNQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "74, Woźnice"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.80910799999999,
+               "lng" : 21.960658
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8105707802915,
+                  "lng" : 21.9616653802915
+               },
+               "southwest" : {
+                  "lat" : 53.8078728197085,
+                  "lng" : 21.9589674197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "0f1dff403cdacd164cc0eb6015e51df358b8f49e",
+         "name" : "Świadkowie Jehowy",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJcVraDq7s4UYRBdJI4RS3JIY",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAAjPY27HbR1IiS4sUpDN8swY5v_Urom2aTBALICEaRfURYU27gicXgNkkSRMYcLBScIbro7n1rq6hK3mK4Tesw40Mi4Yw8slp1YMnAWlGGofingsLc0bL9q_bDWuWYavWmEhArKjk-fO_Asd4pv0Ajnd_RGhTyqgBPMP3hl-d9U-jL4xffRg51Hw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Polna 8A, Orzysz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.80589819999999,
+               "lng" : 21.8575038
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8072471802915,
+                  "lng" : 21.8588527802915
+               },
+               "southwest" : {
+                  "lat" : 53.8045492197085,
+                  "lng" : 21.8561548197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "3696254c0fd79120ff8aabaf1f707714a71007a6",
+         "name" : "Kościół pw. Niepokalanego Serca NMP",
+         "place_id" : "ChIJSa5tbmzt4UYRnm9daidSk3U",
+         "rating" : 5,
+         "reference" : "CmRRAAAAhEiXoeS0Vxf4wgk98ujHzA6--YL9s3URc1HoUPsXLYNehXOuwbjweUWobuTrNdbMxVZC3T603BsP70GoBkHLE_RbMSFg3x_gJ1jB95tA8SuHk896chOVTkCtEPjv1KonEhDsMB3WEq3eKbNunfS51JwIGhRrQ6XXVyyEIbeWe7hUIPi3DrI4Gg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Okartowo 9"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.05039540000001,
+               "lng" : 21.765458
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.05151893029149,
+                  "lng" : 21.7665749302915
+               },
+               "southwest" : {
+                  "lat" : 54.04882096970849,
+                  "lng" : 21.7638769697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "8e43984874e1b862aa6a3b9846e82470d7e90e7d",
+         "name" : "Kościół pw. św. Maksymiliana Marii Kolbe",
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116103970139523856091/photos\"\u003ePaweł Lachowicz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAABc2uHoGCY2ohRdxijWaXwAIocSVj85TkC9O5u5uWuUjtqSHXmDBF3W9Ydsk7xMurX_QMKD73VNw1o4rAMERNF8sfTnzosQJ8WfWQ0LZ4nbOMKWWSFO9TF_VCjlb_h1aVr1zakXj4s82OTjPf-0J6gA6ws7pzJcuupH9z1RPQQZrEhCObCxd7QPfm_t8xX7yRLNZGhS3K2pnXeq8HtVZ7Un7J7RqLveOmg",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJ48LwIemH4UYR7XVhkCnds90",
+         "reference" : "CmRSAAAAqRdDJdA06DBsXcy9PiE4OY53YKsd6HHEJSpw9wdKHjKXWuqG_9DaQvVbwkCTAZXRy4kqWXoQPIdFh5IZq22_BLQDHC8FZXN2sFShvxVI8r6IxqLZmzt0qWzFzlhkyhisEhCBihXRhQ5EIa-a7x6f48ftGhQd4RWeGCD6bed9WWdcoOsP7AG6zA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Wiejska 22, Giżycko"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0504289,
+               "lng" : 21.7665845
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0515356802915,
+                  "lng" : 21.7673798
+               },
+               "southwest" : {
+                  "lat" : 54.0488377197085,
+                  "lng" : 21.7641986
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "56323ca44f3fbeb821ed83546e28abd5ff5d0983",
+         "name" : "Rzymskokatolicka Parafia p.w. św. Maksymiliana Marii Kolbego",
+         "place_id" : "ChIJ48LwIemH4UYRAl5h-a6C3HE",
+         "reference" : "CmRRAAAAOJJHujzzR6eFVFWNny-O2M21gmr-wHfrO44wPqeIjerp4oPlmt0kN29Ea4WPiVjAXsUNCR7qQFPXqeiLZroa00JZsP6i0BO3gw7FkR8PbnDIR21hRddbjJWhJFQK2fPNEhDc9YyHep7i97hocxW-ffRkGhSi6gElLDPa25dnwJl5sdZqhSUWqQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Nowogródzka 35, Giżycko"
+      }
+   ],
+   "status" : "OK"
+}

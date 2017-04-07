@@ -1,0 +1,703 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCBAEAAG4WP8hrDjBKoIsSWtNyR_nEZsIrZJ1Jvm0fo5XKK16MIxeNVHR7knENvol8uzBC5WftrSQvQZiZ8IPLF8huCQg1GoCpOLYUldUo5qgGQ4bl9Sc76T8QFdklDAr24hv7K43es0n_vWHHhP_v1MpGx6sU0KmLU9DJW4v7Dvmn2ZA4wtDSkRffyIG6tuElEORJ7y_JLNkwe6i6wmkdPtpV8V-QQhdi_4z-OgrxlLRIlbOrxR3lrO21qbomMT7PD0BOUA-7oL88ZQw1UPxBMf1Am4Qg7E-ug53y_vBF4F0TP2MXXEWIsG8ZDUh_QRAoc2r06tKdmKkpBTVKQWn3rsKlWnqWkdbCGU3rxGB4Xd_-wTzhEhAwJXM-CIepfW8caGEz_jqfGhQtCtl4QVv_dYmRfAWcU6Hy6taCTQ",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.20159179999999,
+               "lng" : 22.10108589999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.20298348029149,
+                  "lng" : 22.1021471302915
+               },
+               "southwest" : {
+                  "lat" : 53.20028551970849,
+                  "lng" : 22.09944916970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "f2c3363a893d514f294fa6f6b966d7770305cab9",
+         "name" : "Belfort",
+         "photos" : [
+            {
+               "height" : 2204,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113623593871914680517/photos\"\u003eRafał Foryś\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAEiLNlAUtnTGMzfExbu-10VxQcESDTv1PGacvk823ZB6CdlclQzMiBQOZZcWPmPFrhy7BSgbhdDBrjvD3NQL7VaaaYgLMRYrjqfbqP8RnAT-BWF1ICL6BJnnArYn-DMOF5e8AMhfoxydzI-xG4UaJjIbn5UVEiGpw7H54JSv_r4VEhAy3IHJ_JIej3_NjhunkOiJGhRHPGrPN5ZqshmPoHqJAKIvDFJJug",
+               "width" : 3920
+            }
+         ],
+         "place_id" : "ChIJnctMNrMzHkcRZXR1EfhBWB8",
+         "rating" : 3.7,
+         "reference" : "CmRRAAAAVVC9al3W86C6gsTgmf656_1CxMZKgzKJOi5qq1EsHNZqZ_sy2e4XxRVUDZZVozGaSfgLS2DKjDGel5lponhmavgpjittX_Qxv6wjES4mWB2dyTaP95M9XZlWLTeiNfIHEhC2h_QA6xYyxYBUlKE8G026GhQVZwnjkTfugzf2g1SiU0k1BQiYQQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Stawiskowska 32, Piątnica Poduchowna"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1987771,
+               "lng" : 22.0986664
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2000654802915,
+                  "lng" : 22.1002390302915
+               },
+               "southwest" : {
+                  "lat" : 53.1973675197085,
+                  "lng" : 22.0975410697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "e863cf67a0a61a1a8d569b3f61ec88b0082c3964",
+         "name" : "Motel Zacisze",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106723547537565869802/photos\"\u003eMarkku Pesonen\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALF-j-o9lNXL66dnOxjjPi2E2PR-GeksdoUuepqS67QkHljxl1D-wV-c22zjuuASk1WHVTWrNPuuhVEhI1EchJQbtdz1-U1G_0r0Oiy82gpU8w3rM-1OhZm_6cxSp4kvangbi7MxfemmI5mLjGON8cITBJwBoPQo3tdy0dMSRCszEhD8mNjq_xqaZasfjWOAydeEGhRwaxV2poVWsVa9DtqC0lu4n6Zp0Q",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJm1xm6kwyHkcRzaC74OlKTnI",
+         "rating" : 4.1,
+         "reference" : "CmRRAAAAL7Oebj1fexQjcfUiz-Mu7wLARXQrpDjCrNfS8jybj86Y-wmUv5C1vAzznLGn2Hd70I8Bv7wZ5AoBEZbNuT3oT19zDZ-5n3T19n3xLKHS6s9DwAVLW_zQacEu8f5G4UogEhCwMpSfd7cB08ZJ3pbpX_TJGhRFJDS5Mur24e5hztLEujnqeHBRUw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Stawiskowska 51, Piątnica Poduchowna"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4079114,
+               "lng" : 21.933214
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4092059802915,
+                  "lng" : 21.9346322802915
+               },
+               "southwest" : {
+                  "lat" : 53.4065080197085,
+                  "lng" : 21.9319343197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "960aada687a165e017cd6653335800e826e63fdb",
+         "name" : "Colnus",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111875070527405295805/photos\"\u003eDominik Sasinowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAB1vWPBzJJJupVUY8bcuULYIAuVMzqhfC-mCi-G9Whrxhr-jdyknX6LbrFusGgRc0YtQ80dboJNlmP1J0IyeujKo9WavvU4IZWMm3_IkxgYW1L9RHcbwLHPzKxMcrxHpIC8pgRMviI8_lghweWgALR6O45q_Y8ZwlQwFsIPxzwWOEhCAnRIP6YzY6XyehIxcy8JlGhQENnvHHieV3zwK77ntqaMS7h0mVg",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJ9x7LKSshHkcR0DfoGivVVKM",
+         "rating" : 4.1,
+         "reference" : "CmRSAAAATVGuu8KDCKB__0JBSXEM1uYQbXgmi4HntSXzOzb0MjyTQPmuN9hAJW4_s3ACiq9JeoAXA_AhMlR59qRI8ztcMZlNAuKkqfWT0kLPHA88RgYLj3H38o7MXRQffYRxAgkeEhCVgxEnCYahwVwoCFXylUpyGhSg_5vDrAglT-jl1cAi9qXcsrBrXw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Strażacka 1, Kolno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1811702,
+               "lng" : 22.0796138
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.18227238029149,
+                  "lng" : 22.0807144302915
+               },
+               "southwest" : {
+                  "lat" : 53.17957441970849,
+                  "lng" : 22.0780164697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "a4269445a9ff138cb2c7ab27a6f544fa0d9a0648",
+         "name" : "Hotel Gromada Lomza",
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116841292960631552217/photos\"\u003eRoland Prusinowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAN1iThVOLVNWKDwEBOqKHhTbXNeOfyNpd3ABwAiU9RHzd1_Rmxhqut5-I8o4Zh6DWsvBIZ-NYjqCpCvwe7VGdO_0y_r4Io4rL-i3QJ-yb0fISoY58oQQyXskBHlbFV3yjoF2M1oJm8RHh5cskgB1vnsfrrGUzt5U4qOawJX6D7KpEhB_b3-zD2nsNy5_sB-1VObQGhRtuhX3LGl3nIwCyKyyBEtFrQpAng",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJtYYGv70zHkcRYd45WPLDD_Y",
+         "rating" : 3.3,
+         "reference" : "CmRSAAAA4f9SmqBMWh44J-751sDwhDibUPOsn3YvBrBJLsV4gu_U4vSeO69pqF7Wb0uVWtXry5k9bvIzFhxvs0V2Qdytkn4NKxpp0-w7RWwMBCyZBARQCDKYJUK2OZFjKuD9nta4EhAxXrWzm0FXgHPJE6JkjzMaGhS__zX47nXqVLyH1cGSieL6TMa03w",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Rządowa 1, Gmina Łomża"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.82764330000001,
+               "lng" : 21.8809549
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8288604302915,
+                  "lng" : 21.8821340302915
+               },
+               "southwest" : {
+                  "lat" : 52.8261624697085,
+                  "lng" : 21.8794360697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "7f8feb07a9efb16a5f86eb1ed2647312e462c2f0",
+         "name" : "Usługi hotelowe 17",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110793919127245024748/photos\"\u003eАндрей Кондаков\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPyJ23zRL6z73yE1jADjXE4sHSi5UnxpLk8ThpCiJobALYjhn4Wcr80OcLz40-6Qryj6vusFp-rU-hrWzrySiHjqpTAyyB16aw5HNeSrt3Ab9Rt3roPB-11FI_S93nb2yCu7sVbftxl1Dp6lj0whRPwcoxPP9j6A2H_TW7n7IRbxEhCfdkQYJD9jyXI0S73fo7W4GhRnEutwQmfpx4T8IJLUM7olzWPJPA",
+               "width" : 1836
+            }
+         ],
+         "place_id" : "ChIJ6dtjYqtUHkcRg_ANnu1iTEI",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAmrn1Gpt883Pq11EzlRQBDTybrTV7uZqVhj6z8Ebu8gobGd7tntHwDLq3J2zjFDtDiGsSyrJlB_4qi6627j7h5p0DBi9Cxi7yNAVMLur7Pjoh2a7S5tApg1sy6XPOzugNEhARzpXZCa03w_I22nN6zAlFGhSBzuGKDxp1Y0NxBJqUmbUR1tSAwA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Lubiejewska 158, Ostrów Mazowiecka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.2239712,
+               "lng" : 21.8583724
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.22518613029149,
+                  "lng" : 21.8598246302915
+               },
+               "southwest" : {
+                  "lat" : 53.2224881697085,
+                  "lng" : 21.8571266697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "2b3d2ed435dccf4c204e0aba677c1fd3b7a8af4f",
+         "name" : "Hotel Nowogród",
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104423932305069004517/photos\"\u003eKrystian Madejka\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAN1IPP9JiXuX8CFfpiuE7YLecP-vDQ3zpyQzyAjTmV1mszjW53oY1kdf9BZTpYCwnl0XyGHmXh8pVfgubB3NliTMyEZJdbqTlUBO6XEIhLiRDh5ZIh_8fwyMM-hWNpaj-tIezAiliqBvz0mIPRsjJPSkjMRNV0jWW_g0lcBpio67EhCFoHXrcL9EO7bqCfWHz4FKGhQjC4PxTCaDosDd-Pnq9QmSEFi0Sw",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ09hE-Eo6HkcRjIEPZRkbYro",
+         "rating" : 3.2,
+         "reference" : "CmRSAAAAk4Ay7G-oQZtDb1aqtadF97wnyVhZX248Uu3honDbbXwkUGFXSpoPgB_8rYFMiyRuf5y0yAB59UvwYwD2irM10AYlDAi9P0Db0r_tPDmi-rt3WMqDG8EAIppnATOrjlfhEhAHBtSzQRMBqBZufcOvl8sfGhT8B2nzXAunBDHXtlTYtrF5GoAYwg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Obrońców Nowogrodu 2, Nowogród"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.7888216,
+               "lng" : 21.8680089
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7900206802915,
+                  "lng" : 21.8695426802915
+               },
+               "southwest" : {
+                  "lat" : 52.78732271970851,
+                  "lng" : 21.8668447197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "34fbb383a4fe4ba860c8d949c99fada9cec1c134",
+         "name" : "Zajazd Mazowiecki",
+         "place_id" : "ChIJFbFi7teqH0cRcaC50xDnl-s",
+         "rating" : 2,
+         "reference" : "CmRSAAAAf9BQiqKBd3-eCzxkPO55nEFJ8x-TCFVjBRQdlEeBRisfA752I86BJgDSDX7dZDNJexhaqSUfGp0r9GIf2JZyk9-QVsJB7kWz9NrFk-1d8AodM-LcfCnZT0nsI9mHs-M9EhBjquEvDj2xYac8H_L_f5cPGhSPo7g7fB2nmzX9K_2yi2CjQAebUg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Warszawska 106, Ostrów Mazowiecka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.8216649,
+               "lng" : 21.8890458
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.82288863029149,
+                  "lng" : 21.8897442802915
+               },
+               "southwest" : {
+                  "lat" : 52.8201906697085,
+                  "lng" : 21.8870463197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "5a3dfe21d5d0322832663cdfc3cc5fc869b5e688",
+         "name" : "Hotel Ostrów Mazowiecka",
+         "photos" : [
+            {
+               "height" : 456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103113276648143200653/photos\"\u003eRadosław Witek\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANkfu8BLMGOGIfYHewTS3VNj2CVHluVT6EM4kbqAIUr19HovMx-wXvX4i5hzTLdJfZiZVJvJJv-f0lxKROlMa33iT2nEmVrRKncTZp3xNXyc9pKlk6fPkaCCPqo-KoV-46ziTnOm669Mtm4jy9FaMwM6ZcuTaqBsnzWxHgh3JOOIEhD8QffWqB-jKXzC7wbgOrwzGhRCEImfLAD1yUe0NWjR3WiE0R0WwQ",
+               "width" : 681
+            }
+         ],
+         "place_id" : "ChIJFQZzTFKrH0cRwr6Vbw5CCBQ",
+         "rating" : 3.5,
+         "reference" : "CmRRAAAA58GI7C54FQCdHGOpptXtxqHAzLzEfKvQpazrDWg5XCjv391Bh-nMUKVqngZsE1lJ4sHkgTSNaBoAV--UjWCEg-nqeMgAhWEdwWbVNvxeEwW7BogojXx7iH42-FwcdKHSEhDFrIUBatwXPmQFWGZEzTD3GhRihHstwYiDX8YNieX9LrkMm44eGA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Lubiejewska 124, Ostrów Mazowiecka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.7539033,
+               "lng" : 21.78658069999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7552522802915,
+                  "lng" : 21.7879296802915
+               },
+               "southwest" : {
+                  "lat" : 52.7525543197085,
+                  "lng" : 21.78523171970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "347dcb193b9bc112e954980ba24b3e8c8d14918d",
+         "name" : "Zajazd Orchidea",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113960002331499248055/photos\"\u003eSergey Olikhver\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAN6-Y9vNT45OfCwERYH9wW183zawHU8QwKejql2ZbuA9KE02XP4yBMv5HD_TZZqg9vOPZSXfwyUilzJj5K2HCyW7tcYeLmERt7inMUTTteL_M0nGzu-_fcCEaAlwlqF2_DOTKb2HcH67KYKJhUgzYqAbjYhf7DGijVUgvJv_MgaxEhDR8nWBsTjO8sa2FtK-emEBGhT5yUq_EtVN0H64rI1uHr_euazmnQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJmcL8LPP_HkcRJhB-GP5xVO4",
+         "rating" : 3.7,
+         "reference" : "CmRSAAAAHFvhF-LRjex0rP0xjXV8UQg2SzqFEmjtn5KfLmXGES28AkfYQo91Uq82dMBMVYJUFAflRAel89I2SXukNBDWhoO3aG0L8AUKLKzo4qoNfaHf5NEQEK78qIxhKztjJF2_EhCvO059kTt66697_j94USltGhRvdJY91A8OY1CPYZMC6x6dMg8vOw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Nagoszewka Druga 102, Ostrów Mazowiecka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.2467617,
+               "lng" : 22.1200438
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.24819848029151,
+                  "lng" : 22.1208035302915
+               },
+               "southwest" : {
+                  "lat" : 53.24550051970851,
+                  "lng" : 22.1181055697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8a72cb9c3ba8d7e801149b5eb90f4570cdfb82af",
+         "name" : "Swojska Kuchnia Pokoje Gościnne",
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104045927530122003961/photos\"\u003eRemigiusz Danelczyk\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANxrVluouNrqExU8fKSyzP64EnE1ztlJiANUBb3VvjIX42EiGbXXrMXNwCTJKZ5SMBhxAsO_GWOfmfhfrEU0Z02Ca67FbqpipGQTT1EnXcGagu3R7a1OGRSR5fcBCoSSQh8fkduH4oMQ6w8CMevBjYGgNt0PYaxcP1lhU7C15vpyEhDGPaxe1TwTGaS-VuUvHkmeGhRMc0Jlx5HR9mn7xph5o4hXE2vA4A",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJzVfHZ-8tHkcR3e5ngopuhdU",
+         "rating" : 4.7,
+         "reference" : "CmRSAAAA1y_mTlXQndQuDf1ekgS-PsBF5QaV5fchcMgw5hxg241kkuATzIhVhGsWm0epc_MXboKQgQhjuVELRSZ8CVo9q3dlB86YPi5Mi5AGKZTYaNe6uMWtlj4Zxwqcvaj_izb8EhB5MpZC1Iebs-N2dUbPJ2PYGhQh0-QZ0KCUjPbUwlcVC6B1vJQG6w",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "lodging", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Droga Krajowa 61 2B, Kisielnica"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.07510889999999,
+               "lng" : 21.566102
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.07647723029149,
+                  "lng" : 21.5674607802915
+               },
+               "southwest" : {
+                  "lat" : 53.0737792697085,
+                  "lng" : 21.56476281970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "f4c250ce57b331f92bccbdcc37825b394f1897f5",
+         "name" : "Pokoje Gościnne WSAP",
+         "place_id" : "ChIJ4SnOOIdBHkcRGu2tSPRNdOk",
+         "reference" : "CmRSAAAAJ1vtBgRnHRNMgEKv_bHNeNYc2Z19ukbQe-V_KPEUu0jZfphFtCd_fz_lHfQFdcsST5P5ito9o39yyvBK-tLyuiRlAg3HH75I-kQCYlUiwTsj7KwnYDFoOZ0rPmxHwuK6EhCkjGsnL-pvlQA5j3K1zrK-GhQr_rXZ9-8FDY2naKyc9pZCXMvxXw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Janusza Korczaka, Ostrołęka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.180676,
+               "lng" : 22.07944
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.18198303029151,
+                  "lng" : 22.0807500302915
+               },
+               "southwest" : {
+                  "lat" : 53.17928506970851,
+                  "lng" : 22.0780520697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "4672f78b613075a273f77c6e4bf3ea579c3896df",
+         "name" : "MOHITO Bed&Breakfast",
+         "photos" : [
+            {
+               "height" : 1840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110351358823319586976/photos\"\u003eMichał St\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAACCW4kdGvE4OpofGmVi3UTJ55r5E5yELqzIukXOQBo8YpPWsrcDiT6GVj1hb7urLwT6LLEs1IG4X30rWFeC9GHe_0ZiTs-DqooO5vrkf97UszXvHE_2semwt3xK9mIw81u-uSsUiQn65Z_-dwKIerCHvTN-gINEpAJMk8ZVs55zPEhB7uSo3HRV31OQHcb2R18z_GhRSXXbQCOtFWPaijDjUgw2q9lm3SA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJR-Nyv70zHkcRpl1VIlhpyKw",
+         "rating" : 4.3,
+         "reference" : "CmRSAAAAp7zqILekSEFWZi7cJd5fe0pphGNqidH5vsIIvc6zAlUv1y-y-t6Hf8ZEPjXMbTl-LOrFOccO4_078pxkiEPIz6xZKKABEkgdsPUhf0pVMBz69PdcbDnPwyj9Olrrm3HyEhCXRmLRBrvL9PGLpZKDGd9_GhRl5Ugk0iq0TjiKmuDTnhsXX05Gug",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Rządowa 3, Łomża"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.43326990000001,
+               "lng" : 21.8393825
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.43461888029151,
+                  "lng" : 21.84073148029151
+               },
+               "southwest" : {
+                  "lat" : 53.43192091970851,
+                  "lng" : 21.8380335197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "2e4f3ea5475f3eace3c428b2b653fdfd3169c4e4",
+         "name" : "Hotel Kozioł",
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109608018069912972610/photos\"\u003eirena liboska\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALcybDtRYlvv2gaZN79RUsKX3NwMd20H9fxBRXMbItYLeMyj1qWGyizOGxotWpd6JYIY82XbEOWsQewn9pSbD8PtQzw_ooY8altnylsTGFdqxieCWyU9YgrGzKc972xWgK31dair_SfHBAlc6JkP3KsgOQLblApLLfEz1Pxz2ihlEhCnaDVkZhTq5SzpgyGVuS1HGhQz25HbaeXe3DhPPr5MQ2KH5wOMKA",
+               "width" : 3072
+            }
+         ],
+         "place_id" : "ChIJKW_8ODQgHkcRJpLZA4FDkVg",
+         "rating" : 4.8,
+         "reference" : "CmRRAAAAPolOvPZ8G6KMGw5lOYFqhyzkdf5L8mrZb3NREA2BJhI58G33kN7P8FgDmPnU99jHrr6cnu2KZmdjpn84gjfkWMj5toldiOFmDaUFJKan1NBCFZS8_BB-QlIJdvLpPns-EhDWRXs_estgbzIN1Viw6hU9GhSZdhF8hkWBzke37Cr1mn6cNdecog",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Kolno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.09983,
+               "lng" : 21.614221
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1012955302915,
+                  "lng" : 21.6154734802915
+               },
+               "southwest" : {
+                  "lat" : 53.0985975697085,
+                  "lng" : 21.6127755197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "9687859f10e1a5eecbcdec91d2bc9306476286da",
+         "name" : "Hotel Energetyk",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 460,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113202274712778154068/photos\"\u003eHotel Energetyk\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHHD18CxIR8D4dxNuuDS3dGlm7T_mF-DHpf1mFQMzcIQIsfjUbrNV2yNmSESCkiQufxeS7Xk5AP3dXW02A-Y5qagxDua3f6GGn94LqmvcZuYmtzj3rEe2eJPPgzxO5Jyl6KPrt0mkmNFMaq5PU2QVHLGNJiZmlqtNjVj7w9MgYkAEhApZGYEJ7c-nPz0YrRE4oBjGhRsRZuRvexdQFOYtES62ylAHrShyg",
+               "width" : 840
+            }
+         ],
+         "place_id" : "ChIJCXPomghBHkcRmH7rZ_z0pTE",
+         "rating" : 2.8,
+         "reference" : "CmRRAAAAD4Wy1iXAHSXmtoYbCLXkU51qbXdt2TZXI9mafSTD4q-ZJ07YBrZfa5Vnc1O-sUXLx5NG4CV3S69IyzMwP6-lhrsLXwy-6TW_w28VGLuquAPGm2L6AXZ5jzJE-ncvGIKNEhBLd8dxnHlHMjeXyqY79I8ZGhSHCcjeSHV_HKlIzOyB7RVKRPP9EQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "I Armii Wojska Polskiego 30, Ostrołęka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.2587024,
+               "lng" : 22.1224443
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2600513802915,
+                  "lng" : 22.1237932802915
+               },
+               "southwest" : {
+                  "lat" : 53.2573534197085,
+                  "lng" : 22.1210953197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "1e78d8871c4a19151ddec30ea7e809a920ec7ca7",
+         "name" : "JHB*otel",
+         "place_id" : "ChIJeZGhT-gtHkcRByunHIeuV44",
+         "rating" : 3.3,
+         "reference" : "CmRSAAAApZ8ZFeKeG9RSaDCN0fTm3c9hFxcXZUr2vVuaIiD5Vrp-MnJZN7Z0BaLkfOCZNkEiufQrmP9c2GgTaulYV0op4o2o_qfim5wOrHiTLkAKMyJepDrvVcwcd---ccKeC15UEhCUbzkGrQ8sp2VnEuybqVDsGhQ67r5alt5BoTTxbwtBoWY5F-KB1g",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Kisielnica 20a, Kisielnica"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0680336,
+               "lng" : 21.6760159
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0693825802915,
+                  "lng" : 21.6773648802915
+               },
+               "southwest" : {
+                  "lat" : 53.0666846197085,
+                  "lng" : 21.6746669197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "b8bfb64f301a4d60ba4e1ba847f09113054f9468",
+         "name" : "Hotel Zielony Zakątek",
+         "photos" : [
+            {
+               "height" : 2242,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117842587754160020507/photos\"\u003eRafal Pinkowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAta5y3m6cdnJLRoJFhBGX28yXFoxq2o7wqTKLY5mvSyDQcXh4EtRWUaBOvD0POjBh5hkp_9ejXPWbua4pszFCfy3N1lcNUk1hxK8_XmHK-HP6EyKVVwJZk_q9Bsxco-K54mPXLjPrh7pP50jZj78Bqy_W6OfhMqcKU1rSGYmuGoEhB0NoLjc_3nHEMjRK3WnAr5GhQwH8p3LPSvMv7hdJT-mwEc_DcS8w",
+               "width" : 3992
+            }
+         ],
+         "place_id" : "ChIJyYkojfJBHkcRdQcUg1xVwS8",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAAuWaRySJWGOPuqsVd_5_O1MIjQ8pjEceEhr6VtNW2BP_xyb60vcY40rX3s0K5evOAlaaxEfcH9G22kOpD5FpJqbqM-6DBN6k-rrfDk5olk3_TqxlwBVlCwUZEJUpnLORqEhBVN38_8u3_wToxER2cj1zUGhTNvObvUXJ1HpzMg1LsO7jj77QCuQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Susk Stary 10"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0889449,
+               "lng" : 21.5690565
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0902685802915,
+                  "lng" : 21.57134955
+               },
+               "southwest" : {
+                  "lat" : 53.0875706197085,
+                  "lng" : 21.56829215
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "5f753d641db56ce13d8880469a2edf8ecdbe27fd",
+         "name" : "Hotel Relax",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101990706907800368045/photos\"\u003eDaniel Gałązka\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADZXtwrEE0wXLKbxpm-9mAuiV2bPB1dV1NukAqwcKPQkQbUSGsJ4Mvoe1W7vLEhOiTZOOJza03hYJAsnoGo1tYcR-da__7chKgjL6h5WDq5P558NWXHYbV0oUidjjwIyj0Si-uVHxNZ6tpOoc5UDtDZ_uIojib2eo55pFk6Yy2-wEhBfB_Depnz7W7VJoSarvAidGhTPp38oHBnJdMUlutV3rpyDWHIEwA",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJTTOOXpFBHkcRWpB2UZtHbB4",
+         "rating" : 2.8,
+         "reference" : "CmRRAAAAYavniWyd2HMLAaeCJaLftuloVyU2UyOYpO9hodrmpIHaM57qt7WnG8BmPUk_MwOvGv7Dw-t4GEI1Jz1_Flr4U_w36IgVG0W5C3xqL-B_7i7L2QS6AGh0MuiJlYc7-gbFEhDXx20XGO-AGp1zKwY4oPvxGhSgR0Y2uVf4l9z2CSzSZz7xBUkfNA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Szpitalna 15, Ostrołęka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1768978,
+               "lng" : 22.04928409999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.17817523029149,
+                  "lng" : 22.0506610302915
+               },
+               "southwest" : {
+                  "lat" : 53.17547726970849,
+                  "lng" : 22.04796306970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "89280eae2f52976e387137a68b0eaa3614262912",
+         "name" : "Tanie Noclegi Łomża",
+         "place_id" : "ChIJxdl2juUzHkcRkLr85UwaHqc",
+         "reference" : "CmRSAAAA-0nAP210FVS7d3A403ImmLix03AFoQienMPh7ENTYCVXIEbZb6-TSsuBATh6R7DFyyaaqek3Fg7smd7irfj7Dki-r8dfqu4n2t-veFrIzlN0TrkLxtFSK3Y8rRCeyqpEEhDp9V3BTO8GJvAt9w_twwY_GhRH_mSYF2zlLhAI1JWABHHjzgsijQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Wojska Polskiego 88, Łomża"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1423351,
+               "lng" : 22.12824999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.14368408029149,
+                  "lng" : 22.1295989802915
+               },
+               "southwest" : {
+                  "lat" : 53.1409861197085,
+                  "lng" : 22.12690101970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "4ca20d43261f3c36cd919aa78e79abf12d11b3a8",
+         "name" : "Agroturystyka w Dolinie Narwi",
+         "place_id" : "ChIJg5RmP6Y0HkcRznIHDbskzWI",
+         "reference" : "CmRRAAAAhPYOZYC4pT3LXIwyQfb0-I6Qez0JbfbLBcz34Pxv-ILGZbCcy9h6a_0qvPiSQPnwTMNploO8J0Rwzss8crGjZJLB6yY0h0lcNlzLRRWAYDTaHyjOOaC693FZptXV2BluEhCdoBxI0U5GkklJ9ElYycLuGhRHQZRC59jGPQa4vYWaKOdtyLnfCg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Zosin 4 c, Lomza Stara Zosin"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0868356,
+               "lng" : 21.5869391
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0881094802915,
+                  "lng" : 21.5879752802915
+               },
+               "southwest" : {
+                  "lat" : 53.0854115197085,
+                  "lng" : 21.5852773197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "360f32945f6f3dd9c6e95e51678fe1df4e64df15",
+         "name" : "Hotel MOSiR",
+         "place_id" : "ChIJWYOen55BHkcRrhqSyQogbD8",
+         "rating" : 3,
+         "reference" : "CmRRAAAA0zfVEx2OnZhs4gnX-Z0KTGypDF5WurQtb8qCdb3Xpx3Ar-4LJA0r1lHCHYWBeY0w_o1hJ3SElkO4Jxs1IyuQ5AYEVNX9M2-I_X79F_am7jC5kjrTD_EVk1m2LhAX4O74EhASw_e6FloaXW-6qwdiVjL5GhQLJg2M8bwr3wmqgIxDXIDqJMI8JQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Wincentego Witosa 1, Ostrołęka"
+      }
+   ],
+   "status" : "OK"
+}

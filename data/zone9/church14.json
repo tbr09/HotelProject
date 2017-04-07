@@ -1,0 +1,425 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.55752760000001,
+               "lng" : 20.9718292
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5586048302915,
+                  "lng" : 20.9731154302915
+               },
+               "southwest" : {
+                  "lat" : 53.5559068697085,
+                  "lng" : 20.9704174697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "5b8b37b400a5d232238a2b34c41a27d2af711919",
+         "name" : "Kościół rzymskokatolicki pw. Chrystusa Króla",
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115312657123513000790/photos\"\u003eMarek Werner\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOGS85IhD-2hF5Rwlos0x-qUhfuB6p_uAuu1DhUZ11kE_Niw3NLBVW8Yw3UfqFWSQRrI0zqEzA1EGCULcLyx1NMldXdeddkmLAni_aGGofzWhkYxxGrmp_SNiQAoi4CNZ0y-5Gy6Y_JcYxFEcj681wPXB4IB49MqyUbJ5PSh8LBdEhD0_Bo2-kOMymVYjF0PChgUGhQgnUFY6F8ZQbDHri2TMCQ38Mz-4w",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJvagxmCj3HUcRvx_JQTlnP0M",
+         "rating" : 5,
+         "reference" : "CmRRAAAAFSa78h7pusIwlhmeR54m2mj3AZVbvUC6ZFm48iqZDVoMno4nvI556oBNG4efkHlbDv01Tjo_1ftxpyjQA1ECS8BuUDiBOnPwKHMwO6MwGu2Q6kusQulc3z3mvdhSJm0kEhCzGxdI-8Q4KTtQIL672vrXGhQaF5VvfgsqvB4OSPwieAd3RqXipw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Juliana Tuwima 38, Szczytno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5544392,
+               "lng" : 21.0039369
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5559395802915,
+                  "lng" : 21.0057518302915
+               },
+               "southwest" : {
+                  "lat" : 53.5532416197085,
+                  "lng" : 21.0030538697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "c506dae0cfa26a499b11a823334c97336524ced3",
+         "name" : "Kościół rzymskokatolicki pw. św. Krzyża",
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102833707547151789860/photos\"\u003ePatryk Kowgier\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAACUS6nB-5sMx0_JrkbRq1jKKw-TqOzgPK2iuG3fuOxR-Xj5mFecJd0LOG93oOJlaBj2iRDreotYMg3WQ60eqYpF8my_rKJmhXui2eRVzMpf6aJXFRfTyEnxKNAWNaFb_dsJDor_BHJB-ep4QwEr3Ae6lM1wvjLrO1R2EyMgKb2AOEhADKPme-QYU06tvD6NV43mmGhTfsDL9krpv0UJ2EUMxZU3G4CeonQ",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJSc5xjEb3HUcR6QpaMpcVOuc",
+         "reference" : "CmRSAAAAwyxWYfdUwdPlVEDNdkZldjLSEv-u1dOmYb6H6V7Ju-Sy6fMu-sSfjAxRlRisW-cZscmL4LglAGhJ99-Y4QA_yuAYv-GXPVfvR6uxawdMkGh7FgMeiXRpCk70DCo_DMx8EhBeUnKsw6EhU6NgtkF5ISOiGhRNytXsT7MFyrFN0I7hoFzhwKXp2Q",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Kazimierza Jagiellończyka 1, Szczytno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.560646,
+               "lng" : 21.0078796
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5618605302915,
+                  "lng" : 21.0088877802915
+               },
+               "southwest" : {
+                  "lat" : 53.5591625697085,
+                  "lng" : 21.0061898197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "e2aa3b5b6a34add44c4b677705762220a9c49321",
+         "name" : "Kościół rzymskokatolicki pw. Św. Brata Alberta",
+         "photos" : [
+            {
+               "height" : 1746,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101314884430934493384/photos\"\u003eDarek Szachnowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHSmtJ4ixii5j3GPnXrcSMxJx55WGpFETboTbRyZ5W1IUwlQC2oJFnp35WdpZ2nF1gCRbhJyf8tYIZ_CMeCTI2OTfO2E26ZpP2tVcXatiktkwO7dbCGsDBrH7t-b1UDu1MbYO1kK1TyvW4l_D4RqRK36ij4ulwd6-wC3PCDTGOxhEhAgFoJwN9pswhDHSMio3QbMGhTxqMG-bmelgysc_Qaw4cgJkaEj4A",
+               "width" : 3104
+            }
+         ],
+         "place_id" : "ChIJzzBAt0H3HUcR9kqxJZewsYs",
+         "rating" : 5,
+         "reference" : "CmRSAAAAv5dt_72gm53oockqXNl4BrXRTJVP61gPqaWEYOynBHbAZ-6Y-D-VTEnJCyqcY6Nj-s2PRAo37HxpnDxw4qaz69pyXDUnIDy4yFRXXuESEB4RcTTFtfeoeHjfPOatk6PEEhDA-aBAu2po7vBXAZjt7rqsGhTkGlYlldufCxefMVR5jyW85vbrJw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Wileńska 1, Szczytno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5673891,
+               "lng" : 20.9901211
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5687572802915,
+                  "lng" : 20.9917371302915
+               },
+               "southwest" : {
+                  "lat" : 53.5660593197085,
+                  "lng" : 20.9890391697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "5f5d5e9b6cb15cecb8b6c6f0ec8f01bf5c4c5b91",
+         "name" : "Kościół Chrześcijan Baptystów",
+         "place_id" : "ChIJLQuaiRf3HUcRWv6whRoOj30",
+         "reference" : "CmRRAAAA-zMQ7pM8OAhP8uSaZ5j6XHqu5ItL7rBuV_sO-2mXo0LH5ZQQZNFmGtsKnaNHa0Yu5DtKeCSSjNqUqHGXZOuN4ha_XTCC7__ksZbRPALM553yMWt9ArBCcTkfrMyxCxISEhAQ-7ZE-Y9R16oj2cJ4ZXANGhQKzaAI_obTiqnSiShDJ7WYzrZ3DQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Henryka Sienkiewicza 3, Szczytno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5550143,
+               "lng" : 20.9837414
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.55631543029151,
+                  "lng" : 20.9851952302915
+               },
+               "southwest" : {
+                  "lat" : 53.55361746970851,
+                  "lng" : 20.9824972697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "ee50b4e12133ed0876a8fab6eff3528670bb8901",
+         "name" : "Kościół Adwentystów Dnia Siódmego",
+         "place_id" : "ChIJrRyeeTD3HUcRaXOPKOWhtFw",
+         "reference" : "CmRRAAAAgJZSj2EPHW3c7IdSiJyQfoittb0ZU7lKeZ_JmO6NqKCk48VNn3wI1FCQvzEpw-AC7f2Fl42j0Y9K2QkI1vLyvYDw0KoalRBDoxJVDRg0LnaO2MLRWi1IbzBrbiewRaqcEhA6TQ1mgXuygGqLfCRU88AsGhTePuT6Ozm3tDXShWcY2mH2_eQuSg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Zbigniewa Sobieszczańskiego 12, Szczytno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5628168,
+               "lng" : 20.9946136
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5642314802915,
+                  "lng" : 20.9958170802915
+               },
+               "southwest" : {
+                  "lat" : 53.5615335197085,
+                  "lng" : 20.9931191197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "6c827a1ee5fd6183da104519cee48d785808a8f3",
+         "name" : "Kościół Ewangelicko-Augsburski",
+         "photos" : [
+            {
+               "height" : 1746,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101314884430934493384/photos\"\u003eDarek Szachnowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALbpbbYAoM76PXDMwo3K-SPa7mluBku2m8cVUNRwjSR8g4hZrEaYqa91EpMYe6eybaD6-n0tBWIyYGu0Es5yR-mn8FvxDvZIDSGc1V4_Lj2if8_q0VOHzdivZ5HuYCzVUW1lGG9f9AkB0edVMU2xW_bnoYvKvskeB4eQVXzL3qXJEhDdZzicRN3NGEpcMn5fV0iXGhS_Od8u8INZXTU-0hfC_gAM6vPzEg",
+               "width" : 3104
+            }
+         ],
+         "place_id" : "ChIJayrk2z33HUcRAgaFwsNXLgE",
+         "rating" : 5,
+         "reference" : "CmRRAAAAGappdIVcZJAzPJ4DIR9fTNhWpki51ZzRbYkgKXqG-6ZMU-bVn73zL14ARTOUF5xceX8EkHpdyIDm1626wFpyvgAzPmzABgvGayy8B6qzL2vD_GqqartQermW-huzYNWJEhDxFjAI-WLyLmOzlBhAQpslGhQzaOoOyf2s8JJvJuHhr5OujTo6sw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Warszawska 1, Szczytno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6127344,
+               "lng" : 20.8600076
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6140833802915,
+                  "lng" : 20.8613565802915
+               },
+               "southwest" : {
+                  "lat" : 53.6113854197085,
+                  "lng" : 20.8586586197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "a0064f504efc0d1e266a60be5208d5f7dcfee19a",
+         "name" : "Parafia rzymskokatolicka Matki Boskiej Królowej Polski",
+         "place_id" : "ChIJzZAexwH1HUcRaP2QxerRwHE",
+         "reference" : "CmRRAAAAuzLlE3W8I90b7tUd2iGQCyq0ZXodOrjQZ-YCtWndleHarcigpsAAH-lwR1U8-P_LB0mGCJX0V_eMwgO3MwAu2mJdiQNKwuVQ4j7iWO-FyeeIoECqM-fxL4tA9MXJwuU4EhCzStTqO1O6P0uwQQ_SXFdmGhTsKoZukYv6kF_KXz77gl-vZ_uWeQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Grom"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.63119709999999,
+               "lng" : 20.9851044
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6325460802915,
+                  "lng" : 20.9864533802915
+               },
+               "southwest" : {
+                  "lat" : 53.6298481197085,
+                  "lng" : 20.98375541970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "ac7d61d06fa01d3d709c8c676b4e544488a4d812",
+         "name" : "Kościół",
+         "place_id" : "ChIJL6IEdB_2HUcRCg64-3fE50w",
+         "reference" : "CmRRAAAAYM39aLjwd62PDnj0L-_wMJQIblF1JU97mHsei_-0mKX9nwYrW8FmcJwnCHncV9d2kApKD2S2c9TTBwcHmmwLg-a22-aRI9OsfcNPp8PUnUFX6-Zqph1V16Fj7cGz1REwEhC2chmfsgfa1Wc4FqgsOXwTGhTUzVEk4ySmEhPWgGEHN6KxfbXu6w",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Trylkowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5572697,
+               "lng" : 21.1066139
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.55962545,
+                  "lng" : 21.10855263029151
+               },
+               "southwest" : {
+                  "lat" : 53.55648445000001,
+                  "lng" : 21.1058546697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "9bf7be32cb1afec62cbe8e92c66b933eabace9c9",
+         "name" : "Kościół pw. św. Maksymiliana Kolbe",
+         "place_id" : "ChIJB5mPOKj5HUcRf1cd91FST9E",
+         "reference" : "CmRSAAAANWLM9NaZSjbALBDL-xaT6EKWNoZoplLtl5vwr9zU7ThXp2yNLXlJX5RvL8TzRrnrwAtkbCD0577di8o02hk1burH9UPVl2iVhFtQALIYKd8gt6N8Ycb6Bv51pHuOjSMvEhASlUoISgEgqdhPs9GjU1xDGhQk4PebMuokyb5WHMEOeq8QE8dbmw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Olszyny, Droga Krajowa 53"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.48414499999999,
+               "lng" : 20.963113
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.48549398029149,
+                  "lng" : 20.9644619802915
+               },
+               "southwest" : {
+                  "lat" : 53.48279601970849,
+                  "lng" : 20.9617640197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "ef3eac13c4ff259f05094b4fc695c8c1b136f378",
+         "name" : "Kościół pw. MB Częstochowskiej",
+         "place_id" : "ChIJv-csNnLwHUcRaPRFakvhdzA",
+         "reference" : "CmRRAAAAiR_WkiZ1qZ0iY45P0UJ7Ki6_tSuLRN4q10g9TiZd5Quws8bpogNUcpNEcjMd8QmJH1G3vIOeaYlbrZqQhJVimI8pt4Kbdd0GcwkPeZHv5pplbABLNHS22QHiBz__TMKuEhAol36VEo9xdccxS3CvYYOyGhSUu_eaQll0fx7ikSwVeSa8NsYLQQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Szymany"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4829056,
+               "lng" : 20.9586136
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4842545802915,
+                  "lng" : 20.9599625802915
+               },
+               "southwest" : {
+                  "lat" : 53.4815566197085,
+                  "lng" : 20.9572646197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "6e1e624e6b64e49e5b133fddf1aa2aa7bd6d23dd",
+         "name" : "Kaplica chrześcian baptystów",
+         "place_id" : "ChIJ_fzBgnLwHUcRt5cqgah7ZFI",
+         "reference" : "CmRRAAAALmkzDX0jTkzUaU7FZgefVVAeisFiOvqgjZaxvEgtcPL_Nm79LiRhTADOhihMyi7Kb17ZtSgkC8GVZ2OnJ3ynC5jyov6BsRzdApnaY2wUabBUSb0RFg0gR5mrHsCxkV2sEhAmRnaYU0ZBODw64Cu77cvLGhSvqE4DQRngKl3Hv3bcEA1eXCQbCw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "12-100, Szymany-Kolonie, Szymany 31"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.56129,
+               "lng" : 20.834977
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5626389802915,
+                  "lng" : 20.83632598029151
+               },
+               "southwest" : {
+                  "lat" : 53.5599410197085,
+                  "lng" : 20.8336280197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "9d61b5b00cab89b1b481fdf7cf1a564543be4632",
+         "name" : "Kościół katolicki pw. św. Wojciecha, wybudowany w 1901 r.",
+         "photos" : [
+            {
+               "height" : 3068,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105419656038144443089/photos\"\u003eArkadiusz Włodarczyk\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAEYsv2H8DcVHW_0SNqkDVmSbkrKTOHimW3cf9yorQvDYRP6Vz9hMEE1RUAzO95MTj-bLmpOJkCbslx-5goSYk6iiEn8id9IEDCBcq3Ns7jPPEMueQ48j-iBfKwi2tNBNX1ZHEiQ4of66yvo0HKCJ551HgpuDP-39nrdYV9L1kqwGEhAgr8990o50c0sVCZQEvrrzGhS6qCsgj4AuP7nO9DteLPZQ2veLjg",
+               "width" : 2301
+            }
+         ],
+         "place_id" : "ChIJXRud54TzHUcR4M4GDvL1MCM",
+         "reference" : "CmRRAAAAAkaQyFwa-zdNiL-Cm0tb_aAfe32EmS5YpWW7y4hnVqtbyNyHVG1mvr5MrV7h3tL61RcgoGf4n-dL8wFjfdfSre_xcpvXjoWKssuBJfclTS8nOyNneP1_PY9JVojmFOsDEhDgnccE3-JyM0W5iCoFe3qnGhTejMHpOANu3tgUPSacuheCNd-WKA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "12-122, Nowy Dwór 36, Nowy Dwór"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.45603269999999,
+               "lng" : 21.0360503
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4573816802915,
+                  "lng" : 21.0373992802915
+               },
+               "southwest" : {
+                  "lat" : 53.4546837197085,
+                  "lng" : 21.03470131970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "6d5da305a05b701f393021a0faa9497e33498d19",
+         "name" : "Kościół",
+         "place_id" : "ChIJJ4lRCCb7HUcRFgeixo7sVZY",
+         "rating" : 4,
+         "reference" : "CmRSAAAAZ-bYQsAQY0iz8UsPkEbzMhc1tIv_wkj5B-FO8uPtrRByu8vRI9BKNEYPRbPVc2E8-MEyKLvBW_F75mABnvt_G2KP3c5Ro3lt-TzmNLKJv9AC5ZKurEL_yfXSb9PKTQvEEhCRLrbmiWuM1uzEKxDTWyElGhSz6vwSwhk-yH9Gw2Ny5_yBKFZFLg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Zabiele"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5058379,
+               "lng" : 21.1699642
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.50718688029149,
+                  "lng" : 21.17131318029151
+               },
+               "southwest" : {
+                  "lat" : 53.50448891970849,
+                  "lng" : 21.1686152197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "e23a21bcde6f5ac68a9131236211ed854584fdd8",
+         "name" : "Kościół",
+         "place_id" : "ChIJ1RG57h78HUcRGGnqL95Q9J0",
+         "rating" : 4,
+         "reference" : "CmRSAAAAO3p1ZjZejx4xEZ6HFYtxKD83sJQ-58MFypmUDBGa8pISXMqUFu40NqXkiKktuQleyH0hF8DUVRq7EtqcegH_8yKOus4zlmk7oW4O8qAyfOhcoE2c3_sB-ZiEyw8LKju6EhCNu-FWlzh0a1KlsPP86gR5GhSSHMLqBF5hiTOFVC2x7U1UDCj2CA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Gawrzyjałki 9,12-100, Gawrzyjałki"
+      }
+   ],
+   "status" : "OK"
+}

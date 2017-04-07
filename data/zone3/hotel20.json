@@ -1,0 +1,790 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCBAEAAKbMet8DH2R_yw8I9N8496eCvuxE6G28tmawwdA2EJOtLIpk5mvgk4dLmGVWG6aOAT8Km52Iky7AyDKNyg2SKQHc9UJZ_sz3NRLFIRdjAGBE-PIseSylp5Fj5auWe0qamQkt5MsJ3dyxduQ748jiIvcnhBr7SHHL_DAo5a1XbBAyH71cA-O_ctLO5AOnAUiVd1Iybc1s6l6sIsxeQPQ2bbYEQVrCVAYaFNJmifkD9JELyzu2ciw1vxD_23dxGbcEZCZOFKignc-s3d6xxBskpNU6vQuJ17nZkBj8__oQJjbr3TMhX2sVzsz-DCal7lGnGMEIaC0WBLZIO_8UFr28piK_wBXYmSOv7_VZO3RZIUFLEhBvIcm94V5a7ux2bxRmgYcdGhSYuUzwbQAB7EsIUmjU4YQI0TTKRw",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8001203,
+               "lng" : 21.5732569
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8014998302915,
+                  "lng" : 21.57455948029151
+               },
+               "southwest" : {
+                  "lat" : 53.7988018697085,
+                  "lng" : 21.5718615197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "deeaf7538e98da7b144ea71f19e3080dc42a48e0",
+         "name" : "Villa Mazur",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110617754415068585928/photos\"\u003eSebastian Olszowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAFfcGGgFaa8s_f-2HfTnIYa7g2AeH1MO1Y69zzp8paIzMxdhBc_6BtGTFeizJtKt2eeCt_o97wJDDUsft0wcFgmyq-tjFxA4agspYeUbumJP6lXprC95pD7fTYdrCBxpoCM_K1lGsvWgJxjqcW2u53UlVPCjfTN-qtV_Js6uIyzuEhAf2OmOre-KKHSk96HwfAi0GhQICN1rWhOxwAXXrUaHBjWLefKejQ",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJ-1bb09j14UYRbOWU_ZQ72DI",
+         "rating" : 3.3,
+         "reference" : "CmRRAAAAeiahWIC8cfokYj0NtQR-m2BUvhCDTbW5ghOu-alFmY7T6qq0kpWNgY7h_5tB_bLE86YPiAm80K2xg4FIAhOxIdMjbj7tGQFMtdl5nEZB3tTLdkh4OrazzIKpxr-Dm4_EEhBOZm4EKndlf0X1WeywOLgAGhTDuzSocT0nqfmNZ1k6mNln-Kcu_w",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "plac Wolności 6, Mikołajki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.79604639999999,
+               "lng" : 21.5663258
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7974847802915,
+                  "lng" : 21.5677675802915
+               },
+               "southwest" : {
+                  "lat" : 53.7947868197085,
+                  "lng" : 21.5650696197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "8391ae2e4ec22d189a7a07b5e03a8a6e3f7efba8",
+         "name" : "Hotel Amax",
+         "photos" : [
+            {
+               "height" : 1018,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106787466051445014669/photos\"\u003eHotel Amax\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHbw-NO_MeSosG3PsS3zjNoGooDF0jM3DzsrFybqhZ2W8F2Sy14yc7_8tb7uf3U3O4J6WSs-QSZx93YZM9Iokh2nBxh5Xuqb2I1nmLie8ZW7TsEuVTv3iTL42422QupqhXPyvK2t4In_3ir2yjoo2OcJan2XsZkaoblKMs_gZu9aEhDqR2kJlMzy0MyeVLLCt3wkGhTjwUUmh6GapA8XG-k2hHklpP1yAg",
+               "width" : 1027
+            }
+         ],
+         "place_id" : "ChIJmRrzTHT24UYRDCakOOQYSb0",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAAVQADyC9VUAp25URZdWhure2mw8cnMmjQ6CzV1YER2adhK1SHtldRt5cblK-zA-GOyQfYpMksWcyTuczcnv9EKIxQ8LwxASzM7SdGJ6cukZ07OH-AWRBxoZbVaFRWWbeDEhAbLb-76B0OnXKRSjoa1tgJGhQqcRrM_aYlgE3GL_dIarCqC4oMBA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "aleja Spacerowa 7, Mikołajki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.87123099999999,
+               "lng" : 21.324762
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.87384040000001,
+                  "lng" : 21.32612363029151
+               },
+               "southwest" : {
+                  "lat" : 53.87036119999999,
+                  "lng" : 21.3234256697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "fdf028043a91ccb9aa4e9bafd348b701d5b4e883",
+         "name" : "Hotel Mazuria",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1199,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108843152323594925520/photos\"\u003eHotel Mazuria\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAACubDc_7FBzHuDQeLeGPEjzXe2YfegkKwyeYKgXBqTP6CEHeINCLhzDef2cF7B4FTs1nV5Y1QJgsM1zdH_Wac9v0jble8A0t3v17z--ZsAShEhAUtsp3jOT4G0la_mq_XvWlo8SEB11pxnf-C9hm9PFnITINaL1bo7aRzBGMSzcEEhAK1dmLeuPeeOKwurzQJUWaGhQ3gxGi7nlRXtjri4Njuv3qRez3iw",
+               "width" : 1201
+            }
+         ],
+         "place_id" : "ChIJCYzB6cAZ4kYRcdBtjcHDVjw",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAAWVcp6-UEYqH63icPZl3gRUH-A-CCTR5OgIShOFGeNoHwKubTPP8qBn3K-PSX1pBgcVOJh2QFi9DSTtafzu3HyGuzQ60mRRy9_sNFqX12gTujHrMIrBTIp4UWyQrKq8Q3EhDPzINJCbj3QwGtYUtY7UzbGhT211dYlGK2z_zGLxjwzep4hR7HMA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Jaszczurcza Góra 28, Mrągowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.022505,
+               "lng" : 21.730839
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0238539802915,
+                  "lng" : 21.7321879802915
+               },
+               "southwest" : {
+                  "lat" : 54.0211560197085,
+                  "lng" : 21.7294900197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "c62c3108fd5c57b9f42da86ca4a2038b4e72dc6d",
+         "name" : "Hotel Tajty",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111132617857580368082/photos\"\u003eKrzysztof Kotowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAB1vQe8EG4WG76NqOKd5glQH5g3bMgLTn8lomuFNpY_SwP3scdCIzbu3xDxHDRPWztvxKmrRXb3pwNnk_9ISk_JmS36PQ9388A-lhiSb0dGjKeZBKY9BrMHa58hAIHzqDr98Q2P6M-b8Zxaw6hW_7iw9OMqQ7C1Z9Z2p5oLLen-pEhBgdaYSfgZ4TKmjXvz3Fg5WGhRIC9LX8UMkMkR_6ioSglde5_XnuQ",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJp5SjfBeI4UYRhkcnQfz8T94",
+         "rating" : 4.2,
+         "reference" : "CmRSAAAAj48gkF2fjKHP4Ct3NGRCGNs9rJLV36Z8KJbDJt9T0hILSJSyW867CkHJuWenXMLeOwbMu9tLVGEDQgDC132FWA8_OUd840q3k9CXdWSeRtMI9PXegCrq9alMfkwNySNTEhAm7MacEd9FS_EJBMvj6HvNGhQvcdz9j7oFVuXwe38M3eIdcCgKLA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Przemysłowa 17, Wilkasy"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0439695,
+               "lng" : 21.7446235
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.04513608029149,
+                  "lng" : 21.7456763302915
+               },
+               "southwest" : {
+                  "lat" : 54.04243811970849,
+                  "lng" : 21.7429783697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "c7a1be06478a68769b894b97608e3fa982cbd61e",
+         "name" : "Hotel Mazury",
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117776243930936708846/photos\"\u003eTomasz Marcinowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAN9mm3IJ7itsaxBRU3TzSmVRsRdJgRPlxBGnnLU_7fLI3nT81baC3LNgfwvl1cKRn4iiG1awRwzdVe5pVc7pOSayC0FBxkytt_HiXFCRJeTsu7Tu3ewnyed1OFQCn7tDYG8suwRCtK7PNsfOc-2tO-yA4L_VOfN4X-4SxJchcKGQEhBukbzehbefQDG0eJ2z0v0xGhTqEvFkFn20Wm5XRBwE_4HghzWgWw",
+               "width" : 3872
+            }
+         ],
+         "place_id" : "ChIJS1ryjvyH4UYRldFSPtf34LU",
+         "rating" : 3.8,
+         "reference" : "CmRSAAAA3Mbr49n7wu2c8CisuSBQ1U8_AVdl31O9JeDzhPDD8QhwWdFe_x-U4uRzcvKh4b8Lj9SMnETh8Q5OatzFaA90T60O_WpbQZYPi-A6VZUcU44ErudnMRDxkUQYd2tfDHoBEhBqKQuCyzrG7-mlm4NdXjgvGhRj2wczeKCuPHHGMZjaYvRklmSRbw",
+         "scope" : "GOOGLE",
+         "types" : [ "spa", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "aleja Wojska Polskiego 56, Giżycko"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.831965,
+               "lng" : 21.542815
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8333139802915,
+                  "lng" : 21.5441639802915
+               },
+               "southwest" : {
+                  "lat" : 53.8306160197085,
+                  "lng" : 21.54146601970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "bc448f89d3bedf63f340435709b4ce0ae7d2e241",
+         "name" : "Hotel Mazurski Dworek Masurian Lake Resort",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108589714919910985758/photos\"\u003ewebschopper\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMbOJOkZKsRumwwqHTQ0xw4rYuoYIRQxIbnUYBIJgzDtHPmgEUkyJHWSCbFlL01kltI9y8QTgNMN5fGPXl_f8G0OYZNOY8eYyr110tIaOIrYg6z2qxKGucBPnEsNgE6fAMlvAcUiChBVzKECRJfPCPpvEkwIxKLI0CooImBbjB8uEhAcAzOA97V4kSyd7PLfpJU5GhRZS3X3EU_GTUHzALyRoMr7SCL3Sg",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJXVnAmR8e4kYRe_n_yBj9Eo4",
+         "rating" : 4.2,
+         "reference" : "CmRSAAAAhC7JUiADQsl-gQY4N5ekrS9styKtiKuZwMndkeih16TBzGXyBnb1OxSrJ_qYMfB6RxaBtC1-N7x0gFMnkbgTmfH6s1EHlhmRFKrBJ-y7EYBKo3LkURGlLDQMmgh_fQQJEhAFvGCW__d0PP_R4h-cE5FXGhSllmb3s0WuEx21ATY_f4MpVlP_zA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Stare Sady 1, Mikołajki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.04357100000001,
+               "lng" : 21.743071
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0450695802915,
+                  "lng" : 21.7446629302915
+               },
+               "southwest" : {
+                  "lat" : 54.0423716197085,
+                  "lng" : 21.7419649697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "f327d1ca75309b6e53cf14869583e1ea03fe229e",
+         "name" : "Hotel Europa",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 744,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106705478503640073893/photos\"\u003eHotel Europa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOaNYnvdip3IMEuo3Cfgg5y4uLBoyR4Cuejl25yLrRW8od5I-osHbM6ngOnCqgyNW7v-STQeiBjBoGWENWHlm3W1owIHIC42WMUjIRYCgOQdU8AWj_081ma3aFvkf2wX8U7zupi-Y9AWVKRDvolo2UELbOwHrA4Q4Q_FkjSagT25EhD5dswcDXnphhRSPH-WgpU3GhTBlKOpX31DZ4tQeFqMg4FFSeTSpQ",
+               "width" : 743
+            }
+         ],
+         "place_id" : "ChIJq651XPyH4UYRdQ54DzfRDDo",
+         "rating" : 3.3,
+         "reference" : "CmRRAAAAhobVL0XrxYeR71l98T-KiOIozgzdQmNdrGPAdEb3gCkGGrgJoYwo9FW7YCgGgdgqWgP0pBDHbDegHRWZxu5byH5g4pBOJZV6zX5-o_1Ay9A90gnLDQEJs0iKpk82tR6bEhBgr8LrFTEb_GVfDTgLMmWxGhThlXnMBtU_pk5fXGOcsjiVccSimw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "aleja Wojska Polskiego 37, Giżycko"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7952279,
+               "lng" : 21.5825774
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7965404302915,
+                  "lng" : 21.5838316802915
+               },
+               "southwest" : {
+                  "lat" : 53.7938424697085,
+                  "lng" : 21.5811337197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "b31a51d453118d7510860f9628f6b1d238e6907c",
+         "name" : "Hotel Na Skarpie",
+         "photos" : [
+            {
+               "height" : 1728,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105811195830624067830/photos\"\u003eAdam Oświęcimski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMaoaJLEpqD8p7I1TmnzLuJtQvgcHLlOI76x1xjBOCiZPERyj8LNdsCuC-0dCchfNmrvudGKvQ5itXJpesjZmGzydZ-MbINjWpwlQjvNC5ni5pj6Z7w4Sp6_xXFq1OmzNcCxZvFMw0wFkk3nYyabUTSZKoZj0qSxZtno4La4rkL0EhD4DqCyJcHApvKcnN6IKf9DGhRmNBFc_AX33B87QmvcTI3y6aAsyg",
+               "width" : 2880
+            }
+         ],
+         "place_id" : "ChIJ_c8BYnj24UYRNGG-4a0MEPY",
+         "rating" : 4.1,
+         "reference" : "CmRSAAAAn0E3wUd8E0N5bEmJruKrdrDXKGriqYECR-7RfcMxXXmwwiwo6pS3aHu7qqfmMLLG61EdEJnUHsUodmoOTcj0nwm5_mMSAS3QuR-ZdErfpIsHFBHRoWRUCC1qGuye8EEREhCONoCAtRh7QvqeD_nbMjwbGhROUwwDE1GGxufalSWTw0RrxZl__w",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Michała Kajki 96, Mikołajki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8043638,
+               "lng" : 21.5584159
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8050869802915,
+                  "lng" : 21.5596527302915
+               },
+               "southwest" : {
+                  "lat" : 53.80238901970851,
+                  "lng" : 21.5569547697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "d462267050bd3c8f423562c82c61a8387e0a7a64",
+         "name" : "Hotel Gołębiewski",
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111778343970833741746/photos\"\u003eSeweryn Wyszynski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKbiWB_fUO9PVs1XbelR5YRgqEal6A4ZSmV7lRKfJdr7VvAnsnvX8PB5TcZGHFLzzhjovuK0DlP9lFxq9yt2sY-0naBGp0L7bLBNxJe99UGXdCeZuTr7-xMrIb9pz3FqxVRDjmA1gskEXL4UAFUpNX9oIq8rRRhEAPI5wUpMWGX4EhBC8Q-Gfc3hBF3vNC4NTDt9GhS5F140yOnb7ThjNJBt6k2Hpk9L3Q",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJ9_0bf-H14UYRPeE_QQeNvZg",
+         "rating" : 4.4,
+         "reference" : "CmRSAAAApfSKu50H23WzZIVcA-QnXDdPd8ParnRFODLBT0z7sW_WaPEbmxtuDg3nfT1PmdEt-0Jaugptyy9bseMaFJzmtQa1JDMnekFCddod_NO8MSJtp8p42Ve_Yur4uTFfIvqnEhBKvrSIPVALQbFwMbY7OaovGhSph6JiZVrPWaSwqg6Fgi1gjXbacw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Mrągowska 34, Mikołajki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8299093,
+               "lng" : 21.3784386
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8312582802915,
+                  "lng" : 21.3797875802915
+               },
+               "southwest" : {
+                  "lat" : 53.8285603197085,
+                  "lng" : 21.3770896197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "de1f99007f78f0efcfe2ec6f551f16ac967ff04b",
+         "name" : "Country Holiday. Hotel",
+         "photos" : [
+            {
+               "height" : 581,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106849318902990457847/photos\"\u003eJanus Parzych\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGUtIgkh94K2vZbNLrCfpmoUedzXdoHgiPWoDspgeqfiLc3rjJLLCjhEumTiL-9vagCpBiRUW3MmHzk08szsmY8xv_zzZz8k7acIjbMxiJKqvmel9v2MqYZE7Vish6mNQAZGJyIdxU-RhXFCFnMu1ObvrOvD6IrEWcAFC9gj-o-gEhBkgWTsGoJGi2rz_oZRFw_JGhSXr97K4tswUh3GuYvjdfG94E3NuQ",
+               "width" : 1032
+            }
+         ],
+         "place_id" : "ChIJsfhLogWlHkcRl1S5tMkJaVc",
+         "rating" : 4.4,
+         "reference" : "CmRRAAAA0yeGwK2bvcGPsvvoEYoQ6K08j5SPUE504PsRJL6R0ASBizmsY7zjpAteunR1uOU8UuM4foNIw1u-okx_LKET5FzpU1xW93y25pPvltz8WQ45xu_YETGOTzieqYQJ_V04EhDwmt8MMprQNC1Lma-je-G1GhRzTUXDAW2VTy23dk51BtwUHUZWew",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Kosewo 78, Mrągowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7940841,
+               "lng" : 21.5619979
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7954881302915,
+                  "lng" : 21.56317423029151
+               },
+               "southwest" : {
+                  "lat" : 53.7927901697085,
+                  "lng" : 21.5604762697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "b1ef1b5067363bd700fc4d9469940fb8c84f9338",
+         "name" : "55myHOUSE",
+         "photos" : [
+            {
+               "height" : 1154,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109381952483914259821/photos\"\u003e55myHOUSE\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJb-fQBJKFCyBmpyDyPByNIZcJSh_9NVnXMYHg-n2_A5u65phf3eH-cvxfsjqw0tBt0m445F4krw_1rk468NyIAA9U70N4rpn191JBheIv79b4IWXO-LZ1h1DiScDMS_Hb9AiFLMEHQDSzcgB2K7GvaTCIrOMvSKv1-iPvGIK7SoEhCI2F9JMCpA8xl0G2oRcGlHGhQBD2y2l7T4YT79gEaun3SB6sdvzg",
+               "width" : 1151
+            }
+         ],
+         "place_id" : "ChIJ81C1YnP24UYRX08T0J4n8Sw",
+         "rating" : 4.9,
+         "reference" : "CmRRAAAArypPAxw0FDSyUdjUuMQRJmHbX3fPGTfUbRAoAIrfNLFK2dx0-ZNJqeGTj_wwGt3HO7RkNqq3cIp-43rNpb8Eiya7IqCiQiwGjBO-RQB204KAMrbPeny5Ryt9lHPJj3XUEhDuN920ms4OIqEiYXqlkaxbGhQmioAK8prUX9WQTz1MiAyJc8Lk7w",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Warszawska 13d, Mikołajki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7343212,
+               "lng" : 21.5642846
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7356701802915,
+                  "lng" : 21.5656335802915
+               },
+               "southwest" : {
+                  "lat" : 53.7329722197085,
+                  "lng" : 21.5629356197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "d583b87545baaa8dab38f52d4d9e1083c77c54b8",
+         "name" : "Galindia Mazurski Eden",
+         "photos" : [
+            {
+               "height" : 1367,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112733309402548082259/photos\"\u003ePiotr Bukowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGGVVO_FhqizglfIeWcmdQz4psRasVonbEYW0aIQo5n_76HDd0kamSaDHWRdMa9baNOnWR8BTsjQq38ALpSdCJ4ePCr4bX8Qnymlh-XPBivwMYwpWLATEoaGIQpJeKnPewqNloAtG0mgeL_jWw7uEVt4ckELwQHcKKgR27b3CDIwEhBCHLdgYlemTTLOZKOGDiIxGhQLRxhJGznv0egD6KoeIuOLCEEy7A",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJoV09fg334UYRK1pc1tGWcfM",
+         "rating" : 3.7,
+         "reference" : "CmRSAAAA-jjiETt9dCrg59_NV6dNu8vUWD9CcGuSu1g1wVNiFtvIYBp0a35viZLoQF7Jiz82kJpN4xeU-8Mx6Vb4II81RtKmQAIVAawiXV60ATcvKTnBs1Th-sxdVbYmBh_ScGAjEhBl56JLtgZRfU1c2yFSyTHuGhTQJrhlHP8cec88GeUFAtVCWA-SvQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Bartlewo 1, Ruciane Nida"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0812059,
+               "lng" : 21.3820065
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0824860302915,
+                  "lng" : 21.3835305802915
+               },
+               "southwest" : {
+                  "lat" : 54.0797880697085,
+                  "lng" : 21.3808326197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "1fd232341fd2ee7738345b9292609d730a57c8e6",
+         "name" : "KOCH",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106098813516017287231/photos\"\u003eYves-Sébastien BOULIN\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJ6yDchaAZ73zI35Box2IBwckCzhauSejmbqsY1UCeAxRNqrVWZF-x3FLcftd-KUxlGct6ypDs1OtAN3j4TluS8lvtqAJJ-xrA0WdTy2POyV5k9DmbPpJ3EwxGk02coGokqFT97cq1YDmRSpNLiy3IzjIQWAqA8ymW_mSwsjog-qEhDqhcTLGicczmwZHw_sp5_6GhTU2MY3mE9G5syetstlwOHPNt2kWg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJkbMIi1464kYRYU-DeyIvWSg",
+         "rating" : 3.9,
+         "reference" : "CmRRAAAAFcaqVfVEzIlp51z0dNO3btgL8EmDkj-47OQPlYXfXvV4BcUqNm7NQ9ax1yWAo7yKa0bXABM7YtnBuXoUn2DrQazd5jbxKTnAAzdg62D1wjQMd7hKqpenqwPJjFErJM8HEhDREqcZAvK3genHrIMJPvcwGhQ-COLqfXvD3hHLSUaPlrzhRBcFKA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Sportowa 1, Kętrzyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0744427,
+               "lng" : 21.4763538
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0757916802915,
+                  "lng" : 21.4777027802915
+               },
+               "southwest" : {
+                  "lat" : 54.0730937197085,
+                  "lng" : 21.4750048197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "cff2082e4e75329e424d3f63e8cea87c28128118",
+         "name" : "Hotel Księżycowy Dworek",
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116853758885770800357/photos\"\u003eHotel Księżycowy Dworek\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPTm2kiDLI1nBnt5JVGc8Z6BsOD-FhZ8HEfBbVZ_d0y19NVhjDFdH9I0NWIZU2qKEPD9A2RgO1cY_ATk7MLEKNv2knA1IM9ZSQzFo3nU96O4mLOnrjjfaLn8WnYUfgFXyaavyrUPbElSkE1uOH-RoOxzOwrJZ49bUYCiohDc4JFaEhDRnFSm7ld8fJDvxLInS-qoGhRQ-q9bhJEgRWy6xnHwhbEK95JnJg",
+               "width" : 601
+            }
+         ],
+         "place_id" : "ChIJ327UoV4l4kYRL2AmCqLul9o",
+         "rating" : 3.2,
+         "reference" : "CmRSAAAAYTofsqOB6_1AXZ3McJD5R1ggR5i-YssEDgsCjvDd2AI95orU987qZLki6NVTvwhoGs2GTBR11ojrAuj9EaTZ2c9jRJgvPjgpenxbLgHjltOaSAELT-Z6O2bOBE_ejjYQEhDF0U6BGWxruAhCcP75xvRsGhSRQGKxKW1b57P7YR_O_Rlkx1qY1A",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Gierłoż 2, Kętrzyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8369412,
+               "lng" : 21.5466624
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.83829018029149,
+                  "lng" : 21.5480113802915
+               },
+               "southwest" : {
+                  "lat" : 53.8355922197085,
+                  "lng" : 21.5453134197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "c9d6542333841c31827e7f3cf078ce9a79dc249b",
+         "name" : "Robert's Port Hotel Spa na Mazurach",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 533,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101802687333771612375/photos\"\u003eRobert&#39;s Port Hotel Spa na Mazurach\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAIpH_FTZJf27LfPBvuNNMh39OT2fYx8tVUVSxEDV8t2Y7ukKCz3OFcePFn7kaPcCBube0tLi3qsOclQIUl58O11rHNDSHPgk8IWBbKSjcHF-Bu7JN9_fJbxvFRpI3T7eIxZ_cYkhMpyvqkMhN7c8EA0nQR7PwzI1M5KChvuZIv1fEhDencFUHT3t7Sn_eYwBrHnWGhSugh9jp6RYGyunaMJ2A0Wh3-weLg",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJE4nd3y4e4kYR_4YzYXKBYCo",
+         "rating" : 4.3,
+         "reference" : "CmRRAAAAqpb1sQZBaaHgUr4VsW-RhALXacVjb7zzEpYC8VnLRLLs6fPsEXnvIzulFtkJ8hVJP_YDCSxk10dq-UszCTLGniDsqHBhZCBpa3sVvFp0K-SrbyVVqMDWpCVFMpBzWro6EhA8oMf9qPGCVHXuDuQYWhQiGhRnqhvCSp9gOdvhfY2iTjelyaD1vA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "spa",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Stare Sady 4"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.04418999999999,
+               "lng" : 21.7428
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.04556618029149,
+                  "lng" : 21.7441931802915
+               },
+               "southwest" : {
+                  "lat" : 54.0428682197085,
+                  "lng" : 21.74149521970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "cb973a5d2f080fa6a9116204fa3fa2984746568a",
+         "name" : "Hotel Helena",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107967161323342036621/photos\"\u003eJacek Gierach\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKZEx81EkXkl8LCyBZ1uZpFAl3ZbheoNPggmsP4ECJuQTGyETj_PxjfowZOba_jo3TQRJCvfvY5_YIhAjJyf-vgfhVtczAfc78MmuqOxtpQNJ6wrgv8PWfDXSixwRzG11mAnD0SUb7qI7PM0SrbbC3r_MAZRfgnB8-Dl0UZxlonLEhC5N6p3gC368HDf46f4rWD_GhSRzr4JzuM5TTYJoXSee7060Ki20Q",
+               "width" : 5376
+            }
+         ],
+         "place_id" : "ChIJqXrgZPyH4UYRHAvALRRBYCg",
+         "rating" : 4.5,
+         "reference" : "CmRRAAAAuP_90h3XZofqQIo3gob8ZHlBZtLy7N9PVa9o_QdmuBsFRnpZ8va3SsEKhM1qs7er-Aot8AXyMXBnwZeS0_P7N1cOzhrT-gTyPt1boyJp5nzM70H_bqdED9Fmn62Ds55QEhAG2gIzVfymHiKt4BUbtMBRGhRU495pNyWaRMMIQ2zayB0-p89NhA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "aleja Wojska Polskiego 58, Giżycko"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1757812,
+               "lng" : 21.8075594
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1769767802915,
+                  "lng" : 21.8090054802915
+               },
+               "southwest" : {
+                  "lat" : 54.1742788197085,
+                  "lng" : 21.8063075197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "051302628ccb64d3f0e78033eb827b78722c2a9d",
+         "name" : "Hotel Ognisty Ptak",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111158346556284110652/photos\"\u003eAdam Kot\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADkqHjrFCjKXtMXIYzqoiaR53yGQkJyfLZV-huf0XrofQuUx8ijLMWG1tI8HgTNsHONowgG7bBemEsEqhqQm-hXTUL6ahRCJgpxy31YKBw1wf_2VMvRm1B8lR4QYTTOdI9vJ-EaZjRfWAqxjTqms4VWlvewVPqyNgcA7T8LkWJjYEhBBah3HkRgkqqlD7ZzlBsiFGhRhuqRx8SJYa45mVpLHVMVvoq6N3g",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJQaLZZ40q4kYRL8sHdBWksvo",
+         "rating" : 4.4,
+         "reference" : "CmRSAAAAxdOu3pOrey3EOyOTVDRtgJihVvjoYPFcUer-Un6y6TsOPhbZ6jZcpdXTklBTxpFQ-mLqTa8yaUSoF9G3J_ousUxCp-FKoVoRH_UWzjNiomrmkw83lcs_nvjhD09Aa6KVEhA6N5u_U6bW2Q0nWB27FPTFGhStoGwtSAIBTT0ks8PfM8m0HdTnzA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Sztynorcka 6, Ogonki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0021656,
+               "lng" : 21.8595744
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.00351458029149,
+                  "lng" : 21.86092338029151
+               },
+               "southwest" : {
+                  "lat" : 54.0008166197085,
+                  "lng" : 21.8582254197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3a487344e17ef40c690b62fb88e986602d6d0e02",
+         "name" : "Karczma Stary Młyn",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109943322251863863394/photos\"\u003ePaweł Mikielski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAABrMMNMimYzLKJjUAehJtUZJYiDtapWST3OyWD1zcpkrZ9lJ1qQLXdjGble_Eq3ynUGD_Zhh9ph-LolrOIMsa9fDP99KrgNxGx_sjoVjhQtX5rvk6TRXDWwhV_K3N4hWNnotyejCDBp-mGYnZmBDOlYs-_D678bkU_3iHi2rYCxfEhCOvO0gcNbWTKF6ZTBHY940GhTmSpVbJirgFzf53R_BCh8Dy65uqg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJM_KWtj-I4UYRoP9UOg57xJs",
+         "rating" : 4.6,
+         "reference" : "CmRSAAAA2s0dU4av52eJWSmAbWa8zxp-jvxW9WaygaTEe_4R1Q77lJnpb87CeEnK8INvXHlKAjDTFeC5TpmQ_wel1hp1OgwIwIwgP8Z4TBoSZWR8Zul188hbIMc1PuoKt8dF6YS_EhCBycr1mN1qHLk9vwOIE8YBGhSIQn5GRjbbN2qx_Xi6wV6jsWw59w",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "lodging", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Upałty 2"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.035556,
+               "lng" : 21.7602722
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0368778802915,
+                  "lng" : 21.7612440802915
+               },
+               "southwest" : {
+                  "lat" : 54.0341799197085,
+                  "lng" : 21.7585461197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "d06d9758a8fb692e8fea99aa7af63137384aa400",
+         "name" : "St. Bruno Hotel Spa Mazury - pokoje, basen",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3265,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108987517440818232623/photos\"\u003ePetr Nykl\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAixjDHA99GLZRqv73yKnLlYgJvkm5WVsbpK4HiCDTHtyDNGwRg9NRM4Xb3KKIzN17ADCEskNpfTm5EQjf1rDYINzFgsTDPipt7m_91EwoQLn53N0CuZSFkhSLQIgH5EzZNUGC8T1oMhF4FuGKZ7sAi5ydNwckLgmv2kwCqr5eOhEhBa_yeI2k2IkbM6l60OfDCGGhRORCnwh8jzIrlNWVqFtVaB7zIaeA",
+               "width" : 4897
+            }
+         ],
+         "place_id" : "ChIJlfeN0XSI4UYRgzKZ0hq90f0",
+         "rating" : 4.2,
+         "reference" : "CmRSAAAAF_TElHe2OYEdvdkK3GLNtGSshu4NXfR4UO08YBZjYSowrFYyA4OLlzwx3MyFP3F2yZ-yyiyCeZNQn6NkzFMkjdS14nks1GwIz7DczCxqiJ2BbQv-tXgdAiMZ7zwyxoTGEhA6f4dZr527W1Ed1evYMmm_GhQyb_W5TsxQteqwTVg427T_bDmVNg",
+         "scope" : "GOOGLE",
+         "types" : [ "spa", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Świętego Brunona 1, Giżycko"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8676211,
+               "lng" : 21.3076954
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8689086802915,
+                  "lng" : 21.3086336802915
+               },
+               "southwest" : {
+                  "lat" : 53.8662107197085,
+                  "lng" : 21.3059357197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "bd416d97bae52b285933cec48b21b6bae6ba8f74",
+         "name" : "Anek. Hotel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1375,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113542843368346405778/photos\"\u003eAnek. Hotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJXaePdodRtLwZ29SwR74NmhdAA_6jfADXsM8YLmIfl7iiNjiWLg39EG8p_Zp_fNVIDWeSlLPKnVI_Lg15wama9N0aIgh84KAZkPhwdeuDUM9zvXSf-fROHKQirc0wtvHMBFnMREbwrC40M0PMGcmUF7lw3yMBi4S1b_OBUmRGbOEhB9hm7qsuzDNQsZhB1rjaOSGhQiH_GvJp7EZTSLBw1daNAhz94jxQ",
+               "width" : 1378
+            }
+         ],
+         "place_id" : "ChIJa7RAfugZ4kYRS_WM4Xivwy0",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAAfA8BYd-8MSYhXWiDhhI4V3Js3IR-JSwjnubR1ukhqaztFQwtK09Tr8dmWVkm8OgDGW3KcMiZo-NsgmQgkl2XjVky_pa1dRA-vg6R5FoJUuMvn3mN0bLQFgtqHaS9cw0IEhAlzoa7AsvYdEAIk--1juKOGhRAz_uAoDYUFRdAUr4bxyVdt4Rj-w",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Franklina Delano Roosevelta 25, Mrągowo"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,820 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCBAEAAH4p_5a4EudyOvFRc_h--uNXtCjBdWoQ_83aaGeaNQ1Y17kwsXrEshOIhcWXUs5cBndh6JsmnOhILSBao7d7pBHYmRRKr-9ulPAlWSaIayYfGLDmBMcDjJjZ3DIZbrd_WHYQIbEKBmh-qEnyErYMZ7PM8Kt8deKNfyeUtHc46yntYcbuuIQLgQkXjsGg43Ty2d-A16QRUHVTb8BFxxj-OAsfSTwiFGHnvREU8eaTFuUa72ZUDjACRov41FravMaORJbrgEGyNJ10waTkerBowfzBatC2qBY6Cnvf-vOTxXvVF02BbNRBstePtaiNMRzXZkH5YvVqUoZZ4jPZY-J2JrHJ5tf2wmu3EVn7oOR41fWBEhBJ26tMAm6w6lyINz3UUTXdGhR8C_uruZwCfKvwaK6_KVaOwnuQgQ",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1598224,
+               "lng" : 19.39557379999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1611785802915,
+                  "lng" : 19.3970533802915
+               },
+               "southwest" : {
+                  "lat" : 54.1584806197085,
+                  "lng" : 19.3943554197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "a798da4075b7c028aa70d3efabe97c3629aac755",
+         "name" : "Hotel Elbląg",
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114963795203379782645/photos\"\u003eHotel Elbląg\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADzXjANQszLYVNUUqSLiwSEVM5VL9GhASWtuvKxL28jFR8ehb1WvrkIJtJ9KevNKniZj8XW4q4E3tr3gBVrLCTmMorcJ9aVajndwEW0X7ifKfPT3cBFGbrZQ5_25Yoz4Qsa4XeZ22Dc530ZGHiDbx-Xj1eHc4SZ-V4593QhLk70iEhCJsewTTQ0c2Jh5Ipon3yATGhQolsT8KNCIXiIVt_t-s4KDZhdzSg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ9cYHBl1M_UYRh6J-72iHY7M",
+         "rating" : 4.4,
+         "reference" : "CmRSAAAAlim6oNDJwdKJl77q6kALdR77njStBdnNC-hq8FG20AlXovBxo8IfHhYlAUS1eI0p5k8QAlKq4NC_pLXbwlorYLg2SCuLRHtZVsGjAoVa7DsB_P07-YR6HBdUeyIUKrasEhCKtCoJ7Ob-dU7K3HSqF2QkGhTEqPhdPFJXy0FDli6MpLu0G7l9ag",
+         "scope" : "GOOGLE",
+         "types" : [
+            "beauty_salon",
+            "spa",
+            "lodging",
+            "health",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Stary Rynek 54-59, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1583695,
+               "lng" : 19.3992805
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.16019448029149,
+                  "lng" : 19.4003834802915
+               },
+               "southwest" : {
+                  "lat" : 54.1574965197085,
+                  "lng" : 19.3976855197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "635f5112a9b48053f183dab9094d28383072c0f3",
+         "name" : "Arbiter Hotel",
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117728936785925783093/photos\"\u003eBożena-Ewa Kowalik\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAK6M_kX8dssOf11Ta-14VDlpxnYzugIAFxU_A3l5oBvoiAw1PPFALNF1tLIciuSSmXPvaP01iBbBx8hBAnmikfNDFOaJyC2qf5C5KrghKJ7jaCFTlVMq4vdVYMMEPrSIawDn7bGhh0zkNjL0sXeuzEltJPBkTniSKXOrhuEZzwXcEhABI4NInMI-wr66Qjg9q796GhRM0TXZVSXloI_4q73APMYQnR2qOA",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJz6-Qwl1M_UYRKQSXT67HSxQ",
+         "rating" : 2.7,
+         "reference" : "CmRRAAAASUCJ023bnSK_UTb8Uvr8xtwFLwW_Xez-zo-K0cLekvC0L9WLpxMNqj8o8amTtla4-2s-5Dufk_w2XdP2-OYaAZAZboNmNnMDZgtC3J9-S6fuVjvoOqp4MFxBOW3p-MKQEhBI0oo46ptWGCQtoP-__shPGhTXrJI7WB9RwE6_jbZWUvsTIcWsIA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "plac Słowiański 2, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.16029510000001,
+               "lng" : 19.4002655
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.16158868029149,
+                  "lng" : 19.4016110302915
+               },
+               "southwest" : {
+                  "lat" : 54.15889071970849,
+                  "lng" : 19.3989130697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "f08665245f9d37cecf8717ea3d0a922bb3ab86a4",
+         "name" : "Galeona",
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107764450688185637056/photos\"\u003eMaciej Łapka\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOxj4tI_Grc97Q9MxBU8Vl6QVySmfyhp3XguLVKKIhkPcDuF4VfaWWXUID8ORlspd3D3LZ7KBFSrCrjXVYU5wXzepns3Uj_ipdDCHaf4Dnmp3P4temLUMJNVi2vYv_h5cR408E34VW66yw5g6eBPpOjFNB0pDMoCeXRpzDk8fCnjEhBoRAXofWyOxAtcUVBjuUbsGhTgoNsYqFx8TA7-99-kNsmiehSIsw",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJFQtE5F1M_UYREvioTeZ3r5U",
+         "rating" : 3.1,
+         "reference" : "CmRSAAAA_tBQB4YtJjmJ1h1NCLuBLU76eARDFUN2x9HFOs_H7_Rps9vZS5TZhZCcxgvXvUsJNVBdhRngP_0GhtjI_pm0GJm-eN3d9KpUtT7O4UlkQ3PdDYZPNLDStBxdC5P9vUzBEhCa7vyCI9s8p2sjUUxKCw2UGhSzyi_r9WWMjo5FFQNKRhS-9xaUSg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Krótka 5, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.17127499999999,
+               "lng" : 19.413004
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1726748802915,
+                  "lng" : 19.4142558302915
+               },
+               "southwest" : {
+                  "lat" : 54.1699769197085,
+                  "lng" : 19.4115578697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "954912adb9920f4c4b6b468bae1c0e807ed6ceb0",
+         "name" : "HOTEL RESTAURACJA ŻUŁAWY ELBLAG",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113793498461169351257/photos\"\u003eXyz Adc\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAFIrEq_jA9Fg-TWkhh0OQYgE0qaHiqGaKmNXL3Wh8hsRld5IoVt9Bmzrxx-BQmBzx-QqROk-e-Ih6b71tChY4K3DNJ8sXssHcIVynH9uIBSBvYI18n1yi7Tl5U9jXvApjSZGwiZCusqjAxgAhTllhL88Z-adbUsfRrFOs52hb-ZJEhAbN0XbXbnS6vrCq_ejxmxmGhTfdZdEJycWGTzsZPrGBEP0SPfyCQ",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJX6ww2nxM_UYRBQNkYXbed8Y",
+         "rating" : 3.3,
+         "reference" : "CmRSAAAAIWHcwhQ9nUg6X_KnS8VGR4tGwl0GmuViILPRVIUxgEX2z2xUJzzZLN0fucGcJBJq8tMhQZySbi9mMTwZSh_k9dRw3IXWfPNb-Li4KJMcgIrhlbUnLikOzhobnB7A_N7oEhAUDL67RevwTrOKTrqyRcGGGhS7yHqPR-h40zfvaEyNh0wrzmRdig",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Królewiecka 126, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.17359379999999,
+               "lng" : 19.4248254
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1749911302915,
+                  "lng" : 19.4260128302915
+               },
+               "southwest" : {
+                  "lat" : 54.1722931697085,
+                  "lng" : 19.4233148697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "460f70be9247145db4d2b1438151c1825057b1d1",
+         "name" : "Hotel Młyn Aqua SPA Elbląg",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111044755229192387955/photos\"\u003eHotel Młyn Aqua SPA Elbląg\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGzq0wwH0SJo1ikC3tyq8mKf6AIt2vPDsU9ZhH2S1E8xNeFk-iaJMTj7rJOOHYFUmrwAcxJzZp2cwCohoB9_pkurBKAwlYVGDbJiuiXKYEP8KPUEmh72ZjXEfbsvJZCI9Qq_Qatyap_vzgYMd-e6tRbgMqZw2rfLm3HeGqWRZtn1EhCKOKa0sTAP6bJG2bEmMHQsGhS3S8WxJzHrZvyL2sCDWZLY0aL2fw",
+               "width" : 1540
+            }
+         ],
+         "place_id" : "ChIJPVrf1oZM_UYRVNDvOaJNU54",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAAp52UeYO5B3e8h4EH41Ku0oCaopLakNRilbuqYhZQuNAhGAS7HUQf_FwPuazizI4mILk3aaHeaJqyMm2c-09NDS1LQKcBQ5mFWu2x05NlRnIQ6anzde7mTytMX40R_S8FEhA7cDsmmIna89J87B7Th4c2GhSB9XCgTd8CS00Xe0odMrZWrrS5eg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "spa",
+            "lodging",
+            "health",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Tadeusza Kościuszki 132, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1535977,
+               "lng" : 19.4146602
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1548403302915,
+                  "lng" : 19.4159570802915
+               },
+               "southwest" : {
+                  "lat" : 54.1521423697085,
+                  "lng" : 19.4132591197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "a23993bae9f309b4b24476de68047ee33e1dbc43",
+         "name" : "SOWA, Hotel, Restauracja",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1231,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101818254197932626994/photos\"\u003eSOWA, Hotel, Restauracja\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKol-Ki-X8d2h6cnfCpGvQvuydzfSNK3Bf-6wNndetpFQTb-UWndN1ajd0Gfa9XfiNwteDNIryGBEbQmd6k8IuTEhLD_gHCw2cc47I8ngD5H54IC4CXSfRcO-o-qKjWwTYoDMpWq41kr36g0q21ySjV7ImeXk7BIuLrTcj1S7mOeEhA80HMWl-CI8L9f8MXn_T6aGhQR2aVvwmaJVxXfxCOLWtgkkgAy5Q",
+               "width" : 1234
+            }
+         ],
+         "place_id" : "ChIJi1GO-_NM_UYRBHPxBQe5Xrw",
+         "rating" : 3.7,
+         "reference" : "CmRSAAAArl6Ryg8PvKrozI_ousy-NbTYzdz6xxFyZNW845tSw4exeDDuukGFtLDjbzYIKfWq6rRXUnCs--cgJ6iyQ4oiur61-YzdJK4ih9TlGpfl4sija94Be0_fI9SIHr7WBM2IEhAf0ppum-HQ1VFLTJIRQKDxGhQf_JQNLuBpAuG1Xb-uXtAcTELeWg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "aleja Grunwaldzka 49, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.15806189999999,
+               "lng" : 19.39447849999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.15949013029149,
+                  "lng" : 19.3958035802915
+               },
+               "southwest" : {
+                  "lat" : 54.1567921697085,
+                  "lng" : 19.39310561970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "96ac6359f0eed545325130171f6739266793146d",
+         "name" : "HOTEL ATRIUM ELBLĄG",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111004813019331542233/photos\"\u003eAdam P.\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAD14cCEm_SXpHjq49bBzJZ488EGl5L0Z_-17UuCB9A-dcLivdHdLnhK2Uh-I5JJm0islcqrefvEo0-DAWtcmEbYaKo8eFdu7OGeXgqw8cQ0nhqf_bnLvXuhS3fcBcRDPImsCOCXf7BVj0cGAOvjmLbR2KiQWrDAprZXctR1YE5nREhCF-sJSrlOWj4OXAXX7IT4zGhSGRRY45KKdg-PS2iI-PbsGJeexGQ",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJGyCA9FxM_UYRMkPDtFGijcM",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAA_MFIrNosZOFeMLV7WFOqTfCkMMYTG26aeVazxbt2CCoHPsdOZbAo5ms9laN2oTIClA-jHghiA5rkD7FBho2pXEyduon0uKgAOHSKtXOFekGvgJYMEawPMbGbOFk9mJvqEhDMN-NIahy6GZrT8h2PSJQkGhRlDKIby7DWtLO717rsHPsKXW_ikA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Mostowa 13, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1590606,
+               "lng" : 19.3974405
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1604572802915,
+                  "lng" : 19.3987734302915
+               },
+               "southwest" : {
+                  "lat" : 54.1577593197085,
+                  "lng" : 19.3960754697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "7b4721a83b096615b498ea7457fa3ffa7a8ba22a",
+         "name" : "Pod Lwem. Hotel",
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110568283144022441450/photos\"\u003emarek roczniak\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAF-qlzX1-qGBrsfOAuBWwD72OWtrNhCPk1ilKoX5M_5WhkjBoEAGzEqjPMeRxHArc7x4T0AMFXj7kf0GqTFqDOvdHFXP4aPr08ryiUQ9SV-YNQoC02gS4lBJ-ZCmM2Zl9C7UKLgYdewfdXpUqItKRCmqzF27MUzP4HZMnR5Bv-EmEhAguug2HliE1EoaN2uDokXMGhQUYOiGAQroZsCO7dHBanHrs-8f_g",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJIfVdtF1M_UYRiYs28Mt0iag",
+         "rating" : 4.4,
+         "reference" : "CmRSAAAA8q3C1duEg-7XDXYc8qSxRD9rscdTOnfbvsrH5S3WV9avhnKGBOZu5bN738Sycmr_L3RShHBZ0hUh897-xTe3NCiDv1LaAqI6OJwruewy1-GrwFNGxTm0tJbDX7odaDrgEhC-1iXBip52q_njd6tMsxZTGhQBzEMWMv7VESzSwGnLUWlNO3pmcg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Kowalska 1-10, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.157615,
+               "lng" : 19.39394799999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1589350302915,
+                  "lng" : 19.3953063302915
+               },
+               "southwest" : {
+                  "lat" : 54.1562370697085,
+                  "lng" : 19.3926083697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "a4fcd7721b141fc44e063815f58bbdb80180e15b",
+         "name" : "Pensjonat MF",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118148800071132796356/photos\"\u003ePaweł Brudziana\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAEei_hF2g1U_lYaG4TfRPmi_fyXJlC5w5lZv0RAGLj63YzdywnFx1c26GYf8_-nFFC08e3XpvLe9UrVO-RZSV9t78Xf3hYPn1Zd85OxiAV9pAviJ6rY7jfB_-fNLxTqTiw5XBleJT_O6t8gordchBZoR4OVvnj4257Xtx2cwxzskEhDKLTNTxuZk1gDSJW4iERAMGhTkHeeGalWVyVh6y8PzggkIfh2PlQ",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJ93fni1xM_UYR90M9yOOudvs",
+         "rating" : 4.1,
+         "reference" : "CmRSAAAAVWsogM_fJh4R8Kd6kNnTp1RDtH7t1-30EY3zLQ_lXFUNwjDF4vG-azq9BFWWl03ajfTl6gzgJZvYNEv0ts5eg23EUfxT8ITPzaqJ_QhqkVW76E8t8YhBp2_j1ADD37s3EhD6zgZuubb__UmN1cLfhIY8GhTMRXMnPIlQGRYHYx1i2GQN10O7Mw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Świętego Ducha 26, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.165691,
+               "lng" : 19.358666
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1670399802915,
+                  "lng" : 19.3600149802915
+               },
+               "southwest" : {
+                  "lat" : 54.1643420197085,
+                  "lng" : 19.3573170197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "578ee87ab6b34387a325fd72c58ef1fecb35ed0f",
+         "name" : "Zajazd Żuławy - Hotel & Restauracja",
+         "photos" : [
+            {
+               "height" : 854,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101869045491833798433/photos\"\u003eZajazd Żuławy - Hotel &amp; Restauracja\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAACNM2UD7-uofnFmBUPeVsQDblOnkpkUzHdYuBAIW_Zx8O1g5rVczU5e90ghJEfsgmEj0vZW2WH9WvC6PmA2w80TWUpfkOZ3heRQ4WQzjoVXB-TeslYm8pPx76BEU0Ul4MEslkXRqqZjtSUSU8mmFgy3wdhrvFadksJQn-uilNiDqEhCtgor24u1ro7XNptYjBVjkGhQmpFQmwcnWlNkRkeOc6waNwaHehQ",
+               "width" : 856
+            }
+         ],
+         "place_id" : "ChIJZxj1TiJM_UYRr1o9vhoaxZ4",
+         "rating" : 4,
+         "reference" : "CmRSAAAAwTfNt2m4FDtcAlxCvXy4nmfUBdHTsLE8e5HCsZQpHGg5fesnc2DeaXxNZyrMUhw-H43lIAq4z2Ohq7wwV_pax5zHhdBwutNagVtklEHifkoAB_aRA7suNM81gZa7F_cDEhBSy53oow0_GLE7xBfHz51BGhScCGADhYRwGtIcmolY3-KnlgXYjA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Kazimierzowo 1"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1597447,
+               "lng" : 19.3959965
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1610896802915,
+                  "lng" : 19.3972727802915
+               },
+               "southwest" : {
+                  "lat" : 54.1583917197085,
+                  "lng" : 19.3945748197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "7345cf4ec9ff7a437758a3f28cb24083743d6506",
+         "name" : "Hotel Viwaldi",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111004813019331542233/photos\"\u003eAdam P.\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAEfsnteRHT0FeRH-WVa92LaexWJ08akrOdEm3sLu8jmDJMS3V5BVcf40Z-a3KdbDIIIs2UWNPkytXF1gznpPa1p91xAN3g4JlvnCTy3Dj-yilcm4Z7FZUqakvpT4DwMM0_5zIFyjJoSB5TZoNmT-Ag-txTEKgiC95oiMmTOP9pUGEhAvcC7INw-Nc9pt4KwYAL7TGhSPCuxmxJ3QC2Kups_F5fXbiQieIA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJe6HuB11M_UYR6LpqoRCMzmU",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAAyPnxlJ5bvqPFg_bMrQqgCGB9Jcvdml3l9_mGX_E3Z1cHNeQcLgkQHs6tSLscJmf7pPyk7b6miwkDoEeQjEHOLCk9qqMyqwrR-3qa_qaHqKPlInDDO0skMNGDisydQCXaEhCsnh7dYR93EOTnQGZWl0N0GhSNPAUc6h5Jb2E0dwmyBky5zaurUg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Stary Rynek 16, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.2978402,
+               "lng" : 19.4839495
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.2991891802915,
+                  "lng" : 19.4852984802915
+               },
+               "southwest" : {
+                  "lat" : 54.2964912197085,
+                  "lng" : 19.4826005197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "6024fc9f2fec58db93234a170cb20bddcc66e400",
+         "name" : "Hotel SPA Srebrny Dzwon Kadyny",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102832253691180896708/photos\"\u003eMarcin Wilk\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAIpk32bjAfV6gBa_FPU_bgBDTnX2NwAYswLlf-gVWEctxNRd5mH_jKxljy_2AngkVkXsLWI9EQE9FYKevZzz1tN0WeUxQMaiE39vCWBYyhxpVbAnlQZK2UfpLc6tKa9ANivv7iEm2fRjSJO4H2koeUIr6iyBpZ-J5mW1iaCohiCLEhBfHJmz5P6UYZ3ODllWtozMGhSVp5xCMT8KeU0ISgcUE9jtEmJQ9Q",
+               "width" : 3652
+            }
+         ],
+         "place_id" : "ChIJ4bwi6180_UYRC77Odu34PiY",
+         "rating" : 4.6,
+         "reference" : "CmRRAAAAhyeTnqG3F-B-Z4r_s6PswDwJrJee6C7c42xjYBIJ5mL5fPbs-o6pm2wO9DucpSDheQ9bzi4qgMn7JBOAnVckLQ0ubP4suKgbPVLnV37SH1J7yjxYvX-6g6Hp0rte1qtPEhDic-SPrO4bp5s54WTcaT-NGhRNilqbN1olEuvN_anErvxE9PmdYg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "lodging",
+            "health",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Kadyny 31, Kadyny"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.183671,
+               "lng" : 19.435944
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1848154302915,
+                  "lng" : 19.4375004302915
+               },
+               "southwest" : {
+                  "lat" : 54.1821174697085,
+                  "lng" : 19.4348024697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "f6d8e29fc637564e2757f7763b3b513fb1fdf815",
+         "name" : "Hotel EUROPA",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104220816001125830382/photos\"\u003eKrzysztof Libura\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANOnV_7I7Xey1n9AbBm9Ip20opVR-8mXWDj0f9ND_O773asJ4DqMVcdFx-oDWOGYUEc_5GWOVwSIshgphDoyddm_SfkzupaU4jpy-l5JBQfnsTFgSPYgmg8-t23djoppyTTTqbXp2HL58ZKlGIE-_GtmvMTzS1mfVygusDxH_CliEhAF1gDiThQZOuM3O1lOX-adGhSpOXdalLZ24XYIbSuM982yOM8qIA",
+               "width" : 1836
+            }
+         ],
+         "place_id" : "ChIJuQ8KVXlL_UYRvcUAOxpbhAk",
+         "rating" : 2.8,
+         "reference" : "CmRRAAAAyRttcaqVmfxKMlavXY4IxSYa6oT18tcJfH95DdhmD8oW02Lq3NooDbeU-3uMM6hOqPXTG1C_gnzUslbsJYgV2KxuxB_NYBTJPGZqeX1zBC3_Pl3x1QQyAnDu2w6fUjFlEhB8ZdUsTVaq62vnd4KqtFmCGhR4pc0Eu1lMluTfH1R2zHg4C8V0RA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Królewiecka 219, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.027259,
+               "lng" : 19.044756
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0287377302915,
+                  "lng" : 19.0463457302915
+               },
+               "southwest" : {
+                  "lat" : 54.0260397697085,
+                  "lng" : 19.0436477697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "f84010977245d01cd1b5aeb747ecf7acddd434f3",
+         "name" : "Hotel Dedal",
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106831897227216330241/photos\"\u003eJānis Ērglis\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPjlYE93UVlnq_golxNNGYdsjmmMQ7Pl8ZyieHqfeXBsEjhNkCQOUeQnAA06yUFWvdS1n_hGDA_PX6ZN5ZhmN7uuc1AWkWCkEMThgCOkl02_fupI_xyul78OE5nWytWpvO0Q8HCLOh0MR2V4YrJMFgSJbCvvpTe3wvTOe01ODJzrEhAPJtQidZeX3_aHVnkkyuZRGhR_Zy4ehEVAUp6GT6O3ydhILnwzFg",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJdf1hQaVZ_UYRJJYF07SujCo",
+         "rating" : 3.7,
+         "reference" : "CmRRAAAAYuJc4VSoLAA8OxMrxbinMeuHMiTAlovgJYbN9ByHhISsxx4EYGAaPHOmgVNviIDVQdBveJi3FntEcuTYHsaUxWoYO6UPI6LEqgxF_S9MT2-q8Hu21Y3U48_drxZ-Fvn_EhCMrsw2uKlcTJAUHozYkiUxGhS_qzopXAr6Wgds8vggdkP1_s8GMw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Generała de Gaulle'a 5, Malbork"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0371433,
+               "lng" : 19.0571488
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0384922802915,
+                  "lng" : 19.0584977802915
+               },
+               "southwest" : {
+                  "lat" : 54.0357943197085,
+                  "lng" : 19.0557998197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "5cd0f93a44a51505251c1679f9bb75dcaece34f1",
+         "name" : "Hotel Majewski",
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105509863043364721146/photos\"\u003eJan Majewski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAG15vD4pB6Zlvh4k0-VYNKbKiCJMUFZuedIJD2wQyap4Sm1OC3WEUpEuDH2FS6fou5hDoB0UljDXUz3v41o-_9eH7WqXapiHN6BZiB7BLqyu-ZL71EP1WrUNFSxBy8UJYJD4DrWoUmaewfFI95zif5o8qCh8ZnHpf7PzuE3q2a_gEhBAyPuw945-rEguFZ-qTXnfGhTozloS8wF4eUPBOPr6QRonvAEnpQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJvfChib1Z_UYRknnx5eeptdI",
+         "rating" : 3.9,
+         "reference" : "CmRSAAAAgpcvwBqOvlB8vxWaGPyRcXwfkyBC-LIJd1ZAoPUZLHGphMHNEvbpZZ4AaRHdDMQUdQ3fCdCEffi18WH1kWyN8OUvexIvjoX5bSOmSqnvRcTXmnjAn6abR56t-DM5BAISEhBm26u2vNTxybz2PzJhEfszGhTiQnj-S-j2xIhFaxeU1vZKXNlzKw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Daleka 125, Malbork"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1651628,
+               "lng" : 19.4225307
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.16651178029149,
+                  "lng" : 19.4238796802915
+               },
+               "southwest" : {
+                  "lat" : 54.16381381970849,
+                  "lng" : 19.4211817197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2997511df9f5dc2b94bc9f76d8edb9d98d38c78a",
+         "name" : "Atletikon",
+         "photos" : [
+            {
+               "height" : 1840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102644018113166210941/photos\"\u003eSlawomir Zukowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOB6mNTrA-DJzBriHAca09daNM8muxL2s2Jg5XfbR2FQx_ByOFDKDwRX7gVcjIm1krpNDd3PIToc6gP-GBTVRQf7VBs4rfSzpEMv8sMYiuqcLo2FpBJuUuMmxUKvqi7WsBZ5AaR7ggkOVAmL0NZG6sdcZwLQz7L8B6XytYzMVMBAEhC47GHEpBXY8mmixIkOnWBOGhSStfpWoYPWzQZ6JpFMdIGo7z0Pnw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ7-VysolM_UYRj4LPvLJnNGw",
+         "rating" : 3,
+         "reference" : "CmRRAAAAn0Bo-veo6aMM8AbIF5UosD0yCDEBEXrWLgS2W_AP_omJtN6wRQHarjHf0jyLr8-_fcndsU1p-SaM-l7du52NBQ4sDpUryKBHk16y1ez3pdYoXlJYEYVWJC0-oqP5cQO_EhBfIZD5XJD8ELPPqy5uyaAOGhQMkcVg79_r0_7QijPaURA4-VSlDw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Agrykola 8, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0362831,
+               "lng" : 19.03422789999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0373040302915,
+                  "lng" : 19.0355719802915
+               },
+               "southwest" : {
+                  "lat" : 54.0346060697085,
+                  "lng" : 19.0328740197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "41bff6878ddd38ce1c087a792976c2efe717263e",
+         "name" : "Hotel Centrum Malbork",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1521,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111568369656637122770/photos\"\u003eChri Po\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAABjFDmJjGeh8FZRKacvFh7i2jGRarRrJdxVL_LIyH9sHD88NxWfIBJUWP30FrTSoWfODIqXi5B7sXwg41-4p0WtmVAxlEY8JyUwbpusbjwP9f6hj9PBRaozBAU_E5scfdNb_KAr9-ocBeiTqKD5uBq7yMdITOhqtfKnuLnMrr2m-EhBnR6EjwgbcU0oSCAxpmGuKGhTzkADNdpM0LretCJIcO69_qW_cHA",
+               "width" : 3600
+            }
+         ],
+         "place_id" : "ChIJ0-Lhq6BZ_UYRUtlIesAZc3c",
+         "rating" : 4.4,
+         "reference" : "CmRRAAAAGSy2ZYZIFjG06iZcqMf2_HKZnoviZ-xo3Gj4xuF4pBzLV-0WqP5SxVjzlNr5x14SGlvja6-IsobDVW9IvLBg10cV88KGdtIPWJ1atxt9MhwY_uNnub8F_X-rcBHutQTpEhBiqqLWHrwjozQi3_n2Sg_FGhRkQoDdfHleWYui0gD3uXNjLQBl8w",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Aleja Rodła 7, Malbork"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.097362,
+               "lng" : 19.57121399999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.09871098029149,
+                  "lng" : 19.5725629802915
+               },
+               "southwest" : {
+                  "lat" : 54.09601301970849,
+                  "lng" : 19.56986501970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "a11cc6e0473348a077ad01db0e3a2852467e2623",
+         "name" : "Zajazd & Spa REMI s.c.",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103263875591010745342/photos\"\u003eZajazd &amp; Spa REMI s.c.\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHbe7Se6H5hPuoR_vlOMXFff8omt4emkkUtZ9Ky5E3l8YRxPsL8CAwCxsN5iDuMFqGzioPvbMyyzLad_V1XSi5GSrRynoS3IfCIF2BLRjVe57Nu4x5EYuDShZBo5_BUu6EFsCOceVVRMmUFnm51h4qKbiWpqlGdcNzK2o2CcK3wKEhBcqf3xaYm5J7cqvv2kveLSGhSTp2IZfhZa31h7GopYWheLnnraDA",
+               "width" : 1202
+            }
+         ],
+         "place_id" : "ChIJG63rEyay4kYRGVDanQrF2fM",
+         "rating" : 3.4,
+         "reference" : "CmRSAAAAyQgubD3Qs3Xz9H1KX07NDUK7Hy6QIRIlgUfmpUpC8x3SIYjSfgwuUDqU3fCZrtCsupQlnWw8V9exBPV2UiwwxXOsMIUT8rUrAO8so29213XkRPCgZioINtGGOAAgqYnYEhD2k7n9NH-yzWnG8Kyug_o3GhTqnHyxuo6-zLyVmqoZPXC7aATOAA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "parking",
+            "spa",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Bogaczewo 17c"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.2972224,
+               "lng" : 19.4907171
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.2985713802915,
+                  "lng" : 19.4920660802915
+               },
+               "southwest" : {
+                  "lat" : 54.2958734197085,
+                  "lng" : 19.48936811970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "e420c06ee5dbfc96b154133724ece7675d493346",
+         "name" : "Kadyny Folwark Hotel & Spa",
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106641743002691330817/photos\"\u003ePrzemek Frydrychowicz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGugPAXMr_jWKErWnTEJqAXC_fT9PDoMeEpMtGnnOksN6lXs9O9POrs6SaKMJMD72VEFhy5KseztK3TohrM_0ZwKiQmYSNFc6KkQwMfScT53UdzKTqFqBUvHV3lZCwJY7lWbo1OXMJJlj-wtDRb11_VBJuZTPOWB9ueyQm956MkeEhALOuKViZiQ_C3rIN7akpPcGhRYQf2s3EbM6qCX1GotEsiH4Ym1ig",
+               "width" : 2880
+            }
+         ],
+         "place_id" : "ChIJAQAAABA1_UYRfbQl9AoX3Pk",
+         "rating" : 4.1,
+         "reference" : "CmRSAAAANgrLX_laauFq6zYRNtnY-5zDTrN1w52aF_r0UETJXs60H4m2Bcwk9wPcJ-ryRXuniDkOrOYHti1K5_0Sw-CnS8F9CsSY1Mu-aWbIz6UcC5yyFY5Ze6UmODJ-g-EMW5InEhBXFlerIyv6m574KejrhjpFGhQMttWpxcswvwoSfJdFypRkhYCQjA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Kadyny 18, Tolkmicko"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.03278299999999,
+               "lng" : 19.0275089
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0341430302915,
+                  "lng" : 19.0287593302915
+               },
+               "southwest" : {
+                  "lat" : 54.0314450697085,
+                  "lng" : 19.0260613697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "8a3f6dc6776a7d945c3c4af2948f3bc4ee418a7a",
+         "name" : "Stary Malbork",
+         "photos" : [
+            {
+               "height" : 3543,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103592398077441776251/photos\"\u003eKlark Morrigan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAO6Lukb5CMwXNYSBt1pRjnQhu_5Kb31Jt60O0e5ipwuCLQffMDP0l5Oono7vz8pGN77aIKB-m29aD7_3IaHii9B_2uSkgqoXedBHIOGIvSoT02OvLrKVrgj85NcU7V7-gk-shSvr-7InpXxMScpD0fET45KJZE9xarOkVf5HUNOWEhCSv3zMc3yyK2AM1Hr0yWKiGhQdx4Gl6pAvSfaagfkopyCSUm0xOA",
+               "width" : 2362
+            }
+         ],
+         "place_id" : "ChIJGzGyTwhZ_UYRJK0-W8kVsXE",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAA4IWatBoxnx0M9i5TEe22g4bbgLyzgfI3gC521FXBsNEHax8bo6N8Al2xACsL3d5Ivq9blCcz7kZbT8HeXSW4c1Ll0wby2LoYKWdf85DtP5_JGLR3JrvCExudLd-rOviTEhBXzNhqYRV2jQTGA14JrrQWGhQJhN5LnIj5AkoIbOzT37ronSS2Lw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "17 Marca 26, Malbork"
+      }
+   ],
+   "status" : "OK"
+}

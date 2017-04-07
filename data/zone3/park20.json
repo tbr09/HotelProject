@@ -1,0 +1,855 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCAQEAACOgrKPFgGqU2cgWv7rq4Hv1dSpweaB5zkDBPPRk8nyAa-FPHoSDqC3f5MTdsFw75SmAuLy4rslZxLGHtSUY81TooWQyaUiGJPHOx7QU1LITCL-egjmZJ4VRFuRQ5DZwn6PKv4Hkuh0-vzCuuDH-SyLdc6mB3Z8I6OU7RaX9GOZPn99oEjeyUVjH_KoUZHYPCOVOUsEtgySDUhbFADhytPvHrdP3mWYr-fhhEghaNPeR7J28XetsbPM8kXodfb1FHsp4SZ7xOxf7LUTTS41fWeSYm9s_E1Bn-uWWKXGH6je5vm6lcLsa9Ang3YoXl1cg4BYVKAWJzkX7atzSpgXCw2BQvJwnA2NhudME5NO3keQ8EhDN697gwqfRnGxZcoSFXkyoGhSsD7DMTagqyiZt94j1L3jaJ_uppA",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.781475,
+               "lng" : 21.338303
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7828239802915,
+                  "lng" : 21.3396519802915
+               },
+               "southwest" : {
+                  "lat" : 53.7801260197085,
+                  "lng" : 21.3369540197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "0693cb5dd54f8862dd13e0f6d764246a2439c9e2",
+         "name" : "Mazurskie Chaty",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117884334361655202230/photos\"\u003eStanisław Gajlewicz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAD8CHKGH8QfOFHSDgmqmaC8LeHuSG0yRVGXv4Je-qCye6SkBQ3qbn5WeF7zEd2UPf8WW7luOd0OpGrR5kX2YVYPU09NayGaJEk607NQnF8LejhyiELtDmw1YvPidxLX4AhHeiIjMb1BZY_yzb2xPMi2WDlKIDfoupsS7touwN9r9EhBMDJVU3cjjAcYNfnU0zWsDGhRZIrelM8BxKomHFwE87drFZWTVlw",
+               "width" : 3008
+            }
+         ],
+         "place_id" : "ChIJg_Ubj24b4kYRjfpd3krhjLA",
+         "rating" : 4.8,
+         "reference" : "CmRSAAAAH2pB2NhZtcz4cJP_c0gPNb0evsTpofXiVl7IidtZGzz1zEnkEMChmHFVpoFFDqR78luxH3MmM6pP0B_xxD7PD1MmaQ7VeX91kDLIx4w1eAAlyVgjdvred7OoGn20OLOSEhAZigSC_AQUptotE6nqE56kGhToUBNR3hSqWuU0QLZ_GSLxnhjqRQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "rv_park",
+            "travel_agency",
+            "campground",
+            "park",
+            "real_estate_agency",
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Zwycięstwa 61, Piecki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.79656480000001,
+               "lng" : 21.5632348
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7979594802915,
+                  "lng" : 21.5646583802915
+               },
+               "southwest" : {
+                  "lat" : 53.7952615197085,
+                  "lng" : 21.5619604197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "e1d20035cedea5299fca8fa221764e294dbeacea",
+         "name" : "Ośrodek Wypoczynkowy Wagabunda",
+         "photos" : [
+            {
+               "height" : 2336,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101117050247330106414/photos\"\u003eŻaneta Godlewska\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAFLgm1Qt3vFjLMrcVTlTO9mYwt-iOnCJ7RipMzREkLQiXUFIOJ_uAVPH9qje4zRQ3yg6NVpLm0w1CYeOYEhWEo6yJgtPGKizoYf1wtwgY21COxKiB8yunAK4zUQpYIJhYg6dJUlv3eaQY0S8L8AGylrnAZ8Svzh3G0odJ8vrQp-eEhDnGRXyR2ejk_9AtUWQXZ7vGhQyA8abB-DXnuv0f7uF5TCwsP1baQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJcfAXWXT24UYRtZlTj1Woouc",
+         "rating" : 3.9,
+         "reference" : "CmRSAAAA5hmLu2Ye3289Zf5kKcNkzGsh38Lp59_9qGFzeezjpfBzkgHzrLp9T2t3Bh0vONoxwXBwgP5TodEtIdOX3XFECWOckHt0PpGzWj3O2_cnpNDf3Vpj4Gs7GlEJCRswvJU2EhB11KrpMZOvcKfuMKaTNV9VGhSNWSUYm6YiFCfGFeXakuXg4bx74Q",
+         "scope" : "GOOGLE",
+         "types" : [
+            "rv_park",
+            "campground",
+            "park",
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Leśna 2, Mikołajki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.13127919999999,
+               "lng" : 21.943408
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.13262818029148,
+                  "lng" : 21.9447569802915
+               },
+               "southwest" : {
+                  "lat" : 54.12993021970849,
+                  "lng" : 21.9420590197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+         "id" : "6fbe05dccb540a7d0f01b71a21d7200dc4aff117",
+         "name" : "Harcerska Baza Obozowa - Cyranka",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2952,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100842403640371109733/photos\"\u003eGrzegorz Skalski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPsuWpxsVBgNiiaHiaY_p7z6VH0WkyFpfJn5tArRInE44_pYB2bkMDJ9z-jp4J3mG-HYd9bctDkraOLTnO7Cwuxz0Ima0A8SS09FwO7fcojCIPEkwRGE5FtsLfW8n96z7taLPxIkdPxpJKOrucOXedTt7IKX0dIEI4w6PLcuRqAWEhDZwU4dGvB29davAqZagB15GhT_GijE4VpQb3gn7cHv_h5XDIPc_g",
+               "width" : 5248
+            }
+         ],
+         "place_id" : "ChIJWfERg3uB4UYRZMEoCMhUQcQ",
+         "rating" : 4.3,
+         "reference" : "CmRSAAAAWjs6DetDw5eAFw6iX4stiEM1ICXwW4EE4PTbaHAe345txtov-OavnzPS3n2NoU2miAkLlzfm7FLn0pYXB_e9dd_CHJebE1MTW85nubGyHeohqHYEyi4fe-SyK3MLHNrPEhDpvPNEPX1_55BpRRfRk3BcGhR0edijJCPZov8l4XyqSQus5nwxNw",
+         "scope" : "GOOGLE",
+         "types" : [ "campground", "park", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Przerwanki, Pozezdrze"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.932451,
+               "lng" : 21.532501
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9340180802915,
+                  "lng" : 21.5337576802915
+               },
+               "southwest" : {
+                  "lat" : 53.9313201197085,
+                  "lng" : 21.5310597197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+         "id" : "a6b749bf21185d37183ce8d8290c1d6108715ba5",
+         "name" : "Ośrodek Żeglarsko Wypoczynkowy \"Wichrowe Wzgórza\"",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101884464156226401688/photos\"\u003etomasz matejuk\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGvSgTLoMmRtJu0_miVhoefi4Ir-Ivsxjr5P0g_3N4D07JbtG-Grgh9zbRY9KbbKgKN6v46drP44wC2JvMq3doo72sN2jvWks_V_ORB3N_T33OOK3JJFuGTYbY_8eAVGYhfJQU1sxEn7pl_GQqu100j3aa-vCcGYEL9KKTJkpUo7EhBXyyCNS3-3SiG2sezIr2KlGhSeD46UoewRTicK5eF3ny4zeQrOVg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ43fEFKMh4kYRf_y4CNZyuQo",
+         "rating" : 4.5,
+         "reference" : "CmRRAAAAP83JtO39xaddm_QnnHn_bhgoy6lgeY-PKxFonZh9IS_kvkw-IqFEWciiDEe3Ta_DjOrshoRx7N-izDnuHkJy35o0XFkrHwVzfJO2yeFiLCYjhqJyAxQPQURs1WK618yYEhDPN5SDRS5bL0f66UEltgw9GhSie0TUKmg0WX6eN8uYjq6gu46VzQ",
+         "scope" : "GOOGLE",
+         "types" : [ "campground", "park", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Mazurska 18, Ryn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7313865,
+               "lng" : 21.5197599
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7327354802915,
+                  "lng" : 21.5211088802915
+               },
+               "southwest" : {
+                  "lat" : 53.7300375197085,
+                  "lng" : 21.5184109197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "980c51b23a88e4b8d3484d878c60c527d4707589",
+         "name" : "Nowy Most. Ośrodek turystyki",
+         "photos" : [
+            {
+               "height" : 3366,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115569531627676985973/photos\"\u003eRafał Jarosz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAgkyt9j4e4H5Er_rBcxprimlMgaZIZca3PtShzWogncKTxO8-ilxwAl9S_50AyYObJ1_oksreYaHcDz8si0uJtbmxonERyv2KHYw4XU3Il2ije93L5TYUz3HMjjsYAyaM7pxvDavbhm7SgO8gf9Gm9yGLlldrWIfZMGEG2qpNYCEhAYPWXYeHT9LVuuYuujWExFGhQUGmR_S_iZoO-EeNf8N1WQzqbjGA",
+               "width" : 5984
+            }
+         ],
+         "place_id" : "ChIJK18TNE744UYR4-6_rHm8lbs",
+         "rating" : 4,
+         "reference" : "CmRSAAAABQdLI5kPjYduvmUHX8uEqLi_Y7a3f4vzTBFmI4AgU-MEkCeZVIfdcavTEyiG80tOvpbux5Sqz1kzbTC8DApwUFRFr6aZKx7Vevny7O32FrGL6i5u0q4M7_urrILODo0AEhBjPHFZe6kn0BqSWJk0LyB9GhQe9AcpZShm7AWxbk_aRoCPJWrklg",
+         "scope" : "GOOGLE",
+         "types" : [ "campground", "park", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Ruciane Nida"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.876016,
+               "lng" : 21.3166926
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8773084802915,
+                  "lng" : 21.31796518029149
+               },
+               "southwest" : {
+                  "lat" : 53.8746105197085,
+                  "lng" : 21.31526721970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "4260f64625c79da2f7aa521c485f9cade1938e51",
+         "name" : "Camping Cezar",
+         "photos" : [
+            {
+               "height" : 2336,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106373817416564470047/photos\"\u003ePaweł Mańkowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALbIYmxMZBKf8hiZroZy2l6CulK7NF1-782y6jxTYU3KfN66EeXKb93maVaczL_Moc-xA-PGFYTHf3TIXZph34ezL0ZyYQ8bJRhYEsL7bPHogsoExaKkA6oXDdeX7BB2z-fWNVaI-g9ZqS4q3tGaBAnDFI6nImaMelTw9hoEvtsVEhCFGt-vArdMHMzcwLzBGQ9zGhTpZqt1sI17RQykzCUrqvs1UQxGAQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJo-g4wsQZ4kYRVwCyGKAnYz0",
+         "rating" : 4.3,
+         "reference" : "CmRRAAAA2YIQJc1Q50e_ZNj4AmXfWBuocSgtxlErHQp66Z7OQlH6Q4LQULTjbv3Ml9hGBQ-bRAHHzPF-Hrn9nrcvRKmD25OFaqkMs-kgsspxyhw6M2kK8UaT8Ec9OXH_6BK2RJq6EhBXEYwwMCGsoW497p_craidGhQQojxSzy5EhR2pVZUjaL2Taap6Pg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "rv_park",
+            "campground",
+            "park",
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Jaszczurcza Góra 1/6, Mrągowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8956399,
+               "lng" : 21.6610909
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8969888802915,
+                  "lng" : 21.6624398802915
+               },
+               "southwest" : {
+                  "lat" : 53.8942909197085,
+                  "lng" : 21.6597419197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+         "id" : "eb7d630f19bddb174aaf5aa60b8c3137d96ef8e1",
+         "name" : "Szymonka Pole Namiotowe-Camping Motała Jerzy",
+         "photos" : [
+            {
+               "height" : 2136,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106504599695892593298/photos\"\u003eAnatoli Simon\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADIdDxV0oUxCVwwbnxht2pwEI_EYty-g8YcvzluTYOdFCdtV6goL3-8w9e3TuPqhivLvv49L3e2HST6vgQAbSoRRixvpSNPGZenaDspVza5OxnAvLQoNTmMe0URNY_oQMpOtUYLy8k2FDhUm9bihIY9IFgTOFiN10W4fiv_78Y1REhCCT7QapqyAmOKwHaJzP_hIGhSp1w0KwFaOd9qhT7ws2FnVaN8azg",
+               "width" : 3216
+            }
+         ],
+         "place_id" : "ChIJ7fWez-6K4UYRMaHfsdAcfwc",
+         "rating" : 2.8,
+         "reference" : "CmRRAAAA6hMZ3YhihIppiOaHDUFosaurrH_Sr7-ubeCzwco3BnG1DuUK_w1xKbtuJq281cMqDFDp33xNWfD8_x80n9CnBU-XidUFAS3cfEyo2GL-PP9kKzPVS4BQ00QlNOqvbTTnEhCAaOdyzQu-gqXqRjALtXDyGhRdtKV9a3T6dgBBEQu10es5mR7xVg",
+         "scope" : "GOOGLE",
+         "types" : [ "campground", "park", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Szymonka 39A, 11-520 Ryn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.81651799999999,
+               "lng" : 21.3773283
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8178669802915,
+                  "lng" : 21.3786772802915
+               },
+               "southwest" : {
+                  "lat" : 53.8151690197085,
+                  "lng" : 21.3759793197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+         "id" : "dc813a691a641b41fd36971c542c71e449e9bb37",
+         "name" : "Cypel. Pole namiotowe. Pupek Antoni",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113759699374980829821/photos\"\u003eMarek Baprawski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMhYUXyFo0ghn1bQxM0sp3Lft9w9NAOikcuXQEKsv6JaiEY1UpYhhEDHCkEbQi3oK24Gzc1C2mGdzqOjLOzQK-kHOcK3ozcfvqz4aSgzmxdwTO17WUpo4hJcSnWEOCrL3r8x7D4Mp8a1_smIPPIH4TCKbnKNcZ2IVdhoy4EMdBgMEhDCyaf0x4Tgfg8_thfN8nhfGhQZ9FeFKUU20QeLibexN6mMqiGK5A",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJxZp_quAb4kYR54Eqr01JtJc",
+         "rating" : 4.4,
+         "reference" : "CmRSAAAAF43Bk6gQh5GxPh1kDR94oS419ZmYSpDCDb33RxYWPwd9-9toTkEE7A2DQ8juRVH12QJbunnrw9uHA9Y_jxy4TZs2qRWgjMpqtE5QkDpVZv4VdO3v8TebnSthIAsPbWLsEhCvcbcNr7uWKADlcGAsRwHqGhRT0r8J_lxsaNu7M2lImqFBhtQWyA",
+         "scope" : "GOOGLE",
+         "types" : [ "campground", "park", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Probark 1"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.966797,
+               "lng" : 21.776103
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9681173802915,
+                  "lng" : 21.7774763802915
+               },
+               "southwest" : {
+                  "lat" : 53.9654194197085,
+                  "lng" : 21.7747784197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "63f652f19c03482c4e9445ee36307303f4326fa9",
+         "name" : "Camping Echo",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3072,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105292396737940981128/photos\"\u003eCamping Echo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANt2U9lUOsWkraOST3y5RP8XI_2FcAPKd3GAGyuAHy_rxDyuV7jRQ9JkZBXmYakh5lqIvMcWaY8Y2qsLORuh4nejFFhOlJQQXHnl4J750bJdVHXW8WR6Au6ONrjBmH5nfyNea1QCs3qAdtlvH_akRI_nCfevPQ9nTHIHk0yBNU_qEhDgHg5j4gQNJg4ToNYswT-5GhQsU-IkarnNqxi31Xrm_LhavW48jA",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJq-xNYxWJ4UYRVxRhmKDVCTs",
+         "rating" : 5,
+         "reference" : "CmRRAAAA5ACqDsddMtL9gFiPTWLHus2BHSVF3gMeco9-jqOls4dmGT8I8IrEJ6bru9T7ohICe44gBUsswAzIVs4MjpA0xErIRrVyH8HZnjdByEeJK-rlDbtb3Qq4KENxESMgLhnJEhDcI3Wf_8IPaHnVBU0kuj6iGhTY50sF6K0HxwwWFC4-3qDARN3mGw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "rv_park",
+            "travel_agency",
+            "campground",
+            "park",
+            "storage",
+            "real_estate_agency",
+            "lodging",
+            "car_repair",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Mazurska 48, Giżycko"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.9338314,
+               "lng" : 21.5372855
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9352935802915,
+                  "lng" : 21.5384283802915
+               },
+               "southwest" : {
+                  "lat" : 53.9325956197085,
+                  "lng" : 21.5357304197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b7a49114f2d070ffc3394a8b4a8db41e5fe3f292",
+         "name" : "Ośrodek Wypoczynkowo-Żeglarski Sośnica",
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111382332258694553371/photos\"\u003eJacek Dyl\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAK076o49I31K9-tItHxfs10L7YSvRYxEc3k6WrNVmx9g0eVTB5q8E9yc8WikStehdqEWlKgGG3VfOEROydCmKGip02399-fPU6c89j9nA5a5GlO_-3A1M-xjCpzURzHJ0dhuIAVnzPZLMWksBRGEmunIUhkBXYDXgb-quf7UxlelEhCTgIDDgfKyGnnYqDLPBDoGGhRdHIl9MLAoEQAFegi76MSDbxseQw",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJC7IjqqYh4kYRRsioLs9kkHk",
+         "rating" : 4.5,
+         "reference" : "CmRRAAAA7te22DMz4Hdtv7xz6moP69O-ie28_1jtBByOkszJjRdhV82jMojf68ykMI6CAvqxy8DD1wwS9tPXZT7_I_0HJX5gnR2lHQsCLPDqA8rfMcYMzTrX3q67V2bzIpZs9pjBEhByZp0N7j33ovrSgVeOlMuPGhQcb_oswtuzi4E4zEKNZZSHyMZmHg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "travel_agency",
+            "campground",
+            "park",
+            "real_estate_agency",
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Mazurska 17, Ryn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.15723800000001,
+               "lng" : 21.656391
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1585869802915,
+                  "lng" : 21.6577399802915
+               },
+               "southwest" : {
+                  "lat" : 54.1558890197085,
+                  "lng" : 21.6550420197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d2a8e7c4b5b1e27f062829d3f7517469a6839211",
+         "name" : "Stanica Wodna Kietlice nad Mamrami",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106870206427066002006/photos\"\u003eDariusz Nalepa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANgHTmchPvyoM1GvnHk6km9ZbuhqAO2xKocqCOWDOvoX3eT1uPj4qhTGD-Qrk-D5Yz587aNtjNn280tJ3rdfrikfGAOAaJ6Eb9sRFI2unHFae40S-rULnAg3v8N6uerA8_kX8OCPYT4O0s1IL3tEbuLCVHhfw6C-JUAMx05TmMZHEhA12iZ_jtpgrF5s1nwVA2FbGhT46trJDuBqSLvLvG88ad-BwQgIKg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJlW8UxBos4kYReUjfoWOegaU",
+         "rating" : 3.8,
+         "reference" : "CmRSAAAAyxDpykET6hswlnvwYoI-EgZdCRdNGH4jAN7uio6OPHgMx0ByfeqtGei9XsC1KK3jqRUtBnFLc56BpizHKH7degRQCO9oDuDhmsYD_7sVEI6jsjLt5LCmZOqFQkoPmImPEhDvwbdRJFLAVKz2_5TZps-pGhS-FOXl7X1w_lurIg0v80QokY9l9g",
+         "scope" : "GOOGLE",
+         "types" : [
+            "campground",
+            "park",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Węgorzewo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6117724,
+               "lng" : 21.7485998
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6131213802915,
+                  "lng" : 21.7499487802915
+               },
+               "southwest" : {
+                  "lat" : 53.6104234197085,
+                  "lng" : 21.7472508197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+         "id" : "2774fd6ebe9e0ce48ff15dbde7fd7326446c2eb1",
+         "name" : "Ośrodek Walter",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 957,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112088510149778117524/photos\"\u003eOśrodek Walter\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALu_rne7DTU_oG5L18dbe3QZ2Gmw6P_gnbzm_nwiVTLQ2itGcRlJkwYaqlN5dDEsCuXO-6aU-ic54TEJ9j9cbSEbI1BkPWFDFVYY7fg-pIIIKD9cN6C02XmVLtzgq5YCtpqYz8DSb903kdj1rpIJNZ_P1wBWXjAYl89a5TrInKbCEhBCcA43LBsdo-__0Zc13OnRGhS23n2pi-xG2Hsb9Q4cnC3yy8P2EQ",
+               "width" : 957
+            }
+         ],
+         "place_id" : "ChIJSWV03PoZ4kYRyAXquQVoBB8",
+         "rating" : 3.3,
+         "reference" : "CmRRAAAASZn1n41AfNBqATCOSLJzTQmcazZDjcKHFs1wHoff3KSPErcF5pbLdXu_FWhWD8OkgBg4uePkF13AuJIy6Oa8GvYPfF7mvGAB_P9apq8DNbgxOSM1MaW7DK0ZGun-fPizEhBnNcqUvJ1cFt8LcvyHUy8zGhR_N18M3FHvQmjxzuvhYLBvQrEQ2w",
+         "scope" : "GOOGLE",
+         "types" : [ "campground", "park", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Pisz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0324427,
+               "lng" : 21.7600108
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.03430488029149,
+                  "lng" : 21.7614663302915
+               },
+               "southwest" : {
+                  "lat" : 54.03160691970849,
+                  "lng" : 21.75876836970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+         "id" : "e341803fbc2962e93fc3c7081de3722e8d451831",
+         "name" : "Kemping LOK",
+         "photos" : [
+            {
+               "height" : 1456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111235206668490368013/photos\"\u003ejaroslawkoziewicz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMUYftTeuJ9yJHf9vc2l6zLW642MCsqFRyay0ORJwB7Dba-zrhwdOMUpsqaGqJ1wiYNS0BAGZjIQYTCtAxfOgkYHuLedXsPAdUU_qcg8FLkCoQkUVIwtd3NoH6BUhkLmSRvx26rOG_e5P4TvE1piLm6BPTHdCKW9pXQZ0L2lLpHAEhDwKXCepmg8pjD-Dldc3tXwGhRMTt7JJCWg7pMAaCqUwDiaVDG2-A",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJSwnl23SI4UYRWOBlLor3SgM",
+         "rating" : 3.4,
+         "reference" : "CmRRAAAAWU0E5LBqQpASs7NqUJwYON9zDHv9fdcKkVt3CgNDUZsfqXvrALy87a1CquDoypE10bq_z9c2KfY-UsJF5l19HhtUW-vRkd6WOqNtg22btrBRbtqBljkFuPMPmiQi66ABEhC7gDmOYY7jTPCzD2iErimOGhT9hAqz76YRNdnko1Ff93BU3OJqUw",
+         "scope" : "GOOGLE",
+         "types" : [ "campground", "park", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "św. Brunona 4, Giżycko"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.86472,
+               "lng" : 21.308868
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8660689802915,
+                  "lng" : 21.3102169802915
+               },
+               "southwest" : {
+                  "lat" : 53.8633710197085,
+                  "lng" : 21.3075190197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "56a39d1116a1c43484d68cd2af58955c4cb499b4",
+         "name" : "Domek na Mazurach Noclegi Mrągowo",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 350,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112031097716035672296/photos\"\u003eDomek na Mazurach Noclegi Mrągowo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAFAs9p9D4xkooTN6oJY_O5DaunlQoXIHMotQ3j59823AP2f-uu-huSplFmn7aBQL2GXRffgv0-kKCryb-UZPkoUL29Rfs7M0y48xiSQsTJIWt2qiJRgVwtoC9EhL4koznEmwhtJird3MOdHHBbE0_R7t2wq_3RsYmY2gtUWqrLVZEhAbTZf7HCnbQL2_8SrmOt0RGhSEK1SjrgS3l8c8FYvjpEYZAKRBmA",
+               "width" : 351
+            }
+         ],
+         "place_id" : "ChIJs3GcKekZ4kYRVYMklBwawt4",
+         "rating" : 1,
+         "reference" : "CmRSAAAABWIOUhB2YjaJWHiAyc6ITIkptcJCn4orXn3ymooQM5n9FcsZw7Nm3ZoY4ds4EbFv-eAgnlCe6N9AsLErk-PkZtxoeCrtfE8GyGWqA8eX8l4wncZ1J5J5Pf1PmgqFoqjyEhBKjfwnwvjWr5aFZTCCkjDfGhQN7gyMXhjWgmH5Y3XK9OqIpo0RrA",
+         "scope" : "GOOGLE",
+         "types" : [ "campground", "park", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Oficerska 13, Mrągowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.83050529999999,
+               "lng" : 21.3832146
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.83185428029149,
+                  "lng" : 21.3845635802915
+               },
+               "southwest" : {
+                  "lat" : 53.82915631970849,
+                  "lng" : 21.38186561970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+         "id" : "d758f91208f34d8797a82267398e5397af29819d",
+         "name" : "Camping nr 100 \"Ostoja Stara Baśń\"",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100111260635522573244/photos\"\u003ePaweł Dobrowolsky\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAEJzqhoZymu-Ugy1xtr0hgJ4iY3bsoN7NsuTe-JozYKUrwFIOy-5CjCoDMiMZUScwPQHigcIcFBl_5NjfydGSWu6mwuHOBX-J65RgBhhiTYONi-ErJaQX60FGtarmuwaJKoZfMqJS2zQDuKt4RzlOBp5YKw4eLUHqRPN2tulPmBmEhBeBu7nSYaya2ABVFUCVgzuGhRESZ9dI5VzoauWntHS6H-T-jITwQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJL0Gu7vwb4kYRSqhrm5OzQ_s",
+         "rating" : 3.7,
+         "reference" : "CmRSAAAAwco6lvqS8FS5R-hmpcK7LQ5ULG3yrAnkbExEK_tzlv_0jQlSgKAfmvD4W8FpsugLQfYHty0jURs7my00aJDTdeISARM9U7rsqVY-E39j0zqAx2CrQC8EbtbjE6AP85_VEhD8nv-ZxJeA87olKADgfLAZGhREnSbX28E-KIbVNVfs2BBo5NNR_g",
+         "scope" : "GOOGLE",
+         "types" : [ "campground", "park", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Kosewo 90, Kosewo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.9631554,
+               "lng" : 21.7477798
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9645043802915,
+                  "lng" : 21.7491287802915
+               },
+               "southwest" : {
+                  "lat" : 53.9618064197085,
+                  "lng" : 21.7464308197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+         "id" : "a520c9f22c70beb94e8067700b7b55459dc84edc",
+         "name" : "Kemping Marina - Evelyn",
+         "photos" : [
+            {
+               "height" : 459,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108559123438212368739/photos\"\u003eŁukasz Ilnicki\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKficDkULCunFIwS-zARbk48TJH3TsMMSnJ-i8Kfhm6bAsRK3qWf4TsyA4Mm6skLQV0-RnfQxxqG4NCL3gn0I774YTqdFQy8E9rD91MxiHKz_mkwJn4oI9yOHFmAj-neljIbNPORdhMJNzFvxWNDuiNyvabcchJE51wxtKXc9ubZEhD-p7CF9a9GSUHblbD8MgobGhQM6bUk5v2PAORgbeIfMhWf9TsXqw",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJSWV03PoZ4kYRnGjLQFexk0E",
+         "rating" : 4.3,
+         "reference" : "CmRRAAAARYwz0adKTAGLGHir2iLgwwUKb-sF8vdLh4YHvEox7RlyMVHBg_vHjSjonWvNYH6W5hjuS9yV_waSxHVdsjvBwoDA7zJ8ZBPth0gx1viGac7SSKcotGI_411X4ltpMpj3EhBZe5nWmviDsR94wRBMIE6yGhS1YniKDlEBWTRu99-2E2KWCkz8zA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "campground",
+            "park",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Bogaczewo 17/1, 11-500 Giżycko"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.84430899999999,
+               "lng" : 21.55950899999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.84565798029148,
+                  "lng" : 21.5608579802915
+               },
+               "southwest" : {
+                  "lat" : 53.84296001970849,
+                  "lng" : 21.5581600197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+         "id" : "8fca45b6631fc8c2f09e06836672da1037b49ce2",
+         "name" : "Camping KamA",
+         "photos" : [
+            {
+               "height" : 639,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112934560312468613064/photos\"\u003eKarolina Kamińska\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMu0EclDvNArUUptOg028k05XDXYzwcd750CIdZzxynvjo8VGrrFV4rUkhxQJhTmeM5sOsPzaJcs4XnKGs10rgCThx2GNQ09DyTtNBnF1eWXffx7faXT01gfdbTKohLDgJkTfOng7Fs3x4u63Ul3BbRahfb8PC75TTNac_IMr5BzEhCc4qkul9TFY4dqRD-stBsSGhSmjUQGU7nbIs6_7FuNEqkOnADWTg",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJaWxD5Coe4kYRjqyMsYfnuY8",
+         "rating" : 4.2,
+         "reference" : "CmRSAAAAVNZNXnnhYw7aqjtJ7MTWUIXLikN4fGSYjlJTG-6vzwi0LY8VWkqFiBp5ra4DY5M6cU1kvBlG_acGOQzUlYV1ohLf3d70alYWQY7W09NWo_W5WVdf6JAGvxTiuBw7-xmlEhBXjrn3VwEf6AscBNd92QKgGhSg1LoHfGwyosLfkurrqUBL7aCspQ",
+         "scope" : "GOOGLE",
+         "types" : [ "campground", "park", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Tałty 36"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.02964069999999,
+               "lng" : 21.7919974
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0312604802915,
+                  "lng" : 21.7936164802915
+               },
+               "southwest" : {
+                  "lat" : 54.0285625197085,
+                  "lng" : 21.7909185197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "b2c07047aea76983d9941e67dbbb195b5a5b53c7",
+         "name" : "Centrum Ogrodnicze MARKA",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3072,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107941130024265521780/photos\"\u003eCentrum Ogrodnicze MARKA\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADPpk-uH9P0ULaz7KYuc4UcpWy2B_NdhVkXV2RzpXP4sweZBfa2CIQl7rKpzVwjyS7lBpXvT0VCBIfwxSPsRilrGVE_nBgEgee4wmgfsKXHoPVpnJH8TcEh3heICcDYTLWCotnhojA1xleyX9NbOmuQzxwLsXHvqqrNEJNxr1sIeEhAL1GD-lEEZ8jqQzVTiDbhiGhTafcJZ0Gi7qAoqygBNaddkuRAuNg",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJm7LOqiqG4UYRqlLaxT_hAJ8",
+         "rating" : 5,
+         "reference" : "CmRSAAAAGOtrUGniiRsb2FyLQcabqTqp98I2oGRk6NbMlHwpWx1H0F1zh3CtKh92JG5PXM7aKW2WHS63DHOmBryYF9NWPSj1ITWwIQf67bQ5HUHS1-ZtsAxan_28KMEnESjxnxpTEhDNWkgWYSSHnh0noGA77JYZGhR9lgZvF11o0z7LL3ML8PcRHHPZrg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "park",
+            "general_contractor",
+            "food",
+            "furniture_store",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Białostocka 38, Giżycko"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.73128599999999,
+               "lng" : 21.51945
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.73263498029149,
+                  "lng" : 21.5207989802915
+               },
+               "southwest" : {
+                  "lat" : 53.72993701970849,
+                  "lng" : 21.51810101970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "f7fdeb39ee4c1b96d124e1e379c0ab90d5813ddb",
+         "name" : "\"PERŁA KRUTYNI\" Ośrodek Wypoczynkowo-Turystyczny",
+         "photos" : [
+            {
+               "height" : 539,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100279492273779852194/photos\"\u003e&quot;PERŁA KRUTYNI&quot; Ośrodek Wypoczynkowo-Turystyczny\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANgXPQWkEAINXCylS5Cu9L-wMwLGLCgbwOSnQ257tGyZQ3EUas3N0Y1lV3Qyrn2Yn6HZFC53dD17l5bQtYFwD9ORtO8bt1B9z2my3hIdlvy3Qgc5Mq_BNqt77SWAGyauHawxVOKyLnNGfzt-mh2p6fGpJQkJwmCStQl1iwDsgm-wEhBY1Vldcz0ktu6eOvq-sAVmGhTB-WG8cTvcppRpqMc56p71GVf-9g",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJYY9Ap5H34UYRN78KrDJ99Mc",
+         "rating" : 3.1,
+         "reference" : "CmRSAAAAlSa1RfHzHwWof_YcTmQM7m_2TABd6gkngP_3dNHx6C9IMJK6O-RZ8coNTHtlcKDrb0XvQ0J1PPuDSZBDv9hgnANKYLU9a3iic6Dlu3ReWADrS9w54X0AMZvB7yFZNucvEhCag9u4tQDHAyjQNfchhTroGhQTijj0u1z0Ls0v81o3dwLNu9HDVw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "travel_agency",
+            "campground",
+            "park",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Nowy Most 5 gm. Piecki pow. mrągowski, woj. warmińsko-mazurskie, Nowy Most"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.031375,
+               "lng" : 21.728281
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.03272398029149,
+                  "lng" : 21.7296299802915
+               },
+               "southwest" : {
+                  "lat" : 54.03002601970849,
+                  "lng" : 21.7269320197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "07687bab133504bedc06cf359742350e21678c62",
+         "name" : "Netta. Gil B.",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 799,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105464729141288086850/photos\"\u003eNetta. Gil B.\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANPCpg8mFl12YUkvCftOEGzn-NWinRk6iReBe3NnMCSEj3pC5sODzuLRcJxfJxc2V0ZALtYgMmjV6t80ToUwrmx7TKaGiV2KvSj0pEFaUBZUYMgfLNJGfcfNs-qnGFrg9UuWZO3Bxz6OlCuSyF7r6ekMsYhmd2Y0ibvqedMDZqD_EhB2AneykGS5xuw2eBYTlRfNGhRsfeWcrvApMh6JUeEovy4j3F_aDw",
+               "width" : 801
+            }
+         ],
+         "place_id" : "ChIJTQHHNRyI4UYRUJjAHIx32nY",
+         "rating" : 4,
+         "reference" : "CmRRAAAAWEl9OuLlbTsYVTlNbZtQ2Fzg3-SdyTiEd_t3hj_GAA2UWNNqTFkog23Z9Y3ivTDlvWtBA7WXIPU8Ok8n-YXpDe_uev4gedidaMLw8ZLU5BzvXkG6ryIXyupfJVW6KZqwEhC6Ikgix-ryCoF299KqvPtbGhTTcVN7JqYG1M54K_J5M9jDygoFKA",
+         "scope" : "GOOGLE",
+         "types" : [ "campground", "park", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Port NETTA Piękna Góra Giżycko, Piękna Góra"
+      }
+   ],
+   "status" : "OK"
+}

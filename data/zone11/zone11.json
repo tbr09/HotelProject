@@ -1,0 +1,561 @@
+[
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.03959409999999,
+               "lng" : 23.6097766
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0408994802915,
+                  "lng" : 23.6111435802915
+               },
+               "southwest" : {
+                  "lat" : 53.0382015197085,
+                  "lng" : 23.60844561970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "e9060a6531c7e6b153d85eddc7d76eac58abe56a",
+         "name" : "Pracownia Filmu, Dźwięku i Fotografii Niezbudka",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 427,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109230184415004007258/photos\"\u003ePracownia Filmu, Dźwięku i Fotografii Niezbudka\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJrVJW9zlo9Vt1i_58sHOHY3pUq7SvTKtVogTH8YAzEA9CJQEm3LNBdCYm9yUNMpXGKtGxiteJVLC2vu8-rLwxJHFSW_hc3hWrxIi31bZtZ1L3R_4h9hSV67zrXCXtcnH2MOGyXMtw3n-DZz1qzj6LIHYzKQbm67rD-OHpPbOMl9EhDm_GNFjRJkZT9ATsswJnVcGhSTmqNhbh6tgLrOSx_ooEFeCww30Q",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJwcuG_CcJIEcR2VUHP2Q8GAo",
+         "reference" : "CmRRAAAA5ilzaAyXAHhDmTFyibi__gcy-yhZHcTgj3OWNWa2HOOt3u0Acm65iniFz-ujbVQcOh4WO6SUG2aHtlHErhLWD197S0KVNeoh1Nqcmr-EPTXtjtKQ0phNLV3ZFuQfvffBEhAgBc_aYVftKMcwOnyeuRpRGhQNh68TTzvv_7SnCyA_p1FmiK824g",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Fabryczna 33, Michałowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.74227349999999,
+               "lng" : 23.580731
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7436038802915,
+                  "lng" : 23.5821042802915
+               },
+               "southwest" : {
+                  "lat" : 52.7409059197085,
+                  "lng" : 23.5794063197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "ea01429517d0cc3329f5a8528b8eff71f401f7f7",
+         "name" : "Muzeum Kowalstwa i Ślusarstwa",
+         "place_id" : "ChIJs4DpdxJAIEcRQ6iexvCDtLM",
+         "rating" : 3.7,
+         "reference" : "CmRSAAAAvVX8jML4gMzymOOa2lv1BNargLitL3UfrqAEhs3uMxXuAhaZ_g-E10jA78mktNPjZsNxhmR0fVaO8kTmrL3wy72NgL5-LYacMgktnmRhfat91m-fhyDOfmOo1iMhVU7YEhByFrUCG2PzGld-N9bEEBZjGhRr2VgsXyc4RxLWi4hxFB-R25aP_Q",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Lipowa 1, Hajnówka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.74255309999999,
+               "lng" : 23.5439905
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7436452802915,
+                  "lng" : 23.5452903802915
+               },
+               "southwest" : {
+                  "lat" : 52.7409473197085,
+                  "lng" : 23.54259241970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "8000df10c9f76e6a4fbfe86fc102df1d18669b8e",
+         "name" : "Park Miniatur Zabytków Podlasia",
+         "photos" : [
+            {
+               "height" : 1181,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100190826441772459249/photos\"\u003eBogdan Szymczak\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMeLAtE-ffEodCk6ps4c0MrnbH9Q6VWwpRFwrnMUMh4yQFjBS4Eu1Z72UNaalPs9VaE421NpZyaVRp0Li6CQnXHPX7J6s5yihT60FjuSU-fqCe-I5htr8CcrKHuh7a-hnRipXT_G1Fr9YCwIQB-k9-09AfomneLKDr32vpNgohtsEhCrYi5s3B67-ZUZRvuE3i8-GhTCCXWKf6EuHrYlyisHtReIhvk4UA",
+               "width" : 1772
+            }
+         ],
+         "place_id" : "ChIJozxy8Q5AIEcRHmHxdPKaNtQ",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAAmNH3p6yjqxdJICLLhHhoZw7sLP9iZUNamVRxqJkwDzj2mHpHugV-liuJP0PUqg9CPMIDqUb8RI_WGBMPlDjDXicuy6J9yB4GRTdgJEJR50RVwdHlnEJloL80AzLkeKvzEhAK1rNpaDI6vWmVgVKdm636GhQErc_RrlthSrzZp8bZp3kv4kvpcw",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Bielska 120, Hajnówka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.73761039999999,
+               "lng" : 23.5866594
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7393931802915,
+                  "lng" : 23.5881824302915
+               },
+               "southwest" : {
+                  "lat" : 52.7366952197085,
+                  "lng" : 23.5854844697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "387fabf2edbdc77f55550daf33a30c569a40a440",
+         "name" : "Muzeum i Ośrodek Kultury Białoruskiej",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117698497905390217517/photos\"\u003eŁukasz Plewa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMRqRCOAnLl5U2-1WJB3aZoR5aCQ-e_nEKjt4fizetCbDVr23vLWQrYul-JaPy4bfYQV3PmBJSIQhHocgWrKaOKSg80VDbjRvjmVakSjJiF-Wtuluer6QGypZkxlzvkl7F-SMDlI3pEEH5zUjBIxqsjx1pKn23IuD0_AuIRLiuc5EhDIjLpdy_HoHIKEnO68F5HdGhSZZlqLRqxxuI4o-buPSiVbZVFZVA",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJ_UompBRAIEcRPkQvemKR8DA",
+         "rating" : 4.7,
+         "reference" : "CmRRAAAAAqJJt0iUXJEz0DEkCSfIZbM_sq67xb5IX5CnBVKDJdKACIEhN0j1lqezXYwYMyhFI7uFyRzR8ZaHysNA1sxDh8oGuAQh0PfamAthWsxfwbG4b3xL2IQToQhDD8IM8DreEhCAweKUxP-AoRbrS-7Z_IzdGhR_U4vlhpUIMFZ81vLy-9Kw049gpQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "3 Maja 42, Hajnówka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.9390234,
+               "lng" : 23.6061965
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9403723802915,
+                  "lng" : 23.6075454802915
+               },
+               "southwest" : {
+                  "lat" : 52.9376744197085,
+                  "lng" : 23.6048475197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "b6b9a0d406e230ee654e3297e8cbf58c3fbc3471",
+         "name" : "Skit Św. Antoniego I Teodozjusza",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111870557845873308731/photos\"\u003eZdzicho Kapusta\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKgmrIQufmoFptS5G1dci8_iVUfr74Jsv7wjeBFR6fFkltlK0q0TORoCpKix00RCsgdfVed_CLuVRDXrFxOHhlfnTMeE0UzvyMywg3A4c51uA4gxOvRO1JzpGZnPS_mQRCB2ay1GGBODrIsPZLe2VF0JWe-eJd8AsV1Nz2qKf21LEhCuY9rIPTKUJVi2zGP0hoEOGhRXioKmTUBLOx4eW_BSILFeRwMRKg",
+               "width" : 4208
+            }
+         ],
+         "place_id" : "ChIJ303eX_gNIEcR1eXTheE7S-8",
+         "rating" : 5,
+         "reference" : "CmRSAAAAOBWi43t7e1E2PTsSXpmUwzjH9Snvv_SJcbYMJk6DrvBnWWN5gD22v990VL09Oak93tUnLmGSTX58Tw6XSgRHpcl3hbGOnrcgSujwUuy9FqYYEdZ71IALbkuCrkha28fLEhAKIDzLUn4PCrmQNCk8ag0QGhQ-l_70EZnhN0R15fCa1AHxZ7m_2g",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Odrynki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0216382,
+               "lng" : 23.6223798
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0229871802915,
+                  "lng" : 23.6237287802915
+               },
+               "southwest" : {
+                  "lat" : 53.0202892197085,
+                  "lng" : 23.62103081970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "179bfa2b8901d29ab5b19232e0d83c15625a2947",
+         "name" : "Cegielnia Michałowo Kazimierowo",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106510456759776169030/photos\"\u003ePiotr Elektropek\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADZrniKjcO5eH-wPb2jgHUFILC152Sib7i2mFR3uAzvLN-eZWRILQ6Tf1tGQUolFUWTv8ELFM39Fnp46kN-tHNAMjZXwu2uQEQTbwf1vZ2ArV9GUdehFdwkPRCUi-nBSsEtjPgAGo8t81RDBHO1vNEougekSsaA0L3--PCORicx6EhBUQG5f3o3DsT3E3ldqzi72GhQD-jMbHr_FsBFmfX40qmdEuV_N5g",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJzen-mcsOIEcR50MyqtIT5BU",
+         "rating" : 5,
+         "reference" : "CmRRAAAAO3KQWShhaJcrmXY4a0vaZ0gyxrbML7Nfc9ZpnTMcawuNKXrj2ZUYsBAvt_uw3zeubsqVnkhc8VoApcXe-lf-zKv0QqTWvEwusH9qbnBUFHxvQxtOpjSjsEkP5Uu3NYW_EhCyvL1cRxv_b6OZsdivZ5w7GhQK1nVFsoC_XG4pFgHnGQ0TLlBt0Q",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Michałowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.89123499999999,
+               "lng" : 23.327864
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8925839802915,
+                  "lng" : 23.3292129802915
+               },
+               "southwest" : {
+                  "lat" : 52.8898860197085,
+                  "lng" : 23.32651501970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "566b0972f43fff56cc6cc3349aaf35d46792c50e",
+         "name" : "Skansen w Koźlikach",
+         "photos" : [
+            {
+               "height" : 3840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106675464670613180634/photos\"\u003eAnia Kaczuk\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANk6304cEJZz9gYLIF80Ce0SuCGrbp04EFcl_CzjIzQgbCp7WqPIMRoEEvBjImeNcvDxH0H3QT3GAWzIZ7fS82KCDzyUF4jrypY1ClVIAh0_VNf7bzB1TtlF1QOrkwl3_GA8ZN_KlxeV119o-m80AfRIbTPS-8tD4SEOgiVhu-GxEhCcqhqGiqdn2kQD7dBENu46GhRVNs8-t8vKw0uJsCOo3ahubyIBCw",
+               "width" : 2160
+            }
+         ],
+         "place_id" : "ChIJAb6ocZ0ZIEcRju8SiP0gR54",
+         "rating" : 5,
+         "reference" : "CmRSAAAAwRuIB8f6xN04gBeESMaSoBR5MmrJDvco78G2RlsENT05tQwDcWElQkLGevxT-V6JqJIGp7gHguuiGdrKUrf7zMSL3QiD1AfR97lkQCIH98-xL_csCTfTAfWgP28LHUl5EhDtw_SR7_TuUXvezWv1VPdYGhTLpNX9NU7w4w86iACUM6dtNM5CvA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "52°53'28. 23°19'40., 3 Maja 4\"N, Zabłudów"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.73603420000001,
+               "lng" : 23.6064287
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7374397802915,
+                  "lng" : 23.6071671
+               },
+               "southwest" : {
+                  "lat" : 52.7347418197085,
+                  "lng" : 23.6042135
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "7c207a1c043b730b527fa9dcdc60fa23d14aca21",
+         "name" : "Kolejka wąskotorowa Hajnówka-Topiło",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101976848901761657900/photos\"\u003eKrzysztof Filipów\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJq3wGje3e-YmJFiw3Tf5ewhCSDbueGK6qHIAuY62ORBVaOucms6KHIYpZBAbcvbWCMaRFpyxaBPR4vVIpwWGSsShKTv3mRUAwIiyxkK72mJTE8ZBiNCDHocjB2QACn4eBiD3ErW_PAYTMmG69HWX48Uxl9p71OzBhNoX_hu6q9UEhA3zqgWiXK9SZ-YqLiSovuZGhSuifG6yAQk99ngTvLONepxs0hBDg",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJOUZp2D5AIEcRdoEhZT2hejo",
+         "rating" : 4.8,
+         "reference" : "CmRRAAAARwwZvzGdgIYsxbqJ3MGlM5veq2EoLc75I3Ev3ng49LHZgpayZkSye5W0TuD0tf8E6mSLJx607g7BXguUxvE-Xl0XJEpygYfvCrEbr7nJNg-JF1tuTz15uGiYynM3_HOLEhAkAkVxTd1MUGtusTOwYoNLGhSLPGJGcgTSK5mnFTR8tKQsjRrVUQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Kolejki Leśne 18-20, Hajnówka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.9084232,
+               "lng" : 23.5334766
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9094592802915,
+                  "lng" : 23.53472135
+               },
+               "southwest" : {
+                  "lat" : 52.9067613197085,
+                  "lng" : 23.52974235
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "687b0b6bc2fc682b21bf1266f76d5a1f96b3f6a7",
+         "name" : "Stadion w Narwi",
+         "place_id" : "ChIJ2__vO54RIEcR_4zNRMDE-VE",
+         "rating" : 2,
+         "reference" : "CmRRAAAAId4iOEA03c1oLGkRSxqRwAetjTSPKyJysZhd_DKZ6TrGOWsYd7fHH9X8vEbhaftdhAHK75Jsb3vvXx8WXCB927YIJJZ7CYhXqxQS8xEIFxjY53JYmt5xs1ezmFoAcKAOEhAWxuAAfB9WIlQoKIn5zBC0GhRk4E_9xrGI-RupGkzt639vSux0UA",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "point_of_interest", "establishment" ],
+         "vicinity" : "Droga Wojewódzka 685"
+      },{
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0325932,
+               "lng" : 23.6081684
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0343005802915,
+                  "lng" : 23.6091782802915
+               },
+               "southwest" : {
+                  "lat" : 53.0316026197085,
+                  "lng" : 23.6064803197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "fb80b45adb3100c4fefd8e514bb1a2ffad18a833",
+         "name" : "Cerkiew pw. Św. Mikołaja",
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113099409986818800706/photos\"\u003eTomasz Budzyniov\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAFPE6_uRMiQXGlvDWuSaX9pRtwkKBxQZPYACvGycF0AaGDDzcSNqPY1AJE-Aw1hnXPjj3WwWIkJPUV0T2iPnMThr_DhBwIvR8RYu0Oz3d7LeCruPMO5lDGrecempRo3tNDW4rBZXbkFuMxo_LkG8ymUje2UgiFSitWIfKLPL4BslEhBC2TPqAbVeB-oMcQwb5JohGhSmBpVDnwXKTxIUDXgPkz4MJJwQnQ",
+               "width" : 6016
+            }
+         ],
+         "place_id" : "ChIJlyzGRioJIEcRHFSXseCtGhg",
+         "rating" : 4,
+         "reference" : "CmRRAAAAAWRNxNBn0x1RPhUXhWsLLVl22d2V4cDDy0HdaTfjUKnbW9K420GCbI_ZkCv6-L8mfxh-O7B5eK8DGLn1kiy7EBS-teIAqELvz3oH3WmcsMy8xrVot3fGpg2ce4wMSKQJEhCnwpErIvclEgIXWHhTe-m7GhSnRm7no7CO53kb_2PZFfJEw8uYtA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Młynowa 10a, Michałowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.03728599999999,
+               "lng" : 23.6136343
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0385435802915,
+                  "lng" : 23.6151070802915
+               },
+               "southwest" : {
+                  "lat" : 53.0358456197085,
+                  "lng" : 23.6124091197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "492bb16522c3ee85dd0e07977e96491ad37a5495",
+         "name" : "Kościół pw. Opatrzności Bożej",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115095962289814032944/photos\"\u003ePaweł Izyk\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAP_nNLber0tkQtV0Iv3tYLND-gTctq2IrrvfbbbgVyX7Ht3IRIZmZDPVd9Bje9BoNbk33DXT6ADz6MCd8s-lwrk57T3ijw6grKcv0dT5heGZdOH-YroMWOsG71Fs0aSVHxrm-hEO1x8Zd_oLoFpIr-x1is6wzLJd5i95pH0h4hYCEhCQsHQf0SgBklLjkYhNFYj7GhStKMnJeSMXBJAK_TyEVlwk5T-O4A",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJk6RTvSgJIEcR0wBMzS1rLf8",
+         "reference" : "CmRSAAAAF_0J2JDYr0e6PmgpgIVOjCnKCD2yC53oXqHZf1lKUE1t_6fXx2Yc_f9qha0odOEgIEfBSC7w8rR_IcbklAtQKYd2GoBZ936ydJmd7ROP9Q6tk-p-fE8m5oy7VICyLa66EhBUgnavP4-CWDujLGKzSHaGGhQ_yX_-IIgWH4W-VkrPv53p1dXGjA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Żwirki i Wigury 49, Michałowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.7456879,
+               "lng" : 23.579157
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7471565802915,
+                  "lng" : 23.5806500302915
+               },
+               "southwest" : {
+                  "lat" : 52.7444586197085,
+                  "lng" : 23.57795206970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "0ad25fac8451460a0197a6e6db5ac74ff21f5794",
+         "name" : "Sobór Świętej Trójcy w Hajnówce",
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102698005597109358721/photos\"\u003emsn 73n\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHCVzpxzy8XXcO91Z7FQbzxXZ_iabP2iFYzxiAVjZmTagZWPIybvi9YlJWfenIfstR711H6H2WqGdfonMhTl1skk59Z4qO4omIsWhVSTXfBGbfNCgyS1MN1z1Ph9BnXVrmCMFbD1-UFRsrHqhSuQM39uBANHCr7eJzuXIKk6sD8kEhCeelKggxX92BZc_ebGSNq3GhSQDTOIk1ht9aHaIWBdPmkhapYyzw",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJURqdjg5AIEcRFGu0Inobtus",
+         "rating" : 4.6,
+         "reference" : "CmRSAAAAtSXND_gmVhpsh6g8GPvKcTrNdhaueTb2lGAEPgypusH-2GkIqur3cEYm46wpERV_mLNiE5IpWs4UPJnr4cAfEcP_cHiiMo0yZRbmxybNgV3n9YSmudZbkQSAiclI0t6dEhABm1vwp7O8cwg74DcnNGKIGhSfeNO_raHGADNemGE1NzfkA2wrqg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Księdza Antoniego Dziewiatowskiego 15, Hajnówka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.7443518,
+               "lng" : 23.5822518
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.74569363029149,
+                  "lng" : 23.5835748802915
+               },
+               "southwest" : {
+                  "lat" : 52.7429956697085,
+                  "lng" : 23.5808769197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "0a7cd4b6eb8739705b7e7bfef044c4d13f324f4b",
+         "name" : "Kościół Chrześcijan Baptystów",
+         "place_id" : "ChIJZQU-Ag5AIEcRjIc2vbpl0j0",
+         "rating" : 3,
+         "reference" : "CmRRAAAAQbHVRVA-wgWaS1-9_8IS6egQmaSLmZC8VwiLxgIHXZngYs489jbTeVONv9yr5zCpCl_Nic-A6NMjxuxJ8vnv0_CmpD6zdUaYwYLiWLDqeNT1fhJTSX8P9gZse1lc7EkYEhDMSu8mhETREkQloe9BDZ7NGhTk2DKMr8FCF4h8BFack1Io4EqLKw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Stefana Batorego 46, Hajnówka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.7436354,
+               "lng" : 23.5733841
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7450264302915,
+                  "lng" : 23.5747159802915
+               },
+               "southwest" : {
+                  "lat" : 52.7423284697085,
+                  "lng" : 23.5720180197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "8dab15dac0133f2ff441366d9b2520d044e6a506",
+         "name" : "Kościół Adwentystów Dnia Siódmego",
+         "place_id" : "ChIJaY4aewxAIEcR_Q1KzxOMy3s",
+         "reference" : "CmRRAAAAgbhFhHMX1kN50PW4YvZLQciLxk_8R7horKL1zRBxSzSoriCJrg4fX09Mpo5bIDaTaVjugb4qaf82hY_I2evteDzmmWMZ4MK_2phxRgldHa6iMieLnFSs0SBpwczUQ2_KEhC5LbfdFxyLtWmoGmxyKMkjGhTX2ToA4jJYeC4ivDvX3-E6tPf6zQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Południowa 20, Hajnówka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.73403090000001,
+               "lng" : 23.5986114
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7352361302915,
+                  "lng" : 23.5995604302915
+               },
+               "southwest" : {
+                  "lat" : 52.7325381697085,
+                  "lng" : 23.5968624697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "5364ca25b5c0649fa1da039742f95b5c92b00276",
+         "name" : "Kościół pw. Św. Cyryla i Metodego",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103300150235838830109/photos\"\u003eMagdalena Teterdynko\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAEMtXtbbp9PYE2-HmQ7aQXtgXDN-e-ZkXWM3TvTgxVTO7cUu2rCxE_z-cWS5UxiquVhVAVOtGEBnyQ5dyHrpP01TuL18oN3kvTaZSxr763A8z7q6b8TxKPazbwcc3ZZynza7AX4dIFuRvGGr8zN7V9ttLqF5VSUo3a40-5-AbhZOEhAH2ANH5A36XAoK9HUq1oziGhRdoy2wBA2NFrKDd9gCeRdd2gPZOQ",
+               "width" : 3696
+            }
+         ],
+         "place_id" : "ChIJzT2Vv0BAIEcRO4be63SGQo0",
+         "rating" : 5,
+         "reference" : "CmRSAAAAwptfa0q_Run7h4TlIrgacmPfVebGeD0lkeO3TGb4CCg4SxEmCPdInyz-mdIMMHctLa_VOuMw1hXeuqF1GU-tRN3fmpzqP3p9fA2hQ51p58hfckRc_yA3jUvDxnQuXLfHEhA5HyhlyQcp168Z6n1FTYGmGhRLq1Qp-kudlyYdKwcDiHQRi2w7gg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "3 Maja 65, Hajnówka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.7320009,
+               "lng" : 23.5972677
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7334593302915,
+                  "lng" : 23.5986463302915
+               },
+               "southwest" : {
+                  "lat" : 52.7307613697085,
+                  "lng" : 23.5959483697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "2f87076d7ca8a616fbfb522f44e5f02ea6f8d443",
+         "name" : "Cerkiew pw. Narodzenia św. Jana Chrzciciela",
+         "photos" : [
+            {
+               "height" : 3094,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105346126034120987945/photos\"\u003eMarcin Adrian\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADfyFmahqmdxBFB_aRGJQPlFSQSrp9l3GrTcPsmHz67brlrMcdOSbNwL8ku6jzu3Yv19RinUgjDWWBjI3ephGPN8OdtrdfoDOcy09jimZUOhnRZAtP1YgT_Bk2ncn8hgiCAPgXBbHqZ0Gs6SAjObVVvdvA8sewNBRggwm2XW-9jbEhCczgWkxB-zY-jkHz6Rf6vRGhSKIMSHTk_vED3r2-XP5sFituU-jw",
+               "width" : 4822
+            }
+         ],
+         "place_id" : "ChIJqdVhvEZAIEcRmsTztmf-nfg",
+         "reference" : "CmRSAAAAWE8vU97pBr7VVGWimquyLgbDBXCGN0cFVF-TFcowwgx-_eIlunPALoc7Nph-kv86iNTkyYWdtG_octnMwMUo2J6yaD60oM1-BpgAz65Th26RHMvNTYA1tnxpvIeDUkC0EhACmI_rJlcyyQPuFsyaK9iSGhQfyXqh0DnVYpaP6SIfW6DBm1joWg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Mikołaja Reja 12, Hajnówka"
+      }
+   ]

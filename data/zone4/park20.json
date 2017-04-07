@@ -1,0 +1,832 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCAQEAAN_ysdvWOEUOixg8gfOim38bbp_CfNmRhyj3fXT2SzS50Q09ihd7Ev2sjcj4-q9Ja3K7JlehGnvvnHYQZpQg4qRhzrufP0VJRqnGcFRttF_t4RoIOseZuGq-z22fFZpe6cwlX1cuVqlwfjhV33vdUunCYvHmATh6fdzQ57-svOBF4mrg4dYoYqEvP00VUV0XfAuZPZKrfZITb4jaVCB-YqZ_S06LcxccliUrtcw8OoDj9Doix59qHJht7gFtQbfuHy7V8f6ykRW2144XCyezYlujMSw-nqGihTq7pj54xX3kOLTVDJAcpjiX8tC9iEAt-GYOtdlY3X0X7DFs0Bxqk_2M-frbA75cz1SoK_rdxDcDEhC48xcpj4so0VHMZZyLc4F_GhQ1KFMrl2eYxxJDfmZtADnAdpH6YQ",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.08661,
+               "lng" : 23.00485999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0879589802915,
+                  "lng" : 23.0062089802915
+               },
+               "southwest" : {
+                  "lat" : 54.0852610197085,
+                  "lng" : 23.00351101970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+         "id" : "bb735cb21f65182f7d6e98f3624845d3c273bac9",
+         "name" : "Wigierski Park Narodowy, Pole namiotowe Gremzdówka",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111489293930379543688/photos\"\u003eUrszula Andrzejewska\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAG4rPbN3h64Ya8q1rowhX54dN9y-X0zwuuBGXwXrEmYSw-CWUZSRCaLC09bCEK9EHXhdxp7iUVzyIzcgZ7i8oOLiQXQQsiIdIbx6wrAQgm7PmDR57uHpgxVHan3UOB8bpirn2m0tILxEc0PzhSRWYUt7VmQA3gG0TpwJtbn5zOXHEhD0BubFGiOLlmqXbU5Rv6PiGhShlRFR2nFVt-iV5DbAwU3TMAwL7Q",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJS5ViOOr94EYRXkMmXpYx8Ic",
+         "rating" : 4.6,
+         "reference" : "CmRSAAAA9WWI0WUbaAtDBcvDWKIy--BIBU6-l_pb7hMDMh7Z-TNxMl1OHpRpELLa85-f37w2S0UrMarHRjD7HZseIG2Jq-JhEDyNriFjUd8bwxSjabsKumLkAu5fcArUdhG_B1pCEhDuO1gwzi0VjhzZwmY6LXrxGhTuVVUKLJmPfS2TCvZ0qElAhcGURA",
+         "scope" : "GOOGLE",
+         "types" : [ "campground", "park", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Krzywe 82, Suwałki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.06998000000001,
+               "lng" : 23.08443
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0713289802915,
+                  "lng" : 23.0857789802915
+               },
+               "southwest" : {
+                  "lat" : 54.0686310197085,
+                  "lng" : 23.08308101970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+         "id" : "603b4290c47429657dfa1995e13d3ba55896ea43",
+         "name" : "U Haliny",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114494524680969278910/photos\"\u003ePiotr Mleczko\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHyQbn4Aq-UgaCJc6wq2g6jkgnAmY3koLmfkbCKVW5P5xqkHzf-L8NqxrgJZYd02218wQ7WdESCpAZMzi4RFclYHypLaw6P0V2WwL59_2SlqXAOyywnac9_JYZHLFGOeZYklAudeBlN8ijl3MR0vQdo3y2OHvhFmhaCr-uv4iYxAEhCbTKEtt7hX2jOC5iYKgu3XGhR6tL7t0pRq6HY5gDzqYWDpt8oDgw",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJy4-7MRL84EYRe6u26A5-2uU",
+         "rating" : 4,
+         "reference" : "CmRSAAAAOpt526CDkwaWLy8pkPWE-1mbyGJr8RO67WVv1G0A8WF2Za-fYRmdDUCwOhGDfAuxOCoUbhjbuUGHIgyCxyC6brHC_2mpjAmt2XM0nHzhE7faR3SW3lIHKrMY5pgS_SGTEhAV4xCL_rSA-q2QxdQs-k8XGhQCL-FVYuYvjjYsz2uENcjgIPXRFw",
+         "scope" : "GOOGLE",
+         "types" : [ "campground", "park", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Wigry 12"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8242183,
+               "lng" : 22.977914
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.82556728029149,
+                  "lng" : 22.9792629802915
+               },
+               "southwest" : {
+                  "lat" : 53.8228693197085,
+                  "lng" : 22.9765650197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+         "id" : "8b40186c5076958c845e073ec89cb93e0655dfed",
+         "name" : "Królowa Woda. Ośrodek wypoczynkowy",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104164049148162413086/photos\"\u003eJerzy K\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAK0zYvouLHHWCEVsoNpUxjvddjVKOWIJRGawvVCGJflH-dMHD_XbrNlhtVEGMlZcsWwsEsOVi7hks8mCauaDxJeM6rcdt_auPY4hPYrsvkOCPnVQCJA17cW0oRByMb7Zxa1AuKfpoXi5V90jxKl1RnewcitDYjS9Z0R_SqOwgtopEhA_Hfptx862Xe7PATkHQnP6GhQpJTl5oXNa2OsyqDtoDGYlIrSM4w",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ9VGO8EhQ4EYRXwS0zwRD-5o",
+         "rating" : 3.7,
+         "reference" : "CmRSAAAA4HHDVEGcS4o1rGZO5O7rdFKVb9Oo8A20z565qui6zqkKj_Qe6sWdPvGoRDF-P5Xk4dB5jGEUnSvQmebIXSlD9K5-ZGypjxQ1RB4t9lLdJAnqluEpWokwu9b2nGZypqIWEhB4hncP7vRUIdX4yBfTk6VzGhRJRCk90PVszkf5KUUX12ZzPxu_6g",
+         "scope" : "GOOGLE",
+         "types" : [
+            "campground",
+            "park",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "nad jez. Sajno, Augustów"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.58926,
+               "lng" : 22.895018
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5906089802915,
+                  "lng" : 22.8963669802915
+               },
+               "southwest" : {
+                  "lat" : 53.5879110197085,
+                  "lng" : 22.8936690197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "70708d35ed4b1da916e62ee9acb442507ae18486",
+         "name" : "Agroturystyka Dworek Na Końcu Świata - Dolina Biebrzy",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113532462437564168675/photos\"\u003eRafał Iwański\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPI-QwtbP_hw4r3Hh3S3O_66-BrEnyxqxOhi17KvKdg46JlM-D6XtQldKtI177v8OyXUTB3uo_QpCdJh6kM_ybjPNC0qDGw5sh222wwrA_u1maFRgyjk-Z7B2PDI8B0ZAH-abGN94U66zZTDn8s5BtEFCLT25MRK-78a881t9RVEEhDcvgKNlqJasyUS62VmtNHvGhQhRUVsyhpCbTjz-4T9nI4cB6Kd4w",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ_XhuhFM44EYRetpuX9MjTvs",
+         "rating" : 4.4,
+         "reference" : "CmRSAAAA4G0ApgJg7L1bAuApRMSxbDwINxQ26YvCB-3TxfFTtb3lBmQrTnOz0-o2kyy9HVlUuoNSq73-PCCodYAxJWpFe8FA4PyPj-clctZp3G0j28xtLom4Ol3pxntrjntqcMNQEhAAyPjEocSr8fGZ5p1u39zPGhQVQY4bp9386htNImNnzRE38JMnVA",
+         "scope" : "GOOGLE",
+         "types" : [ "campground", "park", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Kopytkowo 4,, Sztabin"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.72458899999999,
+               "lng" : 22.635783
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.72593798029149,
+                  "lng" : 22.6371319802915
+               },
+               "southwest" : {
+                  "lat" : 53.7232400197085,
+                  "lng" : 22.6344340197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+         "id" : "7e6e0abfc7968c4e066967111912f3e34440a065",
+         "name" : "Ośrodek Wypoczynkowy \"Łabędź\"",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103510938005584869425/photos\"\u003eOśrodek Wypoczynkowy &quot;Łabędź&quot;\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAJ044c4UoS0QCD_difB7QjjzLnujmrLCAWDjlV0Py3-SEQUmIG_GJ7bXCqvhvEOwPWFn0N-HaUJI4NH0D8AYlvWMw2hDHS2JqGw1C7ehPfu8kiWeA5pX2blNfcCMIJz_0MVWLELD4177eaE5wdxaNlOJ-ZEiTOP7m8vQvqtbHYiEhA2wGI5FGmxf-gE8NHD40WwGhTAEQTVnhrJx0Q_Da9eMuBosrJY7A",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJp_QX3ii14UYRJqphr2nbtUM",
+         "rating" : 3.9,
+         "reference" : "CmRRAAAAqIKd7IKrUIUExiLuZk34lhP4Odiqeg0LNSD3alrZ8JB33oQ5blK18ibn9fLSm-7tXoemako6j2r3v92cegoINKI8ZlhT1fxRfrMqMemCoHMY0PoN0SdN7jaUNO5ef5JmEhCr75V09uzztECZiupmxwb5GhTz2jMyXHiXvjfph4wEsQl7KDQzzg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "campground",
+            "travel_agency",
+            "park",
+            "real_estate_agency",
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Leśna 3, Rajgród"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5894175,
+               "lng" : 22.8194423
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8278811,
+                  "lng" : 23.12002655
+               },
+               "southwest" : {
+                  "lat" : 53.0691567,
+                  "lng" : 22.48307635
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "056b5da51db6e3c595f82f05b8773997ce5fb8da",
+         "name" : "Biebrzański Park Narodowy",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1064,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116117113819477640534/photos\"\u003eJM Majkowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANvLBCyUd8g_6wW4nJKwxrXG3DhOKosCIrABMvdNTIXlQQW6g2lMdFuC_vaeC8PNTYcUo2cl2WE1R6J81V_SBkmvtSlcrcQHHPtPtoju3budIzhiNtrPyF6Ga7cPfDV6tPrT3-RC-KUalhOG0yNjoQkzUiw38ZzE4BhXaQOVOUX5EhCCFiTGiEvswsuL_8ykmp6wGhSppZHVRKAbakDQTOhQaKvrr1S48Q",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJBdN36a864EYReKghYu-PihI",
+         "rating" : 4.5,
+         "reference" : "CmRRAAAA1naOe4NGD4U1gh7dS_h2W4odd-n4ezHOiGKsIRRB3P_80Ny5z91_Ypn8b16x6sURr4YTPz5Efh4FIfcMYyTBEiww8JLjbBVh4zWnMvZNhK6-7YhodOfbgbLKzfxbAqXCEhB1ZTDQCh2xJJ0IKVNc9UR4GhQdxJfG3JsAblKAN2rxnw4WECrKQA",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Poland"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.09339,
+               "lng" : 22.93402919999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0945042802915,
+                  "lng" : 22.9354194302915
+               },
+               "southwest" : {
+                  "lat" : 54.0918063197085,
+                  "lng" : 22.9327214697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+         "id" : "f7aac075fd5f1fca6aaa0fb82f27a6b03d7d4145",
+         "name" : "Kemping Private",
+         "photos" : [
+            {
+               "height" : 2336,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115886156469676017884/photos\"\u003eDorota Chodzicka\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAP5eWVKXKdfN1Xssp_HN1VGP3-5MjeZ4RJc1kYKhqe534-Jixrmt0Z2HHmLj4syiQfIv3EVFla1gVQh-x_VH0yEuw_sbArRyxABDS965H-GDzKDTXj2eyf4VULcDjftSHxZlk-hNAjcN9PLS76aNaibwVwJR9_OklwxeFwerXzibEhD03x9I8UuyA39iiLxVKQEAGhS9QYWD-rMNFom4k22asgPiaqHyHA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ_VQ3GSMC4UYReiSEmRsJl7E",
+         "rating" : 4.1,
+         "reference" : "CmRSAAAA5-ix_nnPeU4DEACi0wmWe74S81Jj_uNJ9cxczRNvEj8v9rF6uJE8QUABub2AKuJRBQ-8moOAIUNPk3XlYv-uBtFcL8C6WXSGjseltSsmlJ6lWUO5ZVYsMuE3pgOKkCVqEhAfcldPgakU499mM3iE3uAIGhRk0eVoPg2QeZp1AXcvnNVmMhlTfw",
+         "scope" : "GOOGLE",
+         "types" : [ "campground", "park", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Polna 9, Suwałki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.686426,
+               "lng" : 23.104371
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6878032302915,
+                  "lng" : 23.1056587802915
+               },
+               "southwest" : {
+                  "lat" : 53.6851052697085,
+                  "lng" : 23.1029608197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "50e1bc884c5210fdb3fab51cdca0dfebfcc1d5a9",
+         "name" : "Punkt Informacji Turystycznej Biebrzańskiego PN i woj. podlaskiego - \"Biebrza24\"",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 471,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101513857909253847121/photos\"\u003ePunkt Informacji Turystycznej Biebrzańskiego PN i woj. podlaskiego - &quot;Biebrza24&quot;\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAABBuMacmQDsq9ph1fkiDojtljqpSBUgYOGlrF7yS_hPLPfYBG1Nk9vjhpr8WR9iRhGabnJHrb7psFHivabGzWrpWdX9Vk3CQmzUGOEhO93pHgzX28A3AKme7bUHtvvm-uBOOLgTmesKObfMCRNS53EppCoNvYd4ypecuevo0fsbEEhAi_ZmVeuC-eQhGi8GTavW7GhRlcoLf75F6JmdSVBxVr0NcuW8JGw",
+               "width" : 1060
+            }
+         ],
+         "place_id" : "ChIJZRhgil9B4EYRJHwSGDXXlNc",
+         "reference" : "CmRSAAAAc78qT5BIcl_-D3iwgCymbZXcbKdeHhbt-AuykflRHMiMbyD1O5o_Alc_iplRfyBjWYgmmcQ_4Bu1kI9_krbjbpvYHJA-C9iOSDih1BLXu4Efbf8Xy_hhGuBMlK3v_d4lEhCoXXNXAb_AwNASDfFE10v_GhRj1pvaKl0Ra2zXrWHAzKwWupEu1A",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Polna 50, Sztabin"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.87084280000001,
+               "lng" : 23.0909353
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8721917802915,
+                  "lng" : 23.0922842802915
+               },
+               "southwest" : {
+                  "lat" : 53.86949381970851,
+                  "lng" : 23.0895863197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+         "id" : "07a00e5e5fab5313495edc86d9d31eee0e444a5c",
+         "name" : "Patelnia. Ośrodek wypoczynkowy",
+         "photos" : [
+            {
+               "height" : 2618,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116032587025017645269/photos\"\u003ePiotr Machalski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKr_05GyCarZkPd9C73XhUhLJpfYGkedh8mvy1S5gtlHDisSB6Nfb276AMKQH0Ix_zzMEE2VOM8ejGuplWQEBpwm9o0DM8mu6I-eMTTZPJR8QpJSJTVh_uPqVgcErH01Lt2th3fYcHKnrrEUbF3KmZGI7ORr6cVKSngusDdrdAsdEhAG_vGG-6R5ud5rkUXw6RgfGhQRCzl3Wm4xAUAK76Li0iC0hFDC-A",
+               "width" : 3941
+            }
+         ],
+         "place_id" : "ChIJuRK2sxlZ4EYR4ZtLQpvCJqg",
+         "rating" : 3.3,
+         "reference" : "CmRSAAAAh8aBpxg4kLaUwuPioyAI_BYB2Hr5BdK1cwHwF76BmA0KtBlKJcSdpGwKpBgEN8oHsX-4iwS-pzvNdokycW5nIK5Zh-He9hx-BeLqjEjRIfdMdgAJyQ9JZ-DmCtKA7HtNEhA1K3d8W9n51-gKSYJWxEQBGhRpTsckb8fstf4mWWKLPP1X_iQqRQ",
+         "scope" : "GOOGLE",
+         "types" : [ "campground", "park", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "16-300 Augustów; Przewięź"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.668201,
+               "lng" : 23.110245
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.66954998029151,
+                  "lng" : 23.11159398029151
+               },
+               "southwest" : {
+                  "lat" : 53.66685201970851,
+                  "lng" : 23.1088960197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c82db3e7138b09aca23aa6540d296379952c43e3",
+         "name" : "Pole namiotowe \"Biebrza24\" - Podhorodnianka",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1064,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116117113819477640534/photos\"\u003eJM Majkowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAACTOguM7k5eDq1FG2AWcbX9YHgNgoZLpPMYnI5w830To7wBqMVCkUFkkEK_STA5uqv1v_mY8k-ywISo_C3aJsgls5fcgkYDJw1XnWq_i4IwDZFNFhO4s8yVvKg2auWy1n-1Mj8B_y23_P6nW3JuFpz90_5aLrzgXK9uHGKP_oSMpEhA646mLlzeyF6VkK1UGaw27GhQuZtPTTDpthE1zWDIYgcQJKD5amQ",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJr-Hfm3pB4EYR2HXL7Tdzn0g",
+         "rating" : 5,
+         "reference" : "CmRRAAAASseW75efhHinYHeWAzMTvQFF-AkSPojx4xo6KffECvXEVi2DczzMzpGOQ8Q20AtNjKyQu4lXWiq3tkfDTK3Op4_m5qKErrySX-bW0u4Dwh1tfRps3_c7B1_pyp966poXEhBi1gPqZPXyYD6z7g-070NoGhQJxEcsc-1CZuKFy2OKP4kP8t5upw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "rv_park",
+            "campground",
+            "park",
+            "spa",
+            "lodging",
+            "health",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "ul. Polna, Sztabin"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.100489,
+               "lng" : 22.9272335
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.10185893029149,
+                  "lng" : 22.9291612302915
+               },
+               "southwest" : {
+                  "lat" : 54.09916096970849,
+                  "lng" : 22.9264632697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "de2774677126dbf49b6b6fad0af7160731e72fe6",
+         "name" : "Park Konstytucji 3 Maja",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109569281338069798367/photos\"\u003eGrzegorz Woźniak\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAN2AdJcwzzHGtFG4JLpU0533ZbarbcWsBHckBn1_fE6inEvmErBPGD_cRUHZchmxVgKU3NsF7TjQCsqS-A9XjoVUFJWs0OgbhahiM8OgcrZ2aHCxWS2v2Yr1LyuwsLA_oRpg-5Ec9EQAm2WNh9DPMPJRSCQEvgUj-X9WnvmIAe8XEhAHPVu6T01M1iN13HPfFxrtGhSqiNReImN5z6Uk_nOcaYr-XH3o4g",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJ6e2XGToC4UYR1sVlvCZo7hE",
+         "rating" : 4.4,
+         "reference" : "CmRRAAAAFU_1-ApdeKZJTaf6_dxpM2Wi2rDfIWZcKAKIseKhr3DqBVkL6x13TXF_cgYIrVgWu0F0wLBNMBsDQQYaKWQflvFwIfdYLFZ4xnpWYp_nDLR77H1gmEy8oZY5nKMoTUeMEhAGu42ISnhNXC9Ds64i6fbOGhQ7-IcfmrRC7cKzH3BeQjEEdUOUpA",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Tadeusza Kościuszki, Suwałki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.85750239999999,
+               "lng" : 22.9679864
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8588513802915,
+                  "lng" : 22.9693353802915
+               },
+               "southwest" : {
+                  "lat" : 53.8561534197085,
+                  "lng" : 22.96663741970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "d98a20a7d99244903b704bb7175ae8378581ba01",
+         "name" : "Ośrodek MARINA BORKI",
+         "photos" : [
+            {
+               "height" : 778,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117038920245256286284/photos\"\u003eWaldemar Borkowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAFCBNEzoE_3tchhemOoLE21vVHPhQYpW0WSApy_6FwzR806iHd7NyZgGkXhYCax2vIKyFRah_XKmLbeowzdEa3xrXcRZoFn5xmAW-AMHbQRCUWEubOWEFzgEJsyFTANClOt-OpllIDhvpOTcnWWyH50Qosau2WH1NBiH5qzwO6tjEhAEgB6a2OTaR-dkL6HnE1lAGhRJWkwOjOkZueeVB7vrR2ipyMDNXw",
+               "width" : 1162
+            }
+         ],
+         "place_id" : "ChIJ8TXALBBR4EYRdfeCp5p2vuo",
+         "rating" : 3.9,
+         "reference" : "CmRSAAAAu4L52SeExGuhwEhUoqQCtPWvD1NwsR7haLowSDVYTSo98dZhBQHuJucoZopRhjFT9HcfqdlPRnWe72QDMh3CpFcOhZ15ayIOIrjkG1oKtmbym7irY3FJRT9DciTaJ1IQEhDdqzrl1pTAIbBcftyo2HjwGhTcauMxTmLgQPfirg_mKKp9YMnMKg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "rv_park",
+            "travel_agency",
+            "campground",
+            "park",
+            "real_estate_agency",
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Nadrzeczna 147, Augustów"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.9033664,
+               "lng" : 23.2448441
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9047153802915,
+                  "lng" : 23.2461930802915
+               },
+               "southwest" : {
+                  "lat" : 53.9020174197085,
+                  "lng" : 23.2434951197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+         "id" : "77da70a1e5e18fefcb7ec3359135c560c426a058",
+         "name" : "Gospodarstwo Agroturystyczne Małgorzaty i Kazimierza Ciężkowskich",
+         "photos" : [
+            {
+               "height" : 2336,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107138588321106239251/photos\"\u003eWojciech Ciężkowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPhR48xCMpcVZSBvxCWcJ3MYiwxRLzDcYy8n_G2MTRnT4LXueuBDEijfcpEsj3vZjQ5Wl8tqeaVorzVxcpfk4lw0UMUvw2oHaAspaqReeQ79zQFp4cCUIqhc968WvbbrpCqm7b2YPh5u5-J34lwuRXowviQqKIwqxh3S5eb0y-_9EhBxC1ZmLB1WjmjKkv291xrSGhSPiXvs7tC6Xy4WovIWyUIYwA6PQQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJe4y8eshY4EYRDtZSnQhmX1s",
+         "rating" : 4.7,
+         "reference" : "CmRRAAAAeDI-OxRYyxkglkZ2NGSvwklgqlY_01AKlWZ_yryyqNEe2yRGxGq1nn9u3tEFkhKCziMRuIn9RKUJ5z5U1ZNHOC7DhdP0mE5e3qNDikGNssyk9xiJBnzaq9tDXHgGUhncEhATV4nvT5OpkdkHX4xMv0LGGhSggXrwG5IfIK_nyIY8VK_HQCBbtA",
+         "scope" : "GOOGLE",
+         "types" : [ "campground", "park", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Płaska 86"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.87580620000001,
+               "lng" : 22.9856409
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8771551802915,
+                  "lng" : 22.9869898802915
+               },
+               "southwest" : {
+                  "lat" : 53.8744572197085,
+                  "lng" : 22.9842919197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+         "id" : "2a70d8e29fd1e91d6f9308502c2c41e81b24db75",
+         "name" : "Leśny Zakątek Kultury Zdrowa Zośka",
+         "photos" : [
+            {
+               "height" : 3008,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101522266851307043718/photos\"\u003eKatarzyna Łask\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHqaFBMnHhtuckWl_VAmVuUPliAA1lz52yw7_c8YOF87FEBhl61T9t9H8Ku7raOvdvkWkT-8ISknm8l3uiVxjRad5K1Tr3516M_O2hWjOy2IJYOIK0W-kh-bLdLzDrjZpfK0oaKfyO5Rha6LMTND7XBBfd2BxXxxyv8aUD6onHUVEhBjuV9IVtQEr7nAkz47v3XUGhSOxYxpZzciobOfpckyAjdslgepLA",
+               "width" : 5344
+            }
+         ],
+         "place_id" : "ChIJH4WLeTpR4EYRmTAd39UuBek",
+         "rating" : 4.7,
+         "reference" : "CmRSAAAAiMAPgfkYeoNzmncX09f1geTolUha_HdOJnbv3FwxtKdEg_c55PllX5O6Qn3AbR57YvqzJDFuMUsqMag2sGZawULwA--17AbcXKKBN2D7PXl4DBei87vMlNr8_xxzW_DvEhC_Ve04azzOqGfOZAAy6CcRGhQMGXzNfCaXBqxqkYBKmxhqyjgToA",
+         "scope" : "GOOGLE",
+         "types" : [ "campground", "park", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Nowinka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.862223,
+               "lng" : 23.00172299999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8635036302915,
+                  "lng" : 23.0031599802915
+               },
+               "southwest" : {
+                  "lat" : 53.8608056697085,
+                  "lng" : 23.00046201970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "97fedcbba8bfdfc2f4f0086beb5b076c3840465a",
+         "name" : "Camping \"Necko\"",
+         "photos" : [
+            {
+               "height" : 467,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101754045473998073589/photos\"\u003eCamping &quot;Necko&quot;\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAL0fkRzG4POCglwRhxjrSwWvvATdVW03SGlXzsMDM36pnor17tt0bhbn7xjab0JCnzMkfGSi6QZzEoDS3T7CznuTZi-XFAFntS6QwRyLKzNfzTVMS_j7DvNewN-KCjCn1-g7qqHVwLMw28Oi85UYfTptsJ-FaXyHpbhYzPtDeVngEhBCsCCpdR2pUc4NMzXQFVI4GhSinaASLLPHH0ZmvR9NaqeJH0eDgQ",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJWdwE1N9Q4EYRrqnk-72z9DE",
+         "rating" : 3.9,
+         "reference" : "CmRRAAAA_AmfceCBHoRpwuXayjFr4z5Yj9r-Y7adei7SSYrBvkzAylx_QryWUl1Dgkb1azpbNEz8hoHH6CmKHYqeTlD2YoeD_WMSPOwna7ZIPZl6m8si0_qkJ17knrFXLr6ewRjAEhCuUC5epWP5BitXnEf4xP-cGhTxUGzemanuPidn24hAWte1M5szxg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "rv_park",
+            "campground",
+            "park",
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Sportowa 1, Augustów"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.86092410000001,
+               "lng" : 23.1183665
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.86165593029151,
+                  "lng" : 23.1198614802915
+               },
+               "southwest" : {
+                  "lat" : 53.85895796970851,
+                  "lng" : 23.1171635197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+         "id" : "ab9a9541016dbe93cfa115e7a6ac3f897709ed6a",
+         "name" : "Pole namiotowe",
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106319663233794889678/photos\"\u003eGrzegorz Kapturkiewicz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAACCDp2A1OdaM4UCoxlXPeEFMbBI5ZMfMTOAvR3YbBNmwsWxiDZ7gzp5OAW26RM5m7bqvRWXsllTVcpXXy-QYw65zuAVjMT7v9zgk2-lvRq_vDx3_kBYbgHavTvLArBqrPFlQJka4QhO4nwjLRimkAk_E3_jjC6tVQiEbTqO606fPEhDZO-Z6FFWOa6Dpz8UW4XkfGhQfZd7qDwANylN-pwhbfBtkrHL88Q",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJ1WVOqCBa4EYR2wBAoqKTtDQ",
+         "rating" : 5,
+         "reference" : "CmRRAAAADVtbMwEsQBOUQesmc4kRoqIIL1aNCPutfjz_y7qb6o-Br44f9UgfsUJa4ah2dHKoEkDvxp-AC_Fc89rDmemL6uRTMbf7MgwRhTmF4fwVXi6aeKpKMgj6E2-FZi8HpXBGEhAqZpOS63I1-pVtMCiuQn_EGhTZIfRrNTEU-zl72lbmgJTV4vUgzA",
+         "scope" : "GOOGLE",
+         "types" : [ "campground", "park", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Swoboda, Augustów"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.96522880000001,
+               "lng" : 23.0461059
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9665777802915,
+                  "lng" : 23.0474548802915
+               },
+               "southwest" : {
+                  "lat" : 53.9638798197085,
+                  "lng" : 23.0447569197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "45d84fbaa61d5478cfed54ea5a7c85a8b6600e52",
+         "name" : "Kompleks Turystyczny Ateny koło Augustowa",
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103963280829804609245/photos\"\u003eKompleks Turystyczny Ateny koło Augustowa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAM7LBrHyNTrhVbFeZLJ6F_I3Jdnt9T65M_Pu5uubEcdbuqRNhvgxZz487WUSTtGy2zlPY6r3z4L9-41_uSVAOPFAdfMclNANuDmYzXt8FgcXqP1iYlnsm5qGMpjw1gbf3bu7vcfZOfDYcYYDIV0GFKsm2nIkuRw6OYVRW4bf1eOqEhCdQGpEcScfJn3l251XEKnzGhSQ9uYQ5Qf-UPu_fCj_mK8OKJqKcg",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJu511Ux5W4EYR3H0myBoJj_k",
+         "rating" : 4.3,
+         "reference" : "CmRSAAAAvrRxtTuKDO7lJzIyXIN71FpBu-W2qlTVKiKhoeTf9qIUIIg9eVpGQIBZZv3UztUerjF1oP6lLge0D8mRJcK9mYi5qK4ocKj5tIVf3Dg-vJPS-bb-S-OVoppoy2eDZgHCEhDZ6PLLdK-RBgHchw-oYMmxGhRmqYTe5Dp56MXCi67bZao8nalwug",
+         "scope" : "GOOGLE",
+         "types" : [
+            "rv_park",
+            "travel_agency",
+            "campground",
+            "park",
+            "real_estate_agency",
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Aten 121"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.9467711,
+               "lng" : 23.0811092
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9481200802915,
+                  "lng" : 23.0824581802915
+               },
+               "southwest" : {
+                  "lat" : 53.9454221197085,
+                  "lng" : 23.0797602197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "d4d71120ae231b50d9e4772fc152e23335bab9e4",
+         "name" : "Punkt czerpania wody",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2848,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116032587025017645269/photos\"\u003ePiotr Machalski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAH5QQ9hZJXmBlCe-kCMuBMkhd-oIxdMy2nbXr0DXPFFR3fCk3vRkeZBEUEDjbjoO7_AOsdy1SI6h3FAjyKhqamK0MlEHRRNrcTcaiy9DU3fh5xOFFuH4KHY96JCe_57Ozs0MFEEgkcELemgR159Ku45giBY-8Q0bAUYlFXSc41-mEhBD7UQtmB7BWal-7XPyYGFbGhRFhtq1YnTPWua8cC6llVCuTlEvyQ",
+               "width" : 4288
+            }
+         ],
+         "place_id" : "ChIJ-0C8z81X4EYRVNMwkW1rWgE",
+         "rating" : 4,
+         "reference" : "CmRRAAAAX6XEc-lQxaO6j_8xJeKtuDY6iv6YfMds7oZ3HPTOUX2atqaudXd9h1HyVJG8CSbaqkSIFyLn7wiUE9_qmFyExqNl6sgv5XNEWwCrDD5Tp3-YjXCzzwsCOfnkYi9dHVkcEhB5EmVIbIsUjDIqEkNTJSn9GhQb4NLHKUAl-HDzyoWhvqNOoZ7vhQ",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Jezioro Busznica"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0768421,
+               "lng" : 23.0751515
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0781910802915,
+                  "lng" : 23.0765004802915
+               },
+               "southwest" : {
+                  "lat" : 54.0754931197085,
+                  "lng" : 23.07380251970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "242c9492d9c5dedf77a469121089a71a644c8039",
+         "name" : "ŁUKOWY KĄT. Noclegi",
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109542037083360850119/photos\"\u003eŁUKOWY KĄT. Noclegi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHWhLKP7x7yXjoHrDSu5SqpjVOOmI2Ex2Na6Y9BBFq1Gyp9CipdZnJkGhznmr8gNrkk06C1xZMcpsh_kEV-nnhGKILu48yZOPON9B7CkxBJxkbsp8oLrdINHMaOXCb2ki7muGv3JnD9wcjda5aqGwLyo-0QfBVW8FrpnYvz156gjEhACZqwfugJB3WYIsDIBT-7JGhQCipPCowfm2-Odt6yHwHACJ-NlAA",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJXYzy_T_84EYRNcjpSDFdVTQ",
+         "rating" : 4.8,
+         "reference" : "CmRRAAAAeEM8QY-wDH2CxQC_nkA2xUYKbTWqVVjx-CueZVuAuQWHGwILtyl8ZYa7P4ae4s7eXiVxy9wUaSDmp5dzNRCTtQ5FD0T8xnpR36_ZwreOogbugVz-MOsebba8Q7O92G3ZEhD6eO7iHxf2R14ZVQZwaEleGhSQUQs05JHqJhLzFjRzkE1h80470Q",
+         "scope" : "GOOGLE",
+         "types" : [ "campground", "park", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Stary Folwark 44, Suwałki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0224156,
+               "lng" : 23.0403732
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.02376458029149,
+                  "lng" : 23.0417221802915
+               },
+               "southwest" : {
+                  "lat" : 54.02106661970849,
+                  "lng" : 23.0390242197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "c1c80cbf4233833bfe888dba14fa1127206b88ab",
+         "name" : "Wigierski Park Narodowy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2445,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108270768040374377886/photos\"\u003eKarol Kwiatkowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAABUasCtam0y4wl_hyV7g-MhZtkO5xpsZCIpRTfB62X3W5rNlIVxtY0EtokEkgJ93qnf5pqoEAnnccBVRXlLSZZgRB1bN2TVWtnj5bkuWOkGOCFRztnbYTEGM7ruvZs3ReVmgB2l4C3H3fDlAzKAotlp1GuWs-Cj8iBdrsxyV9xQDEhDOfLxPwm4rsssv3DgEDfiPGhQwW925MW5SE2RnKgEcBSyRP326gg",
+               "width" : 3262
+            }
+         ],
+         "place_id" : "ChIJF-TS91b54EYRblYGEHUefw8",
+         "rating" : 4.8,
+         "reference" : "CmRRAAAAAunRe1qfRPOSuHW7R-w2axVtegeQHtjolEKE6J9CO9npYrwV6X8ZT7aeFNE3-m601uswE1Q9mqfDIpesPy6NJlMXHdk9Q9QV4gLIlj_fKH8Z_pHzsWC9hctD8LgNnmV6EhDpdlqrhouDKoS6uptZbrKPGhQcoCZj-RFH864l1ux9bc9kkKbm0A",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Krzywe 82, Suwałki"
+      }
+   ],
+   "status" : "OK"
+}

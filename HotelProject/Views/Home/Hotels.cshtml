@@ -1,0 +1,26 @@
+﻿@model HotelProject.Models.HotelViewModel
+@{
+    ViewBag.Title = "Hotels";
+}
+
+<h2>Hotels [@Model.hotels.Count]</h2>
+
+
+
+
+@{
+    int i = 1;
+    foreach (var x in Model.hotels)
+    {
+        <div class="row">
+            <div class="col-md-1">@i</div>
+            <div class="col-md-2">@x.geometry.location.lat</div>
+            <div class="col-md-2">@x.geometry.location.lng</div>
+            <div class="col-md-4">@x.name</div>
+            <div class="col-md-1">@x.rating</div>
+            <a class="col-md-1" href="@Url.Action("EditHotel", "Home", new { id = x.id })">Edit</a>
+            <a class="col-md-1" href="@Url.Action("DeleteHotel", "Home", new { id = x.id })">Delete</a>
+        </div>
+        i++;
+    }
+}

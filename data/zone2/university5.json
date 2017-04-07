@@ -1,0 +1,163 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.160525,
+               "lng" : 22.049945
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1623876302915,
+                  "lng" : 22.0513960802915
+               },
+               "southwest" : {
+                  "lat" : 53.1596896697085,
+                  "lng" : 22.0486981197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "ef930ee37bfb7b94c8b39a190189e8d768356213",
+         "name" : "Państwowa Wyższa Szkoła Informatyki i Przedsiębiorczości w Łomży",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2250,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112794414400327818721/photos\"\u003eLatamy UAV\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALOjvoEFV5syVGvq-gZSOEG35_TDHNRb5D6_Ct-VIWFdU3tpBQXV4wB-vfETyTYY4D_kBjtvZ8qD-VDgPO-usMH8mQxS4SgA-oYs2XJ5WSsnZTawnTzhDfSkPOxBi7y7vNrNQzdkIBBxL_72qhQmPBfUU6jqfPWnwxQt5K3isjn3EhCWmRMdhjPAKKW4TfG3kkEVGhTiRKPI0JObyNk0_ZRdDXOuI-qc8Q",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJKx4gYgo0HkcRiPZ4uizov4w",
+         "rating" : 4.6,
+         "reference" : "CmRSAAAAsfrDS2aC9WhKRIJ8zvvKdAJSHBCmqoWX38YZQScO0B8c0EN15hxJToHajNPsCPxVYeuO7XZMTJ4P7G0xHDu5MwZahF74aXf82dUY9u6wj1RP69ju4TS98baggZ_bbdiUEhBnFT0deVGTEDEMrpGUp7b-GhRVnH0O68PwVSFGLdAH0-huwQgQvw",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Akademicka 14, Łomża"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1005013,
+               "lng" : 21.6216746
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1019348802915,
+                  "lng" : 21.6233068302915
+               },
+               "southwest" : {
+                  "lat" : 53.0992369197085,
+                  "lng" : 21.62060886970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "6a678962bad48c4a9f8c55a61741cdd7200ca262",
+         "name" : "Uniwersytet Łódzki, Zamiejscowy Ośrodek Dydaktyczny Wydziału Ekonomiczno-Socjologicznego w Ostrołęce",
+         "place_id" : "ChIJBRxC2wRBHkcRheIz4GYjs_k",
+         "reference" : "CmRSAAAAHllIW63lIexCGeUcwEndOf85Woyc11n5Yd-7hD32tBu5JpwuABD_JPg-MRAIfwc1jtK5725BdXYDxjD0oeVDybqqhf9oSyBnZ0e3rLjVxsNIRyhHP9TT7MYrzbAGsoGuEhB0QekY5UVpMHCzCNiJVX-sGhQ6rJLxM8VaARJqsSJifT7AGD7iuQ",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Batalionu Czwartaków 6, Ostrołęka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0777852,
+               "lng" : 21.5791444
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0791341802915,
+                  "lng" : 21.5804933802915
+               },
+               "southwest" : {
+                  "lat" : 53.0764362197085,
+                  "lng" : 21.5777954197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "a66f0601b2a88d5c346d1db3ea5aef22be88dced",
+         "name" : "Warszawski Uniwersytet Medyczny, Wydział Nauk o Zdrowiu",
+         "place_id" : "ChIJwd4b54NBHkcRFvsWTzAkKuQ",
+         "reference" : "CmRSAAAA34EUlJsrwfgw3Y7ghy4mZ8vQlbqsPFFIy9hn_tpapvYuMSfRIWGvB8GTNl9In08-kOT3cos1cVx50UHDl6JVCL4PNXiPmkydb0SQvsZV0rPgUgHUGi5m9YQKN_CpSba_EhDbq7O1TsgJvKw4in8hsI5dGhRUKpB3yHfkp7HeNGM_X8773s2EMg",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "gen. Aleksandra Gorbatowa 15, Ostrołęka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0462394,
+               "lng" : 21.6325468
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.04762288029151,
+                  "lng" : 21.6339423802915
+               },
+               "southwest" : {
+                  "lat" : 53.04492491970851,
+                  "lng" : 21.63124441970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "e39e2c11bb654d290ff779f8e305d686b7252675",
+         "name" : "Szkoła Podstawowa im. Gen. Józefa Bema",
+         "place_id" : "ChIJxw6UJ_ZDHkcRBcCUksOOCPg",
+         "rating" : 4,
+         "reference" : "CmRSAAAA_CULDfEj2La4T6m5Ke-QEwrVdLK5YKK6sT4Ht1xn5GsBbX4q9o2pA4yaxoONdkOMGY2V0alXRN-5igIlpVI5KgeqodcPZ_2TvTaJk0_sjWXWrN5wEQWnIPoGFPDVUmCXEhCZMxQd1DiaB8474MyNsA4UGhS2OCfc7EgUeEezuwFY9LCAjN8w6Q",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Nowa"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1587779,
+               "lng" : 22.048417
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1600573302915,
+                  "lng" : 22.0499783802915
+               },
+               "southwest" : {
+                  "lat" : 53.1573593697085,
+                  "lng" : 22.0472804197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "aa0cc0c3c6fa1955c7e28cf133456423ef11f138",
+         "name" : "Instytut Technologii Żywności i Żywienia człowieka - PWSIiP w Łomży",
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112364523034357207897/photos\"\u003eKrzysztof Cieśliński\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAABzWqkLHx7I3raAlbp1WUjj05liXyo3dxsvrXblbgs8InyArG9A-PIhphSbjE1cvOXsveOKx4MW-tTeohPa5ILiCHuva-HK3LrwsmM5Iu-klE5Q7HU_8CeLPeoeC6EdCInwixLOOQBBY3DyaL7Tdywn4--bmpoEYByKisGcDxF2WEhBJdRECyvhjYoVmT9tuTpxzGhSr5D04w4N8_YdXx_dgE4b2qjHIaQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ63a5rgs0HkcRlvt-Rx-JQoc",
+         "rating" : 5,
+         "reference" : "CmRSAAAAQg1yCQblQf6kSGGw2FZdNYexl5W8yeKqCBNQ6X94sMeUDrBtE5L2dvXgV1ASv6Gu7JN8t5EIrrwyAGSr1oUtYLvf1SeLTuMVYkad4_nHnmutUSOTcX_HD7SRmG60yvP5EhCES6M6ndKt46gFG8N3GSXAGhSdAzT5MAwvg1O4VV_XPsUecHvqBw",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Akademicka 1, Łomża"
+      }
+   ],
+   "status" : "OK"
+}

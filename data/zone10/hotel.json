@@ -1,0 +1,689 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCBAEAAGlNNeMJflUyj5GPeJSU-ueQCOZ0_6hzqjNWSoqTwUrA8LoKA4PhE565sG0PCJSjT6MJfC8luzmdPFAqSkkDKO2-TzCZ9GZXA3mHhLe0KOT-wzAO_vP5iLpuWOEi-rHU7Cdw4N2ZA38g8UNrMU5MeBhFB-e-ucHQswhiFBwS6FK5fE3BRgcJxmd6Rg3L3g--pPELkiw8aJfvO1AB2tOYhQcQ3PWQy2EeGSPG5gWGd4aavfvpRdpfTD8V8Zm3Gan8h2Ez-ZaNSFTbXcyO_Tw9nCBFK9gjvAT3nOCuTpg0KyT4YDJHdNrLMqqLX2yNBRLbcVPbCSZeMrGrEaNiYeUw1Xe0RG4nyICzZ7VRnQpMkhfvEhBL4m-xrvqdkhD09ErsUQMTGhRFmf0nAzGcq2PSpCD0oyBPT3OhEw",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.36901,
+               "lng" : 22.592782
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3703589802915,
+                  "lng" : 22.5941309802915
+               },
+               "southwest" : {
+                  "lat" : 53.3676610197085,
+                  "lng" : 22.59143301970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6db2ee81befe9de2c7761a9937bd1048c965c362",
+         "name" : "Dwór Dobarz",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112340652603180990765/photos\"\u003eMaciej Andraka\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJn02Ru8iAp7f0HLoGMQlCWyo860F6F9xsqbHl9llzghy8xdERPPoWA4xWobxLvCvHHUURlzc9x243sA_ZY9-TzJ_D20lPmzq2tW9aDRdNA_3WD-KNNMFdkwNqToE4rDa_1RU6nnD_v5wvaYc63a6I-aPjXy35NCRziIJcco9jETEhC93luemM_kdmex9v45a6R4GhQZHyF7AaQ5JqugnndoTpvrq4_v1w",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJj2CW2l4o4EYRzl0smEgXqsk",
+         "rating" : 4,
+         "reference" : "CmRSAAAAKL2SZMxsDOoWqGsMDcQjQAdOCHbw23DTXiAfiZV9iKR9e72E5GBPgnqNw33gl9HAncuN5teH3XAw75LH-WvFS7noKD-ctpiW9RsR74x6mTMVWDd2YqePfXO_s2lxeMimEhBLmUvP8FmNPhEcm_AOOoJ0GhQUPLZbkwGdxW5JMWzwTUY4YAUyyw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "lodging", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Dobarz 8/9, Dobarz, gm. Trzcianne"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4914713,
+               "lng" : 22.73878
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4928202802915,
+                  "lng" : 22.7401289802915
+               },
+               "southwest" : {
+                  "lat" : 53.4901223197085,
+                  "lng" : 22.7374310197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2268ceed2bb377a0639784d015b29acfcff976bc",
+         "name" : "Bartlowizna - Ośrodek Szkoleniowo-Wypoczynkowy",
+         "photos" : [
+            {
+               "height" : 452,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109568048817512871081/photos\"\u003eOśrodek Bartlowizna\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADvUDuJl3_uDrUlge5qag5DgpfdhILhvs5U46NQRJEnd6Pm6E839Yagv6jv5bf58tE0cwgnVDrJaxDlPMiXFut7PxIXFNa9k6B2Z6Qu2HB3KLQ-b09auOXNlHaaObSa0x7NbSElJQEj-XY7QwNIXI_gFXoN-GvXsEjjP65nKIg91EhCmoUUqo30wptADxRPb7HDbGhQREb0eQX1vlVhvfEL_dYE26PLTWg",
+               "width" : 700
+            }
+         ],
+         "place_id" : "ChIJQa3RDQYw4EYRatAIlal9DY4",
+         "rating" : 3.9,
+         "reference" : "CmRSAAAAq1gDryokE0iJkHRSHjjyM0gUkOQtyfpyjBvNNB3XXqJUCA6iQV4yp18ab2KhAKzDiSAfAgRgMHZlLYvihg19Ul4wFHRolghBSjsYC5XN-tqolfo6bIJh0dpWpMEgSbyyEhCCgvMmCUPQk4EOzRaeKcc1GhRH8N1WnZeCQoHo3K-V1IU5hEHtGw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "lodging", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Nadbiebrzńska 32, Goniądz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.49076499999999,
+               "lng" : 22.7405584
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4921258802915,
+                  "lng" : 22.7418797302915
+               },
+               "southwest" : {
+                  "lat" : 53.4894279197085,
+                  "lng" : 22.7391817697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "99083a1a99dfc2c008e47b9157bdb8059961358d",
+         "name" : "Zbyszko",
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116512650087759357928/photos\"\u003eZbyszko\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALRu6pBnlVFpLFncY4OeeqV7V78J296htk05e-Kh044AD-q4CaeOMbce1JK1Sduo3_uYV99QNbFKysGcEUgc9-oWPtlrWJHKj3uE8P-9oMHywhmbIH-IW7kfGG_3A2YIr6jWuutJ6BJJQEGdQiWSTudBDt5czVdy1uEpVR26ZVpMEhDWKMzbbsyWM28WAvyqeJQ_GhSz41aCXJsv7GX5VkshO1qBoO9C9A",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJmyFsLQYw4EYRZ9xx3fEsN84",
+         "rating" : 3.5,
+         "reference" : "CmRSAAAAMEBQt7cOIE5ldg2HEf2IVxgKsQ8xNVcFduq9MZIAFjK5PW7KT2IlNxmeFYWeTlV7Bxk0jtgDUaz7QEXkJaOoPzRMptFiXPQsUYbRaOlQfkOu492ViOS06pN-l9snSuk9EhDF1ZMkqDeUR2Ozvfomjik-GhTTmRcdwg5f6bEZOAQSvSmICx4llw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "świętej Rozalii 13, Goniądz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4090108,
+               "lng" : 22.7894185
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.41029803029149,
+                  "lng" : 22.7904932302915
+               },
+               "southwest" : {
+                  "lat" : 53.40760006970849,
+                  "lng" : 22.7877952697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "2db47594b0ff1ea7123c43f30b444ef2c325c526",
+         "name" : "Zajazd Mońki",
+         "place_id" : "ChIJhwa5Dmkk4EYR6eOk-G2iGGg",
+         "rating" : 3.5,
+         "reference" : "CmRRAAAAnCzq4h0RsAQaZ22PgscUTiS36_M728vMS_w9BjdE5LguaMdaRSEKB6s4TPEnTmGneLch3KnxPdQoZ0Lb2lVmbWWiZOQ7S837xvIVXNZAZjtuKheD8P1RTMdwlZbsOd52EhAActDN6vf8yHMMX4GxiASUGhQG553OK7s4MNQlDGNSztZUZgUaMg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Sportowa 1, Mońki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.49442329999999,
+               "lng" : 22.769752
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4957722802915,
+                  "lng" : 22.77110098029151
+               },
+               "southwest" : {
+                  "lat" : 53.4930743197085,
+                  "lng" : 22.7684030197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "a1533d2e51238ef13d5ae6eb062649ea8aafdaed",
+         "name" : "Pensjonat \"Dworek Baranówka\"",
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108883344297732749393/photos\"\u003ePensjonat &quot;Dworek Baranówka&quot;\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADvXcAmrmLD-bZgG66j_F-cxedHG8GJVBRLr4k7sGoUukJuBS_BFpmqVFP38CTlNzIRJJiSL8HghbKQCRkrnS_wCv1TbXNAsWlmmDekjCNxb-6HkCX0Msy1ZKjGnHNf2Je0wEQ05Mh_9bwtYnRq_zyHMy_kGSTffvzIBNyskY-MxEhB_spUrabMAqDGg23HIiJYPGhQNHXoJ1utxY-PDPYBKhig8klhxqg",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJr7YlGr064EYROP-PASxIgVc",
+         "rating" : 4.3,
+         "reference" : "CmRRAAAAHpF2GyzH3yOKuSFdp17WtBpLQLpi-9v14BDDWZPL3TXn2-9bv5IqIAs3xLd6yvjr9zEs6W5MRAcvtdMjngDolZGqhr-OpSGIT4PN6zlGhRKg6Fc5pBUjuohu_Fm9M1oHEhCWudoZx74wt2mWghYYyZqcGhSDNEoJ2FOuWnkxsRa3OT1F8pqPOw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Dawidowizna 28"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.49045059999999,
+               "lng" : 22.7391428
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4917671802915,
+                  "lng" : 22.7404739302915
+               },
+               "southwest" : {
+                  "lat" : 53.4890692197085,
+                  "lng" : 22.73777596970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2ff00b83e04dffc3625184ac1245f5c8f550a1b4",
+         "name" : "Zbyszko. Restauracja",
+         "place_id" : "ChIJmyFsLQYw4EYRHotGF-p2C6A",
+         "reference" : "CmRSAAAAB_3al_wHE89kmuLimZMjpyGHhasWQNuShZAUUhC4fCJRUlyWkFGCyMmDNU9_B7jdTKfWh9ej2XDFHVYQy3U2vNEf8BLUQClw6_b3di2meAcGaDwD3i3fOEQV-NGHIOvpEhCnriVH4IULjDeqdXjBErupGhTVKDsUcJomxSPz488dH1dij_Qa4A",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "lodging", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "świętej Rozalii, Goniądz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.317229,
+               "lng" : 22.463597
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3185779802915,
+                  "lng" : 22.4649459802915
+               },
+               "southwest" : {
+                  "lat" : 53.3158800197085,
+                  "lng" : 22.4622480197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "b6b646d0c8c665bf532949c4471c9cd12062cbb1",
+         "name" : "Eko Gospodarstwo. Teresa i Witold Konopka",
+         "photos" : [
+            {
+               "height" : 3072,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108015496495677122704/photos\"\u003eMichał Sleczek\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJH3h7TlhnLRkjX8awFsV28W4lH0tDrZrJIF3BjVoVdvC38a9ViCelfzZQRGsjf6fVA9VnWlqr-Rl6CJN5p2e8ply86xBD3UCQwAgiqfK6pCpVKnPyIokJoPtAJ9NTFfuu0MwVlmm09vDdiDK6LSSs0pqDrxNYIsJqKiuXleWp0dEhD9if4GYPmz8Bq-usN4AIawGhRN3CQXxxgtt5P_nhLuB9WgzKoUrw",
+               "width" : 1728
+            }
+         ],
+         "place_id" : "ChIJi-qT03vWH0cR0tE9JvZJ8yc",
+         "rating" : 5,
+         "reference" : "CmRRAAAA9xvHEeqDeT6JFYU2Z0C9k2PmBk-wrgQm3PO2L0b3k3Fyjz0LbIbUijH8jht_8bNaQPvICcYdiXG2QSoKTIEIIMJNtYFuX99GtEmrX420KzwVsI5nH7ThfNdOC29zifQQEhDhxLURGn8_WSwYf8B2Emf9GhTEZR0SQwGtqvyQvYnfhLOxYz_Q_A",
+         "scope" : "GOOGLE",
+         "types" : [ "campground", "park", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Brzostowo 26, Jedwabne"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.3716155,
+               "lng" : 22.5902558
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.37296448029149,
+                  "lng" : 22.5916047802915
+               },
+               "southwest" : {
+                  "lat" : 53.37026651970849,
+                  "lng" : 22.58890681970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "99716266a1f5b78ce74af74f734d1e35b9413a83",
+         "name" : "Leśniczówka Biebrzańska",
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115530306429492824491/photos\"\u003eLeśniczówka Biebrzańska\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOPOgfmvVP3JdVVHc_5V_0T-xjA8fhrkPn6Sg_oNR8bsCCF5QdK3agG8ZZlFLAWqKONhs3-1Cspkr_66kYNdFEJ2K0r0J6P_etXHqZS3moyH69zafFe4dq5jmqaC_k1ZWZzJVQ_mb4D3KFD3KFVPC9Xi0PP1yeszDQSQb7hPzoHaEhCBkE_CmeLwm9SA_dlEkJ4IGhQWAuUTMBQGEc4wu8jgV0Un-znflw",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJCyJv4Vgo4EYRENP9_i1f330",
+         "rating" : 5,
+         "reference" : "CmRRAAAApvtgUv1CopclEvxMLjrYsuoqRBtaz2P4qnmWq-bgA051GGsE7LhflMKDydm806hMoZawIMHkNHD4XjPdBV-uGWgfY7fjClx4drKDwEUoYFkFY713y9YnGJsULimnmPJGEhDOw1R7x0it-pCgiJwHedDlGhTydQaWydKYvgbEBdOd9KCWxZDpBA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Budy 11, Trzcianne"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.3777,
+               "lng" : 22.7939
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.37904898029149,
+                  "lng" : 22.7952489802915
+               },
+               "southwest" : {
+                  "lat" : 53.37635101970849,
+                  "lng" : 22.7925510197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "2aa336bfedefc8f9403c2f8da83a2748dc61300b",
+         "name" : "Wilczewski Eugeniusz. Gospodarstwo agroturystyczne",
+         "place_id" : "ChIJ2ULml7sn4EYRLbpnis24g2s",
+         "rating" : 3,
+         "reference" : "CmRRAAAAjJIgbv1w1l-w5XRwCovUYAmrSinV9cwOcFAPDmGL_-pZpdNWM4P-wAV5mpkZJCJiZKpDN7F1W6uO0PIYjAlvbD5Vznd_q5ogslbVJL8YcZMEP23U4fLi2p4Kq0JwOEJbEhCdMUgvdTWa282FPXUXMWsWGhSac0kyV-7wwkfFisx5_59NPltQ_Q",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Gugny 7, Gugny"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.411722,
+               "lng" : 22.7798339
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4129901802915,
+                  "lng" : 22.7817923302915
+               },
+               "southwest" : {
+                  "lat" : 53.4102922197085,
+                  "lng" : 22.7790943697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "53572ee885772b623f51fd552385c846b8e76794",
+         "name" : "Gościniec Dworak",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112340652603180990765/photos\"\u003eMaciej Andraka\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAP1yThnCE4FTwDX9upIOuN2BKEr32xMeH8leh2Smh8y23wXYGLodTUyHKri-0q9YZD1o8bgEmcWK7TjRRwafnGA6_Q6ds-O7ccow36zsvcrhwt8hU0-GBmujxJipT3DpCIqGA1xmZ3O8o002tg7sfamdinLQtSDKtQCt-IRUMbfMEhBvQJ9uCHkw762ryfhx-d50GhT9xabIKDbJTvbzeHGowv0R615UoA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ6R5VoEMk4EYRZUCRMi_xo-4",
+         "rating" : 4.6,
+         "reference" : "CmRSAAAABZlEJsvdGxgSsOPkp9i-7VgEZHXPYbadowM7mmFnZIKTRg4UyxDvbFcNHahyTHWElZW09phwgwbUgIOhNDjrlIcS1VwLfhQ_82GBJlNHL-h0yqPcODEbxHcC54v5OpGxEhAdybiXW_M9smS3CnI6iP1UGhSzpJYKLoCxWaz-BaWq8WZs1Uw94Q",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "lodging", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Ełcka 57, Monki ul. Ełcka 57"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.487831,
+               "lng" : 22.729525
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4891594802915,
+                  "lng" : 22.7308743802915
+               },
+               "southwest" : {
+                  "lat" : 53.4864615197085,
+                  "lng" : 22.7281764197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "770ee3d42e4a758cb81a2e47871f0073fe189776",
+         "name" : "Agroturystyka Łosiedle",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 918,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112185166104364647824/photos\"\u003eJacek Rutkowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALYK81JMlQ68VFv8ZKJGyWJ8tyNd03fRLqfcoD7oTIr8YoXw61BkLn5hNxqSXlYMWtqfmtO8y3DUOnpCMgHSgx9AzJV1wCjoNQT1wUHVA9pVZJyBar7UMyoEyN2o2kh5NE8RKbx05EZDNfU0s5s-GIvSuyy04vT_cxeb5N8bQVU4EhC7eyghdajoenn66aediUGhGhRI6d0GsQ_Zxvb-ekMW8hrUmmlneA",
+               "width" : 1632
+            }
+         ],
+         "place_id" : "ChIJW5WcdwQw4EYRd5J6K8xvThc",
+         "rating" : 5,
+         "reference" : "CmRRAAAAScD4dyhrUDz_qzkdJWYKxmh3rWrE42TPwr3Ns9X_g1Ws-SXpY--KBoFPULL-kX9SAZ5AspC6BZchhBRCMI11_hcQ84M2ttx0OCLNJUtka9aII-w21RWTJYb5X6nnlr2REhDW3x79SbdFE5kPFGcLfnpaGhTcDPFqmFn24yfToDRHuvz-nnQF8Q",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Nowy Świat 2a, Goniądz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.48265749999999,
+               "lng" : 22.6467705
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.48400648029149,
+                  "lng" : 22.6481194802915
+               },
+               "southwest" : {
+                  "lat" : 53.48130851970849,
+                  "lng" : 22.6454215197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+         "id" : "a895e6a80c8a4d31f1b60909ae2becddb4b276be",
+         "name" : "Bóbr. Pole namiotowe",
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103834289694055288228/photos\"\u003eJan Szafranowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKdc5L178XXdI7nNetZSYx4vH0lo6czeMnUg6ZFm0G7m3Oc4TdbgMCOTNvtkKeGRhP9_nf9c-SA9TJI7ffV4lSjb64Gnev4P3JsHwLG5XRVnc2hDX-uYSmRKvr-JKKikI4B4stA8aAN6DUw8-PJl1gRFhDqVzLKNO7YvGHWBlxAgEhAPAcQR1zt2ELMzkU0wV3TJGhRzXhA2dWNbO9oZZw7kARXyILS1uA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJo9tRVDUu4EYRvQnp18o9uwQ",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAAU2Riq00K_F9NXH6B7tz7RVyYTpJJzpwk4UA-KeL0Zv02K4WaDGbqnHhWAUU6JCMJexEz7YP12W0EY5zRbK0kKq0hDM4qy4Op-xnvOUgHmytC3jH2E7awCoFR2kl_o05PEhCk6T7GfTjxY0OH3dSWYMMNGhSgN_iKNR6jrhkuOQsBMKh-UyHN1A",
+         "scope" : "GOOGLE",
+         "types" : [ "campground", "park", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "19-110 Osowiec-Twierdza; 8"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4908711,
+               "lng" : 22.7367265
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4915928302915,
+                  "lng" : 22.7375753802915
+               },
+               "southwest" : {
+                  "lat" : 53.4888948697085,
+                  "lng" : 22.7348774197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "bb0dabfd775b720460567fada7cddb2e5c0d4c5d",
+         "name" : "Szkolne Schronisko Młodzieżowe \"Nad Biebrzą\"",
+         "place_id" : "ChIJFTXoZgYw4EYRPjAX2ZR8YNw",
+         "reference" : "CmRSAAAApz3b5FHaFKZIbnkfLTMq_GCbAM1xFsDJ95vR_jshfpO1hhWapSoR1b45aB8MHgS5o_fcfERSUTfzeJoi7jW1QhOPEdYGjK8JVqmtDzVmpRZttzpfGtAMoPIjjO8AF8G7EhAo2fQrh2ztfgthWA8BOvaeGhS2fUWDqcrP-52R1Fdr9rkRnIiYcQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Plac 11 Listopada 37, Goniądz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.365493,
+               "lng" : 22.651431
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3668419802915,
+                  "lng" : 22.6527799802915
+               },
+               "southwest" : {
+                  "lat" : 53.3641440197085,
+                  "lng" : 22.6500820197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "2948b9e881dc90590ef592f3eb6038c0d236a184",
+         "name" : "Biebrzańsko-Narwiańskie Stowarzyszenie Agroturystyczne Łoś-Dąbrowska Dorota",
+         "place_id" : "ChIJHZU-6S0m4EYRyxUnfp1hqsE",
+         "rating" : 5,
+         "reference" : "CmRSAAAAezxc0ILYXl4-8nVy98TtYhkZGVMPyp0teArAeCaF_girHh-jcYgs8Dzmg4ZOiKfuy1qV8Bpyyj8MAk6lwTVeb41e2Nx3eGCD3ljqPA6Rm5kDSv4Fy8eXaczQkg3U26VBEhADBV0xmFN9CN52NGemFPPPGhS5mI5oxKrc4qCE1Dgy0tM4tYAJxg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Chojnowo 24, 19-104 Trzcianne"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4871278,
+               "lng" : 22.7417459
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4884625302915,
+                  "lng" : 22.7431858802915
+               },
+               "southwest" : {
+                  "lat" : 53.4857645697085,
+                  "lng" : 22.74048791970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "e8dde9617cce9d9d7aeb42ae95172989d3b977c8",
+         "name" : "Nad Biebrzą. Agfroturystyka",
+         "place_id" : "ChIJ6Uuv0ak64EYRK1pryNf4kTk",
+         "reference" : "CmRRAAAA33gp5-bUm4hekuZ9OdIIpFIsAXIlwt8ODE_guPJDcWlz-O2O6KrhuzrzG89ohNPwW6fPPmqAqcl78J9Dderm1gg35Zhw9iS6zxoergQb2_XZ2H90i5tQCDm72ZrIZYL_EhB9JLHgLF18FnEmohY7x4bCGhTc4CSs_5Mr1zXRFgGKX3uPFdCEpw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Jagiellońska, Goniądz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4593784,
+               "lng" : 22.61056499999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4607273802915,
+                  "lng" : 22.6119139802915
+               },
+               "southwest" : {
+                  "lat" : 53.4580294197085,
+                  "lng" : 22.60921601970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "a6da3df35dd6ad634f048eae921850e151c55468",
+         "name" : "Leśna Polana nad Biebrzą.",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 632,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117026027519928675050/photos\"\u003eLeśna Polana nad Biebrzą.\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALYGrBsfH5IKQYgL1RdT7SrKzmChw9P5bYLIdJAA5qi2OITHbDkZknWzkm2-eUmr_NulKj6ZaUmQHT-F1KfkINtNJvVPXrPn4ChugrFeyiLS7WAWTcEdhrwlyEIZYzSuHC_TGMd_6BBJxuFFoavVt6tAvR3VQnURJ225ewMpj3ZpEhDOYcdvYJheTThaiq1rjgH2GhSgHcSh_PwhOGTkPyMgEX3_Iw8liw",
+               "width" : 633
+            }
+         ],
+         "place_id" : "ChIJIUsaG18u4EYRSq1UAPX7LQU",
+         "rating" : 5,
+         "reference" : "CmRRAAAAKmDDBILDdT56qGlfhd1ONQwDtXxflNtyRdd-zQK7YfJcswV9sXgQ9D0GuZr7FrUtTXNZMAp1eY7NpSeZpN6xT77sg88Ge-KMhio8zpypKO5OUhMcZ9olI6fw-_u2asQEEhAs_EgnWUbcXoHXy03UqSaqGhSjtiu9bdzUFyWpGTX9ofW1fsOHKQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Droga Krajowa 65 1, Olszowa Droga"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.485307,
+               "lng" : 22.6946139
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.48665598029149,
+                  "lng" : 22.6959628802915
+               },
+               "southwest" : {
+                  "lat" : 53.4839580197085,
+                  "lng" : 22.6932649197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "6accae35949995001599583d4a595631cd9f5eca",
+         "name" : "Agroturystyka Biebrzański Eden",
+         "place_id" : "ChIJoZFZ294v4EYRD-HXyGWaoBs",
+         "rating" : 5,
+         "reference" : "CmRRAAAAey6LZNr212p1bY_NMT85Cyk0rU3qY1bLu6UUdapcfpxw6GlxbQw3ME3laSDM8MFma_koT0O91kiFeohJb2kX4e0sHOrdBy-iYciKHY7RKSBy3yfMCr9ull13zuU4HmoZEhBz4xtcRQWX4NifTnq3mOxsGhQw6ykEmncQxY3TiZocZCrsls8oog",
+         "scope" : "GOOGLE",
+         "types" : [
+            "travel_agency",
+            "real_estate_agency",
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Szafranki 19"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.48837510000001,
+               "lng" : 22.7371629
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4897263302915,
+                  "lng" : 22.7383586302915
+               },
+               "southwest" : {
+                  "lat" : 53.4870283697085,
+                  "lng" : 22.7356606697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "50dbbde44554e441e70ee4fe042ae289b48b5793",
+         "name" : "Biebrza Park Tour",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105247632667930284662/photos\"\u003eMiciuPL\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAC6aBenA13Za5q2eXtHTNJfOs2K63FHzno9EM4nPFz7llxaO0fj3WtmUov3k54ow1gECF-3KVKtqQeH6qhJzYIR2xy1wmvxYdA-dTFYBlmKr4jchQLRn-LZFOkzfRRfDfnTMgQ5H04hPFMN8_Rys1YM1pVKz4MQLghFzQqzoc7_IEhB2ZdD6hLqbnde3vmDFDsh1GhTYwBkYdolllc7njyZKt63EeiFtsQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJFW32KAcw4EYR6sb3JJNxhrw",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAAhx444ZM53zThrfNQRd7Jn8JvSmFSrYDKvqYlzthKWcH_5apM-TaZ2kDkfbB4GgebXb6itcodU--H2DUF8IUelj4oBJ4YGxt8Ac-Ei8GcvHhU8ZGtb72natTzPh9n1jogEhDfH4CZOjVgEcpTyDYdV291GhTKKtn9U6BRyjMZnYwxU6m5UG75ZQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Szpitalna 5, Goniądz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4913848,
+               "lng" : 22.7387384
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.49279068029149,
+                  "lng" : 22.7401197302915
+               },
+               "southwest" : {
+                  "lat" : 53.4900927197085,
+                  "lng" : 22.7374217697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "45311f8dd67c83982985386ccb6a1616ec883464",
+         "name" : "Konaszewska Marianna. Gospodarstwo agroturystyczne",
+         "place_id" : "ChIJnyUNnQgw4EYRNCOfadQcAl0",
+         "reference" : "CmRRAAAAMn-YcS8X6PVKgjs2XRoUnkIMeyAM5GbjZzDW4xzdJdUnLWt30pJDZdxWWzg88cCYdqUIGLvVl6RY0zvmFaFP4i6j__HLRRLYKhn3f82PcW7dU3jRsGn9GSR1mukC7JyREhDeA0BMCr-7bwF82J4xZPwNGhSojoAEDabddK_eAIzLCa-nIZJ1pw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Nadbiebrzańska, Goniądz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.28390899999999,
+               "lng" : 22.456753
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.28525798029149,
+                  "lng" : 22.4581019802915
+               },
+               "southwest" : {
+                  "lat" : 53.28256001970849,
+                  "lng" : 22.4554040197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "c6858abb0da82bc3b14e890e93296c1bc2a2dc3d",
+         "name" : "Mamucia Dolina - Agroturystyka Biebrza",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1360,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112541894370279671778/photos\"\u003eMamucia Dolina - Agroturystyka Biebrza\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAN3TkWhKKCZvsCoMZx2I0HlfJJbVKLHXPbkT_PMiKArtMuH24iej1T4yDikouiYSGA39uAjzJHp9NHVCsv3RsTXPQF2EDePdNeotbENwCilwmiYiCnqNLvgNYLX2EnL45OTiUwDWAhIvDOLi-QolUQonRXDOS3pZpCyD6-36S4RfEhC7P_rkmUCglAQBmKDIWZ-rGhQ2z64DiHhSECtyO8j4gylO2yIwRA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJNQymjZUzHkcR5VhvDBfTgew",
+         "rating" : 4.3,
+         "reference" : "CmRSAAAAe2wi2WTpWOhrTTUud-nLXcLnEbz_VchPhEEwWpQAni5zIblySLrLzEC26aPyyEWFehtLml1AgwF_c00p4Q4YAbcxxLCSCsVOMHbxvnnOhTYpOOtH9_PPCZE-UEVfQ6FiEhBqlx_RDX-bc6viNYWE_mNCGhRr6ScIn6TM9KxQDY25HPAqFdJnVQ",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Szostaki 13, Jedwabne"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,43 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.19740889999999,
+               "lng" : 19.6477114
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.19860863029149,
+                  "lng" : 19.6484895802915
+               },
+               "southwest" : {
+                  "lat" : 53.1959106697085,
+                  "lng" : 19.6457916197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a7b536604708d6af0e5248e5a07e17c8a2a7cb86",
+         "name" : "Park Linowy Górzno",
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100387065051224517928/photos\"\u003eBARTOSZ DUKS\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGGrtFwPf7ULVDZ86iscO3a05_HAN5qgZLCC4SqgE9Qd0of7Rk7EOht-FKtnLdXcl0Yh93riNsgTuB82LGWoGCZpqhPzqLAkRmKHgreIB6lObrUhEuVIjC9qhZFbp1EDNCOSDLXUNSq7-O9DbR1lHL5IScrNYuxMhJchqB6uuttCEhC7HU5EM25E36x9FZxUK0J1GhRwWkdH6tNyX-Q0xod3-mTmoah4TA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ93q8WyADHUcRpcdAPCVdNFA",
+         "rating" : 4.6,
+         "reference" : "CmRRAAAAqqwPEHX-QgnIaNQnG-joENPjBnWlChpnfOSl4TBEXh8CLy7GqaoDtB0x44Rb9gG7tmVug3li1MzTxNvb7mjHk5QDB_XzoTX3GzGcpvxK7aNSD7tnk_Sy4iQRt4ffA3E9EhDaxv0uYSEaMZzDZ3tHjXevGhS-mm1KkFAYdiXxlxGmy5rZbgyiSw",
+         "scope" : "GOOGLE",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "vicinity" : "Bożogrobców, Górzno"
+      }
+   ],
+   "status" : "OK"
+}

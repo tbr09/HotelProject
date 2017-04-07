@@ -1,0 +1,88 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0748334,
+               "lng" : 21.5792513
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0764169802915,
+                  "lng" : 21.5810810802915
+               },
+               "southwest" : {
+                  "lat" : 53.07371901970851,
+                  "lng" : 21.57838311970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "02e2a0cc4f1f148d3369ff50fef2d845cd9f1534",
+         "name" : "FIGLARIUM Sala Zabaw Ostrołęka",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111838345597680797192/photos\"\u003ePaweł Czupryniak\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAA1rz3SdLlGIKEPV5O512lyD22pVz511gi4yobvKxiqVAPT8vkOhzIqvqUtjcOs0opePYk5wASypn7TTjFMfn4AHXxk1Lx1GZl5VyCBkNRP8ASfhyWcc58rh28d9B3G3M_ygsVOGSSeYn1itIf_gyMUzZACA44lRjSyph87lesVoEhBPrhheItx7Wt1QLHKDQhXfGhS4wQHOt8hBV4vZmzfiKG9KBq75Ug",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJI05gF4FBHkcRMj0CQCcwg-g",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAAklWRh6XkpbW7-hm_9E4z8CkNhwgvVi_-Ps6w3HqgBOi8vHlH5stKeqBJ8enY2sHNx8ecmFuEf5HpflpL-VojHCaQc9_KrlC0c3-gUV4g4N8q2CxTT6-GRxfTHUt6IkmnEhBfplmgXdUOnxwowqJgvzPUGhRjQwklK8r1PRrsRajr5pOD6sj7TQ",
+         "scope" : "GOOGLE",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "vicinity" : "Galeria Bursztynowa, Generała Aleksandra Gorbatowa 28, Ostrołęka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1666834,
+               "lng" : 22.0705378
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1683136302915,
+                  "lng" : 22.07182258029151
+               },
+               "southwest" : {
+                  "lat" : 53.1656156697085,
+                  "lng" : 22.0691246197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "850964923bad6ef27a83009c06d454a0a2cf1f13",
+         "name" : "Park Wodny Łomża",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112364523034357207897/photos\"\u003eKrzysztof Cieśliński\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAC3MbuxBJ3sQ8A3PrAJU-TLXZRWSJ9QNVnaj1KiBfkSYVTsq0PCk_ILWumYIWtUwW3diXd081Ig5Q5AWF7tTj7p-cgf2smEJettGh6gI73S1rWS4dFIpVXMJ91qouGmVWPJ2QyZNHFcjwx9LhtjJRlgXDfAX9KDZ64CP9swsQ0BEEhD-6686hwYhagtcFzG5KDQiGhScHK2HLCcQVNK8FtY_AzPvYWH0jA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJpbh1ZY4zHkcRpZfFiQnLsrU",
+         "rating" : 4.6,
+         "reference" : "CmRSAAAAY4171QwBvud3cjSF9qNtZgQhDANSQwHItVPhrRYlFAgLIAaMnBBPFFiYl4e-jKyEq-Cv9e5XkQWIUG7ihrgVDJ8XhDASG69oUoGvqlucci8tA_m27SI_cAmw8p35gi5vEhAb5Lsi2NKpCzYwqoOHev2hGhRwYLD6EhD1CigPcL3WJC_zNnHbrQ",
+         "scope" : "GOOGLE",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "vicinity" : "Księdza Kardynała Stefana Wyszyńskiego 15, Łomża"
+      }
+   ],
+   "status" : "OK"
+}

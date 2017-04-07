@@ -1,0 +1,764 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCAwEAAO0uvRvCGCZaaD7ZT49LCjPvlwfWJsCx-v8JZMQUtfNITjMpEimwmUAux4RLF6imFSjiVs-U_XuSDJ7C7m9z6ri46NBLtaQGnGfasl3qzQPwFaDzKe0X5cn40yOdWr1Hge4ASC6Dv9JX1thjUN6Ja_NH1KNOwiqpK74xHnTpL681K05WL4GLmMoBIsuXDJJDojk5s83QuFHQQ7YhEBSxXtks1a-fetwnop42K-nwK2CFy6st3__B0dHyF7Mwx-TQC3aQ1c5DKgy-D4vECkaD0bIVPkrOI_LyhhydO5ESEoDnDh8vJAk8hkMlvmXTVpXaAGYqrKb0RAjtGvSQ_Rw4wq1QhTthenPVDBNA8K-Zp_6bEhBJ6mHcI8nEOJ_cZ2wMeeCeGhRqbQZQSevDdxi55pobZQupR010sw",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.13060489999999,
+               "lng" : 23.165139
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.13260208029149,
+                  "lng" : 23.1687369
+               },
+               "southwest" : {
+                  "lat" : 53.12990411970849,
+                  "lng" : 23.1639397
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0ef3d20bbb767aa188ef378f2d64bcd93f75a95e",
+         "name" : "Pałac Branickich",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101523257996267077353/photos\"\u003eGrzegorz Niemiec\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADJ36Y412BN0Hs_h452hKP_pNy_wK6qnBMeg6Gn1xgtfJFrFXZFdxWDbC7Og45KO_iY9jx61datEilkGZz8Umro_WU37FtNZWUKEEdLzB7BQex8-FiagKV4Uruy8PEUzgOUqQGpYiuY1xUE2gWgAfuv5rEy7GhmC0kxLg_fTa_FqEhAvq4XYXldpf0ncemi-aetUGhTD1V1f2OQLzOg4m3nE2_vwRaqYYQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJY_kR2QL8H0cRB_vcKieuy5I",
+         "rating" : 4.7,
+         "reference" : "CmRSAAAA3NXjhCN_1lSJaha5fBDtg2d2Er8G2jzH6rsmzAi3_BCZ3XXt3oULtqK3Lti8lsftFQHkXitYxQlmXKmnF_v18V0KW1yn3fIporgw-q-I7AHHdVFRbUTbBcIN4Bk97bnBEhDJ_PuYfaPDdNqqPc3SGXP4GhS8brezfG3_rbggKzjMwxv2tHb8Gg",
+         "scope" : "GOOGLE",
+         "types" : [ "premise", "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Jana Kilińskiego 1, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1336398,
+               "lng" : 23.1698522
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1349506302915,
+                  "lng" : 23.1711259802915
+               },
+               "southwest" : {
+                  "lat" : 53.1322526697085,
+                  "lng" : 23.16842801970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "9b3ebd506b37ecf72a543665e890df268791cb78",
+         "name" : "Centrum im. Ludwika Zamenhofa",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1463,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115142781893931931798/photos\"\u003eCentrum im. Ludwika Zamenhofa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAA72Wm-jv7-dV3Uffe36bv2p3opKFPXkhKiYdf3h4ok249Dr0ggfpl_QpsbzVvjrQbbHw41uhYmPiOKwlGX7Qh8vavBEQjWUvmX7QT1FS0e16VlyQRfkvXUUvEU_ds1bWva288oYX1a6xIPdIu0V-oDnuK0kSQXDu19c3h1_VXavEhCHpPJDlQJ6dqXbY34YY2iqGhRqkqeNGdZoC3sDwhSyi6g1lLimGQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJl36JoB38H0cRvAITMeLruKM",
+         "rating" : 4.7,
+         "reference" : "CmRSAAAAdmwNrC67cqAS5Ad1QoNIiu9xtJg6YMyBlLYUcWa51cBK0JkIHtL2IlpMIXppMmhmkW-FvCOqVhNrE8bY7OiP0Jwku6vOAKM7jAcnetYZDDaFPzNxDxEY8UW_J074-Be-EhCRlPuH6SPqOhZ_Pb2sFnVaGhSjXy3G3obmcrJ2p14WBV99SWY83g",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "Warszawska 19, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.13671429999999,
+               "lng" : 23.1535206
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1381297302915,
+                  "lng" : 23.1548105802915
+               },
+               "southwest" : {
+                  "lat" : 53.1354317697085,
+                  "lng" : 23.1521126197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2622c1e48bc68a848252cba48dc960fd5e0601ff",
+         "name" : "Galeria im. Sleńdzińskich",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 664,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104796727134682920109/photos\"\u003eKarolina Snowarska\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPtus4TzrRzppWYnnFeVnvT4J6VGxIlgFMoUyztWsNLOKT6IfNtNfK_uzR3_uJPzfDk-NIEtE4jVaU1i6iTynSGwzcW6rx5NwdIJDVAojr-5-WMWVuGeIPmQ8DOAASvjACydVV4DcKGZSdOE38Fkxyb5uqqSQdHJ8PVkUDuwO-WPEhDzg8G0oZ7OEgOvEfd8cg83GhQhqEECdVUhWggcioSMJ-0cUqBXFA",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJSUyRWBD8H0cRdJuzR8m2TWw",
+         "rating" : 4.7,
+         "reference" : "CmRRAAAA0JHg0vS2fA5NPuADeluWX1VElklHJWMhlRIZOq5xf9XMbBag59OeMicQBIMF5MV1eZZ030ApTsdRmwSgdNKkC41PChOslUeWANiMfPCG5QWtqiN8gDIka_3OiERHBelDEhBiXdvL2PmUG1EwgVG0KIIkGhRjhsHyPZ4NXWevX_dc0ykvR7BQHQ",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Ludwika Waryńskiego 24a, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1322987,
+               "lng" : 23.15872989999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1335594802915,
+                  "lng" : 23.1601077802915
+               },
+               "southwest" : {
+                  "lat" : 53.1308615197085,
+                  "lng" : 23.15740981970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "705e86f227be6644ec977c542fb5c2e767593192",
+         "name" : "Muzeum Podlaskie w Białymstoku",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 683,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101695436581123504753/photos\"\u003eMuzeum Podlaskie w Białymstoku\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPBaK2cF5bNIN588GmmvBnWZ5_Ccf66QM6hTJgLj2A_vX3X5UTPJkYeVVnbP41ycBh9gYt05uMV5coe_uxI6nLcrn07J6SMiQBG5u6OddWPv6joPGHyg23tHofSl1ZPhjT7oOXVWdFDLoaXGO3RoOZkgY8MM_jzq1dAfAmERr7VvEhCxnQm29J5f_uyakXsjdsKPGhR7mC26T33aaJkEOsdSoB7ZaJUHPQ",
+               "width" : 683
+            }
+         ],
+         "place_id" : "ChIJSRNKzgT8H0cR0y6l5PhG98U",
+         "rating" : 4.7,
+         "reference" : "CmRSAAAAW57DdZ-gB3iFkGtKvV_FHvuMLGCQbHzH3MBpFKgBWoCirH-5uGinxLk-55ineJXxgYz5XyWL9wmZTmoO0RCWTNPjwbFBzI2663Yck_OgQqC09EGKQwFr_h2gmV_Z5i-XEhBIgxmDYDmpycyvXQwqeV1AGhSIC52p1EihMK5ggdqYPTvXvAZmsw",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "rynek Kościuszki 10, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1761987,
+               "lng" : 23.1486369
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1775476802915,
+                  "lng" : 23.14998588029151
+               },
+               "southwest" : {
+                  "lat" : 53.1748497197085,
+                  "lng" : 23.1472879197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "e29794c8609a687ff59b9f8e035f34f39dbe9ece",
+         "name" : "Podlaskie Muzeum Kultury Ludowej",
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111086426446952908896/photos\"\u003eAdam Iwanow\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAwjLn91gzmC_fl34U1-VguTHf6uUcsG-bN7DB0JdA6zWT5ewstUNUVY73pfsHNu3MQotmn5zIPoZfjnM790gnqmxalyeEOz7Lrh-z1pxuq0KbwAcnkzeMOPHgZ0DMnqYhn9Gm0vBfHyDRk56O4e27X_ncPIBi7fSoqOsNqAxwfPEhA7kqU1pR0NES593988nhMrGhRYhi6nny1q3bc0bkBfjUoQEtAO2A",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJu6PHjq79H0cRNjIQKI8eDHk",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAADIrYTYVgFRV4vAWXFT2qZrnCKgFWs88afQAeXGLDQrre25OLw9WP-5HAyVAETkc5L28sS9pW5wGvwk4dfpitISLZOFzWfHTjGeOFDbwXs5ZiFnwVoq1mHakjjIMFrfa4EhCL-6LFiI9jeBA4jVmEaSGVGhSaB9X9Tl0a05bIi8Rd3TAvoJk-rA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Leśna 7, Jurowce"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.132063,
+               "lng" : 23.172321
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1333390302915,
+                  "lng" : 23.1735268302915
+               },
+               "southwest" : {
+                  "lat" : 53.1306410697085,
+                  "lng" : 23.1708288697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "6fa22e8b8e2e863d76a7c7b75ab797808396f541",
+         "name" : "Muzeum Historyczne - Oddział Muzeum Podlaskiego",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111587574145994670262/photos\"\u003eJacek Białobrzewski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHGiSR0FRW_XtGlc6zu9crcN6V2uGiIc6-KFoVAtTf21dUZWk2b0fTed1HwR5yXXye7F1eRBVZJ0ggeTZ3y7hn5BfXSlfAnFgwWn3DoUctOU3wr1xuvYaKOQoOg0X2JVeF6Bshch9fLVsqByYkIcAeMmbyEYjD23R83upjnbO9xeEhD1SFwtSZNK801vUXy6njREGhSKbCyeYkgZNYmDbDZFQ7KxBlQtOg",
+               "width" : 683
+            }
+         ],
+         "place_id" : "ChIJewRPkKf-H0cRupFPqK5Mx5E",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAAMaHtONj-BVXBNdzSoJCA_sRoTpCh5-VEtAIi6rv6L6P6XM9OV_qt-st_ZVy3i6QScRygvZ42-O20_DYVMQrSIp7uWwOwNSQyuk9WntwbnePdsLK5PsEhXoBtaxkfxnRVEhD-nVEd92t2bI1xWUEXoT2BGhQgrIwJbz7kocRCb7BNREL4Pgxk4A",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Warszawska 37, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1247996,
+               "lng" : 23.166982
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.12624478029149,
+                  "lng" : 23.1682072302915
+               },
+               "southwest" : {
+                  "lat" : 53.1235468197085,
+                  "lng" : 23.1655092697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "f5390f298e38aa859b0b781533a182779ad64da3",
+         "name" : "Muzeum Rzeźby Alfonsa Karnego - Oddział Muzeum Podlaskiego",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104365593721943301558/photos\"\u003eGrzegorz Chmielewski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGDiEcTfnnuwpR2ekOhAbTZT3AIGJArv5EjzQ8Qd5POCZvoF-1q_EnbMkm7opWoLCFBU9SueH9c1qsgqznwOhf_P54EAfLLLjEivX9wiGxwkF7AlPlQcf8YeOJI41kgvXFkOnWcybiYBcFTtDQY9cx4ufKO__XHmpn6l7yInfDCrEhDANK4hh1FfOszZvzbwqST-GhQOguN_bqlY5a8OOIJzodalHMkkaA",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJRYMgIar-H0cRVNBS1G9LcR0",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAAXLZQfALOXuA8yPsST37MzHuYLpOEWXkSXA327-Fy02moRM9SK-Qqsl_3KoPHuXYWEkKqrr8qejJ9jGS8nYSIQMphVNYX-DDHdrI-L26tWvxSn0OSOory_oY0aCcT5WelEhDzCybEEsEXGI73nxPCPDx6GhSGdBzpKwGL2Q6oum_E1eHvmqX-5Q",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Świętojańska 17, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.20697499999999,
+               "lng" : 22.767914
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2083239802915,
+                  "lng" : 22.7692629802915
+               },
+               "southwest" : {
+                  "lat" : 53.2056260197085,
+                  "lng" : 22.76656501970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "44d9c2fd0837804439c55c3509f27015f17fda23",
+         "name" : "Villa Regent noclegi i restauracja",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101199400138075693171/photos\"\u003eAnna Rajtar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALIwMvO7oDmBagy713Q3_AKbGKgIZc6fohiauSuYlJZFcdvbRSeUKFW33JuHVvkephQ1MlHnTH5B0OXopvkhzzO9-sVZovvoG9rzlt3cZbH9R48_zyz5DrR-gZBnDBdCS4zX2eKo7Ab3cO7MBIZ3ICwcYeWFjZ1_wGf87EUg03o8EhAeJ2ZiJt1JtyHODkWKM9M7GhTUx6PAtZK8otlt0UuH98SSPm7rzg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJaRS_KwneH0cRq2jVRKUocug",
+         "rating" : 3.4,
+         "reference" : "CmRSAAAAPc8K0EYxMZmjjfoHeEWliavIu-0d9JwLgPnfPsVx2fm_I6YFDiZaZmGG_t3cU-amSyIIpslql5LUzyr_d6yON84Q7ukz6M1o8b7kmtj1dA0QJiWsFAJMqetc1sH2vPUBEhBZIalGwpW2_fMSqT78y2oPGhR_XDVDAuFhpJs_b71rRkVQYIYomA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "restaurant",
+            "lodging",
+            "food",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Sokołowska 3, Tykocin"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.10771500000001,
+               "lng" : 23.1538606
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1084114302915,
+                  "lng" : 23.1557983302915
+               },
+               "southwest" : {
+                  "lat" : 53.1057134697085,
+                  "lng" : 23.1531003697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "b0700f80ed4c8a36b60611948d666e363dd53a7b",
+         "name" : "Uniwersyteckie Centrum Przyrodnicze im. prof. A. Myrchy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1786,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104021601852609706949/photos\"\u003eŁukasz Szeremeta\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPLLZmfVNPw6xfg_UXV3KIFWmp5RxyIEMmGIjbseRIFmilEEdaO7R99EaPog4voC9ztGlQgIgQp5LKjmJXYxYEGqNIZmzGE2ZhfYfnjyG9962KP2zbJBQk7y_lO_W53rUv8nkhfF-ib_H6bW4Te1Hm0dxme-E7U1BcMhtColaywTEhBsJR0JqPHfa32uHhtWNQsdGhTq9dqTTfyEaDBhdF-naBzwWE9FfQ",
+               "width" : 3175
+            }
+         ],
+         "place_id" : "ChIJRythZPz7H0cRlvBLkk3cV-E",
+         "rating" : 5,
+         "reference" : "CmRSAAAADiGSVcWgmms20lIAQn-kkTYB_ZPB3UZZDMGjGzfCcU9fGAVLNc7oZvvNJleJkgZeMLDZzxDKM8HXHj-ZWqQtEETRj92LtprT07ZGyIkpI8sennaaaEm-M4sF8qcsofh3EhBIcGUko0L_Cbsggw2NhMXNGhQR0BX9lAn1QNgfcWCCsnKUxKp6_w",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Konstantego Ciołkowskiego 1J, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1457794,
+               "lng" : 23.1709331
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1470273802915,
+                  "lng" : 23.17342984999999
+               },
+               "southwest" : {
+                  "lat" : 53.1443294197085,
+                  "lng" : 23.17010085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "e68f155fd754887b656df4488541845f191f9cec",
+         "name" : "Muzeum Motoryzacji I Techniki",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117994243933466909293/photos\"\u003eNorbert Krysa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHVRCsDdZ70nRpZrI-qGq1-UJaJPi-330oeuLODZRj22bLqK0Y8yytMp8F2aj9e3xVpJjx63mPDz9a3S2GGn0W5SejKSx37VDH3Ih1iNN9HU6jlNLtX_rtacudGIhMAdysTWTlawOuYVrVtaQa378yf4GVbXzn8ztUnHiYJHjUAUEhDWNyFXhJJgxADryw5eqLoCGhRY6gW8MZVKKfKQxMpgLZVLROsQWg",
+               "width" : 4745
+            }
+         ],
+         "place_id" : "ChIJceg1WCH8H0cR5Pjhh1wa5Uk",
+         "rating" : 4.4,
+         "reference" : "CmRRAAAA7alsM4cEbKxGyTmeHW3AQkTEFjoPLhudCdljbGXtDlSmCr7O7Wv4EjD0xe81lMcrt2lVaOhX778VeH2wUNQ4fjuBZ57FM33XJt4ZNlEoqVXj-uQO2b7fy96rqBl-X8LjEhCcgl1DgoE69np2I5oc2zXpGhToB_j5PUDMwgk-pERGoDy-1SDFuA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Węglowa 8, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1523152,
+               "lng" : 22.9794998
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.15366418029149,
+                  "lng" : 22.9808487802915
+               },
+               "southwest" : {
+                  "lat" : 53.1509662197085,
+                  "lng" : 22.9781508197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "f90e8af9e35e2c3e4039720494762f7eb4908ec8",
+         "name" : "Muzeum Wnętrz Pałacowych",
+         "photos" : [
+            {
+               "height" : 2672,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103900947939289678384/photos\"\u003eAlicja Piekarz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMVVHBLoxkWlF-yKnsVmUh7__0tWQLzxR8X-xQNirDgBxUZwMFN2xp50l8jGIV7CMO4hdqR3EmiV0PBMal0TJtbqerysv4-ZlCzbcK1Xpv10GgJ-3Dbb_skUoIKOj6Y851bslZLucAskTnmn0e2XbOHjc2iShhnBkIfLPf9bfYBKEhCGRzTzQqxTP0I0v4X7TgYFGhST4en4WxbG0W-iB9Js1yJ2pam0jg",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJha7xeITkH0cRKjkjDv2Doqg",
+         "rating" : 4.9,
+         "reference" : "CmRSAAAApd-0OUaTbCVpGHwc_plenWG_wK7Bp6dsD80sPC7ZxVrWTl7AcM8NxwUuyyVAxSH213HJPNT9J07CPbASPjjUy8sTRL4OMvKindqnLnMbYh8RqS-zTM1SW5fXxzxpSOZgEhCuDEus6HNRJlGhBVsNHbEqGhSuXCBoqAfDbomapC-k9URUWKSPmw",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "premise", "point_of_interest", "establishment" ],
+         "vicinity" : "plac Brodowicza, Choroszcz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.9488621,
+               "lng" : 22.9536537
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.95004193029149,
+                  "lng" : 22.9550740302915
+               },
+               "southwest" : {
+                  "lat" : 52.94734396970849,
+                  "lng" : 22.9523760697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "6558dccb8ac7bb6f17a000e975cb0d5076aa3fe8",
+         "name" : "Nawia Osada Wczesnośredniowieczna",
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100143930026357453436/photos\"\u003eAdam Mierzejewski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJtdFD-oFhFX-TmAHeG-in6RzZ4ZK8YTSNqvRSW0YhNxmyG4aIzmNeCz1YKAqmYIeWG09x8bEw6SzpPNd8iosSsvlZwb0FVE8VLYYeNLnYHdPF3LZkUS8M8uER6D4EBmL2bxLPZKXJffnme9ttFGOd0E02j8DcX1pqR3NIxvjbsxEhCk2qAZtc86TYIjg-nIDmOzGhREhg3B0Fe4WsQiTULzt1XSy6vbUA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJTTXIrLrzH0cRnHzjdIoTmcc",
+         "rating" : 4,
+         "reference" : "CmRSAAAAa3rkrAaAx1E40Eda6ytXfulJ3z95jy1PXGTDD4BrlJaPYlVLNXwf5AKKnMYfoCcayqok3QJytlHv141WYxnxwYNhy3sBGLLA_IboE7JOULK9xaOMdjy2fVWthRLjbZ-aEhBn2BBQG_ZafrMc_Q--5TITGhTfT5hf_YNdXrpy60peGiCY8Bf01w",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Piłsudskiego, Suraż"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.2110634,
+               "lng" : 23.3380096
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2119984802915,
+                  "lng" : 23.33947038029151
+               },
+               "southwest" : {
+                  "lat" : 53.20930051970851,
+                  "lng" : 23.3367724197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "9e30b4ba5d773dcc7cce6c20158efd36c379a8e7",
+         "name" : "Muzeum Ikon. Oddział Muzeum Podlaskiego",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115095962289814032944/photos\"\u003ePaweł Izyk\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANiszSxvqfFnLfT8THkHML7p629RYj2VG-MT3MEeQ5EYcnul1anS4lhq5uWkUT_E9gNaHYxB7mutQbaXsOHeHeY0g3EWF-T0FTTItn-yctUNh5XPAlckDg7Vb_jXBp5_fMhDj6F8Cjeh8j3Tu4ltpy5DeUCTqoHPHF6XkiG0ZRR7EhDLJfTus_ApmNpq6Lo0Fl9_GhTuwRwNR1Pxqm7wXEHPnQGhvG33OA",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJK2vtyFoA4EYRr7AqDsY0hPQ",
+         "rating" : 4.7,
+         "reference" : "CmRSAAAA4vAmGc5p--KdBgAeZ4t7zCtn_R65coavGTJtTUFn239xtQv4xQ7VQomhnM2qA32M92-DjscC-b7tsHjlRAu8smw51HxEnv_SVk-86Q3nL07FJ5Gw28VDphv6SzA560mGEhA1cy8LIiA9n8QWZs4rkTpjGhS2HFgyFg0uetyRCCNwqeYhzR8qkQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Klasztorna 1, Supraśl"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1252886,
+               "lng" : 23.1481513
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1267312302915,
+                  "lng" : 23.1494175302915
+               },
+               "southwest" : {
+                  "lat" : 53.12403326970851,
+                  "lng" : 23.1467195697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "3cd13e352c10d8d1ec2c8a526242235d537f60e5",
+         "name" : "Muzeum Podlaskie. Dział archeologii",
+         "place_id" : "ChIJ9YV5wQf8H0cRqfp_Uqc14_U",
+         "rating" : 3,
+         "reference" : "CmRSAAAAa68EBcHhIzMccqdTZQ6Lm5nf3XgLn9Rc7BOoFLmkQ6ZB03z_GFzhvsHPsNmszQlszBb3mYaIclZHg1RPiNjDfiwTRJs94tqT8EO8s6OnnwRN_3IJm8DZ7LpGZwv8sWgMEhBxchp1rNHhcWPWV-6sf1RSGhRxzMY6pe8mdlshF5aq1bXiFp4CMw",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Generała Józefa Bema 11, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.9522883,
+               "lng" : 22.9602577
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.95363708029149,
+                  "lng" : 22.9616077302915
+               },
+               "southwest" : {
+                  "lat" : 52.95093911970849,
+                  "lng" : 22.9589097697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "70a7911de4b5b1b198f74d26a6e0c5f0317cc984",
+         "name" : "Muzeum Archeologiczno-Etnograficzne w Surażu Wiktora Litwińczuka",
+         "photos" : [
+            {
+               "height" : 4008,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111813836870892718583/photos\"\u003eŁukasz M\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPG7oRBhaYh4-PqrZlzl4j9h6BuI3Sda5IrDTeeRa1iSi-5omFQocGYAgIoco8wGLpMfBZE6FjZA5uV7xZwgT_6VbMekkTEaZIvTrtqdcib0DoTlCuIJ7qQAUSe0hcpqBv5K-29N7hZh1VH5F8cbavLO7YZZXyF_L_mTu2TxMUPuEhAa7oAw7hB_mgF-1w28i-MYGhRRivZSisTbtYlvL_3IP4WEXE39dA",
+               "width" : 5344
+            }
+         ],
+         "place_id" : "ChIJPQo60sTzH0cReWbvqpEFRWo",
+         "rating" : 5,
+         "reference" : "CmRRAAAA-eoQ0J-uQ9BBT16WmCHPVH8BWHC4FivYl9_DSgQXmoVF3MaYyVAvJ-UOIQ3LKHZutqLLBMnQJhx2cOeZGr05bUnraFW8-aOETiD_r-M2YqosszXi_GEfu-372LJTuj-vEhASxAVWRQAqWaipxTaiS_AuGhTC0ddWEsMZIREpry-nDsnVkXCU4g",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Białostocka 6, Suraż"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.2050697,
+               "lng" : 22.7670377
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.20641863029149,
+                  "lng" : 22.7683912802915
+               },
+               "southwest" : {
+                  "lat" : 53.2037206697085,
+                  "lng" : 22.7656933197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "32f70c57ff55a30d5c9df858a933087ece3ca0e4",
+         "name" : "Oddział Muzeum Podlaskiego w Białymstoku",
+         "place_id" : "ChIJL79TGQneH0cRgPYWbnzCzfY",
+         "rating" : 4,
+         "reference" : "CmRSAAAAGwfeAEVfSfsxB8AVTxK_EEXl-LpA5XrxvXpDnY4wMqTG4_Kct3Axt0CmgtiLb63v2rqKJXlMrrluNAPfIvbZK_IltzaxUN9mXxHDr-yLvFJvMl2zPa0uE0l1jZjaC8KOEhBmEnZbVFfIdwyq3eDAtfxeGhQRMvmMwKB3BHW9a8ytdLn9hrKX0w",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Kozia, Tykocin"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.132138,
+               "lng" : 23.166502
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1335302302915,
+                  "lng" : 23.1679187302915
+               },
+               "southwest" : {
+                  "lat" : 53.13083226970851,
+                  "lng" : 23.1652207697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "eda7d08e607644bb4dd7717f70fbbd0bbbeaa93e",
+         "name" : "Muzeum Wojska w Białymstoku",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 665,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102701754379685121989/photos\"\u003eSport Sensem Mojego Życia\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAABwJ64wXM2Xm2ueSG0YUGL4rRH7kO1H-5dtZNGgknMd1U-Ipj8WRieVdWhPb0aVkWNR0sGlsD7x6TlQX4zJ4idc37_zKQys4YYGLmu-QIL1MWeioqOlQSlMY3qckA93WwoByRK9WaW6xleCGWDt2qL1mPMnT5WaGPXn8GAEl__xzEhACRTe6tnX4XhGbW24ZqStAGhSuYbC9g-PVLmxBo7XmzlOIuMD-DQ",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJP4RK3xz8H0cR5LxHliC04Ls",
+         "rating" : 4.2,
+         "reference" : "CmRSAAAAFfzV3rHG8Ep9FLLZkfHDB65cJbhcOrqnKnTFnIhP4pb1-J7PpT7PjwpHT2yCuh0Ed6CZVlFXcGwpBNjHHC1_BxCnRiOJV0CFCi949J7UYFN7Hc57iU918D6JaApzFs7eEhCTz2n8vd-ulvq_TixGaAo6GhQMVe4lKiBIHfQg6ltYhHDkoSONdg",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Jana Kilińskiego 7, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1300813,
+               "lng" : 23.1750213
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1314148802915,
+                  "lng" : 23.17634793029151
+               },
+               "southwest" : {
+                  "lat" : 53.12871691970851,
+                  "lng" : 23.1736499697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "be1ed218f6c46f93a3cce9f6b27a66c16663be15",
+         "name" : "Archiwum i Muzeum Archidiecezjalne",
+         "place_id" : "ChIJzRZ8Jab-H0cRp3jCtZVnvWE",
+         "rating" : 3,
+         "reference" : "CmRRAAAAXIFAitSK10fLkJVfu8KKEw4dSPgbEaahyrxTEZ9KK3vCb4IGbJi7xwL0kF9UHGXf88ElrHxNYqgvDk1LIQJbyCG9wmNrzO799_44cydhbgWTUyNEpZ3_fQBTD3gQ2nLMEhC9RKMNATnSA5JtbZIogUFsGhQa6Bd76abtz6I5IPRFZkpbpcvv6Q",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Warszawska 48, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.2108698,
+               "lng" : 23.3381528
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.21221878029151,
+                  "lng" : 23.33950178029151
+               },
+               "southwest" : {
+                  "lat" : 53.20952081970851,
+                  "lng" : 23.3368038197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "8fc141fe59f53706b6523079b1217f1c4664f33c",
+         "name" : "Muzeum Sztuki Drukarskiej i Papiernictwa",
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105570361460805461394/photos\"\u003eŁukasz Konrad Skóra\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAEZOrXwDyi1ImRSDIdGb6ySQr_mKTPKSKpdIRgn-P3yDT2PJbcQdu0L0F487twdofXyygyL4dQ8Bv8IjCqp2n9fSYryMHH8oJUYV4I58Yjx2eiDsOE2GpcUbHdqf_c08ZoAvaUAFbOes4juOoof3AIjFiz23BsptaojaLfaOivt_EhB7pto_JySXIYif-v97SB50GhQU8hVUR9U4WXLru9tjNIpJR5XW8A",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJM-613FoA4EYRe6Zj8fNsD3o",
+         "rating" : 3.5,
+         "reference" : "CmRRAAAAxqF48eEj53AxBniFfmgPjAjzM2aw-isauvCaadNl9MR8oGXzJNtIrE8UdZzrx271DgLfKjJGiHTsNEV5NAu6B8SrH6pFD4DdCvlSFz0E_22LFr1ga4fjBe31n5AUJGdmEhDl5mV75eWg6Vvc9JgqFBUzGhTTgb6RC3vLjsJa0x50lS5pqYK_Zw",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Konarskiego 5, Supraśl"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.003569,
+               "lng" : 22.9223709
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0049179802915,
+                  "lng" : 22.9237198802915
+               },
+               "southwest" : {
+                  "lat" : 53.0022200197085,
+                  "lng" : 22.9210219197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "49a1c8efade729148384d9a25d74e4a6a88ca42d",
+         "name" : "Uhowo",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118194803128280754299/photos\"\u003eAdrian Kowalewicz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAD3s_uUSzBPPEY_mDbY6DZouTR6gIol_toFg4WVNrayFbv1Yq5treyZJVPxIaxrXLtIdYGSE7qycYrxPkmBQGRkOH98VWYIkojr_KyvSYtmE6XgjLqk5l_lxXkniK0Hj1I2rkkviL-Oc8AW_Hiyhh1P8JJCEOIeSDPB2XSmfFLVSEhDV06kvXaT6M4JRw_sCTzjQGhSKujZAeF7josPPELHeLe3n1VoRMg",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJj0qDSeTxH0cRFU2hQpnzD0Y",
+         "rating" : 5,
+         "reference" : "CmRRAAAA57Sw4it6w5McWqMiwH3hTLXrPWtD1QXHmq57sohI24yi5TIZYCnqj7P-HLazjNGZLrnGKj_3gE5W7AaCUN41Je3fsBXAt0m2xCPhfogLMryrG3Xwo7zXuqErvy6mVd4wEhBM8KA4Ynu6pj2sb6x-aMQmGhR3o-K8O4_RHkHD98-mr3FBV8VT4A",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Białostocka 56, Uhowo"
+      }
+   ],
+   "status" : "OK"
+}

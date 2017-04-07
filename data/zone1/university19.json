@@ -1,0 +1,618 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.11828879999999,
+               "lng" : 23.1497203
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.12188750000001,
+                  "lng" : 23.158978
+               },
+               "southwest" : {
+                  "lat" : 53.11458509999999,
+                  "lng" : 23.1408432
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "972ed69b957ddd1266ff7aff3d8d07dfd37bfc5e",
+         "name" : "Politechnika Białostocka",
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117883679562940643108/photos\"\u003eMarek mr0cznyrycerz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKBzFNx8ECOqdASaSF5SdWsxwVpJXyZVFsEHKP-x5CL80rQTXBp1btDOAd74cSfVejMlkoiAdIzKnly3EQLb4XHd9FfuqqQu3SRjxI9schjEz1kSa9QWgfPfpqkp46RD13yjNjsbZJWvFBupc9c_EE6qkmEGmBkzzdO-zpr_yM8zEhAa65vFXBO3Dwd_K0W329vgGhTBZhSnLe0W43uxYBPuUX3WNueUag",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJ5a4VlPv7H0cR92bJxsxJZB8",
+         "rating" : 4.5,
+         "reference" : "CmRRAAAA8wu0TbhXh9E5_F4a37E6HvDf2wc-KF6hPI6ObsL5Top2ti4ADgKgRU4ZDdup80B3uwRIbF_0Hps5pp4286xFt85EPR1YD68dmD0xFJRw_k9BelQdd3MBLtm9ZvdF5ey8EhAJZz4k2WR_FZhOq9qLiOE2GhSwV5K2OTvwaGXhnGU_N10kO8uejA",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Wiejska 45A, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1279257,
+               "lng" : 23.1586545
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1294416802915,
+                  "lng" : 23.1601183302915
+               },
+               "southwest" : {
+                  "lat" : 53.1267437197085,
+                  "lng" : 23.1574203697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "b5743a45dd4c76b9e56972fbd08ae3aef971f261",
+         "name" : "Uniwersytet w Białymstoku",
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108267042256115318363/photos\"\u003eUniwersytet w Białymstoku\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPKtQA0qiBG4RRRslhg8gd_7KLsAdvji3ZsXqTooegbo96q7yfjCKkwzQLnfdywyjbqau6XDbxgbZ4BxPb8oRVtVSEM51XWc1X_XlOlpYAqXUMBLiZhhmbM3cMwxIHkonObXfqf-RocqFOqLEaNOpTeBf0oGKTYXGrCisdzuJV7EEhDEDbeGLKBAoLK9y_aoj1I8GhSTrjrZeuRXDrZRF17vGw89QB2hUw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJpb9i8AP8H0cRwqUNcG9hNz8",
+         "rating" : 4.1,
+         "reference" : "CmRRAAAAP1Td6CORt3veb4tULU9RMAU1Lkzj99EXe-JW6PT2TGx6c4d2l3IQoQxk4L7OuPl9Zgyhzzj0SjD8e5ER0zGnokBT77W0UXs59GQX0poClFePeok3jSJF9q7685sWVAawEhCnf9D5ZpmhZP53I79uAGyxGhQ3jQ9eGlIoyBSAv1bQrAfq4qJcrw",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "ul. Marii Skłodowskiej-Curie 14, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.13058119999999,
+               "lng" : 23.1653094
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1328945,
+                  "lng" : 23.1663279802915
+               },
+               "southwest" : {
+                  "lat" : 53.12981009999999,
+                  "lng" : 23.1636300197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "b580eaaf55ad6274144c2538465d27a201423b03",
+         "name" : "Uniwersytet Medyczny",
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100858060600007628212/photos\"\u003eRuslan Usachou\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADyszX47yoMi5792GcKHMpscW4eTKv4HjRQJdNiuFlm4IghkaCnW6V65rP50bVfNFgEkPW_KMKr2fZCpPZzvANHAXVe9KRU1MfBmxlp6TpN1bI0KNRLa9Fikd10zHKLk6ev0T4eomH8BInYd-eb3DZKfe7xcmap3ymg-Ej6_d4BLEhDFFSt2HvvOvmJaJjySddYjGhQDn0N8nIg-JgHBNjlAIDozbKcJNw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJY_kR2QL8H0cRRAEQAaaZlow",
+         "rating" : 4.4,
+         "reference" : "CmRSAAAAlFwfRruc86L_t4hSpYSgXPhSEXeIiDb917hX2ZHWSJLx8_OJyFMqVkzibga320LpZ3rr9TmZbebZ2ZRHcl6PD0d9edgUwuL6Cth10gZtQSvpLNxZgmv3Yboz_SI_pql8EhBNIkpvbO_kkJnKMAKfbsIjGhQA8cQcDYKSgxL_sw7VBn_9S2d2pQ",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "Jana Kilińskiego 1, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1095002,
+               "lng" : 23.1475147
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.11040888029149,
+                  "lng" : 23.14917325
+               },
+               "southwest" : {
+                  "lat" : 53.1077109197085,
+                  "lng" : 23.14566985
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "5c5a5a58050847b0808fe60db9268c3ebad92c0e",
+         "name" : "Uniwersytet Muzyczny Fryderyka Chopina, Wydział Instrumentalno-Pedagogiczny",
+         "photos" : [
+            {
+               "height" : 1356,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109795610977376471446/photos\"\u003eKrzysztof Kadziewicz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMg0YlY-m27vR-BIOjpddy2a1QJDkqZNcEETcX8O3h4MVnH-quUpG1_WWVyEC4A5qRjUyvn13mXoPltkFUldL51dMN9qQ0ustB8TySP9jTn9tlZjxAt71UJLYJHh7pc5VRcG4rpd7OmIEkZmVke2FurigwKY97MEuysq-DbbSkNXEhCOiq5F_bsXnaHpqsCbnFDhGhRysDTtn1ed4IqRj6IjyAJ4tVVKGw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJsfYlV-L7H0cRwZcQuBLQslY",
+         "rating" : 5,
+         "reference" : "CmRRAAAABK_-U4-5ERNeAMn8P6dGh-rIqX43FRY9O73rPjgQhna-keY4dRt1F9cQuch_9O-HZY2eZkOIQs2TS0jTf89Dj_EwRfFT6yWJK5koYaFXrIiImmu1EizJs1Zlib9a4VeWEhCyrTGdfg7N_gqFZBtObtVzGhT6GJ54ukYWyHlPKkCYlBaPqkRCKQ",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Kawaleryjska 5, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.11943669999999,
+               "lng" : 23.1521256
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.12096688029149,
+                  "lng" : 23.1535218802915
+               },
+               "southwest" : {
+                  "lat" : 53.11826891970849,
+                  "lng" : 23.1508239197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8a4a8a1f113bc1fa6a1aca3089d843a786f1e4cd",
+         "name" : "Dom Studenta nr 2 Politechniki Białostockiej",
+         "place_id" : "ChIJv2Gk2_77H0cRKOFDUuEIURs",
+         "rating" : 2.8,
+         "reference" : "CmRRAAAArW2UNbjNYsPIVOFJy3EjZGiCsxVidicrjhbZAS6F__TPhkNxWyupUx0Ksk4NhsKyIeYgKsyzRMS-VRhtFnoGYPcYh7oY3HW4nF2AGEYshjSj1gaaPWcSN8rAWDHUC2HxEhCxvKWQd99ghjMeVFrC1PMDGhTwKW_Fdw-Tj0-4kaCTLz23NLgU4A",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Zwierzyniecka 12, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1317541,
+               "lng" : 23.15566829999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1328898302915,
+                  "lng" : 23.1568750302915
+               },
+               "southwest" : {
+                  "lat" : 53.1301918697085,
+                  "lng" : 23.1541770697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "f9fb3fd26bfecab5639bdd6ebe8487a8d5527cee",
+         "name" : "Wydział Filologiczny, Inst. Filologii Polskiej, Inst. Filologii Wschodniosł.",
+         "place_id" : "ChIJ0WrQDQX8H0cR4wT56UDMQ6Q",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAAax_gT8icprUphD0QqyhHirxZbe7n_KSKNt3vjl3FvkAijKOoXt49GIRZwpHrVU9F8qqMAwcdoNPWvb0u0AdPEAiHiSH1ZRsqJanHHThLIbTpG_SQnjFZe7mKeScweGt3EhDn8jjQ9_jtMqdXLRgjorMkGhS8BBrjhSRea22sCSnIYxNUc9yiaA",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "plac Uniwersytecki 1, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1362402,
+               "lng" : 23.1317551
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1372399802915,
+                  "lng" : 23.1329279802915
+               },
+               "southwest" : {
+                  "lat" : 53.1345420197085,
+                  "lng" : 23.1302300197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "cc9df024e0ee0825db861ebbb7efa42c64734136",
+         "name" : "Biblioteka Wyższej Szkoły Ekonomicznej",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJU616gm38H0cRWlTbZz7iMDU",
+         "reference" : "CmRRAAAAA10ln7Kgw7NrGlcWLnT5jGe3SdsHAHHyp133FL-hC32mg93CNbJG_EPF0L1l4cqYJgTHCNsx4h8cdxlZjFT5rAcLtXfbl0AWcCrj-UrU0p5OVDJMV8ibETCj26vh6LQtEhDVdKhv2cSM58KaNMW4G2mmGhRaYTN4AHuwpCfg0OGFGg9zcRVBgw",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Zwycięstwa 14/3, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1315882,
+               "lng" : 23.1556623
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1329340302915,
+                  "lng" : 23.1568508802915
+               },
+               "southwest" : {
+                  "lat" : 53.1302360697085,
+                  "lng" : 23.15415291970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "7b244f0ee3ca513700d0933dda9880f94eb68368",
+         "name" : "Uniwersytet w Białymstoku Katedra Neofilologii",
+         "place_id" : "ChIJec6HGgX8H0cR8UqUQZB2Roc",
+         "rating" : 4,
+         "reference" : "CmRSAAAABZBa5gR44bQnBaW249NC0KPlR-R9CK5GEM6l3rU9kV9iRqnIL-d6G_AIdUK0fjyMvk0XsgYI6VaR5ObadWL4aYn77zk_WcIzW1HsZ0YaHY28CV05ZRbf-1-czAi6GHWGEhCLhP0Q81iSE5cRCe4iYOqVGhRMN2_R2xubRDW1imyt_zRbeQyFSg",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Władysława Liniarskiego 3, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.13143669999999,
+               "lng" : 23.1548291
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1326979802915,
+                  "lng" : 23.1562939802915
+               },
+               "southwest" : {
+                  "lat" : 53.1300000197085,
+                  "lng" : 23.1535960197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "7d5a84017e26bacb24981086a88463c7aeb96f14",
+         "name" : "Uniwersytet w Białymstoku Wydział Filologiczny",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109789689965796550074/photos\"\u003eCezary Suproń\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADzdGkKy9h_6DWxsSfAXtqyMPsPNBcVZWzC0f-8NcSyOOTGsUeLvgWi5B69SUbrV8GXSwsBUp8oNOZu7jjkQ-JbHbXAbkYclEI37ObZZy7Jm9wLT6d596ujrkx-TGVfHTNeBr4ufnhqk4rOnCVMQJgI9K8sMmre3i-ZzMNNqT85tEhB4EWtLjT6ZppKEMgkv08R5GhRYnQIJ3ZPvGM0cDCYYM_2MENw9hQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ2V9sDgX8H0cR862LLIYQq3s",
+         "rating" : 5,
+         "reference" : "CmRRAAAAHA0ckdGn9b3o8EjHRP7W_8cap4WNC0gJ4qJD8AVJqUNuW8fprqP6swP5NfynD5pWbkSOI-Fm_atsds6VZhyyzuvWV1dsGvFm5w-DBGgb2YRC23WKVoLPPrXIYsmoAY2LEhAjVN-Fvxb8lCcD51HP19YsGhQLzEXbXBdG8nXVf-RbbrZCUzgVig",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "plac Uniwersytecki 1, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.13330549999999,
+               "lng" : 23.1881715
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.13565690000001,
+                  "lng" : 23.1894268802915
+               },
+               "southwest" : {
+                  "lat" : 53.13252169999999,
+                  "lng" : 23.1867289197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "cc1a27b0feb94ed9bd75594e306d78161f9b7a8c",
+         "name" : "Uniwersytet Medyczny w Białymstoku",
+         "photos" : [
+            {
+               "height" : 2912,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104665771442891731803/photos\"\u003eAneta Brzostek\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANck-hRzyeoAOKgaTjjO6vmoTWHBzwpQLOKdayZjWZmsgMr2mPlnvq7UL3XfsG1dTYp1UOPcJQsCSv5Rtl4ElaO0z31TLdgBF8qX9W5YP6OkflHLayPnZsfw_Jn_9qPQBktvE-HIoEB4gcTx42UY6aNsXWScR-mtlurnzvr_owsXEhDGExJ0UrgAEYNzVaJCw5SmGhSSuz78PTdSGmcaVvn-lxEQnFPvGQ",
+               "width" : 4368
+            }
+         ],
+         "place_id" : "ChIJtScUaKP-H0cR4B9WKIwV8kU",
+         "rating" : 5,
+         "reference" : "CmRRAAAAthePO88PBnJa7ItMWyDUH9Hqq3n4HDpYm_PMP0z-TlsvYad2pmLjEsgHkdWEtFWTxNO--tg4yZ6mo3Ug8fle0vMwIkeyAAbHngckiE2dY-UkxIP7TQUNtCwqB5pw-2YzEhB74jG71es3Jz1Z5odKC1XgGhSdae9DPxmWcIBQt9bk_F3sFniw8A",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Mieszka I 4b, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.12847069999999,
+               "lng" : 23.1665035
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.13015033029149,
+                  "lng" : 23.16937735
+               },
+               "southwest" : {
+                  "lat" : 53.12745236970849,
+                  "lng" : 23.16554555
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "1484ce75f97f5089f6d9d243ca3e92f62afc031f",
+         "name" : "UMB Euroregionalne Centrum Farmacji",
+         "photos" : [
+            {
+               "height" : 683,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104665771442891731803/photos\"\u003eAneta Brzostek\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAE8jZiFfypn33GrDi2QXS-Z9oR4lKkcEMQOgYSUb4gSX8BUofAyqys0aacMvMCEOMnHptRhEG1p0vMcNkZ6S9VLwzfPNhzKgbfodDRbV7H6kpwbfUIRc5HcazQu2XWjqKrozgunQx1DXlqBupzqX4xeqjG409vKphmbQSJLDJiHCEhDIPAFTInFAOhh2_5BgL-SfGhTswEqS76mz6z-OZPii9oL3Gmfc_Q",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJe04EhgL8H0cRv_iVFdf58xs",
+         "rating" : 5,
+         "reference" : "CmRRAAAAS_bUOc150evUWm7fodpQgiuVznvWrX1YTd2g8qdr2RbARr1x2SbzFxhS1oL4jhBvnE51ta3aDLFV-d77ZFePhE7FE4yrxT4bu-oJNhFTnEpY44bO4xKFBF8AC5Y_FwUFEhCatFH0dzYNNkBxQO5SBkPMGhTVuK8ZP17FWJBSHeqhDHJjMZ5Riw",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "15 959, Adama Mickiewicza 2d, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.13516389999999,
+               "lng" : 23.1695019
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.13661648029149,
+                  "lng" : 23.1710759302915
+               },
+               "southwest" : {
+                  "lat" : 53.1339185197085,
+                  "lng" : 23.16837796970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "9af9f674148c8933ad41688d945c08d0c838f0ce",
+         "name" : "UMB Klinika Onkologii",
+         "photos" : [
+            {
+               "height" : 2912,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104665771442891731803/photos\"\u003eAneta Brzostek\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKWRJQAknAGBGpmp2ulDYs9rDajGOsjTHls6s9MCMUCoDBX0oR1Xce8jF2EaCpEr6oEAg-3CJ9gC0xHcHXYHaBLWCv4s4F6wV6g2Wqfwkrycr-2iMXQGLeAjUn_BZUxi5OHL7LsAPSESSyqkPm2c1AKUYTcpo8OrDIuKtbrf593aEhAyLZvMMX0mvclG6FDXtqQyGhTYfprcA6OgHBQpNofR61KedPVfzQ",
+               "width" : 4368
+            }
+         ],
+         "place_id" : "ChIJ38u4yx38H0cROFn7X77DfBQ",
+         "reference" : "CmRRAAAAQYj2qtunoIwn_X-vYLQFUEJf27HiqsB8qRC5a4Mm7IwkjusYFXnwuzUsG5hjAlL_P3HxY5DQfJwPqzR1IzX80GOngS7MEF1nsV3GViyUflvX1XU-U2_xVKGfVZ_37nfCEhCWquzLoZk9miSRn6I8_te7GhSzmP_6B0nIdiLPl6g6hoqdVrkf3A",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Ogrodowa 12, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1243187,
+               "lng" : 23.1588963
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.12566768029149,
+                  "lng" : 23.1602452802915
+               },
+               "southwest" : {
+                  "lat" : 53.12296971970849,
+                  "lng" : 23.1575473197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "c6316ffde76c26412813cf14f82bab01c69307ea",
+         "name" : "UMB Centrum Dydaktyki Stomatologicznej",
+         "photos" : [
+            {
+               "height" : 2176,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104665771442891731803/photos\"\u003eAneta Brzostek\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAM03ihgRwBOfkwx3rVM08p1VVGge8bhq-gQAaIEpULbaIrw3e1A1NbbjuoZo7HfR2NM3WQcUAq4-fVzT_URvm7pnqAuzB18KZZxQCUPITlkf2ntsuijBIqnECzqrHXzyIm4lYGt5ST1y-beCpMyWYyve6IW1XIJtvwZ0ovFCf4eJEhB9q1LgPUTIclvzFMDaqmJQGhTEWYIvmTgLvG6V4Q8sSvoEvlcH9g",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJw9v8AQH8H0cRN1VuA5-oYmY",
+         "rating" : 5,
+         "reference" : "CmRRAAAAi30sxJUzzmVtJN_oUhmHXHuVqZ74E2SwXTn1QfaQbhMHHKyPJHlhh2UAfyvyFgrPpcTcPDp7OeArSBhiC2Ur_tBxlLmtyj1TvgmAkcdXXlTbKK3nSLi3nOWzRScuZMruEhBKctnnQOI4gEAEOqkk_UqVGhTrMZRYiN1KnsS_lY9n-G5r0xws_A",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Marii Skłodowskiej-Curie 24A, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1196293,
+               "lng" : 23.1502813
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1211507302915,
+                  "lng" : 23.1516747802915
+               },
+               "southwest" : {
+                  "lat" : 53.1184527697085,
+                  "lng" : 23.1489768197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9b02f691bc6e296c504cba86d7b58056f332ed57",
+         "name" : "Dom Studenta nr 4 Politechniki Białostockiej",
+         "place_id" : "ChIJv2Gk2_77H0cRc5qoJS-SkxE",
+         "rating" : 3.7,
+         "reference" : "CmRRAAAA3vuz23MiokcBxfcRJeoAeoFCWXCRIwpQ-XeBoKNYlTtpbDgCoI3c7vR8arTG0Ehx8tt4kQ0FOqR0Y1qMQNyUVXfDj2P-gPr6_oVkgi3mYY6jpsjhtQguJ6lDhKnlSLVcEhDYOmfe-yZGSepX-bN4i1nDGhQJ5YHTBmIjyWom6gXM2dUTekqs6A",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Zwierzyniecka 6, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1084581,
+               "lng" : 23.1538904
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1098070802915,
+                  "lng" : 23.1552393802915
+               },
+               "southwest" : {
+                  "lat" : 53.1071091197085,
+                  "lng" : 23.15254141970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "1d447082ebb6ab590c45644144d656b59af782b6",
+         "name" : "Wydział Biologiczno-Chemiczny Uniwersytetu w Białymstoku",
+         "place_id" : "ChIJGSqIVlj5H0cRAbIOAwwbRsc",
+         "reference" : "CmRSAAAALWNPY-lnTAYsVE94bkpldJT0lwJDNANLW0gzl8GZ-nRrNYuvBxDtrii4EHHY-VbXQ9KMTTfaceF3p8YWIKmkj62rp3AdKWu7VwJgy0FWne5g6uohl_B0A_HjAHOaaHl9EhD1SNGIhXMvTBmQfvsS_N8xGhRpbzhsorLkVwcpI7-aApcHVyUDFw",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Konstantego Ciołkowskiego 1K, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1084581,
+               "lng" : 23.1538904
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1098070802915,
+                  "lng" : 23.1552393802915
+               },
+               "southwest" : {
+                  "lat" : 53.1071091197085,
+                  "lng" : 23.15254141970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "c13267e5894e9d9201c5184b9999f989c499d20a",
+         "name" : "Instytut Chemii Uniwersytet w Białymstoku",
+         "place_id" : "ChIJGSqIVlj5H0cR6cIqGY0uG74",
+         "reference" : "CmRSAAAAYtK_GGQ0tBTU43yaK_iqXpqwSVwV-V8xYYwNp01cIQiLHJF9804n7h1dyf5yvpozctNCjhI46chyT7R1JWZMdP-t0CwickXr6oSNvSd1N-u2kZYvsV32n23WmaHlzw3DEhDgOzQ1UXEmkg7haU9TtTBXGhQQJP5wcdNEtN7pB8BxieY9ypvsIQ",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Konstantego Ciołkowskiego 1K, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.108157,
+               "lng" : 23.154121
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1089477,
+                  "lng" : 23.15626119999999
+               },
+               "southwest" : {
+                  "lat" : 53.10578489999999,
+                  "lng" : 23.1534076
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "bfc876bc791c7aa531c8d2838553ec9d69648b7e",
+         "name" : "Instytut Biologii Uniwersytet w Białymstoku",
+         "place_id" : "ChIJ0U6U_1j5H0cRzxWmF5S4yYs",
+         "reference" : "CmRSAAAArNvvlJ5opdLiCE1QWMaALn9ELgUIgT6lVS8IXbcov2pn0VQ0Pe51ibz1LFNf_0GonZjFf1sPLICsHHs92dGJ3tMRGEASUezXKaYIZieIEcJPVW3r-k5tfwJoXYuqJY2rEhBIRBV-0S0AWgRpxJiTnOAoGhT8JeWajRQjfo59m3YVP0BVu-IGEQ",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Konstantego Ciołkowskiego 1J, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.09835440000001,
+               "lng" : 23.1254569
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.10103655,
+                  "lng" : 23.1261909302915
+               },
+               "southwest" : {
+                  "lat" : 53.09746035000001,
+                  "lng" : 23.12349296970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "0e6642ce5e5cb17abec52dfff97e096ae762e846",
+         "name" : "Wydział Zarządzania Politechniki Białostockiej",
+         "place_id" : "ChIJ790uEtv7H0cRT-WkuT8PDtw",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAAEHmDy3Knv4oeJyofUBxzf8o5KbDQB-4AmTU2e9-scbCXgjCkDEOVwtnyUC-4gMUHeR3MjLBWIAzOeamCLiu34cveVkwKuANj15Vh7EbcjDSPlcxNTdoACJS8IjytM3GaEhAOLbBSYsreL8mkqyU9cELeGhRPzKZXNJ1_39GNHGkDtCB8703GVw",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Ojca Tarasiuka 2, Kleosin"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1289409,
+               "lng" : 23.1462698
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1305415302915,
+                  "lng" : 23.14700193029151
+               },
+               "southwest" : {
+                  "lat" : 53.1278435697085,
+                  "lng" : 23.1443039697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "d7851ce409cfc6b91bd82fc6033d16d5038a94a2",
+         "name" : "Wydział Architektury Politechniki Białostockiej",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105740410785193498613/photos\"\u003eIsa Garro\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJ2PIZaQjpPsYa6AExNdd6TaGWVpfghXfNcVEhVgNwnUNj0nCo4O1QjHXF7REWovTe2UXzoqYeZETZN-nIse44O12rglpDiFow4bwqziFOx7mzOMIg87eKlUdcQhWqUM4rT9JJymbufjtOcQUtaiCI59vryXSCLtLEj-U0Ge-mfPEhAlEu5efbKLOLQIBSjnPurNGhSUx7LUinVsxN4UXrTtnl_rovLn-Q",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJyxNrzwj8H0cRVEbSM3Cmo1M",
+         "rating" : 4,
+         "reference" : "CmRRAAAATCjg53MwErt5cjFfIUwqlUNy3lwvZHptrUL3VipN4GpvddZsELy8duRXG1TMpDGigdpUWyg-Ug4SOgqMhWt2z4hpbOPyZhQjRUOFldbQO3oN4fMpUenmAZQ6SYb8lOZdEhD34_LwVR6KJyV0eW2ZzMrzGhQbvo5BNyt4yaLMovg-m5y-PTCJ9Q",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Oskara Sosnowskiego 11, Białystok"
+      }
+   ],
+   "status" : "OK"
+}

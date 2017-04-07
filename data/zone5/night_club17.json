@@ -1,0 +1,535 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.8824032,
+               "lng" : 20.6177724
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8833827802915,
+                  "lng" : 20.6186240302915
+               },
+               "southwest" : {
+                  "lat" : 52.8806848197085,
+                  "lng" : 20.6159260697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "fb0c57193d377a9a68c965f4698231891f37cab3",
+         "name" : "Klub Stara Leżakownia",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104166229855956683022/photos\"\u003eKlub Stara Leżakownia\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAG8hF4SnbCjsr6qHprg5w8eriAFLckeU5wlMPHOE8m744BIvmGrrFDi9jwtvuHWxVfhbVAhh2MKqh-91zagBhJ4rhu8OkVxoN3a2BV-FabovL8e6LpE1pq4E-wSqZovyJ_5x2UH2vK9ubKEJ91g-kl5qEZ0mHpuzBIRv8wi3KlvHEhCcnQkczdRyI-HBKTXUQ3dhGhQ8842Ap6E2uDmOZIYzb098MRnQlg",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJO1tvgKQuHEcREtduPib7wWw",
+         "rating" : 4,
+         "reference" : "CmRRAAAA0eFAJu_qQfb8TnkoN3LhFALMAtaIPx4pmPTY04j4qNhbacjPWFdBS_Yrt_Y312e_jHsgOUJaeVICAemw3yUggnUCJojGj-Yq8rNVQQUBaiD7EIpXCKpo2TPw_-0GFNnmEhA8mpgW-xf34N-SywdiBn5oGhRyg7jEMjpKjE5aBw495lW24Ruuew",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Jana Kilińskiego 5, Ciechanów"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.2417355,
+               "lng" : 20.2038842
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2431044802915,
+                  "lng" : 20.2052292302915
+               },
+               "southwest" : {
+                  "lat" : 53.2404065197085,
+                  "lng" : 20.2025312697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "9563b6b35e8ed5175b36f05200981a748b1a16af",
+         "name" : "Domino Nowa Awangarda",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100648206304909578519/photos\"\u003eMarcin Kwiatkowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAD4EU9IzP1mHZViq_IAATdhHLAyLeJ_t18d8U5k4_KMzml3eHScQftdWofrn_0TsPR3NOItxqFsE5hYm-yxIue3L-7beWP9RdALsEanQkqh2SGBKsdcGz28cE_sz4RAG9Sk2k4E40gCWun-TqZye35Y7rLwVizbWBxF3zcVtjvNBEhDtA6FIC_iT-wiRDRcjKVs7GhRAEn43fYBl0OtU7AE488V3yFKs7A",
+               "width" : 2336
+            }
+         ],
+         "place_id" : "ChIJMbxEnlGlHUcRwIRrFDSIREI",
+         "rating" : 3.8,
+         "reference" : "CmRRAAAAwjjw0stkq4b3SPN022q2dyhG9AWg-IP8H77vUa-eWNNTV9Xjrcgnb_p19Ysfym-N8GtwwF1dzqsFHvdTXSRQFb6Gm9kQQPUhnZDAo2V3v8DpS31YMe9V6YS6b4rpkT89EhBFgzDbMxVZJ8-SoE3DZVt4GhRblQ_qT7SWFsjBjFwlZzksoEdO_A",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Leśna 29, Działdowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.8613465,
+               "lng" : 19.89327
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.86269548029149,
+                  "lng" : 19.8946189802915
+               },
+               "southwest" : {
+                  "lat" : 52.85999751970849,
+                  "lng" : 19.89192101970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "2e05c0a3b9a2707829a725e63195411cf79fe519",
+         "name" : "Club Delta Kosemin",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJTTg-bkBbHEcRqllLgGI4I4Y",
+         "reference" : "CmRSAAAA0mDrGKm_BX4MFGrr-2MblUaCwdYVQeT3PFbMsInn777RDpQ4GLMoA55V0vPYtPIpTnN_aQJKW5pmb2hf2_LpNYfeZem4YojK5S9EnijbP3mNhRDZ0iW32M1d7dIxPEl1EhDm0ruWVkiXBOxywQ7zyVDcGhTwQloirNrasu3TbqxO9oT8NYwixg",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Kosemin 12, Kosemin"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.8754399,
+               "lng" : 20.6162767
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8768501302915,
+                  "lng" : 20.6176310302915
+               },
+               "southwest" : {
+                  "lat" : 52.8741521697085,
+                  "lng" : 20.6149330697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "49669a2b7111429a11c0ddba4e872001507dec16",
+         "name" : "Bowling Club Meduza",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100969601138721072452/photos\"\u003ehubert furgal\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAEnhMVTUr4pcSIepW0id-__tgoCBJfXAjbNiVqW7cy-8JVeibAcNHwG8PzzZ1m87YMl4Nszcfm1x6BHIj3gKAsm5A56jh6UHmnwTxtOaaU7dC5H-0fvcxXIrLd6XnPPu2bTOPzA7OZKAjS0w399kxoweV1mro3Ynbx8fIAOIXA2qEhB3yhhIo1wiwIXrWErL_ADtGhSduKjBZtVRww6L538wHhLuz-h4jg",
+               "width" : 3096
+            }
+         ],
+         "place_id" : "ChIJyeLFsrsuHEcRwHvts011Tmk",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAAdRbzpiOYpflIGsqhGgVVQ3JbKzxBA7VbiAuslIkOd3zcc3G6eJPt0hBewmw4eEpC_QlwnPa6EK5R7S8uJqrlSXR_1NLIGq8eA-iZwCtU4lakxQ8RoEtGCjYrcofWmYEcEhCM7c3B0U0DvBwotwNjvxaBGhQ6mn0LrOW_4IjZpLGMdhQvCQdyzw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bowling_alley",
+            "night_club",
+            "bar",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Plac Tadeusza Kościuszki 7, Ciechanów"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.8413666,
+               "lng" : 19.72384
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8427155802915,
+                  "lng" : 19.7251889802915
+               },
+               "southwest" : {
+                  "lat" : 52.8400176197085,
+                  "lng" : 19.7224910197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "f5adfab549f1b57c86e2598f8682f1fda317505b",
+         "name" : "Explosion Club Borkowo",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104739050271777517710/photos\"\u003eExplosion Club Borkowo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALozIkEQ5VjJZGC34euiYguMnBJ6wmV6x0lKWcwJfOog7ZkjUDwhorxvjOZ1V0WIyN_ka1nrMamSg3X7R3olrMtQFHDPJEceTyb_HuRkiDU6wHFUMbgbCieI430uEOtIzIJ5h1h1Y3MU-WflGahfnROcKU6EVMZuEVpX0mkX7RUdEhCMFRlYTwzi-9d2XPF7mje7GhQWuv0IQA-NQ4oCFnNti1e6grZVgg",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJPaTG-eReHEcR7O9RWNraW9w",
+         "rating" : 4.6,
+         "reference" : "CmRSAAAAlhFJnbcJrLRHA5fjAqNBN7wH1x0U81qdj8UXFWkiH_Zj7FL1mZLluehXN-nagFGDKPIDGECRykfjabSAMVfeLc5S-N-B-rsLZBLCZ_mfwBB32UTQpPEVZgDmlhH_ror9EhBZZtBsqYSR7oQvsPVlcxeuGhTMLfjrsnXpXITvwdqqqY4Zrb1hoQ",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Borkowo Kościelne 36, Sierpc"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.2700527,
+               "lng" : 20.0023485
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2712831802915,
+                  "lng" : 20.00389723029151
+               },
+               "southwest" : {
+                  "lat" : 53.26858521970851,
+                  "lng" : 20.0011992697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "86542196419eb50beeef6fc5956b2695ddd54746",
+         "name" : "Omen. Dyskoteka",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108530895190482053421/photos\"\u003ePIOTR DOBIES\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAIEowNBrKN60wLE94iCJvqebZYwlMNmx7eMPOX6pHGi3swUaA97mXu0kVmLrnnqppLUy3x5RiMTrkjhMyW_s2wgwQ-06D08CeUtWT-zE3uCyiN20EA__0AURAGv1eNPyFyr52sVX1dbbMlepzYOnyuP2gQwnRyP9giGCaHZYv2Y7EhAj4I6m6o51TI-IeofZD-KCGhQzXyTwrxhhOLrz14t89bkALZkc3A",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJ_zTDXdinHUcR6txlbE_tW3w",
+         "rating" : 4.8,
+         "reference" : "CmRRAAAAR54MOMOqxJ-IQgL2l3vVy3wM_bQ9E8fLF3hYCljH2lvTjt2Umb7FUKYBWxtXGhh0rE1VuTo8RAkPhAWNHwRAKPDbEY1A-ynJYWXHIgMyW3DhGT_GAYAaq_JlhaYcpI-5EhBUwbk2AweMeCf0AmGBteIyGhRkR_QALrxH_nAPnXLpRBzN1rkvTw",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Lipowa 10, Płośnica"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.8926033,
+               "lng" : 20.2861932
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8939627802915,
+                  "lng" : 20.2874782802915
+               },
+               "southwest" : {
+                  "lat" : 52.8912648197085,
+                  "lng" : 20.2847803197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "c77b4094348261564bf7cd3019c5e653b53f2496",
+         "name" : "GS SCH",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJP4uXnaU3HEcRcmjZcyT3mcg",
+         "reference" : "CmRSAAAAorVNUXIhnPZnKy-lpx3wZUxCwOEJXWrbAwUuoCLsWNJkl3fuWXKCayIsuCPec8eZgnKuIkk5oyiG_jQlZpNdtCCx79NAL0SHxtfvwwPBodBWjjiMG7G0LPzZeS3IEvokEhAF9bjXUkdgzTTPy7wjh0YrGhR4tb2Co5vMYP_YYH9QiQ_IquY7cw",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Zjednoczenia, Strzegowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.8852799,
+               "lng" : 20.028599
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8865105302915,
+                  "lng" : 20.0299342302915
+               },
+               "southwest" : {
+                  "lat" : 52.8838125697085,
+                  "lng" : 20.0272362697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "68de49b3660cc45019ffa5a1bdde2048334e92d1",
+         "name" : "El Presidente",
+         "place_id" : "ChIJ8wHvN5hFHEcR5UeAI3OwRxE",
+         "reference" : "CmRRAAAAAaTC1qR43SMKbMRgd0sBaAypRpSpWRKHWt5aHrnm8NxSzrAgr63y9sXdT5clvQ5ltjucKgZzO8m157Ez6ZmC0I3abJ_fAgK6hUzXEoNH3a__mKpYYqK6wIfTExQPwqESEhDMtHZ7iFEkx1k1zi1lh1VFGhQ7g3u-PQuK8wkEO1zwfgYrKd7ImQ",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Kasztelańska 2, Siemiątkowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.429074,
+               "lng" : 20.2422653
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4304229802915,
+                  "lng" : 20.2436142802915
+               },
+               "southwest" : {
+                  "lat" : 53.4277250197085,
+                  "lng" : 20.2409163197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "3d60f765ea63ee76c38c5373140381a800909407",
+         "name" : "Ted Inc.",
+         "place_id" : "ChIJWVamV8eYHUcRtdZKr5LzTE4",
+         "reference" : "CmRRAAAAayz2BMv3Z2QL3Arh6hnD-mCWJ0ERbZ7xvUQKudVCC-E49zVvXjF6lqAOYpcD3AoFITmSzKmIp7QuF6WDQrK56BNbkpLQsz4tCFcaekPW8Tdh8bWTbmqvRTRO-wNOtQIREhCsuHj0YoWXclysveRbNKZ4GhTmx2yjx9Kq-MRQ0MvpzDayaC33rA",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Poland"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.980733,
+               "lng" : 19.721633
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9820819802915,
+                  "lng" : 19.7229819802915
+               },
+               "southwest" : {
+                  "lat" : 52.9793840197085,
+                  "lng" : 19.7202840197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "0ade4c93d5d0e12f022409c86f9b36aba765a313",
+         "name" : "Bounce Club",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 940,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113026621711974338842/photos\"\u003eBounce Club\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADxlbm7Pw6tcrTfVDeMEypnmNtOxpXhpl1k5fkSVEoIOxKluYOt-VcUKI_OfDBTcs9U-h_FfEqGNuwnqulxqPNYjOQNxDJI75ERTSj-ca54pUXFyeiLG_uKN5MjCkZGqn2qYIB5W-O2_BkXC1uURoRFcbG63TuJUHTM-5wAVgrlaEhC_wPEeJrvdMybYakklNq9GGhQPdEXMG6DdS0Cf-w5WFJo8QsXCXw",
+               "width" : 940
+            }
+         ],
+         "place_id" : "ChIJv5FDLg34HEcR6vHCWS8p1Jk",
+         "rating" : 4,
+         "reference" : "CmRSAAAA_7HqkTB8p0cxN9Y0EEg8xKq0vLcDe794hGDOeZ1KP6jRfOfnxd4782dc1oNypHHOjGM9NVH8S26hQNvxpU6K2q8buOu4OsSyef-7Mq8UX3YwiqB9tigvCRxOqlMUffF3EhAaNYPtRT4ykOUJffBLpyb7GhTQs3fIy-5JyMjwWzSQ5G1YPDuLGQ",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Boguszewiec 11, Lutocin"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.3867755,
+               "lng" : 19.8756023
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.38812448029149,
+                  "lng" : 19.8769512802915
+               },
+               "southwest" : {
+                  "lat" : 53.3854265197085,
+                  "lng" : 19.8742533197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "92eea777ca5e545c731d957073ccd02f24064f3c",
+         "name" : "Kapki",
+         "place_id" : "ChIJ2bCg8hsMHUcRPy0Q00XOn1s",
+         "reference" : "CmRRAAAACpvQ1IZqYJwsgiHRutvzipagfQfcQb-vVe3Vc8skr9WccoGhyiuRwQyAb8Iqow9dEAFxU-Sfa6k7pgNngJ9fkcnZKbRKXLqWyyMz1LLuhj7C_XNt9htimwWwEg1NM30UEhCmq_QKDY7tCJVuIglsfYVyGhSXL4uf50r-lAPbCLzRY0ksXasLVA",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Jeglia 13,, Jeglia"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.87661500000001,
+               "lng" : 20.599631
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8778618302915,
+                  "lng" : 20.6009822802915
+               },
+               "southwest" : {
+                  "lat" : 52.8751638697085,
+                  "lng" : 20.5982843197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "e0a3bd231fba477ed79d3bac723e720a658f35ef",
+         "name" : "Dom Adiego",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJix23f5YuHEcRXLycj_nEILM",
+         "reference" : "CmRSAAAADGMwOIdnE3ROjnk6cp9PgvNLpdo7aiCV1p381fHYM73pjwqheS7fLcPcsZxem-GE249uyQs10XrGhpY-ZwcGNakU-RNWYvTWstPop5zicO0rKv9nUgnYQRNZY2VH6MaIEhCh9dGJfz0NRyYa9g-WASPoGhT0sTyXMHk9Gd_FRpCCPArcoZTb1Q",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Ogrodowa 8A, Ciechanów"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4454359,
+               "lng" : 20.4769397
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4467848802915,
+                  "lng" : 20.4782886802915
+               },
+               "southwest" : {
+                  "lat" : 53.4440869197085,
+                  "lng" : 20.4755907197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "ab35742c2226831b9b41647f85dbe776f2c2914a",
+         "name" : "Landek",
+         "place_id" : "ChIJXVFfR8iWHUcRuyDBBgZ1G_Q",
+         "reference" : "CmRSAAAAVgNpgiFcEraQxUKa-dKR-Bj8du-HEho5VS_yvRl3aTpSBjKUQZ0TX8DbeZFzINaDltu7eQRUS51kTevMqyJ7y6e9OD7xLF52JXUidR9yUXMrht9LhT2h1hRAMX2gjweBEhCe35ApVOwDKj2BfKR28VJ4GhSJ65RZRZN1emGPNbcl-K07VaUnAw",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "13-100, Unnamed, Łódź"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1488089,
+               "lng" : 19.5593585
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1501578802915,
+                  "lng" : 19.5607074802915
+               },
+               "southwest" : {
+                  "lat" : 53.1474599197085,
+                  "lng" : 19.5580095197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "3f89cd8e7ce1fa5b454496d9a801d55937f4bd86",
+         "name" : "Klub Ibiza",
+         "place_id" : "ChIJFQmlKrriHEcRmNTTbF9UKj4",
+         "reference" : "CmRRAAAAzzRCsqOsgneZ39ZFb1it7gcK6YBuRbTr5CuZQgKQWNd59jRJji1CwKrH2PYyAg_9GUS0CwfKDwDaiamRMMq4Ga6CpRdtlPIgYMaswgBwqEEABP0SAG-4ji8f2Kw2yVQiEhAImoYdM8B9NqNzRTrTuTrQGhShrIAAR7q5JhYvV8om3oamDsOnow",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Świedziebnia 108"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4134195,
+               "lng" : 19.7587297
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4148153302915,
+                  "lng" : 19.7600865302915
+               },
+               "southwest" : {
+                  "lat" : 53.4121173697085,
+                  "lng" : 19.75738856970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "0acb107e87e14c3c95b57e16a9268f3aa59bdb56",
+         "name" : "Wieza",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJI8eAPxASHUcRcbsgcQHi31s",
+         "reference" : "CmRRAAAASxEUYt4vJdcV8Rah4Paoj6TAGsnThj1ouGmaeNubTWhPnppUckJKBvOn4UuZqwhXkAg4WeUSjxb_1h2e7R6bXOeGmI7XadT4i98fpbq7ljt34sBy83JBZcXqGgDdpJ7uEhBsVPN8-l0jVM9_oouaR3ZpGhSm0Wy8xxdMMmGNWVSCipFjnF0SHg",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Droga Wojewódzka 538 11"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0400538,
+               "lng" : 20.8720143
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0414027802915,
+                  "lng" : 20.8733632802915
+               },
+               "southwest" : {
+                  "lat" : 53.0387048197085,
+                  "lng" : 20.8706653197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "d2c8c455d49dc91fd4d788c3a79202ec2ffa076d",
+         "name" : "Bar Delfin",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJZYHPoGzWHUcRVjRLZnmluRg",
+         "rating" : 5,
+         "reference" : "CmRRAAAAV0ZRsS0OEbP3w_QO4LAYD0OShKQSPqO8zBwjYXP5unxV_rV_YpBvo9Qf2ejzXbSgqlXFN2ZVyFo3nUPNJwzQ2OfWOa6iI0UlGXseC9Qw0h38zR9jr1KDDJiOby_vTbmNEhD3Pm2ergJDqpi8jT8pR1BxGhRsim7huO26EO5LxBOwWjZCDsRtFQ",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Bar Delfin,Słowackiego 23G,06-300, Przasnysz"
+      }
+   ],
+   "status" : "OK"
+}

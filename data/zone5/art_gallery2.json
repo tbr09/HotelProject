@@ -1,0 +1,69 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1064018,
+               "lng" : 20.3784185
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1077763302915,
+                  "lng" : 20.3796884802915
+               },
+               "southwest" : {
+                  "lat" : 53.1050783697085,
+                  "lng" : 20.3769905197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "face1ae2bbbec8c26402db1b93922be192ec7a6b",
+         "name" : "Pracownia Rzeźby \"Stwórnia\"",
+         "place_id" : "ChIJdf_FZvu1HUcRQN9Zi2Nsy2g",
+         "reference" : "CmRRAAAA1VPs9pX0S9cdf1AqJDChbYuGIXf8QDzsUMIT44rTPWfTtm2y94p_Al8bnaJ6pJzSj1b8OTUeF5OoAdkarhpdhbT9QgT9Zu5jh9I_DJjkljxzytgne7mXORvBs9dpkx_NEhCbgBJVeeVHkeLmsiAuVqnxGhRXxTNJpqAOfEQTiPFFbT-TEm0Jvg",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Świerkowa 9, Mława"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.9007647,
+               "lng" : 20.7176453
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.90211368029149,
+                  "lng" : 20.7189942802915
+               },
+               "southwest" : {
+                  "lat" : 52.89941571970849,
+                  "lng" : 20.71629631970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8ebd8d763f4cff83ab02960b7bfa1e10aa0a74f6",
+         "name" : "Pracownia Malarstwa i Rzeźby Adam Kołakowski",
+         "photos" : [
+            {
+               "height" : 1530,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108719523728034532280/photos\"\u003eAdam Kołakowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALOntzRQCVPwqpKFqpcSu9jqgkMCIb3g6Gb4nFSyJ8mjFrkDvo9q79zufJ_RwTRUck7O4XFmmPGSYXNzWXqRxRUCGjO_gLKSolMe3y5wDlMMWBeRZPYYrVtyHN59Rs0hokuDjwg_tfeV72It886J8KRPq5Dlel6R5jiOVE2sdqFDEhC5_FEsazoHRvpXa6yUSMhjGhTawPIdIQbH9ZOCmoCrnR8uN63cuA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ16k7OLErHEcR6VYZMHgwIbw",
+         "rating" : 5,
+         "reference" : "CmRSAAAA-dBs0WsQGPrIcrD6g8oorl4nJtZbqv4wh4OGu2w_8RBP2u2XgPlYVkZ6TnQTf7jJ9sWYWTSfzH6I1fBp3e93qCCeumbgcXmrdhi98IDupumwjtVopM3TqE5vOj6iC9fZEhBOWJqChhp8zUI6_EWfXEN-GhT_WjU7iqYqXQ3EOC5uq8JEmC8cjw",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "Norwida 8, Opinogóra Górna"
+      }
+   ],
+   "status" : "OK"
+}

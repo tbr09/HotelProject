@@ -1,0 +1,785 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCBAEAABYyClGjHRHPXMSfFM9oyzic_faihKO834ruHpv_Cx1WNIOjKxOMb1ohYBr-pruPXVIriQ-7bvm-HbYRAQoGuAqnq20rG0zlIbQzcS29MAqv0yvcf-cPEMMqjB21QKRUBOhK5WZAlIVk649StpvczfLsYAmxkdN0oHaV_4KASC9HDhv2I_ivcrPziJx94dSPSNRsfOJDCjaYGg9zwiOh2wHownmyIgXYGIwFkYa-gSSt_PBpvu61f6XaUBfqYGvcYfcj6Ie6Mynk3QV0NtvdERnjETtZDxXlhjYWi6WsW1j1oh4DHSqQ3-BHL5ntGXwOPt1w4s0AP24TftHET5hIiu7lwAzdhZoGGnvEsi2z3_jQEhAS2T9bS0bkzCI7UprFBbheGhTQSwQJHx_rlMnaRWhgdloXCU16EQ",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.82314230000001,
+               "lng" : 22.3443323
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8244690802915,
+                  "lng" : 22.3455957302915
+               },
+               "southwest" : {
+                  "lat" : 53.8217711197085,
+                  "lng" : 22.3428977697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "7241f8e4bdb674704bf37ab90d188436e353326d",
+         "name" : "Hotel Horeka",
+         "photos" : [
+            {
+               "height" : 1120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110943241318155469239/photos\"\u003eHotel Horeka\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOHhaUYS0YPeyCuxkn9sVwhDzghfNIvxNcoCn3mSXppoxB4AjsjANAzgE-2mpIS33wltFM3HwbwJxOZjPn3p-WMl1kYLatCBnPxRw9mwkdCWz1YUrk4r_a3m4pabnY66PIc7wSh4850Zc1s7QwrKSp52df4t3wPMJPMei2M9RfOnEhBKa3408hXaVSYyt2Mj7gFQGhQWNe5n0hnwmM-vtpnQ7EU3Ba0KcQ",
+               "width" : 1680
+            }
+         ],
+         "place_id" : "ChIJjUpAkHq54UYROHsBjPiryZ0",
+         "rating" : 4.2,
+         "reference" : "CmRSAAAAWuJjm51ylYDbTmkT5oUVtH9qQazz13rgpjec2ZG7L7B9-p-T5CcqYOMCQjLoSOvHaNA6gAN89ffy-Tu9kVVBUCXpfNHANC6tzAXMxdnughCwrmPFq2POKd_P5TOHEjhbEhCkrfMVNEPRnmp1MoKN9dIiGhRflvX6D44401MW0PKoXZxgNmyPUQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Kazimierza Pułaskiego 11, Ełk"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.10518999999999,
+               "lng" : 22.928316
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.10653123029149,
+                  "lng" : 22.9294801302915
+               },
+               "southwest" : {
+                  "lat" : 54.1038332697085,
+                  "lng" : 22.9267821697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "30cfe8b2a07474706cb86260772f2fe4f44efaf9",
+         "name" : "Hotel Logos",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108719885239109833514/photos\"\u003eÜlle Rahe\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAFMIejo518goDAd6Pg9isrY8mzAD73coZIveL1135hK8G5eQxGATEDbdTicMQf8xjkmNXd70fV6gsuVTkPE1R9tUhFf8fv1XUHkGKQzdO6eBM-stQyiCGmjlgv69asHmiVm2Kn5tFb4M-ee9th44dAdPidTYnQucG364hCsITUedEhCyR18SZRoKHfDedJyQa52AGhQZpc_oHLMu1UrXKI6uDWfjI0UyBA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJq5iK7DcC4UYRIELLJMiEako",
+         "rating" : 3.7,
+         "reference" : "CmRRAAAA6IqHRLS9Hljeaj2nRHEO2wxCVesAmfMWQo8G3TeS5Y99x7EbA-kPOR2hgRueRsLxBpV2VI0rSdKfaxhGoa-SsJ6zmXb7hUadXqvlfIIrFyXUe7KzNmOkw5fqsIMNG2tyEhBCA30BXeecqE4bhCkmBdT3GhS5VwjJYoMNfohuwyN1PVbg7-KBHQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Tadeusza Kościuszki 120, Suwałki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.85829,
+               "lng" : 22.9984939
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8595043802915,
+                  "lng" : 23.0001533802915
+               },
+               "southwest" : {
+                  "lat" : 53.85680641970851,
+                  "lng" : 22.9974554197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "42d632961880404b6014e5e9b84ae9fd7ab1f8a0",
+         "name" : "Hotel Warszawa SPA & Resort",
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107138588321106239251/photos\"\u003eWojciech Ciężkowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALJbnQ93Aq8ZtTc2lSHZONv6HsMw_AnhkVFsbd17nSZ7KlFgcZ-Y_r0X2M61BgQoxHX1choBXw0b0zDNCdsiKMVUw1l4wjbr2pgJxLzbuFyieok03Z-RJYzNDIy-JNhzNzICRgnmdawS8EGHAdBnf-3buO-QXTZmgJtbVH_qN0fbEhCyeneBArwgYGshiVnFt_Q5GhSpYyMU-nGD1aVGhe-bJP72rlh7Xw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ10n3oOFQ4EYRsV-uduM9K1o",
+         "rating" : 3.9,
+         "reference" : "CmRRAAAA7T3OLUdGxVv1Cpe3NU5v75kQL-kyXYZ57Bw1ECH1YoX1XRa1DIDXumOfZq409JHI-sUmnJJIHWGK64khvwP9IFJkJFnEK7b-E6Tfe-qV4Z-wJkB2GO6qAsqaS1KMFbLXEhDHjSnKxHAvygy_ScwcASCSGhQZr93-7esXyt9OA9LYR3_tLhn_Xw",
+         "scope" : "GOOGLE",
+         "types" : [ "spa", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Zdrojowa 1, Augustów"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8234047,
+               "lng" : 22.3556482
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8247875802915,
+                  "lng" : 22.3569754302915
+               },
+               "southwest" : {
+                  "lat" : 53.8220896197085,
+                  "lng" : 22.3542774697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "13adc46b0a94852270765b4b84f4e5ceeb0a5300",
+         "name" : "Hotel Rydzewski",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111132617857580368082/photos\"\u003eKrzysztof Kotowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAH4PgPK4HmLXvn2tqe-qSI0HJ7M0UwuLWSgSf0am1VnqNoXDoWPEPtgSU1UrTNqbLoFgcYIX0CjbmE5hkhLPzLO0iPYOUz0XtHeanXNiynRTaiA7Pz8XRWNRNwFGggdVyk6jARiwvc9KVjzANUtZL4_sevXRODevp-b6zUBgQosAEhDOoYkgSskhu6lj3lW2XJwhGhS_T5KEN6Hw4-sezZKxQLILzU9I9w",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJtbBkOXm54UYRrJ7VMXvjgc4",
+         "rating" : 3.7,
+         "reference" : "CmRSAAAAdSyQwIFULPjf4g9Y8iBWT-CXXIGNvXjAm-iNsDEhBPnU_S1Uy7klflw41cDlc8-col4AoVfDGEnbxxDWgUFB6jTavWaJFPKRs7F1tdf2pjIz__5mmv1Bt436aplnPnzOEhA5Bc_V7XY0tPTRbOaKhZKRGhQ5TzvEHFfPY7pzl98GWoDV8CnyaA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bowling_alley",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Armii Krajowej 32, Ełk"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.81939920000001,
+               "lng" : 22.3467198
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8207318302915,
+                  "lng" : 22.3480476302915
+               },
+               "southwest" : {
+                  "lat" : 53.8180338697085,
+                  "lng" : 22.3453496697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "ec6333934046b6e27ab2ef79545e35d7049c382b",
+         "name" : "Apartamenty i Restauracja Janus",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111132617857580368082/photos\"\u003eKrzysztof Kotowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOSjUkgKOSdUGp6j2dCBR8JPyQK6baH6_ru4RlvGTqNoOOeY7J8x0wsF9S9AG9Ly3t99zHIH5wI_LozlWQUl2Pg0DdVXInhnLyywhgu1_PErc0VKCY7Vy8na0lrYQ_s_hUzAdnpFcfnR_ZK5DeQ-joUuND0yRST3oZZcM8e87m8_EhCZ5jspHretJC9pL0FsxW5LGhRLqOyh9hqLY0t9BZMobADgS0SIWw",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJrRzEl3C54UYRsUQA3Y_YRdk",
+         "rating" : 3.8,
+         "reference" : "CmRSAAAAgMO1AExHA0OLXD5sOzGS_DYSQM_YPv_RHgebf1C2q8IlOzpw_c6PJZafAFwmj6kfM9-bJhx3MknVdoXgvDsy81eatt00n6ksisc5q7nvGZ4uRa3D8iJ5-GSGtddDQMA9EhCmjEO70J2iqEPjT93jvEgbGhSASdbe0qXoxKyJB0-vRnp5bF8mig",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Nadjeziorna 2B, Ełk"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.082733,
+               "lng" : 22.939535
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0840677802915,
+                  "lng" : 22.94069058029151
+               },
+               "southwest" : {
+                  "lat" : 54.0813698197085,
+                  "lng" : 22.9379926197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "9770cc783f965bf955d37a1ef32a15b0da6ef712",
+         "name" : "Hotel Szyszko ***",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 954,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114406705698402120737/photos\"\u003eHotel Szyszko ***\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANIcgTzqga1_JWI5anQdzOn9PjIj5suuMB3mR3fQRYRZG1I69ajeXtuOQuSc72q3PhzNGY0soA7aAPRDOpQ6BLhLOI3ay2XSpXoZI8EyA7oPvh7G3HxZ06WhjT56nm3UoYZUP1eut5PCjE-w-OONRjHnhK1qBmH89gvGsvEc3fWuEhDq2oz2ZN5OYdsf0hcEnC7AGhRTxJ4Y9osvKNrVLgymGaZwBO3TrQ",
+               "width" : 636
+            }
+         ],
+         "place_id" : "ChIJ8yJVUfYB4UYRqrBF2mE6f1k",
+         "rating" : 4.3,
+         "reference" : "CmRRAAAA2_jEPHsd0_vVRRtJk9sTCE3TLqeSLXVeBw7OQOlhTGB5_wgMU69RIkvKMc3fw8EF4F9qDTexQhLsLIa6b04-20HMyePVKNy-qcjDMkJWsBQjBOO5BCCYpVAhQDJH3eVmEhDdfsuUx5bfHVSYI12wu80wGhR3y4_2N1IcmroSmoCFIqq5Q1ML9A",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gym",
+            "night_club",
+            "spa",
+            "lodging",
+            "health",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Innowacyjna 3, Suwałki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.844917,
+               "lng" : 22.9960989
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8461690302915,
+                  "lng" : 22.9976638802915
+               },
+               "southwest" : {
+                  "lat" : 53.84347106970851,
+                  "lng" : 22.9949659197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "6f2d84202f0ea990e5ba31edf8be255ebc40f133",
+         "name" : "Kompleks Hotelowy Logos",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 460,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117834970931631807419/photos\"\u003eKompleks Hotelowy Logos\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAI5dOOamR0jqMDFHSDjlMOLifDpqrMe2nFjUFg742rho_HIJXrO7vJcNIQjTgxT_sUGGfsg74obp3W5GLys5FzmtOCDi89g7l05AuolEPtn4XX0CRL3qMRwwsaI0P5KuEyF83wSxuRnhvygp1S7JCED_yNbV_m08Y2gPR8lWbjjBEhAfS-Dej1bzsECCeyHs6S85GhQS_laSu8eVeaBjpEcvtvVwmVEsEw",
+               "width" : 840
+            }
+         ],
+         "place_id" : "ChIJdyLzd_lQ4EYRJPd3lkEZAWk",
+         "rating" : 4,
+         "reference" : "CmRRAAAA0swZIFeBEwAm9xBcyr5ttuDyY1tCsJNBsTncFIooJtwqrgP_lB1aMjJixxgjDbb_S2vZ6khM9ukrImQ9jVk_KDFOfICrEpO720RLnohHDyzW2Rya2D-rKGXcNIW8loThEhBCZYNBI5h8VqB7YkOtBQ3sGhRHzaj4SFP5rxi93dYuMWZdMeWnfA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "29 Listopada 9, Augustów"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0886,
+               "lng" : 22.991135
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0899489802915,
+                  "lng" : 22.9924839802915
+               },
+               "southwest" : {
+                  "lat" : 54.0872510197085,
+                  "lng" : 22.9897860197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "133c60128e44c6623698ac2c54591b50b8517ac3",
+         "name" : "Gościniec pod Strzechą",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100551779515211573508/photos\"\u003eGościniec pod Strzechą\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOsSX-v3O_vkB2v-Kxhg86Cx_o2WQ4i3P-1s8cXdKj9eGV2XrexP3xTgCcVyvv9uMe3R3GQjZBluGpAOb5imC4lf7mVOve0XcM_sktXkoPFUQQVKtwngCgrtGUpq7truvd8WjWj1taYp8cZa2nyUhIfyRa2Y16ysilyX1JT0ylj9EhAsTQ-5uifNe9R-9va-DQA7GhSscyYifAbevWfXPAi0aSmEBr08gA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ4dEJ2sH94EYRb5u3rwi_7so",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAAQPG0m9WxfXGpSu7PbMbT8ZjemT8wGkgZ8Ek3Sm-1fz1aShCTjFMTnjnLJ1hw52yZOWAcJIYodmzoyY3_kRbh7xm1ibe7c2aYiSs69r26KCv9bZo84EfUxtCkXFnKh9jLEhDY_xnMrzVT0piKj0hrGtIfGhR457OjrP16LVBtik94uTRsN5WCPA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "spa",
+            "lodging",
+            "health",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Krzywe 16B, Suwałki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.079216,
+               "lng" : 23.07001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0805649802915,
+                  "lng" : 23.07135898029151
+               },
+               "southwest" : {
+                  "lat" : 54.0778670197085,
+                  "lng" : 23.0686610197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "f767f3b1c3108ec8ba5d4eab3a4c22e4a4997676",
+         "name" : "Hotel Holiday",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 598,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108654313594627963838/photos\"\u003eHotel Holiday\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGjpQWtMs_-fSdFuKAcCgSxBIa9zXJbqPbuxJgYA4A6qZFcjnJdpHpeLMfVzyt1y3GMmB5ERPJ0_MEqMMeeWOYLwpePUHvI385upm_0htA7i8Ez7FSTNvASrhtg96xGqvg4VEPTjmKDB99rx6K52qDJ2vG88gxw_9l8OeTsD-inEEhChcQuNEhPzkPkdlmevSuzwGhQ2HECCEUkVXnzINIQBfFD4r7UInA",
+               "width" : 900
+            }
+         ],
+         "place_id" : "ChIJG9DoxkD84EYRf6MkCRJHp-U",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAA-IhBBstsQkQKeBU5fk5ZyfuYjCSHaNqauDSN8El5kiZSRFnGl1qYjtHL0iF1GGWKFzlRuOaetWtKs9E7c9tL6sQRiMzqFRS4c6MQ7pXvUkgrLTVBn8MEEj-hyLyCg2nvEhAUDh3WDGpKCNnHAhpO0QY7GhQBjss1kVe2xVu36fUs1iLd2AXXPA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "travel_agency",
+            "spa",
+            "lodging",
+            "health",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Stary Folwark 106,, Suwałki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.857932,
+               "lng" : 23.0052229
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.85940688029149,
+                  "lng" : 23.0066369802915
+               },
+               "southwest" : {
+                  "lat" : 53.8567089197085,
+                  "lng" : 23.0039390197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "91fa655b2bff0e2a3024e3c7be3df3a052e0570a",
+         "name" : "Hostel Augustów. Aktywny wypoczynek, aktywna turystyka",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112518846947242008179/photos\"\u003eCengiz Hazir\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOTnM_Isia7UOMaJXzFxgbRo1wWbQTOZ1ieloRn8DgpE3N1MztZHeHHy_JevcBlEn8XJEteHGlZygkq6NMzLgqTm6k9GA1bW1lqHOh5obiwL0qtA9nUumP88jXhqlbfJDm8i7ZDKHIGYLgBNox9nL6zc-wMOEMHfGEFqEKyxVEbVEhCm1W80fU9soLkYzOO-eCg8GhTnVPJizK5NwWlopG9PS4XuaYdYXQ",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJjTla3uZQ4EYRmf8fXkg7bAA",
+         "rating" : 4.1,
+         "reference" : "ClRQAAAAxgWVWPJ4n7JLDa-d7iOyfywvwfwxtRpVeEinW0CxnRVgCOrKmU1qjhQky7tDdaoqiW4cBw-C8ep0sFrrO1UOD0t3cvr1ZOTcIeCofTwlYGASEDyt8aq6O_2iM-zRMDfXVCQaFBwa2Efx2F_gFjcSm3lM7iUz_eyU",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "1 Pułku Ułanów Krechowieckich 2, Augustów"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.04429149999999,
+               "lng" : 22.497004
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0455926802915,
+                  "lng" : 22.49815483029151
+               },
+               "southwest" : {
+                  "lat" : 54.0428947197085,
+                  "lng" : 22.4954568697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "c45a5f1687fb35fc6dea9954f676ca73a31e1552",
+         "name" : "Hotel Colosseum",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113494721120537537751/photos\"\u003eAndrzej Czyżewski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKUSY2iTZPHzt5ZLnPVgeMbwNWZxSRh-8IUEK3xSLS8GDK10d-HEQU_AhnaAzag30RjArvy6jMZuwMKl3CEI_LfgaQSbkmRkEj8kIV0HKWniPL4u7SYIxNXSgebnKWA1CoAtLrsqJyyOSMmkaS3svPKLM8vaYggItjRFyLn6qgVoEhA0m7S9vV-maTY3NCWhrf9bGhTASmlcFSi0IOzjnHh_VK3NsceOnw",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJCZpZdTCn4UYRe2HWgKPpD58",
+         "rating" : 3.5,
+         "reference" : "CmRSAAAAU585PkBV2OqWu1XOuWWYrXreSQIPi7C4zaTe9iGR12pq73CcC3iFtY1budTfIYbVrEvJA3pdp0AXYEnL4foNzq4cwAWHx7PVxVWEomVVxAGd3hrLZ7RQoOMHL6aT3h-KEhDM3xpdH9K34hU5N3LXauBMGhTYdeB4YUatyPBW2GufYpc3QYDajA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Gołdapska 12, Olecko"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.82147800000001,
+               "lng" : 22.418808
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8228269802915,
+                  "lng" : 22.4201569802915
+               },
+               "southwest" : {
+                  "lat" : 53.8201290197085,
+                  "lng" : 22.4174590197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "7b9549375a24cf41e4b50a6e17ea838d76b553fb",
+         "name" : "Selment. Hotel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2336,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105987735943256808603/photos\"\u003eAleksander Święty\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANaO5inYoxdjJCPyK1x3GvA92AiYbriAwYdiHvAV2Php9YEIvFvQdGefr5LNalpECC4RG5Q7YK77lf1zqLXgRJQWMM2KWWBX7j5D0CO8huC3eN9KPqF7IwdDSTbY8nhRgeFa8qZ3EMjNLC4E3n_jonNmcBNlL-y5wG_9WMJCMq7DEhBtd0D6aw6RwHz7bqQSU3XAGhSfO-cHsgVogqeUv6wF6Q63nppUxA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJJ_eyPX-54UYRTdjkrWX2qfY",
+         "rating" : 4.7,
+         "reference" : "CmRSAAAA-wKVUHGnkUP1w4SMAz9ZQGvjGnWoXxIQhLLVOKRIjwxuNCa42V22xmcXJP8pAoG5IFJKD_-8043gzV_yzw5RUXh94IRCMoRIHkcp4JNLAWc_eZ4dzhG2p7ejZbm2YUUwEhAQLU1adCjwpdpR2FQ8zHGYGhS0gZ3_wxbQ_XHB7S34Y8YJzoI2UQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Szeligi 9, Ełk"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0976883,
+               "lng" : 22.9320047
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0990372802915,
+                  "lng" : 22.9333536802915
+               },
+               "southwest" : {
+                  "lat" : 54.0963393197085,
+                  "lng" : 22.93065571970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "b25b63710d5e381f05464cb3401e84e52a4c98ec",
+         "name" : "Villa Eden",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105451087057359824963/photos\"\u003ePaweł J.\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAEUph1UbjbHKGW104HJDQmECqBXuP-5t6-Xkdh_U0DwL2FW3lRL7Y-wSq0IlhWnrqyIVzJQPircOoWc5KYYPEjGA8RxIVp5SHcQy6aVqo0s4Bbq2kx5BmoOXiwC94xQv8zrzmHNmxsdJ0Qr1yl-DenEm4xQN0LpIRLAj5J037BwJEhDAXMs_GqF6DWcWkFPQwL3BGhTOPN3i0oLoZYtD8wwdx6__9Zjhlg",
+               "width" : 1836
+            }
+         ],
+         "place_id" : "ChIJ0ab9hTsC4UYRshS6nnKkrWE",
+         "rating" : 3.5,
+         "reference" : "CmRRAAAA-k4he4GGgsAeJsX2pT_FKuHInXCcgQjfFdP0dmDeBVuficZ0YV4DvXZad0GfSLzxERbJjRL1rrxGg10hmQs-wsOtDkziJJqDeJ2xD8y8y5yK5NIsPhyenKV8JlFVvFp2EhADzWZtT7BA2piTly-B1j-cGhTSXbwtzlzN9gfbvwjmZFBw87PFDA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Noniewicza 37, Suwałki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.00038250000001,
+               "lng" : 22.5062321
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.00173148029151,
+                  "lng" : 22.5075810802915
+               },
+               "southwest" : {
+                  "lat" : 53.99903351970851,
+                  "lng" : 22.5048831197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "286969b157b027dc4b8c9dba2589f91747848265",
+         "name" : "Siedlisko Konradówka",
+         "place_id" : "ChIJk3m7rI6m4UYRd8oFMXr37DQ",
+         "reference" : "CmRRAAAAvItFw3wgUBZhEJfPWnQ3l3Zjh6yffOLsx07q-Oqm2HaC5RImTKFwb_aY6nBrp3uYNGaHTXmgjIgJpyJQdLF_ZtZUZpqs8wXZkXIgU3YPHcq2c1NrizK17ijRSLf9K8asEhANYUwtmz0tBourujUwQoHXGhRjTfcWjejrSVeLrhu1JtKi_P0wtw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Olecko 33A"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8237867,
+               "lng" : 22.3572471
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8251356802915,
+                  "lng" : 22.3585960802915
+               },
+               "southwest" : {
+                  "lat" : 53.8224377197085,
+                  "lng" : 22.3558981197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "71e043c659067de8abda917e39f144f0bf890996",
+         "name" : "Loft Rooms",
+         "place_id" : "ChIJCYqDLHm54UYReoktKWwDWqg",
+         "rating" : 4,
+         "reference" : "CmRSAAAA_IRvRFS8t7hN7yMExntGCNG8UC_llYr1f1m3Rm6SUrRtKevUcMEqWMUGKeajFqKSNJsX1lSM5QSy6-Xu8sPhABTAGKDdpTo9jTdcmES3Oe2N8TTyQ-246B6Trs_fWxXAEhD9O-0GqfKIgND4uw7iVERoGhQlLb0uuyGRqjZz77e4EAI9vJCNhA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Armii krajowej 40/2, Ełk"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1068277,
+               "lng" : 22.9281373
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.10817633029149,
+                  "lng" : 22.9293463302915
+               },
+               "southwest" : {
+                  "lat" : 54.1054783697085,
+                  "lng" : 22.9266483697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "4724a5b3d6efffed296c1c5888cd6b1b47d8261d",
+         "name" : "VELVET*** HOTEL & RESTAURANT",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115095962289814032944/photos\"\u003ePaweł Izyk\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAFBPNJvSFDFm_g-3uwdXOCEqPcw769lE_cU9Pn9KLlFKc9X4EnP7ZHm0jaRN7RNak9VkC3LDBp-5dpEO600NwNJw6k6o2FZLWbzdtMBMa_EuRozEJt-ourQMN4-9p4hGBl_Sr_vzgIADP7DXvemdc4XeQqvzhiQpLV54i3mq2p_JEhCgGwKDAqwJJ3a2N9_BML8kGhSu2BZCg1FRX21o_SNsYQVDADGc8w",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJX4z3I0gC4UYRjlUQnUFLY3Q",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAAalSngp6k0rdqzadzl2moxfRXmN3QX2KIA6t1b8blXnGm-ucupgX5amh-j-9QyXZ6ZUjMbNSIhg86T7qYMvDXUYnnzTnac4abNfogGvZD7J2vLid-r7wqEL-DUZ1m0WydEhBgtPPydZtnkzcoLVenyO-PGhShbtkgl_WpzqzhvFdY0pjTAYqnGw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Tadeusza Kościuszki 128, Suwałki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6633242,
+               "lng" : 23.0259678
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.66467318029149,
+                  "lng" : 23.0273167802915
+               },
+               "southwest" : {
+                  "lat" : 53.6619752197085,
+                  "lng" : 23.0246188197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "769dc3407b91c1d1c1d6ff63c97163f4e45c6bbe",
+         "name" : "Dom pod Lipą",
+         "place_id" : "ChIJq4UiQsVG4EYRnRHcGf2IOO4",
+         "reference" : "CmRSAAAATmTY3WooCUculkElGyVy7M_--0g1-zQ9yjPXrvfYcgmy10L4cxuptH1KxqNl_uXGrnB2i3Psf5BGtY2ksxSr18LHNhRMz5MYcTOEN3RTWSu9HT_WEvaqMKCXv2cGTaccEhBbGMkPuqlzj2RwjP2gf4KyGhSLAMYYHtF-WXHjnpfZziPDid851g",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Jaminy 20, Jaminy"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7654246,
+               "lng" : 22.6101262
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.76677358029149,
+                  "lng" : 22.6114751802915
+               },
+               "southwest" : {
+                  "lat" : 53.76407561970849,
+                  "lng" : 22.6087772197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "31bf6a28904c700adbd55abdcaa798f760a8d4d8",
+         "name" : "MASURIA ARTE",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113544217965986861093/photos\"\u003eMichal Cieplak\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGa5Tj8vOvMSDt3HrKrRG0ATYn-gZ1tew-UmumCEDczvJbux6JKs90oCnbOchNQvMyJr-v2qveCoDTywjzI-Y8rl6FlzBdYlfzvKpIo-1kPK9Llb21uHsiKQ9TqmE9-gHb1zXA8rod_IwCi2jZRAK4i0lG2cgSxXQWB-nJGhrpR1EhBSLHWf3z3YJwfNkC24dijeGhSSO3alk1Asg0IPVEmRYS4X-ev6wQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJUzd-C2O04UYRMzFZItL4QAw",
+         "rating" : 3.9,
+         "reference" : "CmRRAAAANjLij_7DfXbczNBENtOpVF_LXUdLi-tqghJV-G09K7CAS0oWHXG9i8s3KcfTGiyIzaFoP3DNbgFC5QLKswosD9zgRImokP-yb3QO60XpupC0WJSCS8PMX2E2w9sPVvI3EhBzH4stVma5E_VZnrCcXvZUGhQ7TxmQgB86hnvTd3AyqCw3hi_bRg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Stacze 24-25, Kalinowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.9217656,
+               "lng" : 23.2004697
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9231145802915,
+                  "lng" : 23.2018186802915
+               },
+               "southwest" : {
+                  "lat" : 53.9204166197085,
+                  "lng" : 23.1991207197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "c88705017d4b75b265c99487983c2aa4614dcd60",
+         "name" : "Albatros. Hotel",
+         "photos" : [
+            {
+               "height" : 319,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101950074974913080566/photos\"\u003eAlbatros. Hotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAW5d_-6vV8eb2zgl63TJC9-HyL4v0-sIakhcgFJIF1iP_m_ZTwJAq_FbxGYfJaCeOB7Q3sAYrHg3J2iDHwkW_kULZZIMZBlGxP1SRPuVsesSORLVav9e_wYhorkMTMoCulwLUi8W9HP1DmUmUfAKjw5tM5kmrl01cYpjfMTi1WJEhChYToI-698ulZkizeNjP3JGhQd5xE8P7Yvvs-Hvlav2tfpntoMyQ",
+               "width" : 319
+            }
+         ],
+         "place_id" : "ChIJq6qqqmpf4EYRWngL_sKhI_Q",
+         "rating" : 3.6,
+         "reference" : "CmRSAAAAlZbspul6mmgUNZ0cWfGcbXp7SvcACCfQ5Nvoot8c2ag2k-sNC22EIP3f2SNUbaUsSAX-DubkihxX9-V4JkcxTFV6igU4DNVFk6paJgtSv1UELn_JR2rH-h7YYvPdpYX8EhCRASHo5o_iRTV3dMajBL-bGhSmZf-2xhCCUGjbv_rKTGyhxsTZkg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Serwy 18, Płaska"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.742213,
+               "lng" : 22.74908
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7435619802915,
+                  "lng" : 22.7504289802915
+               },
+               "southwest" : {
+                  "lat" : 53.7408640197085,
+                  "lng" : 22.7477310197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "5d826675258d42265b3a8a93433f1b968b69306f",
+         "name" : "ZAJAZD ZAŚCIANEK",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 384,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116713651401264493150/photos\"\u003eZAJAZD ZAŚCIANEK\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKFyIf-BjRB4C4fcwwNxlyBWyjcnQBwmPvxfaThmAFpgRU2IEsWvzep34uzvNIPwZoHaWN3jW78qX8xjexZ_-7Kb3zAZipNqvmNGaudfrxjwO6N9nHEj5i7QaXUTo0xtS8X3gKiZWThp4ejVOw_gqsrtLXN7bkVYuZr5rbr9v1fOEhDhef7ahOk9GVx7IgYIiaLiGhRpXoXAwEQilDBxws3QADlJR3g51w",
+               "width" : 512
+            }
+         ],
+         "place_id" : "ChIJCxKwZ4NL4EYRcCAGfGBgkJw",
+         "rating" : 4.2,
+         "reference" : "CmRSAAAARX7qmHODQf-k6milZOVxD4wSDcQoe4yKNGNJEOWt7LmGkjinlBz7CrV-R7WBg2BrTGLhymUilq1ln9t1ioqXU5UhMhVwusaguFgmJw5xYmvGXklrkdPmjmV1o0c20gNhEhDKnAm4JL5y7DBaETncWz-uGhTACiu2RuHOz9rOeUtg-uJh1zwsXQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Barszcze 30, Bargłów Kościelny"
+      }
+   ],
+   "status" : "OK"
+}

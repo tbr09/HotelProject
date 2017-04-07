@@ -1,0 +1,359 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0390278,
+               "lng" : 19.0302411
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0405835302915,
+                  "lng" : 19.0310884802915
+               },
+               "southwest" : {
+                  "lat" : 54.03788556970851,
+                  "lng" : 19.02839051970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "46a560da34d84cf89f59b1524708d506f23bdf9b",
+         "name" : "Muzeum Zamkowe w Malborku",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105405273910267198474/photos\"\u003eRysiek K\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANxu2DSEb_wA5vissAwIMPDhxbmeTonhOtPNiGGJgEByl0VED3hs3ORIURzWpo24pUia5Go_Ci1ryWYrwx6d4UEZpKA7LCplMjRozp6izyU1yEgonSVp4QXIpSk6e03f15lsOU3eItvvtfUNjrmitrAVs94rICSPE8fwy5FykrYXEhAqxA_iDJ95ZNPM88TDwOaXGhRqfxaU3FsJlJTeIDvCJ-5ERvPndg",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJef9uZwtZ_UYRuCybSDy9-OI",
+         "rating" : 4.8,
+         "reference" : "CmRSAAAAoz3qq1Jn48J2bkNiecvw70P-c165mHiB4R1TnLuRHW244WbLPOMl9vYRTLmRsfnw0Z7x1xSkKrR9a9qKx-Lzcc5LBke3ItIKYKcjkacWYj65JhgigfUKA08oQSCCumQnEhBUvvqXgWpwn59OryDkbEP7GhQ2NsT3VWrrbqpwua-_4X5qyzQsRA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Starościńska 1, Malbork"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1565878,
+               "lng" : 19.3935219
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1579138302915,
+                  "lng" : 19.3946769302915
+               },
+               "southwest" : {
+                  "lat" : 54.1552158697085,
+                  "lng" : 19.3919789697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "7436d3b9c32846e91c76db0ce76f65f8e2751b3f",
+         "name" : "Muzeum Archeologiczno-Historyczne w Elblągu",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2089,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107907831121947297510/photos\"\u003eZbigniew Cieśla\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGYeMo1D6mJ_XLJz4-N_i4wUVJzsHse-Edf0l_GNQgbUIIFdOvVGjbQx8zI-MiRc_Fr03Na0u0Jbd_8zHsL21UvwsrlFElYVDaDN64A1B9B8zD-f-FfzNRCVWq3cqWSFJPWgnRR4ZV32A_vgYO64zo8K7DIm41Cy5nO1FQYxyuTlEhByGjxVf2YdILSrDpBDw6VUGhRi0LRBBxDJqD9Gv1SHzR-VfHDgwA",
+               "width" : 3712
+            }
+         ],
+         "place_id" : "ChIJF-FBfltM_UYRiOVtdvmSOdM",
+         "rating" : 4.7,
+         "reference" : "CmRSAAAApVFYHBPZ7__s6kRqRrefPe6CRO2n18hkH54elcBNmmZFy5HfQKiUw_X5x3knYS7PqGSPkCc5NKL5ETvvQ2akeXtWsRHYO-0yqUVUR7fxpUF3JGM_fE667ePUKk5e5EEBEhDN5wUq152iJdS4OTXo_8DQGhTI9mfo2Q5M-7UGuF4y6tuTXMjp0g",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "bulwar Zygmunta Augusta 11, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.212914,
+               "lng" : 19.11333
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.2143159802915,
+                  "lng" : 19.1148339802915
+               },
+               "southwest" : {
+                  "lat" : 54.2116180197085,
+                  "lng" : 19.1121360197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "6f0f56027ca1a416c7ba666e51488c7c009cc762",
+         "name" : "Żuławski Park Historyczny",
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102201347409255735225/photos\"\u003eŻuławski Park Historyczny\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAEKn9o1DATp35x6PdVFiDcch-aSLrELfr_NAS5qcIJ3Mg01Li06xaEwGSP0iN_h7YPv5KRkvWpqeJTAvcAYlmC8fm3KzXZyxTPwdoSS-LeZJUBiB_wwqGIDGobBQzRJIJDV7uEOiEnWRLcf1ZdHd7-mEhPi88_8KOdBvZrOzNOh_EhDx1_aHE4g4Av21-ArtMLkhGhSvFIqEa3Bv9721MFpISuuvTkZIJg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJt6BvthNE_UYRD87Mcl6wGJ4",
+         "rating" : 4.1,
+         "reference" : "CmRSAAAAqXvMr95KLbYMnixWvYczvlIEn3CKYWDQsezr7fPY_7QQqAzcjVc2UcXE1dKg9VXB7W6HOMni2Zvw56VWnMZg17UuP7wZIvaO2niKNKBXSmkjywhXDfrtu9IqCmH-brwfEhA9wY6zuyt_oahBGUAVPTFBGhQnb7InyI13GZldUw2sc6kMCEqdqw",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Mikołaja Kopernika 17, Nowy Dwór Gdański"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.271775,
+               "lng" : 19.475563
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.27312398029149,
+                  "lng" : 19.4769119802915
+               },
+               "southwest" : {
+                  "lat" : 54.2704260197085,
+                  "lng" : 19.47421401970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "6fb9a746bee17ed620b14664efc1ced183521461",
+         "name" : "Pracownia Rzemiosł Dawnych",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1531,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105710237461622615225/photos\"\u003ePracownia Rzemiosł Dawnych\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAQWK6INEfPGfKvThKmEQ6upfDrpGSUCKlz6gPB426jTZiB3tX6wTAyTVbh5RQLxjJ2-Z5cEpjcl5HQeznin4fmOxGIpphGcXe_8YMbJgq8AEYVcd2E5SC35w94zy26ATq6OO8XYVMT98ZGugtSLmVnvwJR4v8kMxsuWvPs8ZImNEhDyVqO3vzrjtvwak1b5ZYSxGhR2ipV609gm5azuR55ZOQvUUyf8sg",
+               "width" : 1532
+            }
+         ],
+         "place_id" : "ChIJSb_NZoU1_UYRPP2nX5KxS9s",
+         "rating" : 5,
+         "reference" : "CmRSAAAAOgeCifMCVlajwGpdvI2HAGhmcuyf1n-JQY3jP9B0WPaxnFawD7eHivP7lDw9EFWed-KvYDsoaH1fjN_rMEdfAJXAuLVrDaWqKtMwvp0ZTJh8O9CD_6BQq_yXNpj0eDk5EhAnByQbQWpbBFOBL3Ez3kigGhQKHve97ltV80voMVYEXL-WrDVyUQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Łęcze 97K"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.9305958,
+               "lng" : 19.2354694
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9319447802915,
+                  "lng" : 19.2368183802915
+               },
+               "southwest" : {
+                  "lat" : 53.9292468197085,
+                  "lng" : 19.2341204197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "c62eac463f66bcda8cbb2db5a68435dd74b5b78c",
+         "name" : "Muzeum Tradycji Szlacheckiej. Oddział Muzeum Narodowego w Gdańsku",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111801122407365486056/photos\"\u003eMariusz Znamiec\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAFJL84HMAVvDCtFHd-cX63o3Nx7K22GPiOxSUm7rlt_SaITALtsY2eMf0vOC-_5hcUG3e09HyhXHkqlV-0l7tELd5g6HnN7W45leDrGRzfVa3-MMYHsSDODWxYl01EfASA01iszKI-dbWkd3XozeKH7J-18z_vk1k9r3CIoiG8X1EhACk7YeeOYhBHR3S7GCdttbGhS0uN4M5SKaC9o8eYK0OLjebtZx3Q",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJf5cO-3yqAkcR8E5DgbN9VFY",
+         "rating" : 4.8,
+         "reference" : "CmRRAAAAYTZ5LC_ZDo2dshXYc3VrU-57muKZtkuSLCcCacZKBw55Sa_awxlgGrgaHXT_hefb3EvtbgIehsE66COK68H1N_ppIywEbmU9OfOXnABeN3qgqW-Dkl6UrkfkXR3RtjaKEhB57w00lPCGtb01mw1RTacEGhRvb-euGSsKCqAIupXe2pbTeB_mrg",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Waplewo Wielkie"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.241707,
+               "lng" : 19.143578
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.24305598029149,
+                  "lng" : 19.1449269802915
+               },
+               "southwest" : {
+                  "lat" : 54.2403580197085,
+                  "lng" : 19.1422290197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "b4f1251237798fba38d23e2199f89f87684c90fc",
+         "name" : "Mały Holender - dom podcieniowy",
+         "place_id" : "ChIJ1U_TsL1G_UYRRnTWaE4IzMQ",
+         "reference" : "CmRSAAAANFWYbTGvf1FG_MOk_7s0zJ5uugvT6xwKkoM-nocJuL5c7m9EdbDh0KIqh9GzdmdzoGRG3i6cIEuFQRzsxAeuAdvYbCVn0aAYAI40ldqEb4W5ygKJf0YsST7BCtwNFS3zEhDPn3GYf6roZcAeiU32hQu_GhQoWfhUMyF6NPk6IwhDh_j-tzoQ9Q",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Żelichowo 31A"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1679756,
+               "lng" : 19.3965279
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.16932458029149,
+                  "lng" : 19.39787688029151
+               },
+               "southwest" : {
+                  "lat" : 54.1666266197085,
+                  "lng" : 19.3951789197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "bb58300e44ded5ad1dec79d75c0edc7d8957e48a",
+         "name" : "RURECZNIKI MUŁOWE",
+         "place_id" : "ChIJbyY8Tm9M_UYRUMSy1QXbVC0",
+         "reference" : "CmRRAAAABRv07u4H4fhez9mL7ossX4r1d_Oa9SrbofGXwzCvRN3SGW4APgtlrYLQCHMCnc7rsdUkeZC9jJj271aVrUdnKxr3efCAmM54J393rhgAhl1f3ewQmxg2YbbB_q7ZYxsvEhA4V94e7FGF1oy-aPR3HkBtGhR-q-nSQXgmvWxziqvtKRYhER_ikA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1047357,
+               "lng" : 19.4845218
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1060846802915,
+                  "lng" : 19.4858707802915
+               },
+               "southwest" : {
+                  "lat" : 54.1033867197085,
+                  "lng" : 19.4831728197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "f4d1ac3facc8918a86ca9aac0a555cb6c525ac34",
+         "name" : "Truso - port i osada wikingów VIII-X w. n.e./wykopaliska/",
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103140467983971380120/photos\"\u003eKrzysztof Sójka\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJr9KeH_foCbS3m6hhNkihTbBcv-4l51vgEq9XFE1sysPGEUH4_5kSTcNIOLo5uL-WshJYp91CnSMqFkThR9ojyfWba_rSxWLJydPh28nyOeFhaw3-9GMKiMJtkctsgm5TsbfQkYhBKrLUzKoOfjKWMECHNHjek88QKqBBBUH9GoEhDg2iyfd8SVxvqDdGj8A6QVGhSIndafvFN5AYARiFzAtMLbLyukfg",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJ7fb3guuy4kYR50SKdjOpvN8",
+         "rating" : 5,
+         "reference" : "CmRSAAAAE5Npx8Q_yA7Nd0rz3GWNVsM5Pv-chIi-GKBEBqTZSrVBGR96NMAlJCx4u3GYHQoCDaUAg8zmmOZoGcChf0EBIJSkIgacoM1gBOihaWsfjIfn22SistzHRpIFuKgXfEMvEhCnGn1LemjTEniaEttNEbwuGhSPTUlR7qKiJ-GB06hkPxTO2uvEEA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Jezioro Drużno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0661187,
+               "lng" : 19.65983199999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0674893802915,
+                  "lng" : 19.6611290802915
+               },
+               "southwest" : {
+                  "lat" : 54.0647914197085,
+                  "lng" : 19.65843111970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "1247dda373b268d58d6e00164e90af8255ca565c",
+         "name" : "Brama Młyńska, Pasłek",
+         "place_id" : "ChIJ5YEh2j2w4kYRh7obi59mcH4",
+         "reference" : "CmRRAAAAYbtOciNc6KVrn-PtOtYFKvlhf32eQ7ojDAX5OGZoAOrDaGFcL39pM82qXN5XYW1z-gosQIfBCvp0DnNRC6OFEv7si2WSZNt48K0x8PTqkD-bB6rfHzrTJNXDorPRUI6rEhAlGrNSWNEyUj-KKDqY8ZXeGhQvW_SMc-XL4ZjB413A36EX1X3BPg",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Kościuszki 24, Pasłęk"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0404931,
+               "lng" : 19.0287811
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0420814802915,
+                  "lng" : 19.0305126302915
+               },
+               "southwest" : {
+                  "lat" : 54.0393835197085,
+                  "lng" : 19.0278146697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "3f83a2370188c244b8a59c7e288dea11faf13087",
+         "name" : "Rezydencja wielkich mistrzów zakonu krzyżackiego",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115001897114910403280/photos\"\u003emar - al\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAE0cSg4Bs0mW82E1jQKsMsEmkzCChGL9OEjx8tFcONrhbIwH_ubNjyU7PUiIU-_O7OPXYubhuh1BX740JXlMIN-DO6XIqqy9K0bmbrIE0USTjFPRpEhVr6t6-WhbEPfAQuzt64oNNXF3YYgnBXGUMRWWkmoFkR2MEfCWqy2-GedDEhDk7j5OsHbm0tydulzEWErSGhQkReeSESGJh1KCB_MYi8ACf72w2w",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJYZKWQwtZ_UYRGLBWKJiBf_g",
+         "rating" : 5,
+         "reference" : "CmRSAAAAhv815bpgJUX8SiUNR_TMGMkoAuyaSba4TESSjDbjxL9hK4Evx8Zj0csUlyeFIflQuEGPPZu4Mh015ZWTMBXuRtaYE_2Qh8FrQJYdEvYo9VGvPLzns-oHIiWoYQZun4gpEhBaHntv6Q3DXfviyzGuZsOSGhTp_IiNXl8S1as6_2PUth7NQBg4MA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Starościńska 1, Malbork"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,43 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5721084,
+               "lng" : 20.9943602
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5732368802915,
+                  "lng" : 20.9953544
+               },
+               "southwest" : {
+                  "lat" : 53.5705389197085,
+                  "lng" : 20.9913776
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "fa8eb3fb3ccdcaf5c7931c2862b5549d1d76a5f6",
+         "name" : "Stadion Miejski",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103418182968292900650/photos\"\u003eMaria Pabich\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAIy6qAxBk2k72ctNGqA2Qh3r6-0ua3LIU_V7ATITSiKHLlhHu5nGsKn9mOKUP7OSSkm8MrkZapim11dKqv2TYvlW7Fdyw5Ybq1882PH75wBNOtIPogYIF3RtCtal_LCWEwHKgliDh1_23ovkOMLZUmL34Y4D1skvsDS0V_FaBsrkEhCls6EYy1jAfNHSv8djKPEsGhQ56TS0FTk8YJaVaOqCh6_s1HrzOA",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJezY7nBD3HUcR61oqxJYRt1c",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAAVI409Hsiuqa2tBwYpJnR6WyTUGC7Yb2SuB0JchsqfmMA-9Ho5qxHrZUrylF3KI0RwqsoUafZ72ojA9wgTFc_NFPt4-qhADrUudWbn6-PPEnHaNs47HOHprpQHPhQtfSgEhAEAbm0UgEkeDfZMd0NC-DxGhSkdMKXXnNb8vShmeEwT01c72rfpg",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "point_of_interest", "establishment" ],
+         "vicinity" : "Śląska 10, Szczytno"
+      }
+   ],
+   "status" : "OK"
+}

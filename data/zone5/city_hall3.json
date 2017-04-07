@@ -1,0 +1,195 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.8930757,
+               "lng" : 20.2867314
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8945229802915,
+                  "lng" : 20.2881050302915
+               },
+               "southwest" : {
+                  "lat" : 52.8918250197085,
+                  "lng" : 20.2854070697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "30f0df997e78f577311fb3708a69b07880883084",
+         "name" : "Urząd Gminy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJXyMCf6U3HEcR4X0oFbSz8cQ",
+         "reference" : "CmRSAAAAGYIvPLiL3sb9OlH7_5a9EPDq4gkLBZ8lMgSOg16bmXs_ICZp4ZxqYpxnFhRlC4ja7_C5ozNeA0YLe0oH1oBym2EVRQVh6YyEio30pW4ofYwhrb0zixE7YCTZIcg7JF83EhAhz6mdLkdIuvnzKdNrOMjfGhTZWnnYYEzYF--RV-7wXSGOSlwqAQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "city_hall",
+            "local_government_office",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Plac Wolności 32, Strzegowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.9043837,
+               "lng" : 19.7740465
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9057326802915,
+                  "lng" : 19.7753954802915
+               },
+               "southwest" : {
+                  "lat" : 52.9030347197085,
+                  "lng" : 19.7726975197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "316903089475523be36d4c87475aa6c1143c6f9d",
+         "name" : "Urząd Gminy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJxUpZlwlZHEcRWMiKnyMuljM",
+         "reference" : "CmRRAAAAowd8dnN1E5x6pwASXoTqfOh-zp-7NtwP13U2IFXSST0TdUXDbWo_NbFt0pCOWC0L6fISz-h75297bgQXtBl7q6E85eSFR5IY1m4xYw2inGAbEUwTDWlkylSZNB3Us2WrEhCW5Ya1ljp7nGgekQFpD3vpGhRbqiYuTgOi_1JuhZMxBxZ96-IceA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "city_hall",
+            "local_government_office",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "09-204 Rościszewo; Armii Krajowej 1"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.11161629999999,
+               "lng" : 20.3831873
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.11295828029149,
+                  "lng" : 20.38472773029151
+               },
+               "southwest" : {
+                  "lat" : 53.11026031970849,
+                  "lng" : 20.3820297697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "8b85c0e3534dba58afd80c1ebb7f355d870b4687",
+         "name" : "Ratusz Miejski",
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111587574145994670262/photos\"\u003eJacek Białobrzewski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPFWcLO1Z5I3bKwhbzSCQ2JbYhn5oxFNVYM31SRTIglPbcfuiWfw3BuEqqOxRSoQ0UhKYVwo_MIwhvuLrd-BdXYqQex5VXkhgx4nlovyQBVD20_t_gqtOeeeM-Kl5nNYdFG3oN7Lqd3RW5MTHNcSUcTS8pyrn1e696xFqTPgfeIHEhDt8Z0QWZSeaV3ZtkGHIS31GhSj8IJTMr-utBdgjGv1V0NbsPuhCw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJBXgzWP21HUcRofeIeU8AlN0",
+         "rating" : 4,
+         "reference" : "CmRSAAAArvkozZv-EIbM1QvmZSvWAIlTbpUFLUkIw3HoycoiYRayZIoPuD-TfznpqNe0Fj3xlyAjbG51ErMxnlM4xYqo4iGbytEjoP9zPasa6cmbaYtonpYn_bQ9VjHWCn3ufPbDEhDR5I6SDK6uQqrxJkgRBu5PGhSdC_dnH_i9S_50eQ2ozLuM4a-olA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "city_hall",
+            "local_government_office",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Stary Rynek, Mława"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.35969529999999,
+               "lng" : 20.4258449
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.36104428029149,
+                  "lng" : 20.4273364302915
+               },
+               "southwest" : {
+                  "lat" : 53.3583463197085,
+                  "lng" : 20.4246384697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "196fd16e4d9c979a408e0fd0c2138f6e991d2c9c",
+         "name" : "Ratusz",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100436503675000252894/photos\"\u003eŁukasz Chotnicki\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANTVfXx2MjGdYDsV3SD3S9vxEPxQfExq0wGWJHhWlChzmZb01Kq9iRYiNpekvL-Khc9JuFJkWd7qRe3ZHhpYtigzPVHmjMu_jgnURNqvjO8l_Y0_lGZwYqXq8z_GDasdpLMWFIbc1Xe3iK5Bu2wjCrIoVGjO8Qhtu-bDMjPW72GKEhBI3SRVTvE8xX56n7nmIw6UGhQCeiwtgUqGmi2u6jOl9KH7N61uGw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJxYYaAO-9HUcR5J_Xwarvl1I",
+         "rating" : 5,
+         "reference" : "CmRRAAAACbZyi7s6cUgf2ZLOkhIJf5x_1uxS98Op3__ifdr56Zg4E4MtMusTmpbFMpQO_4yP30fpCIJbx86kLv0X7u0bGmVrE1gLZvRWp5EDIlI9_lpl1Fd4VHORP746T2LRf-GEEhBrn-j3hsSnImcjYQc2Q4GIGhSLMiMBTDL1vlMEkCuLeYGkAlyo_g",
+         "scope" : "GOOGLE",
+         "types" : [
+            "city_hall",
+            "local_government_office",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Plac Wolności 1, Nidzica"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.8562027,
+               "lng" : 19.6683008
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.85755168029151,
+                  "lng" : 19.6696497802915
+               },
+               "southwest" : {
+                  "lat" : 52.85485371970851,
+                  "lng" : 19.6669518197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "63514c2d736e8d914e7d5ecd568f065044f4f9a5",
+         "name" : "Ratusz",
+         "place_id" : "ChIJs_FE_GlfHEcRpFhpi-4MJT4",
+         "reference" : "CmRRAAAAWd5GV5598-oEIAQhDZpYAkrideo8F0Zu5NIF7xcYOhnV64YURbpZzkFz4ILRGkij553o9WuASFN2nT0QkT43i3WlFg1LDWYvfEXHJpuygkcOBgSV1Vhs5qZAA51D7ae_EhCBlSiHOYORJWoBXERPFd5DGhQbyEjmui569IRWopshqLmHRT9T8g",
+         "scope" : "GOOGLE",
+         "types" : [
+            "city_hall",
+            "local_government_office",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Plac kard. Stefana Wyszyńskiego 1, Sierpc"
+      }
+   ],
+   "status" : "OK"
+}

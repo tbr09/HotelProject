@@ -1,0 +1,132 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.034155,
+               "lng" : 23.092478
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0355039802915,
+                  "lng" : 23.0938269802915
+               },
+               "southwest" : {
+                  "lat" : 53.0328060197085,
+                  "lng" : 23.0911290197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "bc04208a9bbb4254d2adc9fd20cdbe3076788d4a",
+         "name" : "Majątek Howieny",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118163640753564313604/photos\"\u003eAndrzej Galiński\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAavB3iIXzQ4uoWu45mk5wW0YLequhGmJuM4jbr8PtmaF_d8I0XPSF0xajQiE1Qvo_K7a0kyaFQjATANasqZ19f6rPO8Fkxe7RKY0ZkP9wqINFEJzEu-kYjdTARgrzypNnHabpU0VXNqfGBXakXzEJ7fQCzRvUxahD7BuoxxvOUWEhCkWPFNEwwcYk_IqZyulGVaGhSB5ou6SznnB17A8E6MKWqNPx69vA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJieMJvFP3H0cRk9RB9YOI5nQ",
+         "rating" : 4.4,
+         "reference" : "CmRRAAAACcqA0oUcZ42YLT2X04fJovVo0_pq_SR3HXCo9-MGAfeIkaKYfInZLE-K3ygvzmSCWFP19dBjAQmMAxke3_s7A-7n7J1uoDBXoq-iiXE01a9LUX_kRcExV8kyA4FJSdtXEhAs0qQhVmx-rZgI1AYwAftQGhTxL1rkxy5v-yJTHBS6ZdlHqW75tA",
+         "scope" : "GOOGLE",
+         "types" : [ "zoo", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Pomigacze 91, Turośń Kościelna"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.203989,
+               "lng" : 22.710671
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2053379802915,
+                  "lng" : 22.7120199802915
+               },
+               "southwest" : {
+                  "lat" : 53.2026400197085,
+                  "lng" : 22.70932201970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "cc28ef11022374c7853026f0e80d90bd16051154",
+         "name" : "Kiermusy Dworek nad Łąkami",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2368,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104713417964500321035/photos\"\u003eDorota Waszczyk\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJfMpks-TZdomkOTic5Lbia69h6yAVGNjp2elvyJ57EFauxF_KT-mZr32v9WeCArhsZxxmlW5UzKIBFX6VIvZ2OdX0uj9mywt_4qNK3n5zWhbYQ1XsokeZR3skv4DbAScvpbDkIQ87DwL5WZAD-9N_36GwCV4430QiCGAud-eKjAEhBrmtXZkjWmp9UN2LdvzX15GhTf0vkq-VtfNrTuA92LXzDqcveTnQ",
+               "width" : 4224
+            }
+         ],
+         "place_id" : "ChIJvY2UFB38H0cRiRile7AKCtQ",
+         "rating" : 4.4,
+         "reference" : "CmRSAAAAdzUK_NZkzsTrXdFfjSit89hSSMn5yzWnyPV1bUgws7ZYHSK0vg0eHoscC2-G45yR0tojbY1UVVA4A-Kxm-YYefnaeuaNIJBTRi4fx8ZHkaFbhLPr-4Ss55HtGwVRB7NoEhBnaGC_nMKDhBVD6Th-S13OGhTAlBRvQi7RJo8tVvGrmZszGYilyQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "lodging",
+            "zoo",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Kiermusy 12, Tykocin"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1213624,
+               "lng" : 23.1652904
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1231833302915,
+                  "lng" : 23.16848389999999
+               },
+               "southwest" : {
+                  "lat" : 53.1204853697085,
+                  "lng" : 23.16422590000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c3017fcd5f3a8638660d6b06f6ee44b170d503db",
+         "name" : "Akcent ZOO",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108286200708985983147/photos\"\u003ePawel Bezubik\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJsn6MI5o_xYWUDm68OShmgqk3PAb8NoJlvm05YM8XpJIlr0bDKFUtcjWJoNzSWcyDmV_ycK11RFx9O2XgiovucTiJM-csxcNNssEc1qn1_XwLUAL_20c9bneuB-7nH8J8h1ZJ2lipSbfoodDgGxcoCpoTktRIW6oLDRAaJmjf-bEhCNxGlrBkQfJ6PJ4_0d2bh8GhT-Be9RqdRRqdMbeyJm82eDkV_X3g",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJU9pO3Kr-H0cRXbAIUpJN1us",
+         "rating" : 4.4,
+         "reference" : "CmRSAAAA7g_35t9aQrJm79TpXwVL9iQyTVbHUQz_t0oE2uGQhVy6VTnvEysVdx3LXZDF3e1Pzr_g3D4xRuLP7yraMcv_nUztdAfee3PFEiWiWF-yGXE0tYgB8ZZoVN_-GHubtSBaEhCH9GLJkYnrez6m-jakTIVlGhQnaVKp1eDmPuFlhXPjZoXjFxIspg",
+         "scope" : "GOOGLE",
+         "types" : [ "zoo", "point_of_interest", "establishment" ],
+         "vicinity" : "Podleśna 4, Białystok"
+      }
+   ],
+   "status" : "OK"
+}

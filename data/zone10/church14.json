@@ -1,0 +1,445 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4115396,
+               "lng" : 22.4065318
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.41273668029149,
+                  "lng" : 22.4080781802915
+               },
+               "southwest" : {
+                  "lat" : 53.4100387197085,
+                  "lng" : 22.4053802197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "adca03ee6d6a71f58a20abff38e21c8d0c0931d8",
+         "name" : "Kościół św. Anny",
+         "place_id" : "ChIJ4-Z-7iAr4EYRorBiQD_ePlg",
+         "reference" : "CmRRAAAAWqcNbPc-af-5f6rbZBHEcQb1Jt_y6RTTBIArJPL3miHSsTfeCMAilFz-8DwJzVfleMxBroEDBL1QhGVdZiprsuUyQTsK3ZPSqyFqPx2D6HJq0HsDNq_orNdfAidbwMHdEhBtUDgjbyMl04_0o37EVPx3GhT3787ACpsZ8KBbLBQ1gSVfrwlQiA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Kościelna 5, Radziłów"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.424699,
+               "lng" : 22.3415887
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4262390802915,
+                  "lng" : 22.3428350802915
+               },
+               "southwest" : {
+                  "lat" : 53.4235411197085,
+                  "lng" : 22.3401371197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "08e6b9ed4c88f7a405694bd1f86d4f1742bbd5b7",
+         "name" : "Kościół p.w. Narodzenia NMP",
+         "photos" : [
+            {
+               "height" : 2368,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111660967176620321952/photos\"\u003eRobert Sulich\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOdNYK8QTtUCAq7OUQvOl8JLN4xfBzWlZR6B-9PgaLcZqsi1qLVU1b-qJyjjSLnFAF6fWEwx5jJBGAX1PdP9ug4OcRJwWKGjIm_nNPb7xawx4Tn4yqYhP8gngmgIxoUfe8f4XUawxUOVs_fQradRlsFlIXa3Si6zTQpRFj5-Z88YEhBQXCZCcBtC2O3oFFgL3qrrGhSbfvPIT87mThUsRNRSkqevZizkuw",
+               "width" : 4224
+            }
+         ],
+         "place_id" : "ChIJhZv8NeLU4UYRSky8cIcbojE",
+         "reference" : "CmRRAAAAcD1i9UkFYgL_YpePKMKU9OeGaoLWBNgwK50jI-YeXLnMG4DsGW-pKCUXDN662hhZ2kh2YNhUODwEfqLob7LuXK3j02N9uIEi8e8_YvIegpojQjl7yedcM_V5isSvMDUgEhDewzR7KBBkim50PfNzL8MjGhRnpaYw6BqP6A9ymnwGtWPA0ylUdA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Słucz 57"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4057902,
+               "lng" : 22.8094006
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4071391802915,
+                  "lng" : 22.8107495802915
+               },
+               "southwest" : {
+                  "lat" : 53.4044412197085,
+                  "lng" : 22.8080516197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "251fab2c006e81faf13596b78a0664d606a4ff39",
+         "name" : "Kościół pw Św Brata Alberta Chmielowskiego",
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116420901257720724027/photos\"\u003eTomasz Bielski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANM385Bf0tP-iHbfgZXPghyy3VGLAfhcCNtASYx5Vl_BZRqKu5gpf2ph3b75jHDXkSyyU-3vBNr66ipJGDDzTFYtifV7GVr0nmihZQl9Ti36IQxUUbWzP7y73Z_c-evgDjNtDr6ykvnx8ExXf_Por0QQRGR164dRUEIEaSlZLpNWEhD4p8gPPZjiRaIRxZ-ugND2GhS9qK43swvzAmEu5_NJsS-ePnmEEg",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJi-8n1HYk4EYRHQfBK25DtkI",
+         "rating" : 3,
+         "reference" : "CmRRAAAAyC2SvQFPuUaCXhwIcCIWFiZK6c5Lv-s_gVydE2QqdXVlRyWTGq8ASSVtv_peuh-b9cJKsA_jE8O5WQjLwiNVfnkEjyC1oCz0rNCOtyEkXf9x0XHaHXfUMLnQknH6-kXAEhC168bOlIDUF4THXN-UNH0yGhQKkypQ-cadiN2Wpdte1Czqg5SDnA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Aleje Wojska Polskiego 47, Mońki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5225035,
+               "lng" : 22.3207186
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.52377388029149,
+                  "lng" : 22.3219970802915
+               },
+               "southwest" : {
+                  "lat" : 53.52107591970849,
+                  "lng" : 22.3192991197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "f8b71484f7d987d86863e6a536418bbbf7a50252",
+         "name" : "Kościół filialny",
+         "place_id" : "ChIJJ-j5LoHR4UYR7FeSJQli_D0",
+         "reference" : "CmRRAAAAOutovEm-51uUYHzc0heYEIZl3fslE8_EEEuoMsTVpx90A6TwCkkSRbqBT9PnBh3LDMBiNAWJCR7m7KIJAZKyL9HHGWdvCnd0MauH6r_4Uug2aCJ6dLcY-ZHcKeRzDdz5EhDEB16MutFxIa91OQsztteJGhShERn87JIhydrLcEXjDU9nObcxIg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "plac Rzędziana, Wąsosz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.366765,
+               "lng" : 22.3058642
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3678911302915,
+                  "lng" : 22.3076774302915
+               },
+               "southwest" : {
+                  "lat" : 53.36519316970851,
+                  "lng" : 22.3049794697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "e47ec6465925200bc54a965b6bd367bec98bcbc6",
+         "name" : "Kościół pw Świętego Krzyża",
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115899945283439619016/photos\"\u003eKornel Piesio\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALLKAsAd8uJsv0GI8Ahxs2ggV6b88If1TLbaPycek09gl0VKdH1vvB3uMs3H2GGRN5i09X0Pcl9guuWvF1Z1mntDWWdYLBcTKnmmAgx5iEkjgItAENwfF69uchq-aHTZ9bC73Lt58fy9MVvDzdByVuGoPnuTwOIs_bhc6akuGMEXEhARCZDKFR699WsYv4oXaGxcGhRTUPDE1Aq1R-MPXuZucXIn6Vy2iA",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJ16N5SLwqHkcReVmCZuKbQOY",
+         "rating" : 3.7,
+         "reference" : "CmRSAAAAcRZUho69ZcBs0BB9uJzDNvdR3OLAnt3KSNfaNhvN18UBJ4r-Zo5rEsg46YSRQL8XDlqd7vOCtKQwQlYAW-Rk3lchEOd-vYbndKI5-pD1V4CdCyIyJmaNIASbuRtFMjrNEhAHyss-D3sTrmhAH89e4L2QGhRzPTLHD8omNQUMT5kYoiQcq2SwRw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Kościelna 9, Przytuły"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4537552,
+               "lng" : 22.4221998
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.45510418029151,
+                  "lng" : 22.4235487802915
+               },
+               "southwest" : {
+                  "lat" : 53.45240621970851,
+                  "lng" : 22.4208508197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "1ce538145d88eb37b25109ca3836302973f7a518",
+         "name" : "Kościół pod wezwaniem św. Barbary w Kramarzewie",
+         "place_id" : "ChIJdWP3OKos4EYRLS5KGNBsBIM",
+         "reference" : "CmRSAAAA69C_ypLdwJt0LDFRBeuATLWAXFqc7jksTpKSvwkaAg50rcEj7IeIojkgZYJAvAOKcPsQ--MJtmkO3ZLLw1WcPzDBnODZtiEKsZIv96Cz0vTaM3O9GC2Za1Jltu5siq4tEhAd97AvS3RJ8fU9acFMotj8GhQxv3EefOHtOozk8G4eBErLHX-tBg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : ""
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5012383,
+               "lng" : 22.6514268
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.50258728029149,
+                  "lng" : 22.65277578029151
+               },
+               "southwest" : {
+                  "lat" : 53.49988931970849,
+                  "lng" : 22.6500778197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "6ecefebc315c9f7f213b2a0a3701764a32359928",
+         "name" : "Kościół pw. Wniebowstąpienia Pańskiego",
+         "photos" : [
+            {
+               "height" : 2417,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110983866548260703022/photos\"\u003eBartosz Bocianowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHbGX5o_HWFWAY3qn0wQuDZ6qeGcmtStH1WXYdEWQT9RMwOTkyb7A1AIhl26MTpVcmx02CGux5Iigo7ivDnHgU-ftfZAfb3xor24v9o7dHyCtMG6pD-dQ46ksCSNprVdbMHMxbltpn15fnMsIYH2-GJVv2RlkSPLsVkg1M72kEYrEhCvdUY1mXGf-7upmqBU3HX6GhR43v8fhS8YFunPZYD47_jMZq-p0g",
+               "width" : 4288
+            }
+         ],
+         "place_id" : "ChIJDbG5M9kx4EYReLVSZkZBG6k",
+         "rating" : 4,
+         "reference" : "CmRSAAAAoxYMPVp4FXXCnGW49HnZ83xvo83s4DImOOCSIa3qNjPf0ivbff7oRtmhT8pHMdmwf03VKdMMxAR1Kkf9pe03xhPrQDRpQaqvrnidPZqPXpcpovJNKGcb1yE25TWYtIz6EhDwbiPgWFXTfhJDXOU_e1L6GhS5kA0be1b-92kCQhQI83CU3PcUcA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Osowiec"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4496247,
+               "lng" : 22.70187379999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4509736802915,
+                  "lng" : 22.7032227802915
+               },
+               "southwest" : {
+                  "lat" : 53.4482757197085,
+                  "lng" : 22.70052481970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "6cd33b24ddb07ad675e8057970ffe8bf0c334ae3",
+         "name" : "Kościół pw. Matki Bożej Anielskiej",
+         "place_id" : "ChIJx0jj8YYv4EYRUU_OLJmHZ7o",
+         "reference" : "CmRSAAAASXt7lqko_3bG3j4tM-1oJfFV_XkRJvrvgsFuz6EMweJbO_opk3H-2lqOzu-nKQGLXN4XhTNki1HraGNHIOAeJwxOSnahuP2pkC5N8QhcslfGwrhmldfsv9D9RcVfq0LIEhC6N4J1C5Pf2ES61AVdy5hHGhSdWc6-QojuvjJcOljNxY0VmpQfXA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Downany"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.3652977,
+               "lng" : 22.4407822
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3666466802915,
+                  "lng" : 22.4421311802915
+               },
+               "southwest" : {
+                  "lat" : 53.3639487197085,
+                  "lng" : 22.43943321970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "0c312e5103d69672c8dbae5650eed675af5f2b5d",
+         "name" : "Kościół pw. św. Jadwigi",
+         "place_id" : "ChIJt6Gc1nMq4EYRXlhzJu7P77c",
+         "reference" : "CmRSAAAA9w3E95ckXUgn9PWbD2XYaLv7kAJl3UyEhE9fu2NV0iQ9eWMGLb0x5nqrrzdotDF6AdP0ThudRZ8tykIo6gLLN3XcWRYiE4sbCAo4EnQOJFEKBeK4-wgWdQekdSilX9MXEhAeUEg-4YTbheqUtH4F0Hi8GhTevIN05VqGS6ieOZxlIh0rdSHEkA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : ""
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5539332,
+               "lng" : 22.6017255
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.55514323029149,
+                  "lng" : 22.6032613302915
+               },
+               "southwest" : {
+                  "lat" : 53.55244526970849,
+                  "lng" : 22.6005633697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "24295f6cde260bd967d08bd79682779927147006",
+         "name" : "Kościół pw. św. Piotra i Pawła",
+         "place_id" : "ChIJD0lqR7Mz4EYRmrf0dhxLhHQ",
+         "reference" : "CmRRAAAAs2G7-iGGqWf0jEYG2kzS6ytM1PIvpuFAaqScL-638Azro8zpYBfBQ5gM9oufC8rg4GwnGMwEr3XtI0CUiqYQUpR5-jO_nubpSpJSAtiKpYm4bItAB36YOV5aoVALBz6-EhB2j_XIsUb-L4MIjPjF7XIlGhShQYktgkmwkSRH-BTVYO4cvCpqMg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Łąkowa, Przechody"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4865195,
+               "lng" : 22.7354837
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4878544802915,
+                  "lng" : 22.7365358802915
+               },
+               "southwest" : {
+                  "lat" : 53.4851565197085,
+                  "lng" : 22.7338379197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "89f215fdd649359f3c3effc1ab6b8398559be2b4",
+         "name" : "Kościół św. Agnieszki",
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110983866548260703022/photos\"\u003eBartosz Bocianowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANnQ1421PjCigvMQvQhoLEcBYCRD5bIMn9A-6hpU62jIWj0k9vXowJjhOjIx0yl_podsSekkAYutBAVpxoG75aCSH2wKjlMqTi9hpi-jjpsQqavXKkoQnMKd2zI-DCvdMzJJICw-eUsf2y3gldOV7cm6-Bgh5bfh-RIhrOHt6sQaEhB2Z31hJiNyVXuF2aMFP2s8GhR268VFTfcYZR0kfxRc7anoYNrz4A",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJT8JX1AYw4EYRz0ValkLQ440",
+         "rating" : 5,
+         "reference" : "CmRSAAAA5EkorGxE2hxW9fpqJLjI5Pi0w0z0SskEqxOabdL4u-5TsPGfbrnxz0-sytwSTLAAO5qKUhfRGY4i_k6tGJJCXBQ6h7TceekrYeZ6Xx-SZHGhSFG50yC8tLO2PvpZoMwqEhBAf-771z9-4k9vNXV-7pBHGhTRyR3hGZeaJQKCEzrRBD0tEuZ2jA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Mickiewicza 15, Goniądz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4879529,
+               "lng" : 22.7346701
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4892986802915,
+                  "lng" : 22.7359852802915
+               },
+               "southwest" : {
+                  "lat" : 53.4866007197085,
+                  "lng" : 22.7332873197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "fbb651ed641530e1464810613dd008b373f67f70",
+         "name" : "Kościół pw świętej Agnieszki",
+         "photos" : [
+            {
+               "height" : 1969,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104125204820687036773/photos\"\u003eA131605\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMIFBMCwkag6vzE636fBEgH_H8XJCB7hvUYg-E9pcbNCiIvnk4fTg3Q5AQkfVnFMfsjLDcforNjG0u-Bt58-WNE5EtroKiPAo9fMIhcOCnWameM2mg7OBJ7h-m06u_TEObt6kbHOqGrOb7HqJTRbKv4mTMQF5PUwbjdNU7xkVJepEhAM9uPJFnGPxMwJhTrlRABgGhQiU-6YCKz9X0SceJOT7Cuy5pu1eQ",
+               "width" : 2953
+            }
+         ],
+         "place_id" : "ChIJj8hblQYw4EYR0kqCBGPqV7U",
+         "reference" : "CmRSAAAAsenv9ajpzRt-4-pFjDE0bs38rLesffj3ZZJbNpPCaNGPn0Z4UVKaJ2Fa3XedQKZbUZfNshMck4VVtWbJElYvPPtb5itmm9RUwd21h0B2i8St01aHoVon4sMk9Yb7PP2xEhAJ4pl9GwZ0u7kh0tiSyXkMGhSTxZ9ZMArUC1-x0L4Oj0PNu7jf7g",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Mickiewicza 15, Goniądz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.40445159999999,
+               "lng" : 22.790988
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4052069802915,
+                  "lng" : 22.7921287802915
+               },
+               "southwest" : {
+                  "lat" : 53.4025090197085,
+                  "lng" : 22.7894308197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "3513d0434ac95d62db227fe863320e3c5792d380",
+         "name" : "Kościół pw. MB Częstochowskiej i św. Kazimierza",
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111208148906112653360/photos\"\u003eRadosław Szałkowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMF2QvPgYzOzsbH7YaYHi22q6csGHhaM-_NUtwiaWyL_Gg-XkfYYU78Urns4ANl44oU1calStwFv-1EyIvnordzPoDYlczBFwYiFza3UT6uQKVv8ltpKukIV_QZivz3okx61YutTZXLXCUhD5H-bOBTr_Hlxj3213iNJJDwC1pCWEhAIMGo1-DLe-Rz-DGJA7ax7GhTugPECe95wz8wYSHh_IXU6qyf_6A",
+               "width" : 1944
+            }
+         ],
+         "place_id" : "ChIJo2U4gG0k4EYREguvoIW0txk",
+         "rating" : 5,
+         "reference" : "CmRRAAAAB-IEtjaXQGrMnyBg-BxWSOg-iX5rCh63RwxsHEv5iNrZbkejBvHn9G9w4yHJcISXjLV8-nLfSVsDFNQwtNmzqHhzFORIAtSOC5178WnjsoIR8ZWjcQ5BFPdMyOVuYPpgEhALDGCxR7GT28JDQ8ryqiwHGhSg5EDUqZatlmLyA4sF_Gdp13nIIg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Ojca Maksymiliana Kolbego 1, Mońki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.52258080000001,
+               "lng" : 22.3178043
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5241775302915,
+                  "lng" : 22.3192774802915
+               },
+               "southwest" : {
+                  "lat" : 53.5214795697085,
+                  "lng" : 22.31657951970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "f800a0859617dc9c840e48f3c64b20dfd625408c",
+         "name" : "Kościół parafialny pw. Przemienienia Pańskiego",
+         "place_id" : "ChIJ24SZW4HR4UYRZ-j2kAei610",
+         "reference" : "CmRRAAAArELa80xY1R4RjVyy7osaU0krnLdU-f_638ZAGGLp9Uh-ZiMvvS47TfrwetY4o82BTNDDdC_Y7NdxDPOxSF9IgxYr1U29a743kD2nxcDAu1JlO8c6Fihn4jjv5K9t_IbbEhB_SkuM57yN97TvF-Zzb4BlGhRIq9ztoZMPTZ4Odw0UORGq9mk-iQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Sienkiewicza 40, Wąsosz"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,95 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1021112,
+               "lng" : 23.1713918
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.10936960000002,
+                  "lng" : 23.19379670000001
+               },
+               "southwest" : {
+                  "lat" : 53.09590679999998,
+                  "lng" : 23.14895509999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+         "id" : "8876c62dd89ce07af835fe5ba0601bd798a83b80",
+         "name" : "Aeroklub Białystok Krywlany",
+         "photos" : [
+            {
+               "height" : 1366,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107216275568814046841/photos\"\u003ePiotr Sienkiewicz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOYe61IBWDLKlXnq4nKnRPoDhncKPW2m9RJz1Khp5i1YA26xOvOEwap4-FlIL1EO3qX6kg2dvNlE3cy03Ege8zcRZ32m05BnVUeUFKmB5Pey6166Zl3MG0imC2GosvtgMj7OLGE9CJ0PloIuyoXQSoYAis_XMZYRH_eT6C_H_IP8EhAeKOBq8TWetc4gDteBWNcqGhRKd23y7F1rp5Sor0Nb3xmi-fy3MQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJH1AX-0P5H0cRLTWMoO5nZfc",
+         "rating" : 3.7,
+         "reference" : "CmRSAAAA6efVI1a4-kb4_qJQa-QT_qaJjXpdD8WFoz8yDWTtZj0uZZD6Z3AoDBL8kBdBFoE9G_7JWxKUncgUU2XNn8x0zDAAWZhDO5GpC6J_7Jka-3HybKq-9G5RkpWuAZ_ImjqhEhCQkG6gfehHG-o3NAk_ORuDGhRNSQGTqHXkzpifLCSD8Z9lgMhEdw",
+         "scope" : "GOOGLE",
+         "types" : [ "airport", "point_of_interest", "establishment" ],
+         "vicinity" : "Krywlany, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0026932,
+               "lng" : 23.05801649999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.00404218029149,
+                  "lng" : 23.0593654802915
+               },
+               "southwest" : {
+                  "lat" : 53.00134421970849,
+                  "lng" : 23.05666751970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+         "id" : "5493931e7e36375034b3bf586f92a0fbd2a0b494",
+         "name" : "Lotnisko turosn",
+         "place_id" : "ChIJa1p93tT2H0cRFEH-W_Msj9g",
+         "reference" : "CmRSAAAAEXw8d3DiUrIsaPaguNkNMjLMU2V8x6SGqeDfNasvJAl7_cw4BHeWvbdySO3XEx7sW4VcozF-uoe3xCJmfaXwDdpHdiDe14wFPFIrS1Nr7oy_nuHMPDLqmJN_cVfNGoaCEhB0f5yaIuFyVhpR3PfpU579GhSIaI9pE1joP3Uwaz6I4lRJ56tGZQ",
+         "scope" : "GOOGLE",
+         "types" : [ "airport", "point_of_interest", "establishment" ],
+         "vicinity" : "Turośń Kościelna"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.43222549999999,
+               "lng" : 23.2308377
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.43357448029149,
+                  "lng" : 23.23218668029151
+               },
+               "southwest" : {
+                  "lat" : 53.43087651970849,
+                  "lng" : 23.2294887197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+         "id" : "4d72803934d6b6f3902e0cc1aaa2f75650322ced",
+         "name" : "Aeroklub Białołusy",
+         "place_id" : "ChIJmwLcb64R4EYRrsdxVneEzPo",
+         "reference" : "CmRSAAAADIaLJv7mqz5vFl5y2hai3X9Z_ZkbpTwKH4yys2urDcSOwHs68bPie0cqeMe-PqhGyWd4vhAlum2zi4ZbCczlNEyebK0zzK-enB5pgGYmw4xUql7PM6BJY6w8LDxfH5IDEhCi5TLir0d2hx3r9tvdV1EeGhSdrK9nf2CeH91H6h5Ma6ipDRjYLA",
+         "scope" : "GOOGLE",
+         "types" : [ "airport", "point_of_interest", "establishment" ],
+         "vicinity" : "Białousy"
+      }
+   ],
+   "status" : "OK"
+}

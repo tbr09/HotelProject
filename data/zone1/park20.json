@@ -1,0 +1,779 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCAQEAAO8k7d5zavIQsWj2HEV49lOAwTGjVvGEbywdErbw5oVGA4I1qrUOd22aTwdryk45agcyU6V4UPKa4u98zJT7BgJ7FEWJpKMy-OfGAcR2v9T7K8_AlIYTdrZaCcQf5ccYOt6jkwN3BWQBKYGVHqFRUW1xkxQavTT5KmgSF32-y05AHVHbyGAdYgzuYPLUzPSuvMauS-Eo7zqirDU17iPzkLSDePqEEuUJMMLSvUDKUJ8kRj1oBzwqjgFItmxG6oLCW2Es9s1xBUyoUs94lz_xx-a8HqDICUvwZAeUPDxXuV6UULXF5HiXxEEGq_HS5zoTyE0_8MVFAeIpsoZLVyB205M6eDu3lYHM8kqSeWrEbRS7EhB3eCiz2nrumayVbd0a_A-oGhQrN-Bn8LWB-pSANAf_jVBxZQ-0ew",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1404624,
+               "lng" : 23.1209176
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.14143798029149,
+                  "lng" : 23.1225493302915
+               },
+               "southwest" : {
+                  "lat" : 53.13874001970849,
+                  "lng" : 23.1198513697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "41e24c6cbb17235cf14755d088649df2438d40fc",
+         "name" : "Park Antoniukowski",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106137622663882353544/photos\"\u003etomek8848 Garsztka\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAFEz873dR_3vRHuMKzkaUNPslHBhJOOSVMENmnY40bj1UTS1sZtEGREvVOqlSDG6qSDg5-Z-Q3Ts0SviiC2V-08zf-0XoTgFiYzWi3Nlz4SahrQ6Z99GqL_cd_gjB-cH1li2BLOTsm0qWVvvxQHcUUzXQieAZQ3lvju188bEIs6hEhA4phO3IAxnqwzm0jOZ-Dl4GhSr0DLQ0ffYofs4xnlbMy7dq0Aojg",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJIZpXs3r8H0cRZTBF7evngIk",
+         "rating" : 4.4,
+         "reference" : "CmRSAAAA9--0GtjOO4rR63YXr0KKCtzQvHj62NEOxdInVpDKembocjF0fwQbYjTRTiuBSBGU6h53V16iBwtnsMaUPpiuhHwY4RxlLMpY86RQUlSFCxczhm256KSdquonKGdlRYz0EhA97zfUllW4sg1Y2Lqmq1YxGhS_xwTItY9zbsL6RwLC6k4Wf1MPAQ",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0727784,
+               "lng" : 22.868606
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.12199235000001,
+                  "lng" : 22.9055092
+               },
+               "southwest" : {
+                  "lat" : 53.05637374999999,
+                  "lng" : 22.7578964
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "f5777dfa4d99547a0dbb271797710e057c4d356f",
+         "name" : "Narwiański Park Narodowy",
+         "photos" : [
+            {
+               "height" : 926,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116117113819477640534/photos\"\u003eJM Majkowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALo1zJX7cJkH02baQaGM-roxzN1kOaoCS92E0VhHAkJzn--p8iXMXZX3NKf4coGey6QQKN87IxOysx6zf7Zw0ovvHEu9GatENfCQg_4wBGgby50-JDjhG5xQbdFQ9wsLLW8dMynYjOe9LW06fFJKw85iSY6hgYERFm0xSJkEkr0mEhCi1ZkI917otd0ZMwg_rpwOGhQf9tl3psWcEOREDq5n4j903Pq7qQ",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJqQgH07YkFkcRPX_68ySFfB4",
+         "rating" : 4.7,
+         "reference" : "CmRRAAAAPDYq_Zpn-iaN4-b6qpk2p-jqq_ULlDEaFjet15Svp0Jr4KAbakatjRDOPF0ZVsP7cxNOrri8421kikJNTNGoZYRswvMPlbKQoAuMWlqX_XLiRxjDFQseyRhkdzrWEoPjEhAo4ORx9NE6gOCf5KCz6cNOGhTw5Yc0efs5aK-mGVZYMtS0b51KWA",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Kurowo 10, Kobylin Borzymy"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.12478,
+               "lng" : 23.227903
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1261289802915,
+                  "lng" : 23.2292519802915
+               },
+               "southwest" : {
+                  "lat" : 53.1234310197085,
+                  "lng" : 23.2265540197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "cee9c06524f5cf1b74a053a19ef59777a3880aae",
+         "name" : "Kamienna Grota",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1353,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101054541124104303332/photos\"\u003eKamienna Grota\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAB8Hp4QhjebvqlxjeZ-8IX603zEOmdXFd-QGCNfQNesVuqeKPfVzHsqdSTXJChfYX2vlPitmcnhvHZy2sMXt3AasJzsS0Eu6aAGpktOBriHN7N4a4hteKwsrY1OFmqNnQN_MdEw47zYeJbapznnny1Sme-5ewLJajMIaAp-N9pKiEhD32hDU5BYrJu33NcszyDPxGhQsh3m6QeVokryfZ_n35QxvqxEqFg",
+               "width" : 1356
+            }
+         ],
+         "place_id" : "ChIJjVvqDtz-H0cRbfnxQSUkKRc",
+         "rating" : 5,
+         "reference" : "CmRRAAAAfBqVKWHj0_z6cJm9yXcJe6ZNBS2vQLY7xbAPVSQWipZj5ZcTA-iM5inFf7ak8TIGzFXwTasISPsQogApvtfYksLbtceev5jVAlzBsy2fTfoX5nuYg3G8Lnj_1r8ulsfvEhB_xDKxa6eHkviDaKZegbveGhS5q2pWbG3Kniv4FF8O2hx7pJcJcQ",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "general_contractor", "point_of_interest", "establishment" ],
+         "vicinity" : "199, Baranowicka, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.130774,
+               "lng" : 23.124014
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.13204813029149,
+                  "lng" : 23.12523658029151
+               },
+               "southwest" : {
+                  "lat" : 53.12935016970849,
+                  "lng" : 23.1225386197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+         "id" : "090127ca02acbd9431a995e3fe5c00e2d4b18a66",
+         "name" : "Domki kempingowe - Letniskowe Jerzy Prymaka",
+         "place_id" : "ChIJLSWMwXX8H0cRzQ7NowB81bI",
+         "reference" : "CmRSAAAALXt0rNsN6MlX2O7d0mMMcU6muaf6lfzRvngNLHClrgLxbyY0QVTltrH42ZLN07554xkcUK_6Gyw8gJozUio_aff0btjuGD7oU8vETuZpRIBIb8z_0kwxM1MvFVWGIu-KEhCSXToR32a2gLRv803pWG6NGhTlVHwyelBbCHqBZEaP6Qa5VQvMcw",
+         "scope" : "GOOGLE",
+         "types" : [ "campground", "park", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Promienna 1, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.184487,
+               "lng" : 23.150274
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1856679302915,
+                  "lng" : 23.1515842302915
+               },
+               "southwest" : {
+                  "lat" : 53.1829699697085,
+                  "lng" : 23.1488862697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ab088bb96ffd2b8e50d0db0e98dcd150de0f5074",
+         "name" : "Jurajski Park Dinozaurów (Muzeum Dziejów Ziemi) - Najlepszy Rodzinny Park Rozrywki na Podlasiu!",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100715855426307001937/photos\"\u003eJurajski Park Dinozaurów (Muzeum Dziejów Ziemi) - Najlepszy Rodzinny Park Rozrywki na Podlasiu!\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAIUSe7rQXyylabJ2Zi8zXxPICGUYG8hLYU8Q54KdTjD_vN3WZAfGFgkMM0E8BE0qOCwcYlDPH7X3XrRjOK27LU-pthuJmoewe328ntVv4UXmvCmjLe3a3JEcjcE9ByMciqbTs6sptCaJSJ3t3UkKCFEEFNFr-ED0q9fy18-FuidSEhA25zzpmyvDtuL1scOQ-GGqGhQTMROyfrym-YEuAlddCSnoBhwCag",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJh5xxwKb9H0cReERNQT_YfmQ",
+         "rating" : 3.7,
+         "reference" : "CmRRAAAAQ7O9tlvaXHMrJNoYgC8kSzBXlYlrE1XKSJMwY0peoZQMysPpuKP_pvcFKslwXunxRzR2q6nBwuJ5qudmT0saaumlAaO5THnWItzAsXWMkDhkRvW49OsZG5zosa_Ni2IhEhAmvdOf1u_0l51Lgcy-v7MlGhStGtZdrIoPRHiZ9EAv0HCypQymDQ",
+         "scope" : "GOOGLE",
+         "types" : [ "amusement_park", "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Nadawki, Wasilków"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1398,
+               "lng" : 23.1296908
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1411158802915,
+                  "lng" : 23.1310559802915
+               },
+               "southwest" : {
+                  "lat" : 53.1384179197085,
+                  "lng" : 23.1283580197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "f8d9dbf550be4338b5b1beb184966574bf3fb3d5",
+         "name" : "Artflore. Projektowanie, zakładanie, pielęgnacja ogrodów. Sandra Kalinowska",
+         "photos" : [
+            {
+               "height" : 590,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112438606001004831468/photos\"\u003eAnna Skrola\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAIXd8bKowi019URAGyOHJkHhmugAiqiCyFD23q5s4rarmMC1zlyFs-nNwSgVmjMai11HeE9vwWxeCnWRXz-cbOuCz1wokFB-lbxsxJfv50B-XVVbrPWH90vw2dKwMHwxttcFowNrv2P1thbD1OZ17CMYjmyNq6K9OHcSSzu_kx_xEhCip8yPDnjAHOwMxWe_uorHGhQmGIWF8MndTF0PEtI0B7Orrrtrnw",
+               "width" : 813
+            }
+         ],
+         "place_id" : "ChIJb8IJEG78H0cRRza3Q7SjUWQ",
+         "rating" : 5,
+         "reference" : "CmRRAAAAUC74FEX5vWw343b-1106QGcPLuIe93wWdBSplf7HxsYInFg81BSncEteEVwFnakGYA-0doLQ2ronmxzF4iq7uBObEfHZJ1lBx30T4sFvY3bhtjbZzBbM6cXnlWJblGJhEhCnTwNVnV350LSxefiSVk94GhQ8n4OlZ8KvrNjpbp1ACugOY4TPxw",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Władysława Broniewskiego 11, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.11539579999999,
+               "lng" : 23.1642199
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.12270625,
+                  "lng" : 23.16940020000001
+               },
+               "southwest" : {
+                  "lat" : 53.10821725,
+                  "lng" : 23.148679
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "a63118108d5ddef37b343f395a36ce9d4b7d227d",
+         "name" : "Rezerwat Las Zwierzyniecki",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2336,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110067368498005851128/photos\"\u003eKaeN De\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAABfC0tWhEgPiX-f2GwATlfomJwR-e8gtO2kV_2HO-1Y7BrT8b7GqBnVlRhbGaxONkB6cgi2v1VHewp_KkHok6XxqRWGKOkMQIoGl-ebIpLrHYeigtxWXVJA7Ms8lr-v5_tmQdsA7zVuU2fL44sUA6KzTjJjqtdiWmASaiGjX0b_aEhBaDzqwMKB4fiiMbyGI8O6YGhSkMCxC9l_GjUaoZPgEP80fxIrzqA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJy2PnB1T5H0cRSOa7bm7RoPA",
+         "rating" : 4,
+         "reference" : "CmRSAAAAEjMnShWDjMxTk_FAddm-9OgeVmAmufCTbe11nJE-HY1QPPHrcd2PqQoca0kJb_dEHwfYtzeHFsxBDIqrlsBOOdU8UzSxsHwu8p3Fdv9fSsJ8Y-JoztR1_lM9ds1hhEs2EhDJV3kvD0JcKVQ712CTGjRtGhQxFCJ1X0V4ENUA0WxUYmvD312_DQ",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1731603,
+               "lng" : 23.1355926
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1745092802915,
+                  "lng" : 23.1369415802915
+               },
+               "southwest" : {
+                  "lat" : 53.1718113197085,
+                  "lng" : 23.1342436197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "d7dc6087e9c7757f924181a2e6ec451437aa3248",
+         "name" : "Rezerwat Antoniuk",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114054920400702590720/photos\"\u003eIzabela Białostocka\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMiroakOKp1UPbuEb_ZmZWfowfSI7Mp4zQnZTmv1zoQFtRz90sq8veW1V6n-Hqz4JhQ-Pi8e4LJ2B8f09B4Utl_B3H2NqVY6O9hfGhgXaGx6LVz8LWAvOdGEBH28flOuDj0WS_ZtkIoi_2O16lZE3e8WJx-uJyTklemN0A2tdhLcEhACBVF4q-esxJd7LJfBWGaWGhTZCqSYEfjvlplN92gcl3tLtSguJQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJASC80ar9H0cR7Y1em_kmcL0",
+         "rating" : 4.7,
+         "reference" : "CmRSAAAAY7L3FiwA32_w2gIoByDYGYQpEnH0NFT6Ozj8vkz8wbqftOW3815oQTM0CdAB5tEPDHt3cdqS_-wru1hy4ZNTw_vZ36cLAfiHJCbTsUtgm0eMcb1ESOnuuy9_N9zxmCngEhCAz0YCtM6ew2orurIacn_AGhR6LJbfmyJ80gLAu5bHql0c4wKVQA",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.109751,
+               "lng" : 23.1946705
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1111939802915,
+                  "lng" : 23.1960443302915
+               },
+               "southwest" : {
+                  "lat" : 53.1084960197085,
+                  "lng" : 23.1933463697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+         "id" : "8a9d825ad260c90dc2d28a95cda6b243100596c1",
+         "name" : "Kemping Inter-Camping-Trans. - K. Łukaszewicz",
+         "place_id" : "ChIJ4TE4PzT5H0cR8JyPTb3Aq6g",
+         "rating" : 5,
+         "reference" : "CmRSAAAAetnL1iOZrkV4obSahkWSRgBTR5NXynyi1CQqzoRtVdNkceeDI6ULl7pkeOYCC-ZzPRn_cYdgUunkiQEf82x60Znhks79fG1DJlr_YGpP_gP0R9fHgL_ZJTx0byOTZLiREhDPHnPGOw1Se0krtJdH7DEDGhTH0YUGzSP9P69s7C-amjkuJKj7Nw",
+         "scope" : "GOOGLE",
+         "types" : [ "campground", "park", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Wiewiórcza 66, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1422576,
+               "lng" : 23.1136631
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1436065802915,
+                  "lng" : 23.1150120802915
+               },
+               "southwest" : {
+                  "lat" : 53.1409086197085,
+                  "lng" : 23.11231411970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "c247e285d60650a8c7e30000061457a40d0f2c32",
+         "name" : "JM Garden",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102371753047355217633/photos\"\u003eJM Garden\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOZOH3uXlOePUqG7hQFKOufx5iUxSWvlXYHHY7F4P0u9jYTEw7bmwP2J4IYtwQnhmdpSz9f3A6O0aZY30YqZHkL010ajp1T2VI2eO0cz0PB781LC1Aoj31bL5IVhDj23mm27ez88Fwsz10t5lK7F081UrwAtq9hp71siL6co5ilQEhB7MbRmyDE2HhQGMxJH0jrIGhSaqqYGRe5ZlUeahmudsWqMZzw0bg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJla8FTWP8H0cRtayReD8ydw8",
+         "reference" : "CmRRAAAArbATaJeKFQux_RfX1CfGR9o7hWdeFon6gtmqKQC6Tb8H7j3RVaBN1mkYPvowfJHpDFE0vmOYEBOPYRKsx5-AQ_AY5fuCl0bCKwFLMrhkx00Q0SizqBpnGdym8eBHo_hAEhAFZa-oPfKZfeP1SWuOBulAGhSJYyWm8zTU3D3CP565FXUxyBM4Bw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "park",
+            "general_contractor",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Dworska 5, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0952424,
+               "lng" : 23.2352853
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0965964302915,
+                  "lng" : 23.2365807302915
+               },
+               "southwest" : {
+                  "lat" : 53.0938984697085,
+                  "lng" : 23.23388276970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "d6ed937f5dabc1d8c1e0f5e5c2ed51479360c9e4",
+         "name" : "Ansap - Aniela Skowrońska - Meble ogrodowe Białystok",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 406,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101479912554532039785/photos\"\u003eAnsap - Aniela Skowrońska - Meble ogrodowe Białystok\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAA39va2xIu3SXsgqwgpRYrk99xfbxFOglP8AAECWvWku8RZV65oh_fMquJr8SCWbwyDGMqz9lKOARK-WxDY4b0IXLLWinJ4h02xLrgJGer5ME9nnrPWMcAjdG2dbSvkT843nelSRGI2AF-IoLY9uISOtHGBmY9QieX7WlLQGIhUyEhBLZEPpsOAD3PiO4a74T5zDGhSQrdyhqQ6dQbO2VF_eq8qhFnjhsA",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJwzwGnc_4H0cREFXwQaMTEeI",
+         "reference" : "CmRSAAAAQGhPhwep_1cEk2v_5-65HPhoduC_laNyOP_OwQYOhBGCZu1dYKvck4B7z7VJFQI7WoBjp_SmODd3VDoJFPiKFx4QMDw3nDdXekZzMJNRyuWXL3o0jTtTl9r6kirVBXggEhCHrWzZfTzwLap0ok0HOLhyGhT-gjivxkt95Y2RF7R6C-_mfqm_Vg",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Rzeczna 3, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.13007309999999,
+               "lng" : 23.1638445
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.13142208029149,
+                  "lng" : 23.1651934802915
+               },
+               "southwest" : {
+                  "lat" : 53.12872411970849,
+                  "lng" : 23.1624955197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "68580984d1eb7dedd548792850c1ea9c2df5913b",
+         "name" : "Ogród Branickich",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3936,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114069925450116390509/photos\"\u003eAdrian Mkr\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAABZcPFDL6aEtPv_oYzbE41WUXR2EfrPexy3UvzhoqqrR4ztsWxSTmRdIdFXhL0JIMHmkfLlQbwHbF7-26M1-AOvtIb8ZGeWv1u2yJL_KPF7gLp68rprszWTijH2kC7jgvEsSiez-AwLw0KXBFiUFfX--nYkovyPT3blBRF4RrjEfEhAdqJKbb2u2AoIzoU4SP14bGhQibbyFHYGls5mOhPYKMc2doKL0ZA",
+               "width" : 5248
+            }
+         ],
+         "place_id" : "ChIJBX8bHAP8H0cRNa-N-1lr78c",
+         "rating" : 4.9,
+         "reference" : "CmRSAAAAibuuXlqfpdfH7g74-f0dGUl3SCB8douMw9N6Hjtr3IQlq48G3zhLQXUxOH_gE18Bw1UuNYA4VvUpFq07e6GaVZsOLOX5hHXcvNceD7lhH3SSu14Vi4BnhPwYMNm1L9WAEhBg8KwQSMWDA4J-JeDBkKtaGhRl3d5Tv8NdwxUZu0QWNe0IxxL2kw",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.9933901,
+               "lng" : 22.8873063
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9946533802915,
+                  "lng" : 22.8887889802915
+               },
+               "southwest" : {
+                  "lat" : 52.9919554197085,
+                  "lng" : 22.88609101970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "827938ce4981fde79a22f0096f7a5432c1860d5f",
+         "name" : "Ośrodek Informacyjny NPN",
+         "photos" : [
+            {
+               "height" : 978,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116117113819477640534/photos\"\u003eJM Majkowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHb__-rEtAtL88r6vKmBAZnEUsBf3xPfcR7yO4hXJibJbWllbFqN9HZqAsJVCM7Ua_6z1Oou_smBpNgFf9vGZpkLuD0za0IeCAKJgdgRViAps02GxPVxhsiepWWn76GhxL_RoUWQucs6256dGxLLIBABn75m4V679H923dTICrjgEhDV8xhRBkwpzsa_fGCKz_1qGhRPvuFikppB8yq4CsU5BftGrUEQfQ",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJlQe4pP3tH0cRH8FeluIHNDo",
+         "rating" : 2.8,
+         "reference" : "CmRRAAAAiHbZIiBWPfCuqHqt27b1DbXfyaOeiFaem6almLiw4TsDnWECQqCQwxOKU_lu8w6Iw-9OilJR2QekaHzQ-iG2ONDagdx8QWWv2V1kMZLD0loE6M17rVPmSBmog3BIFSD3EhAw2nrg_TioJQoZdpXI6sPkGhT8Zeiy0MgdHdXNXKHR3uhw7gguqw",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : "generała Władysława Sikorskiego 24, Łapy"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.367864,
+               "lng" : 23.339338
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.36921298029149,
+                  "lng" : 23.3406869802915
+               },
+               "southwest" : {
+                  "lat" : 53.36651501970849,
+                  "lng" : 23.33798901970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "344aeabb750e1c7460f54141296ed96a3dcc0063",
+         "name" : "TARTAK I STOLARNIA - Jan Siemieniako",
+         "photos" : [
+            {
+               "height" : 502,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113132426668311471647/photos\"\u003eTARTAK I STOLARNIA - Jan Siemieniako\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAEM1Pohbn2m7fAwBKGm-pSmnN96sUX7USePEuu-_h94zAjkBdqMtwn2JXE1ii8WSp-ndZGTEOYLqNpPJZLR9VhQnLUZ2Oigpuep4f-WKbNg2oOENqa3Gl-qeM0DJuJI2m_FK8xzPsNyQj-ycpr1-ivdYr-x3BT-L3tbAoR4JzCcLEhA3Dc6ZhShtMJVu2CCbbzOZGhQySVScPFCOuwVBif7-yAs8-S1cJA",
+               "width" : 505
+            }
+         ],
+         "place_id" : "ChIJNxy9N2YP4EYRwKvzAlLLGJU",
+         "reference" : "CmRSAAAAi9J5WZHcLoLAvfdh68QB08v9cnYgqKTM76lH9dXfsMLVVWYCsq6LbT7GLV3pgjVF4GDS5FiOXA1X078GCYvQS1GbqGepfH5iTtLA8cJs8-xZELkZ1h22IWyxTBncjpWpEhDtC2mhNfCuozSrMTxNvDLeGhSUBHQCGYI_-j14XxWpHBWkk5hCrQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "park",
+            "general_contractor",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Stara Rozedranka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.143243,
+               "lng" : 23.473277
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1445919802915,
+                  "lng" : 23.4746259802915
+               },
+               "southwest" : {
+                  "lat" : 53.1418940197085,
+                  "lng" : 23.47192801970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "2b869e1b16c08b40d5c396c8de4a50f2cf92f5db",
+         "name" : "Szkółka drzew i krzewów CIEKAWEIGLAKI",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 965,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113977729964919036193/photos\"\u003eSzkółka drzew i krzewów CIEKAWEIGLAKI\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAEtE_Mpnke9l5dxwbkSpukrXQ4dcz1FHFKjRLMfRcteuFZWSYfFX9nw9TsjiDdK1sYjWcbiSy2QKRQ-OBTeBR7eVV1nmCDcCRXSVMkCACF4dKO74PBpYS7kG256B0BalkU6MiMerjLGa6O2miwEKRrzy4fk6BaVbKjBcElrQJPd2EhBRBpsBZ6EKWl0Qq3GRI9FyGhQzaJsr7ImGPmQycNyqQqesKGDAIw",
+               "width" : 1287
+            }
+         ],
+         "place_id" : "ChIJxRR8A6wAIEcRjEpcB-fWFvg",
+         "rating" : 5,
+         "reference" : "CmRSAAAAzXvpjHf_xA2TSq0LQpBrjZgRjx8XtHwsQaScrATNZ_SiJrt5Nc4Qxnk9Rj15eLIWmCI9dY0LsmO3ZTg4RCvrhcXgO53UjtaQ8Co9h7KcNzZjKEHALOdXSQYBXF-SJSZ3EhCzrELX8u_mV-RTHqjfxI0yGhR1TdBubb-prih0_xdtCOUmxiocNw",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Królowy Most 28, Gródek"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0249087,
+               "lng" : 23.0202458
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.02625768029151,
+                  "lng" : 23.0215947802915
+               },
+               "southwest" : {
+                  "lat" : 53.02355971970851,
+                  "lng" : 23.0188968197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7203075535dec661f8344ce5754dfc39a86846e1",
+         "name" : "Układanie, sprzedaż, kostka brukowa i granitowa Białystok, Warszawa, Podlaskie",
+         "photos" : [
+            {
+               "height" : 356,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115485740743031859686/photos\"\u003eUkładanie, sprzedaż, kostka brukowa i granitowa Białystok, Warszawa, Podlaskie\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAEIi20BzJKM1MDs6hKmG_NEbYMbtNLdAsV89Eoq0LAJ5r97wJfBGs24v-dvMDh3tcc-MtCEXjtIcRMhvunx3jr8a6ON6EvMqTizj9JPfwv9n7qVam8jq9H2UhXu8BUjU2B1qF5QnrfJYmTtWsQy3OOpIIQjTiyjpaJ9Fi0nNkDViEhBiFjIgqm_rqg9b9nbufFnQGhQxWY7iIHoEXA6ALq6cB6h42SROJw",
+               "width" : 475
+            }
+         ],
+         "place_id" : "ChIJVVVVVeXwH0cRBzHHmIbzUNA",
+         "rating" : 1,
+         "reference" : "CmRSAAAAJ4SHWSZ-SZ0CIOza0AsMTNeyPdOf891xaVBTnlKq-TDM5KHxVfbRltY12ZIDtHhHwGqpgfroqSgusTxXVbHzpwAY_bvpIBQbjunOF1iejoPCcMVcJRW_-QLB0hnGNthUEhAaHACDcH3YsmWG0M6eNXT5GhRkCi6c8sXANcFpO7wPnNcstbnBiw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "parking",
+            "park",
+            "general_contractor",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Borowskie Michały 27, Borowskie Michały"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.20705340000001,
+               "lng" : 23.3376376
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2084003802915,
+                  "lng" : 23.3389754302915
+               },
+               "southwest" : {
+                  "lat" : 53.2057024197085,
+                  "lng" : 23.3362774697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "599415cb70e78d3958718650cb47a91583264196",
+         "name" : "Park Supraśl",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113726587005680936071/photos\"\u003eRadosław Leszczyński\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGSQCnHUv7h0rmnHvSJFNp_Z-5T7Tix-mGQZLbZ8T1DR82Tk41qIYXKVIi1g9Y-mqT1sE5lRkwreD84DLS7os69gsN92W4hzGj0x0DX1A6xtm-xUXT4JTTn73QM5O0c_0liMxoHjAFHBauWmvnBQNOhf2PPtI-46lzDj3-IZ_bKyEhAYjg1ktveCFkG5dnihYnZhGhRICv1Zv0rfBLseiSjBYZCjpo13-g",
+               "width" : 2336
+            }
+         ],
+         "place_id" : "ChIJzXsb9kQA4EYRFbgiAoRXMT0",
+         "rating" : 5,
+         "reference" : "CmRRAAAA9cId5nz_HdHzEYW1fbnFmB2kSldGdQpeqjRlFVoU2OJ8fg50PF3Sl4UIUb2bfkbxmmV04VUAg-6RGFaDJ3UW3ZQfL4L9dhktBd_pAc-GvlMFrPhmCB_cTMPcvEhD4-ZNEhAhEDUfNEJE2EuPdSA_A5OSGhTp_AdcBjDcg9ebUOJ7aBBZGBn7Zg",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Józefa Piłsudskiego, Supraśl"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.06946799999999,
+               "lng" : 23.08883399999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0708169802915,
+                  "lng" : 23.0901829802915
+               },
+               "southwest" : {
+                  "lat" : 53.0681190197085,
+                  "lng" : 23.0874850197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "be88ebaf529c534ee04b79185b7650ee55dd0397",
+         "name" : "RattanArt",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 533,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107140231581704490725/photos\"\u003eRattanArt\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJPA2LwIX-nn7ZTdTRirsk694bc30xAQMn1yZQaZtnVC4Sez3nmuqGHbxCd6dmuyXu53V5DWmEtpyIKg0vtS0IT8DTBlj1q0nqqd7qywErjdTyW3Hm2LR0efNTYh9A_ySjLu5o1wDBH_YKSLRlhFmY_uHCR3k2u8X6me4htxdrTSEhB4hzRwBxp7QfbBugB_gITzGhQY1f6SeLUo7bvUJDVO8gaei4nAEA",
+               "width" : 533
+            }
+         ],
+         "place_id" : "ChIJu2xqUTv6H0cROBwgRN3PfxA",
+         "reference" : "CmRRAAAAWwp6RRYjdR-0ma3jUGezQ-yVGz9Ep4wQdH7AZsXXUm-GrFizWaF8mFiVlxXHBE8mkI45HF4s_fCPBFCn6owoY2i7MRrTSqaWYVW_pAnmFZdX0WMTnpiqGM4P_8HOJ5bgEhDc1kmG6wQenXKRt947x7ZBGhRSOL0w0EjOteCB-nMSbOxutdHWsA",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Ignatki 40/5, Kleosin"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1095643,
+               "lng" : 23.2189259
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1109132802915,
+                  "lng" : 23.2202748802915
+               },
+               "southwest" : {
+                  "lat" : 53.1082153197085,
+                  "lng" : 23.2175769197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "fbf2d4e04c7e19dab34c67b3c20e8bb742fe76d1",
+         "name" : "Ośrodek Sportów Wodnych \"Dojlidy\"",
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102462696209713331727/photos\"\u003eDaniel Bielecki\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADABt8J8ktdnd0U_fuwFjPdvebpTDSrDoYtQFD5k7b5vaAq5jFjdllnHRmeVhnDUNFMMxR6EL5b5Td1vVZFNVqcHZMPQOhGBGGxCfrfhgFiED0Rt-szUHQxpEthKNXxiNysSWiE-NZGA7UDjw19z_2FAoRsRS44i8yXDHkAuSBtKEhCITcUyngiV0CHNkHDPLn1WGhQzy8GU420ccsboREwJkKpvlg3gUQ",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJnyLyztT-H0cRJJRGUv9fEc0",
+         "rating" : 4.4,
+         "reference" : "CmRSAAAA-MGiKpytl_bKcgZxdTScj8Uan8TOZu_6JvNcjx_UtTs1xIYP45FCf82IkjaqCOgpavfoL69wMNRoueqf7rFP6Bppm08u4giz_RKoWE-cwSUt8CIyHZXKfo1Gr7UPPyiKEhBZJNOSCrh10lbsVgOhjBgxGhQAHFSfJRWTuyMCeDH1ryx5C3khOQ",
+         "scope" : "GOOGLE",
+         "types" : [ "campground", "park", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Plażowa 15-502, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.049449,
+               "lng" : 22.827197
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0507979802915,
+                  "lng" : 22.8285459802915
+               },
+               "southwest" : {
+                  "lat" : 53.0481000197085,
+                  "lng" : 22.8258480197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "737d23e6ccb064efe0a1a72aecaa0eb873e61996",
+         "name" : "JASKIER Szkółka roślin ozdobnych",
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101633483503364581265/photos\"\u003eJASKIER Szkółka roślin ozdobnych\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAFESj8A3KbGfvEoltLGLCV2wpt321XSAI1DzYDyZpd_JPV4mjom8DTjCqfqHWrpg1f22sYiLLkGlWq-XBOmNYvYmP4g_AlCttoPy_g2-cSn1rLkrlyOivn7MpQbqz1SnFGtgloDyrRPSMaYtlueKKnbwjPlUFX_6QxHq0M5e0QsYEhDOayEy2_4wZ4RvE99u-4G7GhQSyMTvTBJ5CNGpewv74QEI08hpcg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJMTn6GNnuH0cROqE5Vz8iOik",
+         "reference" : "CmRRAAAAHOnhubjU5HeklszSCltr93enCPq3DBPpvDkYcxaU7Agn4fNdpJsNzrugZhG2sp-NmKhOuG44evAn2lnuoQH4dlajoJUmpvM7oAsHzmy_1FDPYrnNFC8qPDq3RAVp4JIfEhD2IXZiE8ySBltyfctuus55GhSlfibklkA-UOSbQoRQKMJMG1sp7g",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "general_contractor", "point_of_interest", "establishment" ],
+         "vicinity" : "Jeńki 86, Jeńki"
+      }
+   ],
+   "status" : "OK"
+}

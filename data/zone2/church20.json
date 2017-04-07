@@ -1,0 +1,679 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCAwEAAFZnKbMlfd-61xt5c9oLYAW3TKzbEZHh16KYFf7OUMmc9IuNMulXr6iXZ5eV6fPAQa7jkx-5dLedEtvXX29pq8tU9NTlts0kW1WIDcmgq_gFBrc-JVjsG8LcFuiVsZz7jIqjD9KH6GcuBr_IFzR4ITRr7QFYLtSCnlZ34tJDeW1dNVm02fNuWeweYUfjmARYl3CVFIG4Xzo5Se-3Zl6RQVkbaApGf_zFQiSKqGSh7vAKGoh7qIYPnMf0yaMtE32kOo6JLAL3xZQxf4tax5sTXTV2RJEXHMf6cFb93Ku9G6-ZOutRL9iNFqjRWETrwqdyCEVtX0dEy0xOoPrBBqGHjIR_7vbJ5drgqdvqwW-dYy2uEhD7OE_QxkH2xknKBGR6VVOYGhSRFH4OMGtE29D_PjMWVcPiozJ4Xw",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.17494139999999,
+               "lng" : 22.0672556
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.17632828029149,
+                  "lng" : 22.0686396302915
+               },
+               "southwest" : {
+                  "lat" : 53.17363031970849,
+                  "lng" : 22.0659416697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "c67cbc87e11fb97f0c451ac729ad181698fb8aca",
+         "name" : "Kościół Słowo Życia",
+         "place_id" : "ChIJt25NW5MzHkcRXORZTn-jqqQ",
+         "reference" : "CmRSAAAA829CZFXxIiCB1yI3LD_Fj6mUGv4olVcpoGwfEAcQephoMR4X-DykP-LzPE_wxYadYu1zme-JwfDV0xjJro4wY09qp5E_mSozX0lUBhryFBV0B2KT1h9r9w-21NLEDfZREhASMj1ckzvPhegiSRYo0HmoGhRVuipaUNdL2YHQo2d04JYN-fP7xQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Romana Dmowskiego 1, Łomża"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4100036,
+               "lng" : 21.9176472
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4118729302915,
+                  "lng" : 21.9195060802915
+               },
+               "southwest" : {
+                  "lat" : 53.4091749697085,
+                  "lng" : 21.9168081197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "7ea33cf441981b4924f5a2d9bc53b7473931581f",
+         "name" : "Kościół pw. Chrystusa Króla Wszechświata",
+         "place_id" : "ChIJLdvrnCghHkcRe0Qb7_FcFZM",
+         "rating" : 4.7,
+         "reference" : "CmRSAAAAq4om8D9HeCIPyGF5qjX_L8AEGbCn9SNem0WjhgTDfYQFlb6Gqrk5RI-Fe2IPIp-dj_t5fLt_UlaMfi5s75DWcTgb5X9tPcubTcFASqmv4slxMtEQHSvl7z0eWBAqzUImEhB0pq8DDTczG9H1GAPo028XGhQnqUP0PKvQGZQ_zH4aCJGpvmWMoA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Grajewskiego 2, Kolno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1804229,
+               "lng" : 22.0823488
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.18165573029149,
+                  "lng" : 22.0835925802915
+               },
+               "southwest" : {
+                  "lat" : 53.17895776970849,
+                  "lng" : 22.08089461970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "51f8afa22c968868b9c731c591f9c568af489898",
+         "name" : "Klasztor Zakonu Braci Mniejszych Kapucynów",
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116841292960631552217/photos\"\u003eRoland Prusinowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAIPdzQBb6OPijLFkYYwgq6VhkRQnME2r3xRZLJBvytnFMzf0nEky24OQIsc-LhMPyXeJb_6QUP2vB--oOa43WJqYlblDQSo1PwhX9v0Ao9SC9c9D0wKPDDFd2B9IPNKuv8Kd12bc-Nr4cHrv5QUmKVaYIhd9h_aJwsClYSaQ7w6JEhBLUFSoWOqcPx0TRBbzeqHRGhQzM6pECyK1N9xNAj7hU9YQO4hgHw",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJyRHZfL4zHkcRxddL9CIEAGs",
+         "rating" : 5,
+         "reference" : "CmRRAAAAZIaYruSKSBARse2ZsshDp-_ptkCB-D2-b-7jDqLEe3TpgcnpSYnJi47oHRfWCdiTKeLG4zDWF6ZZgjrknwt03G8vHPvN4X-f8Ig5Wwmi4iSLQ-VTd-Vf6W_k5LwoDV1HEhBPvRMW8-5NfFZ7egQufWF7GhS3IG-9QZnk7gHG7JVcJmxgCqc25Q",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Krzywe Koło 3, Łomża"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.20602679999999,
+               "lng" : 21.9827327
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.20737578029149,
+                  "lng" : 21.9840816802915
+               },
+               "southwest" : {
+                  "lat" : 53.20467781970849,
+                  "lng" : 21.9813837197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "d571fc72a358018a934d436e998c900e6a9535c9",
+         "name" : "Parafia rzymskokatolicka św. Jadwigi",
+         "place_id" : "ChIJnzyKhuIwHkcRv7VViohUuKQ",
+         "reference" : "CmRSAAAAMxJdVVhWP4c26Sivy5vbAzkzS7rWIeWTsV2xKhBYxEy1vfq92VlBQBLVvMGXkqXJoR_g3Ay_9_NYBikaxOMoVmJPCYBVZLJWMkEPxB5qH36TwIfFB1qVUna-j1fqjBMiEhCN0qdJgP0X4azYV_REpTaEGhThMCTLJ9oV7YKg11AhQY6Ufgd2ng",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Nowe Kupiski; 139"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.40620899999999,
+               "lng" : 21.9370263
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4075818302915,
+                  "lng" : 21.9384294302915
+               },
+               "southwest" : {
+                  "lat" : 53.4048838697085,
+                  "lng" : 21.9357314697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "05d427b56a8dd65fe10a2fc93f3b3e6f8d066e37",
+         "name" : "Kościół pw. św. Anny",
+         "place_id" : "ChIJA4ByY9QmHkcRyzBV_J5WrcE",
+         "rating" : 5,
+         "reference" : "CmRSAAAA9oE1jPby5Mx61F-yaaGb47522jP7Lrvy2sLKqII9zasCHP2hrojgFS_EZ7haUfph6ZTUf3e1LeJMSJdfVDWT8uA4tId_hMxGDomTTqkVlBxppBtOqEAeb1uXmRf8ue2zEhDspG9aJXFgWiQgD_ApUVFXGhSifrud6Nh_s0SxwKkX4TY6Bw1SCw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Kościelna, Kolno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.16892559999999,
+               "lng" : 22.0734934
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.17027458029149,
+                  "lng" : 22.07484238029151
+               },
+               "southwest" : {
+                  "lat" : 53.16757661970849,
+                  "lng" : 22.0721444197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "a419dd9229c018aac0201a2fa6a5ea0c052e5021",
+         "name" : "Sanktuarium Miłosierdzia Bożego",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3464,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114420190027886683902/photos\"\u003eTauras Norkus\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADq6l0Shft3Oafeukd9hKM_Ozjg9U9GQOOEIkZXAGuPGqOlTo6XtHH8px7FTCkYHU09TIJ9SNN1IZK1vEbQJiYitjs4thQSH1i1I5IJ8Tvbh9YkQCU6ZW3jKC1wjpXPiDOumIAIeAJpDnMPfNTo97dXi3zkoDUV7WBotWwF9gm70EhCLG7h9Qp5fxAJf-viiERjVGhSdrN873r5IBVN5e04wt1kTscP0Tg",
+               "width" : 4618
+            }
+         ],
+         "place_id" : "ChIJ6TXm3JEzHkcRIITKNLuxFZU",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAABGm3rx0zt0XwpdO6PgqO3S7W9vFxkMo6h1dUjBjoORWvvyzo-ZC0e6nmqMLVhOwvUQj6lNcN6B16hRmLXD_0B2_wmgimqiV45_1Pw1ih8I0r9ZHa7IW3kCIawIH43JZmEhC3dZw71EpMqTp3Hn_NjVoqGhRNTYJQgW-nupvtolcib-xA0R14uw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "ks. Kar. Stefana Wyszyńskiego 11, Łomża"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.08110039999999,
+               "lng" : 21.5701404
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0824243302915,
+                  "lng" : 21.5714086802915
+               },
+               "southwest" : {
+                  "lat" : 53.0797263697085,
+                  "lng" : 21.5687107197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "9af8feaa7e121e0fb05d9ad479082613d02e5f49",
+         "name" : "Kościół Zielonoświątkowy",
+         "place_id" : "ChIJ2dMeeo9BHkcRndcwT_QRQUM",
+         "rating" : 5,
+         "reference" : "CmRRAAAAIU0vQWKRERrPdU-ie-iIzmCwbWeWF4AH-ljU47dgAaWXmge7S-LFgjwSFnWHPGEMiZFhB25ZlowJKP0mSOArV8lTlyzne67mfF-kbhF1BluT2cxKeOAq754c9mMFsLCSEhBlukS8x0OrGWQLU6itQDT7GhQXUe4xslsSc2Yw1FDGoPUPgB05-w",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Jana Kilińskiego 43, Ostrołęka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.2340649,
+               "lng" : 21.4634887
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2355679802915,
+                  "lng" : 21.4648968802915
+               },
+               "southwest" : {
+                  "lat" : 53.2328700197085,
+                  "lng" : 21.4621989197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "3f2d272dac5c099475ccbde514497c4d4feaf92c",
+         "name" : "Parafia rzymskokatolicka Ducha Świętego",
+         "place_id" : "ChIJhfsXjgkTHkcR0_nltVeHsy4",
+         "rating" : 5,
+         "reference" : "CmRRAAAAyJiNshnS1tGTXFbWnhMmYKszMtb2_DgYf5NRoKmOvCPkO42q52j9AsHRd52EntFNsSmynjDVWy7b7jy-qxh75FhTKRnHgJ8IqHR07T9iwtOAw0i1AQh3R9_oDOgDOG6iEhCFr8Vlrxi7-TEsrJ8oQMBsGhQLKdYzxqHugVmTjzp3-XOXSLt3gw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Sportowa 3, Kadzidło"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.8057398,
+               "lng" : 21.898186
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.80700223029149,
+                  "lng" : 21.8998856302915
+               },
+               "southwest" : {
+                  "lat" : 52.8043042697085,
+                  "lng" : 21.8971876697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "545331203970a83d679cff2d9a339365b19d7c88",
+         "name" : "Parafia Wniebowzięcia Najświetszej Marii Panny",
+         "photos" : [
+            {
+               "height" : 2336,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114300685708907477616/photos\"\u003eZbigniew Sky\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHgn_4PZta_Rxq3QQqb40EYEevqG0hcsxEHNv5ZQyEVxvKO-g4vRNUavZE_SdiWFCdPsjKSk1EHLar9AudZD1QiAbrqJeznwl53cXxP0MF3cDj8uxus8hVp9sm1qcxwK_ycdEcwIHzazWxKtb9OtbAz3qiNVY_Ci6LTb_eSmi5iBEhB2sNjv1IPyjhwzLRj51NwLGhRBWe6vQxO-XCHyhaK8CHBv873UUQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJAb4Foz-rH0cR24aaJdQCSTc",
+         "reference" : "CmRRAAAAmyJraCGsLDdCnkI_L2mr7zicwxW0f6vc7M5ubHgt1pwdxnIF2TaxwtNw4r4No4HXZCRz0twVLArSyponUnrtnsBWEKVEfVKJVvC_eDLByhHilrzm3XPaXdsZWacgMCmzEhDBrDvr_k3nWR6q_2YgeZRzGhR3WnyaF5nSkuM70rqtX3UbpStguw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Tadeusza Kościuszki 39, Ostrów Mazowiecka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0849273,
+               "lng" : 21.5712028
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0863627302915,
+                  "lng" : 21.5722229802915
+               },
+               "southwest" : {
+                  "lat" : 53.0836647697085,
+                  "lng" : 21.5695250197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "a1176932d1c7e2bcabf705241594ddf28a1c7661",
+         "name" : "Sanktuarium pw. Świętego Antoniego Padewskiego",
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111587574145994670262/photos\"\u003eJacek Białobrzewski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJcUKTc_jR_keSwTcrXgi3C1BeWIGpZkfHIj_h1kth3df2wdQDlLy05Lojmo5kuAtVKoc0ZnsANMPy3YVKHGflv80AEzVXSfduKmidyW7ln8t64vZm_BTU9ghIuy3qzraETB5uTrV2YYt_sid4j6WJftBHl-koKN1yJtQWXevyyHEhCOC9LFEbSpx-df-wjVQtuMGhRWz35X_uLVe12Aty11qHK3_2711Q",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ8UsdO5BBHkcReitvgZjwA0Y",
+         "rating" : 4.8,
+         "reference" : "CmRRAAAAllvHKFuJxq_GsN59L3pNk__mbwG27XLQXrKRPx7gY6-Rp6HSrYQIDMyMKBqPJfhny4l8mFEoco4Nufm6MKYhDwNvofZsBjBMzowmMvMDvrgGnS_Nt_8mHLmS1Q_Y1BJ4EhAZ5RPTVtgFEbSe0V3kBOJiGhSZf7t0dvKq1NFUhmowCWEJKeUNDQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Wiktora Gomulickiego 1A, Ostrołęka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.15779029999999,
+               "lng" : 22.0758797
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1591748302915,
+                  "lng" : 22.0768060302915
+               },
+               "southwest" : {
+                  "lat" : 53.1564768697085,
+                  "lng" : 22.07410806970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "cfcbbf44b65b8bbb577ce40bd2179e4e0b03cc22",
+         "name" : "Kościół pw. Krzyża Świętego",
+         "photos" : [
+            {
+               "height" : 1102,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101669401552669388092/photos\"\u003eElżbieta Gromadzka\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADf8ilVuIlDbt9jy7tDC_gDSywMXgYNYkrb99k8osQZzyqR5x5OP9lHda7Tlk7WdvtPA0_iEPWXNTbninP2MJig7Mac9DREJGpogMAqkFItcEuz1taYivXTwP9bp98MorSxeLoFF6ceYU5wuvt8t09XMxlv7_R_JYj472kqeTqmsEhDZFUTGsm55xVDhT0INKtqYGhQBfX9rC1bYyWGe-Y6RusOzdK9x9A",
+               "width" : 2116
+            }
+         ],
+         "place_id" : "ChIJl9yPCYczHkcRXMdT0ZNN5aE",
+         "rating" : 3.3,
+         "reference" : "CmRSAAAATY42bLqFeziw3D4__83ZtWR5wj0uk5SVNqdybcfn9yORnRDG_i9Hb0XA8kmHwablx3hhL2VWl8fDNpAkq924liyc9EARYhL8qhKbp_OqVrgoe4xconnrXhDkYgEGxawCEhCahEar8zCadyj8bxsW448vGhS97SqdRcwSSnGlvqiC1mmcsrGuBA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Zawadzka 55, Łomża"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.2348222,
+               "lng" : 21.463375
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2359772302915,
+                  "lng" : 21.4646374302915
+               },
+               "southwest" : {
+                  "lat" : 53.2332792697085,
+                  "lng" : 21.4619394697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "93bb85f026365a30ae15dbaa2961708515c2b342",
+         "name" : "Kościół pw. Św. Ducha",
+         "photos" : [
+            {
+               "height" : 871,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111587574145994670262/photos\"\u003eJacek Białobrzewski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALQdkFmw-o9ILV0J4gm-bLO-lhku_AjDGkoouliGUQ7Id-zZIMfZfHbPlzPxgWHY7aX4Yyot-4gmeVSfmPO6ZTbK1rIPYVUU-lc0d_IxLZuORYnUAuxs9XQHN3U3jJ5g8NdZuKp5QrWvQthb4vlm0kUJ2Tfob0UzzVHF_Um5CTNQEhC7YiZYTmnHVRg1Jw6ua3bWGhSOffDYb93NEgPhcNCG6YIIeWSH5A",
+               "width" : 2748
+            }
+         ],
+         "place_id" : "ChIJZWlVrpgTHkcRwbxsV2lTS2M",
+         "rating" : 5,
+         "reference" : "CmRRAAAARUB9u3WyOlEoRnCE8dc77T-99RHpfogfwzrVKJ6aKlI6veb4_S3n83J0AcqgeBoOAjkZY3o9yHoXCUN-gFawUsLm0x4IolANLEdTzAl5cVeh6ru3e0ae2j7A6gr2jNeFEhCWqS7wSk7Vn5ZQ3vaC0Sb2GhRF0ykFbPU061eBSalzA-UBmLfz8w",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Sportowa 3, Kadzidło"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0622918,
+               "lng" : 21.5240568
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0636544802915,
+                  "lng" : 21.5249405802915
+               },
+               "southwest" : {
+                  "lat" : 53.0609565197085,
+                  "lng" : 21.5222426197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "fe83adcb125cc8d812c77e2636165cd94dfc139b",
+         "name" : "Parafia Rzymskokatolicka NMP Królowej Polski - Olszewo Borki",
+         "photos" : [
+            {
+               "height" : 1586,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107006884119708433865/photos\"\u003eParafia Rzymskokatolicka NMP Królowej Polski - Olszewo Borki\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAATWHjFOe0R8NWJoPyNWEj_QE5-DfnLZIEs_XpwEl0-JY1LUWY-olCBEobkgVAByBQKD70qTWh8rYlLhVeXr6nOZI-IO9KVpWK_fwIQvJJ_7xKn_1rb0kOUbvQ--hkMOjfPbTBLAYBwuVjanjZzk08Ac5eYhf_xJJ60wRpjuNkx2EhB9b39IB-7jNjUIXq-1YbcqGhRDbLu_R63LtxNNxzPsekTFq2qqyQ",
+               "width" : 1582
+            }
+         ],
+         "place_id" : "ChIJieA7VBJCHkcRVQ9pholIA3k",
+         "reference" : "CmRRAAAA2fjgLXukdA4hpfYJGW3SXpgOL7BNhfxdyf64r4AYpfgvLChVcjzf9dOcN1JZJROMMsyz7QGCT4xf0ndYwa_z4ExdCF801tnm0eFVmwiITSmKxvgMlkXjzAHY3fIYPgd8EhAcl0HYQAXxSsmbN8kT2TS0GhTeWm675skMol2WvjRfseQ0xNG4-Q",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "3 Maja 33, Olszewo-Borki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0311204,
+               "lng" : 21.7335791
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0322846302915,
+                  "lng" : 21.7348582802915
+               },
+               "southwest" : {
+                  "lat" : 53.0295866697085,
+                  "lng" : 21.7321603197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "b85ca69299993f9f275b4c8a9d7422effbb8eade",
+         "name" : "Parafia rzymskokatolicka św. Bartłomieja Apostoła",
+         "photos" : [
+            {
+               "height" : 2848,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111587574145994670262/photos\"\u003eJacek Białobrzewski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMpt1Z9P2ZXEBYSYMim84ehRA1OIRvTrRNMdo7-cN22a-6-pKKtyGlmhTdZBiyJeX_PBEtZ5I2oSVwUOo3yjXeJaqDLgAxkuSLeZrUFwHWoCcMizbbUGFShmeDS7qxywss-CG1CaVd0je6nrfOBQ86E_a8Ct4PJqEepu9WA53WXzEhBmKlDEZD1fiKV9ngAccNOBGhQ6AjE0t90A1L5dZJTbTY7f1lRoxw",
+               "width" : 4272
+            }
+         ],
+         "place_id" : "ChIJUU_9FeJDHkcR_-DX3ATpWbY",
+         "rating" : 2.5,
+         "reference" : "CmRSAAAA4XqdrWOxi6p3nY-2yZQvvOKgdixC1F5Rt_hRqgs1GLfdUsliCS5bp6lC0B9lHyAXJLWLrqLj1wOdTILRuWIL5HmmSeck_G-MJBcba7yztQ9bRIvMSc8v48Qz7DQlnSpLEhBji1DNBXzw92_dUtYE884GGhT8_lHIJaWR-KsEqQ0u7qwKqdkCHw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Juliusza Słowackiego 10, Troszyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0101583,
+               "lng" : 21.451149
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0115072802915,
+                  "lng" : 21.4524979802915
+               },
+               "southwest" : {
+                  "lat" : 53.0088093197085,
+                  "lng" : 21.4498000197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "8f04eb4a16b7c22910447678f95b8742c07a0c58",
+         "name" : "Kościół parafialny w Żebrach-Perosach pw. św. Stanisława Kostki",
+         "photos" : [
+            {
+               "height" : 1368,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111587574145994670262/photos\"\u003eJacek Białobrzewski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAG1PMnMz8UaoNzBUA7dQpMO3N2B9q-WOVXe7zu6WfCSzyTuI7X5F_BnTEnLXpRH-L85dC1eUIPUL0edp0sAgbyffnrdbWdIFw_2me6Ey4oFSaS8-D7an1bBUER-4vaIspGF_2zfVnhR0G-iXLztPdsD1fy2D9uC6tTpOxdWb7zZSEhDZqITKTa6MjZsMqMSaIGqRGhRdBfBB_Blyvnt_NtsB1uOIrSutOg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJBa91RQFoHkcRDHAvZ8YugyU",
+         "reference" : "CmRRAAAAzthUhH2HWFEccQXknoEG1lO0o_GT0P_WuZiZcSPxNAnDI8L3qR9f02v5Mt8n7S2Ikwv5-FVf12UlAXX4IbGjZ7flmSQ6OnyZRNu4E7feTzvaQ7SCkTvlX9HWTm1b153FEhAd1nKGeg_6ZeoblFto6g1RGhQQuPfFKXsvPggnM-1gk_xq4roAzA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Żebry-Perosy, 4, Olszewo-Borki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.17605639999999,
+               "lng" : 22.0475516
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.17761948029149,
+                  "lng" : 22.0488113802915
+               },
+               "southwest" : {
+                  "lat" : 53.17492151970849,
+                  "lng" : 22.0461134197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "3ee8f3a54efd446f2bfceff0e29a052b50b10c07",
+         "name" : "Kościół Św. Brunona z Kwerfurtu",
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104990970538200311516/photos\"\u003eMajo 587\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADbpjjn6oYWaYbY9naBFEVc5p3CoHPh3XPHdHH160JjhvrrjAhsFo37oyir_P-9p0cg30WInoMj9D5LCLbVJ4p0oZgJ2BxVynt4dXP5889MPHVUnO1l_XoSKY94IAJRd361vGnSPhV4v-4rZddHJbwJEn2t91YdmjXdd0lbvn4iLEhCclLfe9Hp7yiJq5XZ_0IZoGhRWHX5aQTbWPKK3Oy-55-WTz7wBrA",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJ7fR5deUzHkcRlkwCiY1gIgU",
+         "rating" : 4,
+         "reference" : "CmRRAAAApa6dHvc4JerJYAxszkQD5jxp2jtGp3Tmrf_yDYOL5OTaItO2Q9ww2Mh7nUUQwvGs_jxfNntvKLfz8wilFwknEJgJAqCHKH6Ep8qkuXsdvOMlhixBDwkFptJz5OY-ZlmvEhDgO0QKygqRaR-9--fAnX9hGhTxCJmUcWF3jA5yI35RT5dcL8uc3A",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Wojska Polskiego 135, Łomża"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1714447,
+               "lng" : 22.0745899
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.17279368029149,
+                  "lng" : 22.0759388802915
+               },
+               "southwest" : {
+                  "lat" : 53.1700957197085,
+                  "lng" : 22.0732409197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "487605700928cbfad80c27490b4220f70a1744f5",
+         "name" : "Sala Królestwa Świadków Jehowy w Łomży",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJkQt0cZEzHkcRPx1aJh0HHak",
+         "rating" : 3.7,
+         "reference" : "CmRSAAAAWkDkathxwaYHex97mxp-WIV5KJx2tUig9Y6tUt5qeCQIegOUEVnrlAPfoeFVJcA_vltn2vTDBrApSu_mQEKpyHz9ch762lWjE25_afqyXlGyC3dmfSN_3U8WuK5OQaECEhAIgP2DwnhRFxOIHFAgwp_UGhS8kWM-YxoP7fFGcRqupi0gsNajnQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Gen Sikorskiego 277, Łomża"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.8908688,
+               "lng" : 21.399543
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8919054802915,
+                  "lng" : 21.4012045302915
+               },
+               "southwest" : {
+                  "lat" : 52.8892075197085,
+                  "lng" : 21.39850656970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "464e00e6be04e35ace57a0c5c8ffa68a32f2aad0",
+         "name" : "Kościół p.w. Św. Anny",
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111587574145994670262/photos\"\u003eJacek Białobrzewski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGnFWCGpGHUSPIbBoVX6MO5NIqjkPUGa11aua0Ag3cO5gHCsTAsbNNIjK6uZZB5NBNhq_JmkGPTR6brUgksAEqWcEk0iTdhKA6S6ecNtPlKJjq1MzRBdGJps9k3XUoiODp2rrTbIW34X0-ofWbkIOPubLMu2afIYtGiNdFN_-e7zEhCM93bkcFvXZBSWy8fq-7HcGhQkj9ng4IzHa9NoyWfB8Mj7FtozYg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ09L6DEheHkcRBDLJdB-4y68",
+         "rating" : 4.7,
+         "reference" : "CmRSAAAALxISVNKBJXYVYtIR5RWOXPtPjq2tzjffwjxifDZZXPHTti2-1D8VYL4HTmcIEreo_evrxbtkwDvEXh35ba60ZkLi1QxPFYSMCAbadiSMDPO4owOWaOYMyPsFZBTayMCUEhDz2OXwVdMX-ew9dMFa5AyXGhQz0_TjPKbfRd615P1fYAgOHsf0yg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Panny Marii 7, Różan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 52.8057398,
+               "lng" : 21.898186
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.80700223029149,
+                  "lng" : 21.8998856302915
+               },
+               "southwest" : {
+                  "lat" : 52.8043042697085,
+                  "lng" : 21.8971876697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "11cc4b0fb0f57aa3a9ff525631da0704f3a98ae7",
+         "name" : "Kościół pw. Wniebowzięcia NMP",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113176819091174134833/photos\"\u003eAntenka Misi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALbrV5scVBEoxm2eh6udfEvoaiGgijBgh0Qayk2VXtWZf_LCF8NkXZYkK3ZzesOgAijr03uhv9E4eiSus8c2xpqlJCsnio6H-R1lqeDVFQjX9SJn4SGMukpEL47DRRpcRVbRShATP8qvUbeBpuiC96RY43deQ8XiXISVb5R6jSifEhDmyDjIZvJPW0CC0m9_S0-UGhStYz_QsX3l2uOGysqOoh1xZAlijg",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJp_Uzoz-rH0cRts8EF05tkws",
+         "rating" : 4.8,
+         "reference" : "CmRRAAAAzUgvjWd2ECYJNB0f3VOQhiaZZxLCNZ9QDSE-IfHtjtN7s9Utl65JjmO1IGRGEdpzCJfNGCf30wNPZMusddaD0ZUft3fRaAgobiNxhsu4SDsXXNpzko4VfMZDz0pZqdMbEhCsnWKhUYCuJo4AGspFhTyXGhRM1HmixT7bfSIIXTJFEXRQmgGxIw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Tadeusza Kościuszki 39, Ostrów Mazowiecka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.03149089999999,
+               "lng" : 21.1542982
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0329443802915,
+                  "lng" : 21.1553726802915
+               },
+               "southwest" : {
+                  "lat" : 53.0302464197085,
+                  "lng" : 21.1526747197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "381e0d26e94e39acb316ad3e1ff52b4fe35f17b7",
+         "name" : "Kościół pw. św. Jana Kantego",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102226404945929510772/photos\"\u003eMARCIN ANTONOWICZ\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPAu-EahCTkcqDu8mNXnBWrZ583hFFpuIpo1HwAjeQlCIuZVUC07xNo3iKUZYbmdAlUw87jJrIQFsF_2cHuACvEEQNzQ4bvNgnA1NMNPPWE9xrF3keXwq5KVB-3mNy_AbFJmnUqzrF_-rgEJnSCIETPFs-rybMBZFUDX0B3H9g5BEhBRh-zRFOZDw8YQ7VyE8-dqGhTAu9tqBea9QTj2q_iA-zupnRYxxw",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJhQc1DcJ6HkcRP-sjiDnI6vo",
+         "reference" : "CmRSAAAAhZZMGVP23lz1k2nVlr7WBQu2pp3w7D_l-aez1oA5oG-rl1Cr1kDp14bzpX_eQ2uVKtOwLKpoW6YL2_w3FQETL0uUAjYdqWJeJrWtOEKLNrfahCTv3LGuuLAmhFXbwD-ZEhAgl9dYuxUR451W8_xizdxiGhQbXjaRDg1YnecDBTZ8Z1_lBdWUWA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Plac Kościelny 13, Krasnosielc"
+      }
+   ],
+   "status" : "OK"
+}

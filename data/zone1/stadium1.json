@@ -1,0 +1,47 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1058921,
+               "lng" : 23.14908459999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.10724108029149,
+                  "lng" : 23.1504335802915
+               },
+               "southwest" : {
+                  "lat" : 53.1045431197085,
+                  "lng" : 23.14773561970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1a8651e43aa06183f5b04eade17e748ade8a55eb",
+         "name" : "Stadion Miejski w Białymstoku",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117246987665040956120/photos\"\u003eStadion Miejski w Białymstoku\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALJ0C096MM2IDy28oROAWs_9G8zKrPOgIiWkUTlPAqdstFeaVlZaXKumyWsT_MsyhV0dbCUDGOxOCNuvNXulfACyB4us7s6qyELAMRLoXVGdkDIgTbLcmJxLsqqRcs_EKOgxl_gHilVpVULp83Sc4El2r-iG2Ifg_O3-qKUWrkOiEhD6AnyZ6G0zZvKzS1kPMZEHGhTBNPN-QgxcAmuNHVbaTeqIGA_npg",
+               "width" : 1084
+            }
+         ],
+         "place_id" : "ChIJW9rZrFj5H0cR0Na009ebkRE",
+         "rating" : 4.7,
+         "reference" : "CmRRAAAAK7sd7TRiLzuecQ4i6WtaSXhEe8LL6yjG830lKTWK8RIx2q9DdI6Ot3fYOdbxQZnj5ZkgCVToPy0RCijkGFtR8M9lVfUnd5ZJZU15B-NSn7V9BcTpNoP0-rN_RMqMdWBuEhCpogCEGQJ8KU-JVuE6qXA1GhR4RUVFavC5D6kQ4twg7huq5blxeQ",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "point_of_interest", "establishment" ],
+         "vicinity" : "Słoneczna 1, Białystok"
+      }
+   ],
+   "status" : "OK"
+}

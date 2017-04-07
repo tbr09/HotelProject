@@ -1,0 +1,696 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCAwEAAIWE4q2n1AWGouFrGLbklWGpSaY9ijveOvO1xXSMlL2KS9ERJqINsGEPQUhBsbuYMz0da65-5zpdR3-gGPCNJKwwxFhWbOjN8IcDl-SiCKKSz2z0bdNCh2CF8CrITmbrWfQbaE4eAKdjVs6ZQY5kpEWAtknjfJg5t2zRyYCc_8xfabVf7vIgo-zvVCEHBmoCFKRnAzQD5VEEqyW3F83ciIfCBAzN5xX7yTV_MlhCX7a7_5yO005IFHpkPB147huL4rVAp2VV83n00kOKNlZtZRwcx-eAoTxSh5I2MmXxuzY172kwPi_e8US2Mf8JcSfEgf_4CjrMGTBJs9gkQaeruJW2lubjRdsJmkN92IcD22qIEhBk0nQDhnzx57lf8p6F_tETGhQ94LfmMODhkpKVJiRHOh9yeF41Jw",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.591347,
+               "lng" : 20.2845266
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5926959802915,
+                  "lng" : 20.2858755802915
+               },
+               "southwest" : {
+                  "lat" : 53.5899980197085,
+                  "lng" : 20.2831776197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "9b9286a50b39da8d617e856dfb678e327fde230c",
+         "name" : "Muzeum Budownictwa Ludowego, Park Etnograficzny",
+         "photos" : [
+            {
+               "height" : 1667,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117144476716291663773/photos\"\u003ekalumo k\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALhHIuyWHDwB7sFn-H5WJF8Vs46oXBFP6PEXovTfjppzvsD6psMJgjS-8zp4PkY5DHKpdGAZPC0G_nfLralZKXw3NDdses4zvpUJY8Kbr8bEkKfVrzdC7zQdQDurtqQpR4q4svIMMd-ZbhMfaerIUxUoCali7ZPbkBlN5W9EecNmEhAAQzQkpSgOH1_gqkxXLUlvGhQfQk2ZBx0zMG0BcxylUAnyPyoH3A",
+               "width" : 2500
+            }
+         ],
+         "place_id" : "ChIJkQnTTySDHUcRtPM2QfBlJ4g",
+         "rating" : 4.8,
+         "reference" : "CmRSAAAAX7rX3_tQV39GjApRzHOF5-lF2TFmkpuOl0sFZkXxa_XbA-YDhSrYYwGADO8JZJQaJOXClp7_r1XmkHDzk5cvL8bMroI0ZMYwcruzjW_roEaNIaolBP6SiLFOFsmZChfVEhCkINt3NeB9qXyMg6GKhomxGhTrF3Or9B_UEfPOmYokK1qjtF6VwA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Leśna 23, Olsztynek"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.77756650000001,
+               "lng" : 20.4746587
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7787233802915,
+                  "lng" : 20.4763949302915
+               },
+               "southwest" : {
+                  "lat" : 53.7760254197085,
+                  "lng" : 20.4736969697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "7e5e0827b641b5a19114e3e2856cc87aa74c7821",
+         "name" : "Muzeum Warmii i Mazur w Olsztynie",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113649454928381876528/photos\"\u003ePaweł Kownacki\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGT59D-f7q8y71CSgEOvWR28hHJ6xTUdhL7P9H_HtzhKIVuVMyiGNkISW26pwDWtsGc8tu3tN1s3x0RwXnGBeMkvL-VHo5Oppi-rgxUpiPxGiX7yuUkheylYOYA5YxmWD9vnfIcXDt2Ddkma6lNQN8kWFav5Vo_53njxAGihCLR5EhDfUWYJ2mlvSP1HSmeNN_PXGhROh4PJixWVvWPYI4nzPvTBfNe2Hg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ-QsMLtF-4kYRAKjF2M3jRBo",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAA96AD7SGA7remtOkDPBWo1VTkotrv0BgM3_ko2bv-kZAqFovyI-czrk8EakLYtfQa4a3dUFZ0d6R-oSaQ84hkNXOEZc-fR4y8MKwSsXp4mtr83akB4k76LqpuYEefk260EhDkSDg10a_F5bA5Uy7rI4BRGhRf6umWYqUwNObHueDlBOQ2TSGqEQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Zamkowa 2, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7777448,
+               "lng" : 20.4765952
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7789027802915,
+                  "lng" : 20.4777906302915
+               },
+               "southwest" : {
+                  "lat" : 53.7762048197085,
+                  "lng" : 20.47509266970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "e6982fda142f74a22100dea1c847e166a5dd62a0",
+         "name" : "Dom \"Gazety Olsztyńskiej\" - Oddział Muzeum Warmii i Mazur",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113649454928381876528/photos\"\u003ePaweł Kownacki\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGXhd7lm8kUEu3bbMvWTM1Akn4eDRsCWBAge2EUbldoyWGMdOk2g-lHGrKojJEdVwAT8qeAqVLblMy3jO3li67p9Zi4F4lzibdhceSXhJb7RXJp_Fg0SyKhP-XocV2dyAGNQFBeRbKLrZQSiP9wc58uM4zK8_PaIgcjUiWAaU5S8EhCVq_951jwTI9Qy02PNxHzKGhS53fh4tHUotXbqCmFYHkrt4XlAyQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJpf3JTNF-4kYRy0mVzenCy5w",
+         "rating" : 4.7,
+         "reference" : "CmRSAAAAPdj_nSdvMGz7Q_-PCBq1Jb10GUYphgJq8mg52IFRJp30dBGwe0r6ohYMtoxhbmOqF9Ox93u-2dSYcdcWTGYjlYcRGufDZ_aNW5-XWxpWdeHAIAXI2DnH2lgefMgt-04qEhDOO1JDsQcVro1FpGDRGxo6GhRgwmxq6RAp6qqKWoM0MRU1A60SkQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "pl. Targ Rybny 1, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.76122299999999,
+               "lng" : 20.4942749
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7624285302915,
+                  "lng" : 20.4961666302915
+               },
+               "southwest" : {
+                  "lat" : 53.7597305697085,
+                  "lng" : 20.4934686697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "2fbea560030cb3006380380c916fa0988ffe8887",
+         "name" : "Muzeum Przyrody - Oddział Muzeum Warmii i Mazur",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103726142037679790320/photos\"\u003eDariusz Wojewódzki\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADpByDs1XdDWH-bLR8laFW8XJwrblrqqZwcjD3HLXFzfJi6hMlUw49MDWDXtwhE8dJ_Bs7ML9A2P4ml8oxagFTToda985c10Py-n4U1H-8dKmGbLO4oxYk5h73JixH3U4nyz2xcXemGmQVD8bQB__cp4jtOzbKX9V-Cuqoy_7Ta1EhAfdbWtTFig54e2exVVTDPVGhQGNpiZ6szT2cEECTHelrUynIMjaQ",
+               "width" : 4640
+            }
+         ],
+         "place_id" : "ChIJj6vfXNp44kYRgDPeFYbvS04",
+         "rating" : 4.3,
+         "reference" : "CmRRAAAAo3Huk3y3SSbxJVN93uuTVADya5hL8E8iimOG9cVl2W8amZpx9B9mj7jNOOizYMt0bfvj1jQCp6R8-SrQIuPevM2giSr0tsoHgOUXlPV7mlNGQRAyuGckY7Sqx9wSNUiWEhD7eQc9VExiKBHef4lwz4c2GhR5ngRET7lho3C2JUcbiA-3uR9d6g",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Metalowa 8, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1257353,
+               "lng" : 20.5830333
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1270842802915,
+                  "lng" : 20.5843822802915
+               },
+               "southwest" : {
+                  "lat" : 54.1243863197085,
+                  "lng" : 20.5816843197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "93e52e1b5f63d3dbae29f1394c4a7fe89c6b1f51",
+         "name" : "Muzeum Warmii i Mazur",
+         "photos" : [
+            {
+               "height" : 780,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106123080650717102073/photos\"\u003eRu Cola\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAI5STw58KGkIoLgPttK-2UW35n1lKghCKq4LjudrQds1IJOIewVpdQjtIneLZHxhIyxSq7ezo98OnrzWR2nkkQlHjdoSNvwv0bpLbf2XZWHXmBFI4xjPccTJb6ozhrfaLLuyW8qtK9ZCXdhPV9qpmTeSxx67FoyU7yVaRr-G3JcoEhAwawqDAxZ0ljDpeBwR_cImGhRIb5dcxQdls4hQ3o-J39kjDFw-Bg",
+               "width" : 1040
+            }
+         ],
+         "place_id" : "ChIJ7YlPq5n14kYR2YIPcyBH-r0",
+         "rating" : 5,
+         "reference" : "CmRSAAAAqsh_eS_zat7ju0U_bIHv_vgZNNqPcw2aFO28IE0SRXu3uT2dR8J2cApLzqKdx6c1tuwWSn5ZuWonl6YYj2yDsMM1P5CGh6GQkRiIitEJnasNnk9sQuyEDzVi820CnnWeEhDBHplcklcQlHH9qFY2QO7HGhRQMscggvIvOWPb3jwAi11MA5IkIA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Plac Zamkowy 1, Lidzbark Warmiński"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.77285550000001,
+               "lng" : 20.4956594
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.77478498029151,
+                  "lng" : 20.49746298029151
+               },
+               "southwest" : {
+                  "lat" : 53.77208701970851,
+                  "lng" : 20.4947650197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "973ac5095045c6b5de461b51b399521ce8376b84",
+         "name" : "Olsztyńskie Muzeum Sportu",
+         "place_id" : "ChIJge8bOyl54kYR0opxuMQj9yk",
+         "rating" : 2.7,
+         "reference" : "CmRRAAAAJNTRCf_OnmuK4INCBdelsZ97nUH6BmOZoEF_BouvQvO7H4fmHZ_EFyBqULmFrArMeZ-GSJvJmJCMWEB9WTD8jkDnRlA6zXc-rTLhGiM7VX_IQDVYziB8M8cvNNSFwzZnEhC5UNYbRYyXVsjJENJmN8WCGhRIBShRNSQVPORc2MfhOfyxRunHMA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "aleja Piłsudskiego 44, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.911863,
+               "lng" : 19.9256
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9133378302915,
+                  "lng" : 19.9273807802915
+               },
+               "southwest" : {
+                  "lat" : 53.9106398697085,
+                  "lng" : 19.9246828197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "709b4f7bd2ad3d12c3e08608673faa7443667210",
+         "name" : "Muzeum im. Johanna Gottfrieda Herdera Muzeum im. Johanna Gottfrieda Herdera",
+         "place_id" : "ChIJHaMjai2f4kYR3x_eFeHiKVw",
+         "reference" : "CmRRAAAAKkN1qMV47cxqJn_D4wTa-WYj3zwl660VGsSQTkH6WmEyfDhdAbNXkZtHjgdsTtTqgkWWXZOcqoDxJFgoqvwbuNIv92JQJeuFdaL_zl06Gj-Sd6uHkqQgfqvbNlrcG1NpEhBlC1Gp1Esnf0fFjChJF73_GhQRir0LNeyGGfozWL1HzdBrnVdb-Q",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Generała Jana Henryka Dąbrowskiego 54, Morąg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8596789,
+               "lng" : 20.2173168
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8610278802915,
+                  "lng" : 20.2186657802915
+               },
+               "southwest" : {
+                  "lat" : 53.8583299197085,
+                  "lng" : 20.2159678197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "1ec2c2cabe4252feb11e171b34ad9bd68c9a0cc8",
+         "name" : "Lawendowe Muzeum Żywe im. Jacka Olędzkiego",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3156,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114760319404424876223/photos\"\u003eRoman Cebula\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAP0oVTmSRnUOHQaIWa3bql7cU3ezRRKSYy49X6QH85Yu_wz-QL1lXp7JQB_uCVMIeM1hxFsoTUYNvssheSBmR7UK5Yr5tlSSlVNOT5EczbNus9XUeboLRB9IyHnYAShmgcynRcsX8aC_WOnJ8gKJHlTBDoVy-yRTKYL-Dyuvd4lBEhB3zEJwVXdmXTGxTqTMUNPzGhQG7kAvhA_PXni1koYzCPJPaQ5Xfw",
+               "width" : 6002
+            }
+         ],
+         "place_id" : "ChIJZ4uI04uD4kYR97wqzAZqNf0",
+         "rating" : 4.6,
+         "reference" : "CmRSAAAAxRTYnoXllY3AGlG4FPBwTu4vCKDblLWQ0rnYnJGv0ReEsnweSPAhtP64EaBZjINsc9XydqvYk0P0iwZ_EZ0gn6F7Of_Gz47suJO3dlBSujUbzBkPHuQktzMZAlgR56FSEhD5UZ2lebnph46GFevaHRSUGhTMRi48Yk_I-TmZPzXGHyGIZdDoUA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Nowe Kawkowo 11A"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7976948,
+               "lng" : 20.3830779
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7992822302915,
+                  "lng" : 20.3843777302915
+               },
+               "southwest" : {
+                  "lat" : 53.7965842697085,
+                  "lng" : 20.3816797697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "ebd1b0ab8ca561c086e8592fd7a7d2dac5ebc3d3",
+         "name" : "Pod Olchą",
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112006659092653300185/photos\"\u003eMarta Ossowska\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPRrUw6ns4hpPhxfIUZzpSPE7r4Y2h_jnwvtdNWrZ0abZWQPXkk2JCIviPrWoL0uia-qMsNEFtTRt_VnoTlinP6Hd9KEqsct_ogj5UuDQoAwkfUYVba3xbS6tW7Lqapo2nVmr9_DqcfGsjnrVtCNoNKXlfrtnYhq4AsQqgKMXVkXEhDusVJE4JUPXXDxQzvuOUMHGhRQA_ydQ6pWqdYyeA2YTwJsK_FXWQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJfdQa6jB-4kYRSBQet4Q8Xqc",
+         "reference" : "CmRSAAAAyNO4qIcbOg834zNQjlKJGhGpNa2O9neRkaGvnx0-8aMeBKqInQUWtvJFegJUsslqkkdT4rlPBIySxso-t6HKV9WfXWC_mxXB5S8r8Wg691Tgeb6LJqcvrfyeD7-6TrICEhCRJMKreNssZVF8MGWszTGeGhQFtCAMR9yqK5RmJtxgJsXceJGQ7Q",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Gościnna 4"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7777445,
+               "lng" : 20.4747203
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.77881238029151,
+                  "lng" : 20.4764257302915
+               },
+               "southwest" : {
+                  "lat" : 53.77611441970851,
+                  "lng" : 20.4737277697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d73fd52341a9e6f72bfb3dbd4ef074803dda4b0b",
+         "name" : "Zamek Kapituły Warmińskiej-Muzeum Warmii i Mazur w Olsztynie",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105400845757492997062/photos\"\u003eAnatoli Prasalovich\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALfPv2Q71619K4yWhDfWHhmOkzrUOiYb712Sb3QeQ50Vdz5VW3EOdLZn8Y8z61XjNZDQw2ddqgsCl0bBG_F1XtLHllBmM_llCnnIjLnqM-LCzKRptuDdzbZcoFr4qjk0u3b51kOXELqS4cKLzzm5wUdcZ0dkyPJjXsleOTflP4cYEhB9-MwO1o3JE0TTVfGAvYp6GhQH_spzzEfEtwITWyZAb4yJGxTlrA",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJocj2xNN-4kYRlb6AIJ_Qm6A",
+         "rating" : 4.7,
+         "reference" : "CmRSAAAA_XCd1fk7PrNHDMzpJ8mxfhh64qscZJRAiCscCVNBa8aZJpcHuRIbHoYGtjj8gZWq-0PWuLPQGr_6n_BFJmc_O40nEKF7-rLLqALpoKVm42nyZrDWVbEfX6jhcpTklCiDEhDoFwi8Q3I_lKE8Rph2TjtUGhSY_Ph6AiXy2_vL3ihzRSs5MRCqig",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Zamkowa 2, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.9820806,
+               "lng" : 20.7434416
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9831771802915,
+                  "lng" : 20.7450695302915
+               },
+               "southwest" : {
+                  "lat" : 53.9804792197085,
+                  "lng" : 20.7423715697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "5bc2032fb8ffbb42a6cde79c1ef6b780b8296322",
+         "name" : "Muzeum Warmieja",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 521,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100569371865036478487/photos\"\u003eMuzeum Warmieja\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAP_uDc996J32mTgflgci2-zqbG_S127OpaV6kAiEumTtp1CbWL6LaquwZR8mkzM7gwLL--b5DZsA53Hb0aU5Up6qSeVpvDxWkpvjg4TvyK0htxaXvnFyb_1B7de1ER0Y_WDfv-Zh-dgzo6QrQFKbGoXzCLO_trskWeWQwo4bg6nEEhDCI93ri3b7YI51O_YuRT7kGhSK_LNEuM0jm2gXzQDeN1b6YAhr7Q",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJWbIlAkVm4kYRxDGLkzeZUos",
+         "reference" : "CmRSAAAAYeye_BHBeJmqqYE06Kq2NQvzxMWs0blZ_aufy_WWWCf2uyoDQVxgNy0-v9EF9T2UjHgrXvTx4PDLl591T7g9NOx9w-0WLCyBpyROtLYhSpBxAjKIJw6njFUo9RkB9LoTEhCqQN0ed74U7zc8WRBeA3_cGhS4Fww00IL5g0z3Ds4Ul42upplTEQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Polna 15, Jeziorany"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.68968049999999,
+               "lng" : 20.082407
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.69109243029149,
+                  "lng" : 20.0837403302915
+               },
+               "southwest" : {
+                  "lat" : 53.68839446970849,
+                  "lng" : 20.0810423697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "d4acddcaaad8e8a97a795dd7fef4f32008a60a92",
+         "name" : "Skansen Fortyfikacji Stare Jabłonki",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2400,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109610908215498152353/photos\"\u003eJakub Kędziora\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAmSbgmmZuQfR9yeGWQKPt45RaF2aM4XCH-gGC8ErCNj7OrN8ClVFCgguvgqyU7COR9DWNpJB0b4oZNnurHyCl-VPis36zWJgpx-HNxCOr-ZBNv_wU8K7Nc-LsYAp7tmkzji5R6-xBKQ06tf7kQssKMob00HDOU305lS7kdzyMJaEhC0jUeYl7r06s-99h9K62LeGhSj8Ub3ZpFSP4pTLJ6-5_Aqrd_k6w",
+               "width" : 3200
+            }
+         ],
+         "place_id" : "ChIJ3dyEGJF7HUcRouDXwmXl78Y",
+         "rating" : 4,
+         "reference" : "CmRSAAAAi9MRLgt_ME5PRK18D2_PMpJHn1e53gGUC9i2upncJu-DkVnECqDT6WcQu_EWivRe3ZHOduacTYhFwR6cdSwcb_-JQSEfH_6Tdg6M1GqTyQgFlNrZ5Kd61D2WHrOK95JzEhAlb6iiLVI-_PCukCv6ac1RGhS182Gvzum9DCpHsPiMCruCSDDFhA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Turystyczna, Stare Jabłonki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.703491,
+               "lng" : 19.960939
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.70481368029149,
+                  "lng" : 19.9620785302915
+               },
+               "southwest" : {
+                  "lat" : 53.7021157197085,
+                  "lng" : 19.9593805697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "0f47dfee1c751acfac6ae6b5d9b0d5cc883f9a38",
+         "name" : "Muzeum",
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117384683417936033506/photos\"\u003eMaciek Weldycz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOs9TJf2OOm3f_rH1TMNByTJoVer5rkL9wpfUVWxwU3YeIH1cbrTjEe4e5lbP4OwNh3AJZ47ZGPYnAuBsBumu18ffQIIXtN1S8SfnmX1bIWCSQ-XPeUba07_clqzqbcumZRPRbgc3sKo4FDBU7Xgwmx2t07ycZ6mI_IWatnEgI-bEhBCwcZlv1lrOpJu8He2uPrnGhQgsKslSpQMz_CK3uO7KcFBu4K2fA",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJM7eks-pkHUcRWMa0t_JUpAY",
+         "rating" : 4,
+         "reference" : "CmRRAAAA6kARqGiA0KfYL5V5c4sWNEzJsDcqPdGWGv-bnJ339Ddht2AyUUy4eCnfoaNMzE2baS4psVq0X0jhrqfL-Vy1KLsqHPlAR5DRulnA0WDku2gCyIQaDoDLAYkZG82ZHFycEhBWBx1h-8OXLHcARWW6jsW6GhS6vIccKvCYiGXJF7rVa6OUgyKm2Q",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Adama Mickiewicza 22, Ostróda"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.58345240000001,
+               "lng" : 20.2830214
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.58462503029151,
+                  "lng" : 20.2843286302915
+               },
+               "southwest" : {
+                  "lat" : 53.58192706970851,
+                  "lng" : 20.2816306697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "ac5552af31a633b1160a9b9920a1437702c5d7a9",
+         "name" : "Muzeum Budownictwa Ludowego, Salon Wystawowy, Dom Mrongowiusza",
+         "place_id" : "ChIJTeHwcTKDHUcRDlFDBtzVob0",
+         "rating" : 4,
+         "reference" : "CmRSAAAATRVQ7tiGySMVU-XqhdwdiyhF62iqR8Tts8uJiZNK0SeH49ievUWnUQ2lMruAuCFU1ZVhk2J-QXw5Jf5TIvOEB-AEcrBN6x6NsJG6jcNG48yj1qXKhoi8VWvsPteRrpNtEhDcXjDyHBW-vBakNAYsa5PZGhQMYyu-8MNdeGfbSs0GXYK0DgpMkw",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Rynek 3, Olsztynek"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.285581,
+               "lng" : 20.487158
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.2869299802915,
+                  "lng" : 20.4885069802915
+               },
+               "southwest" : {
+                  "lat" : 54.2842320197085,
+                  "lng" : 20.48580901970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "b88b15b21e1a6e6ecd6f323bb933a1f1d5a1b667",
+         "name" : "Muzeum Gazownictwa",
+         "place_id" : "ChIJP04RiZX64kYR6aWL-BloEoM",
+         "reference" : "CmRSAAAAYYZ8x2bB1EtNHpM0tLTTAvVA0T6b5vmNOzEyUWKjkoSHna61NPiCtXoDP8Z-oN_mJhpzuZ-bgBvq4zWbSkOmN5J6VgmgX6JPV0QJt0FlSWMOEhykLj9G4A5C6ZS59h88EhBPGWcWZQPd9IaeWBzKB_e6GhSdp5VHIqtzw8WzsFb204cdqK_s5w",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "kard. Wyszyńskiego 20, Górowo Iławeckie"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.2854397,
+               "lng" : 20.4872125
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.2867380802915,
+                  "lng" : 20.4885760802915
+               },
+               "southwest" : {
+                  "lat" : 54.2840401197085,
+                  "lng" : 20.4858781197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "1d1831a984ce6b0640c685ee81b9e4db8f0eca00",
+         "name" : "Muzeum Przemysłu Gazowniczego",
+         "place_id" : "ChIJ8RWmF5b64kYRnD5bDxOua8I",
+         "rating" : 2,
+         "reference" : "CmRSAAAApSgSj6YPxbdkdGYjVWBbmbFsZqEH--QvjFOrxnSXXgPpeLkStR-lvuadYMYAEflaD0h114kES7l17NV-OmXZEIuePGsObkaHY27c-jXmv57RMoXdThinikEIhxyvYh6mEhBEIsEVR7oEnEjrNO3qf4AaGhRrqVopknlYX-J4CNxFuORxu_IVuQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Kardynała Wyszyńskiego 20, Górowo Iławeckie"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1556714,
+               "lng" : 19.9218319
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.15702038029149,
+                  "lng" : 19.92318088029151
+               },
+               "southwest" : {
+                  "lat" : 54.15432241970849,
+                  "lng" : 19.9204829197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "61c58cfa07a1dff6be021b13bf60c9574d0c6e88",
+         "name" : "Pałac i Park Gładysze",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115826961160811014973/photos\"\u003eMarcin Jerzy Ozga\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAR6SJ9CZi-rhg1iZeMY9Ifiaik6fS9djzhrmDlRIbz-OFxwIjUmrJNA4lU3ERriLtihg95-mUqwPMWS47LdKCVkaAzAQgPQeUGc4ROXlz-9lNT12ULvORep8ia6Lvy0qIVN-TiEvLbFugYgaeMnPGlpvHDZO3csOJMVo_jCc8mpEhAB5k4eWBklKQQBu74xLQ8YGhSBhAan9Ye0WLlYE72V1Svhsiy5VQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJk7bHcTG_4kYRWHZBrr07iCU",
+         "rating" : 5,
+         "reference" : "CmRRAAAAwcvBfZGNdz60jIM5OuxF8adFPEuRoVwIp36X9U5IfkYUc51lRVvfUV79nkZPrwjVBQNmWxC4PZI4lKky-nJYh54QTy7RyM84ItRFa8ecZ3p0mF1My7Gc7e9HwHz-FJtpEhAvD24q-HWDvMfuS7nyI3nLGhR-5xeEBizx9poQIrKvXje8QcVgfA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Gładysze 9"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.89418730000001,
+               "lng" : 20.4880335
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8955362802915,
+                  "lng" : 20.4893824802915
+               },
+               "southwest" : {
+                  "lat" : 53.8928383197085,
+                  "lng" : 20.4866845197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "b0c3ef160646098dd22e0152d7e30d64bba2cc50",
+         "name" : "Muzeum im. M. Zientary-Malewskiej",
+         "place_id" : "ChIJ_____y994kYROUAhTB2I89w",
+         "rating" : 4,
+         "reference" : "CmRSAAAAoBe0aA0FvYOPuAZSSqm-RlDABS5CqxWeJaJeUF9rUgyCCxv6znX5PQG2ofeqe0rjrl9gXaZtVFX_hZjEbkzFJUhlg8xoXEJ4W2DXSFbXRngUN7kafnv4iFBHBKbmfQkSEhAJa_rgew_QsPM2HgyxlS5RGhRrmF8JbzAJLBbF7IIhl25pUMJDXw",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Brąswałd"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8537516,
+               "lng" : 20.270454
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.85510058029149,
+                  "lng" : 20.2718029802915
+               },
+               "southwest" : {
+                  "lat" : 53.85240261970849,
+                  "lng" : 20.26910501970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "2cb6e6aafe533ec200b5f4a41d3ec42a53a4b066",
+         "name" : "Glaz",
+         "place_id" : "ChIJ2yg10ayG4kYRvwS2kUrTOaE",
+         "reference" : "CmRSAAAAq5V2_8MgXgM5tZ3Jb-nP2zO9HLLnBoXq07yMWFCvPQ4oU5PJeDujkGInNTrkYO9Gy7Ea9JqVptfzQwVDXAUt9t5i57wvPK0te2u9rCJ-PyeXk59P0p5t42e4E0IpNJUHEhBBKCq6HDyG5uDdurW210CWGhQKBr7vs-KF38LHsgEQcZxyC3ge9A",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "20A, Dojazd - Pupki 2d, Pupki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.82620170000001,
+               "lng" : 20.4698721
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8287412,
+                  "lng" : 20.4708523802915
+               },
+               "southwest" : {
+                  "lat" : 53.82535520000001,
+                  "lng" : 20.4681544197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "5d5e15cdd7447e35c02a85cf68e539330acbd787",
+         "name" : "Lotnisko sterowców",
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110399427427970965863/photos\"\u003eMarcin M\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJSZWpuPlyhwqhMHUIUMxMUkfzrZp-RrkXB2bKC6CQAwKVQAaqG8nK-OLBPwvQ1yP0jW8V2kxzFwYouueifRWR489BpRVHxyfEKPRsZ9VkNFK_jOscHNnkaodzJWHElOe-McmMCG0Mo7xQ3bZA1Ja57AOEWzqiEURCLchCG4ySZ9EhC25qHQT4vdgFvt5Og2hmzYGhQzvzl-IQ4lQIPJXjAX96v1g1aYPA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJY7v7eS984kYR-rJzSPPE9Qw",
+         "rating" : 5,
+         "reference" : "CmRRAAAAa8nVtOD634OwJDD7cpmqdyroTJT7dCUezKNYAbNUnwjea4fUq8eujczDOjucE9g0rT7J1KbawjCIG16R6sKJZ7PqDTVWajuGtDeZTmmjbtQGtwQRI-sE6wsTVGovj8TvEhCzSuHDY1aaL-6LmFqvYMmJGhQSPXyfF90mhNd2SMA71pCNzZD-jQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Grzybowa 9, Dywity"
+      }
+   ],
+   "status" : "OK"
+}

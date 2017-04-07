@@ -1,0 +1,43 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4805568,
+               "lng" : 20.9362276
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.49191195,
+                  "lng" : 20.9538118
+               },
+               "southwest" : {
+                  "lat" : 53.47677175,
+                  "lng" : 20.9303662
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+         "id" : "7e37abddd23a4fb3ed65b48fb2139f3156528bc7",
+         "name" : "Port Lotniczy Olsztyn-Mazury",
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104220316155803635549/photos\"\u003eŁukasz Nowak\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAF8OcGzFM1vgIQIiXlbYjCJminkjXfdar1oV0w-qQuHraVkdsmNPES_TKbRSUMCC7cw9ThGy7bpuSLm1DM6bnZtUkLiM8FNM3Ig5kyZZKIvulOOX6JYT3g9Ab15o2tJvf-4KcJf0cuFqgmDcNh98ja4BMeoyQBfQ9mJXjbW5x-rgEhBuu087JvEGvlZVYBAqzztnGhT1DJBvLPbUXuzsR9yhV04Uf9CNZQ",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJU5p6EmrwHUcRXYlvQG0p7hA",
+         "rating" : 4.4,
+         "reference" : "CmRRAAAASrCImsRXV_HHZ-cJOGsH-YtrVuH6kkw_Li8j8BcGFBib1gF0C7GRGu_0IZiUjadLJ6pZHWcdsJZJ0LFzdhc4yHXtv8-pa8OhMHqEVlYTmxMkOHQwo2QEO_3NbKpGRCYREhCRHGiDgz_mJfwYIlcaZEYBGhQ6VWsxgiPhhJyICgQXnDeB6zMuFQ",
+         "scope" : "GOOGLE",
+         "types" : [ "airport", "point_of_interest", "establishment" ],
+         "vicinity" : "Szymany 150, Szczytno"
+      }
+   ],
+   "status" : "OK"
+}

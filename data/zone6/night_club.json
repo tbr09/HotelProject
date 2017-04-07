@@ -1,0 +1,688 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCBwEAANx-JVJwkZlT_PQN4-zcchTBRbuI1gKG2Ia1WrMOrgGls9cVPZnGXt7GxNOoumvVaM81WQnjBpvMMo8zgR1RcNaVbkR_Q7pNzEgGwE0ZeBV4Cze0IUq_u_7n2vrHoqjGYny9gB15bc-4WG3sncJnDCNKzkUbZ1dcp0o13N8hwFSm22imgbOZ0y8S7_OW0xUwAwl-wQdPc-kBSFHUK3u4YsSqZPSN5PtLEXGXWazka1WpmBkNXl9URvqp9MjVMx25jIWCc_xwfUV1lag3LuYGUSpBzSe5UVjpD0u9sNPvgZhvUpO9b4mbRMnECnyYO2LotG03VoZuTr7-5LqumVSc2L_8pB9NSjramgd9Ch1nJFYwEhCW3qUvuJoppALVWklSv02nGhQtqbQ2jxdZQ6WbZn9gE1jbrNFLdg",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.79210569999999,
+               "lng" : 20.5186322
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7933870802915,
+                  "lng" : 20.5199157802915
+               },
+               "southwest" : {
+                  "lat" : 53.7906891197085,
+                  "lng" : 20.5172178197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "ab8fe4ee0d3c18cadb34de08fb9b46ebbdae4889",
+         "name" : "Masimo",
+         "place_id" : "ChIJK4F5C0Z54kYRn_Hoox5E3zc",
+         "rating" : 5,
+         "reference" : "CmRRAAAA0QSebYueTVRavdVPWDnDgURCIoHsb-uG9PzRMu9hcIdOUb0QmKc-jsypnWC3u6HgcYloRxhg7axgAB9gK9687buTLCCsY9o3fGcUlpd0yjGOuBo3Z4VKQvztfOieWgxbEhAJAxyTTK_wbejGYNKAsoeqGhRvBA6eGfp3ZuP5QJ6XExBY5XX80g",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Porzeczkowa 2, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7548389,
+               "lng" : 20.4927957
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7562117802915,
+                  "lng" : 20.49425843029151
+               },
+               "southwest" : {
+                  "lat" : 53.7535138197085,
+                  "lng" : 20.4915604697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "ecabb230319befbdb0515b8b8f08100661bbe1e1",
+         "name" : "Face Club",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100202182822591334677/photos\"\u003emichał rodziewicz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAIuKyfgwFTbTay2lq6Qr2iJwCwjqV4t7gNNqjpR5fCecIaDFs84PDm6AtienQl6J6Wrj8UEnEVnYt8pZc5vMXXTssJshjZ3OtbNRP0dYgWRazLllvWQxNsfilC50CIJysO6BG_FtL4jvSriG76L1vLmRZBXyjkEIoInE3i61RTJJEhCY7U4W5Nk6-2T-9N6Ad-HqGhQDRYGMdtvg3VbU5UvAf_ACeSPwfg",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJ5wftWcR44kYR-VhgEk2rtOM",
+         "rating" : 3.5,
+         "reference" : "CmRSAAAAIiwgFj3RLrdFO-6RrUHy6NS3Jl4MxIebyP4qz055EyLNlSeCQH81GPJrZlAzT24ICh-qBddxQ5VP--lVqcNzDodkaYFqY783St9fy-aF67QMhCxrpDVykovHhqkQV2uxEhCzv8hYmRId1ID4UmGmvi3YGhQTjLtKFzvaH3dbl-Mi4-9DLl81Fg",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Mieczysława Orłowicza 4, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7756734,
+               "lng" : 20.4751454
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7769628302915,
+                  "lng" : 20.4766736302915
+               },
+               "southwest" : {
+                  "lat" : 53.7742648697085,
+                  "lng" : 20.47397566970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "eb477651b5dbeb4d260121b95ac7391dfe4f5d87",
+         "name" : "Impuls. Restauracja",
+         "place_id" : "ChIJIdCNkNZ-4kYResZhDLQ_KTI",
+         "rating" : 2.7,
+         "reference" : "CmRRAAAAB0LrsFwSZJuPru5sK89pPcWmKaQs5F69S3zWTNPIR3rcxC6k3VdlfFvpYBM5oE1DZsYOdmrkxaosSdASc8vB2icj7c7B1go7kd5H7dtnu8nMALfmvUNLjV-ITA3ugDEQEhAIoWpNRzUqqtbHXkkrvotSGhSfD05uUNZhNYb0sf45w-iroHs7Fg",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Prosta 38, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.78088959999999,
+               "lng" : 20.48967649999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7822038302915,
+                  "lng" : 20.4911271302915
+               },
+               "southwest" : {
+                  "lat" : 53.7795058697085,
+                  "lng" : 20.4884291697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "02ecb02331905c90b00b1fdbbe6b6f2b1f6873d2",
+         "name" : "Manhattan Pub",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101492653172904269571/photos\"\u003eManhattan Pub\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANIUzFcsBlxn0--uSOTKxca-6Jja-sMtXzueLef0oAOorJwDPPPAiU8_Gt30zSOJAswCHv_VOzuN-GbQqlnVY7AHUDqXghWEmusVUnx8VG86LqZg2FS7bRVf1iw398QTSE3uvg-7c4DclQlhpyQoDoUPCaZSVqqpywwl4_UnSQ81EhDlqPiOrQ_tvd_enFG0qNi5GhRybwq2q8aIpFmQ_4jyBuvInaVZVQ",
+               "width" : 2896
+            }
+         ],
+         "place_id" : "ChIJY7JtU81-4kYRujRSJepsh60",
+         "rating" : 4.4,
+         "reference" : "CmRSAAAASVSie5Qr2GVye88zpVKUYo0xyZ5ZfXLvN9kXE1NTvwxFMW2aIciK-0miHgr-Hg4snw8jKZ5C0HfKp-7aMUN30A2eX4kk_8Fa2H70gyHOARt4Gi_HgrSYwAYKZo2UXDiGEhApnrdAEOrQPPCXGlYmobWzGhQYBl0AwH-Mq9A_qQIvmNpglLTlSQ",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Mikołaja Kopernika 13, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7914384,
+               "lng" : 20.5092128
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7925678302915,
+                  "lng" : 20.5103910302915
+               },
+               "southwest" : {
+                  "lat" : 53.7898698697085,
+                  "lng" : 20.50769306970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "fc406bf0772ee301dd8289b5dc087020d56a4a3e",
+         "name" : "Domówka Studio",
+         "place_id" : "ChIJNdDHdEl54kYRR2ik9fCdne0",
+         "reference" : "CmRSAAAApwf5hBOrt--2qaGpQZxYmYGdcwPbLk0BheLJSU4Xt_B8Ym03J-BgOveMr3pxVMWeoGSILDqhO9v56UfXPqQWcMfWX160BaqY2uEMg2cdEylw9lPhx9v3Ty4lcnbWi5MkEhB8nFQc3L5BxOqhunV4l3clGhQfsm6XBXfSxVXBHRWWXpEfrvtjDQ",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Poprzeczna 13, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7920846,
+               "lng" : 20.5186754
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7933684302915,
+                  "lng" : 20.5199613302915
+               },
+               "southwest" : {
+                  "lat" : 53.7906704697085,
+                  "lng" : 20.5172633697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "f9f19114ee0d8f3a92ebedf0649e45aac3ae095f",
+         "name" : "Night Club Masimo Porzeczkowa 2",
+         "place_id" : "ChIJ250WC0Z54kYREBGl_5-lfxc",
+         "reference" : "CmRRAAAAc72jwWMuwb0ZZFmg0cWpFDPg_vS4GADoPP_Ies2Cgla4ddnfBXu_S-3anhFcfe3ZObHnQVwYTZK3mkaJWL7ZiBgKpGQHtf2e6UD1auwNSl1EmtJ-kvXbi2oZs7NBMcTdEhB7c_M7AtnQxzfnma8_K4HfGhRKP6uWpYbq_61gYJ8fn4hC7YuvNQ",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "11 041, Porzeczkowa 2, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.783618,
+               "lng" : 20.531871
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7850404302915,
+                  "lng" : 20.5326160302915
+               },
+               "southwest" : {
+                  "lat" : 53.7823424697085,
+                  "lng" : 20.52991806970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "190fa43bb4e8f9762db70a4351574c99a22e1d4e",
+         "name" : "Bistro Kociołek",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1136,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101493474441613734319/photos\"\u003eBistro Kociołek\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAE2y8l9DCPVLtpH7W43_-PtYsBXedsHG8RrGCAoRQW8tEJMie9FIX9lN4SHbw1badqxZ8cJ6YCeXJfWBCkfyZijycezthw5E-0T2IVqrdN8u-quINxffc5V7MitPao8nowe5FtwCm-83pgnz1Rc5-qa6BXSbdRXIX7P8oIUulLBEEhAykNP59wFnKxM_o9z6gluRGhRZFCTLtSnAJgg6TnKcMVrSrBhEBQ",
+               "width" : 852
+            }
+         ],
+         "place_id" : "ChIJKVx_SOt44kYR0q_8d7y5cQo",
+         "rating" : 4.6,
+         "reference" : "CmRRAAAAWNfERMX6DAYqsU6R7VjbxasYCZf6azKmW0t670cGpVbXjPUvzI_gswJS4NIS4SA8eqDALF5AFTTwdOIbESQIlrYO4uIuoQLnjhfhyHTHZedSz3LoGTb7xdhIYqIp3gZGEhA3S9KvQwGV5yAY-2TdLlcXGhQgxaaEK4oNl4serZDnvnKUJfe8vw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Budowlana 2, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7518268,
+               "lng" : 20.4981949
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7532962302915,
+                  "lng" : 20.50041505
+               },
+               "southwest" : {
+                  "lat" : 53.7505982697085,
+                  "lng" : 20.49745485
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "f5027843ed96e9d3cc1f536e436cbd441c347931",
+         "name" : "KIVI CLUB",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102195372044116829699/photos\"\u003eRadek11000 Radek11000\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAIuU3s374GXmMQGdPgCNE4xSiGAEk-4KS_VoQd7mzGG839yqUntQK180kA8nZfNFxkafCU8HV-ghvU14_kh-GuU7unlnJDiAM7MhogHmEAR_vjlqULDl5ZuXV5NH0oMcnmaZmyv38_isH4PH30mk2OIq061qXycGB9ZXwKApAJuZEhDJh0Hxr5Hqi6S3haZ-orRxGhQEnZvDK9mf9rpGk_GZmyGD6BS4aQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJH6ljycN44kYR_vyrg4vqOms",
+         "rating" : 3.6,
+         "reference" : "CmRRAAAAvw4Do9e2HBfhguHakOguzBWQRZWFQn5btVx_uu5l-GLFxoaiDcbgu4vz3hrHSOmlvcqRuf1ef1xUcPKLbtAS5XzBcL3jVe5dwdRTftbjCYah5YI-KISy5lzFfZe6buoJEhBPoCuwDOqnscWsl2GSh25pGhTWkatCOyDbXJOc9Tz40AcbebdT6w",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Barcza 12, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.114217,
+               "lng" : 20.564905
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.11585498029149,
+                  "lng" : 20.5670338
+               },
+               "southwest" : {
+                  "lat" : 54.1131570197085,
+                  "lng" : 20.5641954
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "79e58c91652aa3edbb9918f5f3d2f7f8ff02c8c5",
+         "name" : "Termy Warmińskie",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115525283569675822545/photos\"\u003eTermy Warmińskie\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHQbEfGDKO7PkC6UviGvCxOrDVeyT27TvWQP08PZby2fb6MSE2CwziNu4yAjpsOk3kfVmheXJeyOBZszPb5O82b3ExxlM2fEE4KoNCj8DGinZWZblc3Vyqb7uypCRfgZ6Br6wO4XTQbHJXpIp3drwThZv4MQ85dShl714_IZqcAuEhCsbV75k5NJ9Xs4vK5lvITSGhT_68NO2ubIsVM6gXEZrmXEcD7m3g",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJx9MckAv14kYR7StUybuC0rY",
+         "rating" : 4,
+         "reference" : "CmRSAAAAgjskG6wobXg3tErEbSRCxpRailmPtw2B_m4NG2uCJIQfVWG9nKUUVOUzLNwNZ-QoMyUZ3jlRgzRq1Jr5Zx0fPNTdZKdI5prXOl2QKS4W1ox64OI_EDuULTB9WXRIV4KjEhCW8wGIWV2duM_RqEqzIjUeGhSAg2qLBjLJwxqMf4JDXtc-NdJA5Q",
+         "scope" : "GOOGLE",
+         "types" : [
+            "night_club",
+            "spa",
+            "lodging",
+            "health",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Kąpielowa 1, Lidzbark Warmiński"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.69324899999999,
+               "lng" : 19.96407899999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6945779302915,
+                  "lng" : 19.9654328302915
+               },
+               "southwest" : {
+                  "lat" : 53.6918799697085,
+                  "lng" : 19.9627348697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b56b9172919305185ddb293e4a1b180b32ee5a28",
+         "name" : "DJ_Zbycho & Ruda",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 533,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112774511945032942022/photos\"\u003eDJ_Zbycho &amp; Ruda\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAoMLEFds5rNYhwctgSSAG4dHzPEhYm-UX2wRwheQHd7hgmYPrphIkHVnGvVMFcIXxC0SBmqwvAKTffk9i3Og_ED09R12lGJsQVowUIATs4T1OggSd8AHi89qcrQG1ZO9ZUyb7bmgK_klSwOCuHNcOCBNrZ8WpUUVHNMPpweKjetEhBBeM1ex88-nTCDcLCtQ1nIGhSWmYUkEBhTksFc5K6LGeT8X98GZw",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJ46oA3cNkHUcRX48I33iiZMg",
+         "rating" : 5,
+         "reference" : "CmRSAAAAWs8bMi1XdkRbtbOFMC20015vgGKsbFskYyxeiq27CvPC8_J1jNwpzBVIXkI_Q5vJIkjrYPUUh0wXcPbn6aZXRVH0YWrQB-NEM1PgDy0WwYLISBCdr--qhwueZb48rEdaEhAXdlsLM0PWQtUHiL5MSl2pGhQdGKeL_l6Tf2x2aUk4roFktzlbGw",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Władysława Jagiełły 14, Ostróda"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6986248,
+               "lng" : 19.9579955
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7003242802915,
+                  "lng" : 19.9594011302915
+               },
+               "southwest" : {
+                  "lat" : 53.6976263197085,
+                  "lng" : 19.9567031697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "74162604b830fbc0c3c31accc2a514c109e9704d",
+         "name" : "King Pin Club & Restaurant",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111047069217523230020/photos\"\u003eKing Pin Club &amp; Restaurant\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADbmmfhkgzMqaNmrjffZ_wsIr3tR18jZQqyLK4MtH8sg6lr3-zFK6OjDzvLSRm9KOx1TzzTE4qLJhhqwc1BLOQs0Xgvb64b0c4yZh1hiBanazFZcFp8M0va_ee5Xk858p3OjyEbmAaO1TEdBC5lt3V5j0N1J6gEQaHCkQzQ22RNKEhDmiHnwS9FKipR2JwCy6wnvGhQGkO-CG-e4pqq41ERgAGWS9LoK6A",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJq2HJHepkHUcRFnpTPbGjAvE",
+         "rating" : 4,
+         "reference" : "CmRSAAAAjfc1iECC2WvMujJ7fdmd51ItDlyfv1mDOJOx-cNVE715OThR-oSOrKhruykjQ3TNwdYpeXch1cacHcFeA_CYeimbWVz07ohklP1YLyvrhGmMj1kBm_zemnCeRa5WMzOZEhC5ZljBbfDamKpRZIHHFj4DGhTplaxJwjxmsyTMNeEVBi--73WIqA",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Jana Pawła II 9, Ostróda"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.25079209999999,
+               "lng" : 20.8131861
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.25217643029149,
+                  "lng" : 20.81454973029151
+               },
+               "southwest" : {
+                  "lat" : 54.24947846970849,
+                  "lng" : 20.8118517697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "d432e469dcf7761933ae0ca3d2b31436d79db77d",
+         "name" : "Klub Obsesja",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJmcF2kRtX4kYRkC0r1zd8V5g",
+         "rating" : 3.5,
+         "reference" : "CmRSAAAAv9ofZVXZsEgryOOSnEkmanHPwWy-Z5rj3vZJzx00_5aLoL_0TnLmyY85WO8cynM5z10uKwe-No4HdwkzyBt2sqLl_RpKqcbXOM_QSGIaCsArCbIUb1jPE2k2CgnAUTOSEhBIVbG16qSyxnm3hlVTmoj6GhSoqVmh1vMY8b5iOpnraXYq5J36Tg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Kętrzyńska 18, Bartoszyce"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.84305979999999,
+               "lng" : 20.5334942
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8444087802915,
+                  "lng" : 20.5348431802915
+               },
+               "southwest" : {
+                  "lat" : 53.8417108197085,
+                  "lng" : 20.53214521970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "7f8fb6c3912225adb1f19eabdd4eed9f95dc5a44",
+         "name" : "Baza Aldesa",
+         "place_id" : "ChIJhUglrHl84kYRH4tfdYVFWdA",
+         "reference" : "CmRSAAAAkU4jnh6LTCikilT9KkcI6IuRfysLimb_pp5bg8XlK_VwqrlZBK4iRP3-CXHTSSdtnd5mKIU7HGogJ4uhm6tGKT2m9fom8TKyY_BBsx72Xm-_ZooUFVTS3GatPpXESWxdEhDs9fgWk0avg1QSCh9CloIUGhRQ7iT3ZEkWb5VknBoMxDJVNNJFmA",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "52 381, Słup 10"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.79370480000001,
+               "lng" : 20.4795188
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7946118802915,
+                  "lng" : 20.4803795802915
+               },
+               "southwest" : {
+                  "lat" : 53.7919139197085,
+                  "lng" : 20.47768161970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "ae3e5c37988df3d09bbbd18a44bf9ae41a067203",
+         "name" : "Parkowa s.c. Klub nocny. Szafickie E.M.P.",
+         "place_id" : "ChIJo_CMCrh-4kYRHzVQn4On5yg",
+         "rating" : 4,
+         "reference" : "CmRRAAAAwSGO_1VJaOTCsgmMueTADOsiVq_p9J3Sctof8jN1ZoEnbtZ0rzEVO8XhDm_K9VHBygJatiXFfCmFCVx_EhVIg2ANH-DpEmmHyc8HkMAwDXY32v0mppiCCak95aoALJQuEhAsU_diQY7BgYMMxl9DZgoFGhSy1Fg4sfNClJDgySMHVhMz8HO94w",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Radiowa 28, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.77706149999999,
+               "lng" : 20.4754012
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7784104802915,
+                  "lng" : 20.4767501802915
+               },
+               "southwest" : {
+                  "lat" : 53.7757125197085,
+                  "lng" : 20.4740522197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5cd8277cfabeed74a439b0c41021a6b1d2679da0",
+         "name" : "Qźnia Muzycznych Klimatów Pub",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113117823107737926018/photos\"\u003eQźnia Muzycznych Klimatów Pub\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADAouLl4YX6f6ZFRBR5-cecZ6-GC28JJeq2UtmD8gzj-NJ7uYXDtpFJMwNIr4qyhVT8Ee7drv8eDVzxCfHpZHLrHFfd0OlH0Xk4ByKhpbxCrABIo6j_fVPd5YCrWidMFtJ6qgQYL_IYubQ7KgHC6PVY1yJV61_xahUGnpqUT357xEhDXouspcHd1eyZBUsHCvNXfGhScRnB6WaHrmUd_mZ_tAHAVWxh0-Q",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ4Z8IytZ-4kYR-h3BQ1r2940",
+         "rating" : 4.2,
+         "reference" : "CmRSAAAARt2dId3CD67lwlymEJmbzJaOCAsyhupW0GZjAHYkh_laiAFJ-GV7q6_6WjpesDuFGeYb9tW6_n25dJdcQ2vwwJhoS1NgLiIzgZi8dESgiWGrYcVowZHTcNAO5ZW62pG1EhBYHzteTfIea8mA1VQBf1MEGhR5_E96nI2GC4KlqTa_nJ3SDFFHqw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Stare Miasto 29/32/1, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7754971,
+               "lng" : 20.4752071
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7768154802915,
+                  "lng" : 20.4766481802915
+               },
+               "southwest" : {
+                  "lat" : 53.7741175197085,
+                  "lng" : 20.4739502197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "45eeb6f8eb86f85dde95e05fbfcd4b7ce025a6cc",
+         "name" : "Night Club Hemiro",
+         "place_id" : "ChIJIdCNkNZ-4kYR5w2LobxhPes",
+         "reference" : "CmRSAAAAM6GroRJJv9scu8qki0JIc0d7_94egTE4GcTcD3tij46ujFeRdp4syi55rdWzEo_chSJ21-dJytAKuCcS66KZpJvnNh_Yw_pzGJI4KvMx2OBPhRt1Q2WoczLz2puXfcejEhDcMWM37W0QduGf1HUh0TqnGhTzVFDXH_lRIE_VjAvVyuPJ5eeZHw",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Prosta 38, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1260252,
+               "lng" : 20.5784459
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1274293302915,
+                  "lng" : 20.5797984802915
+               },
+               "southwest" : {
+                  "lat" : 54.1247313697085,
+                  "lng" : 20.5771005197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "c9adaa81856e4d36fda554ad4b3494196a1357d7",
+         "name" : "Kebab",
+         "place_id" : "ChIJYx__j6L14kYRZl9DhIbpBAo",
+         "rating" : 4,
+         "reference" : "CmRRAAAAigChSBdt0_Jg5kNkZx_iuhdhlkTDjt2o5Idek4G-4hSafpa5DmwYuW0qxM8dhrJb_pvvpo7yJxOOwgqNrVFvMvIPju-wIqBeh7NAwvpfMjibuCqzPVQrfQqBcAj7NNE1EhD3A5hGqVgQTRv3KEs_VWjXGhTwBC_nQTAGTXZ2D3uenxv7z-NSXw",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Powstańców Warszawy 10, Lidzbark Warmiński"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1246035,
+               "lng" : 20.7095219
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1259524802915,
+                  "lng" : 20.7108708802915
+               },
+               "southwest" : {
+                  "lat" : 54.1232545197085,
+                  "lng" : 20.7081729197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "44d50bc21bc7644f1aad813eb4be6252f5881ebf",
+         "name" : "Klejdyckie moczary",
+         "place_id" : "ChIJc5sb4sRe4kYRmwOv-VDuVX0",
+         "reference" : "CmRRAAAAuuJeSPmBGyxVkHkoWL25GpX3GiZOQEpa4p2_rIuA0JT6kb7fJbqxVPsX8wQOBQKR4G-zFBamhe8aVlzrIVCkeosQwxFno3ECF9vp6b7L5Dygxd3l06VuToPmvRNHl3tlEhCeWRcAFX3x3eoP0WkiDRWuGhSjuE0gEAGDPx1afR95_rPaZDA4fQ",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Kiwity"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8631378,
+               "lng" : 20.9416238
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8644042802915,
+                  "lng" : 20.9429017802915
+               },
+               "southwest" : {
+                  "lat" : 53.8617063197085,
+                  "lng" : 20.9402038197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "f626c80f733f7a19d89ece93b1049450b74f0e6f",
+         "name" : "Under. FHU. Aszkiełowicz A.",
+         "place_id" : "ChIJr1hNgRtt4kYRXvo_gXkK9m8",
+         "reference" : "CmRRAAAAf6LqtfEKdjAdMOZLqsrRBgf0Kfak_6ehel8zCyDu9MbTIS6gn7ZnWSlp45ROgpe2lkfF8GKUmaVYxWgL9J2YNSGUHjiDqrSsBSG8LJ72wnPzRwGHNPAuYh4DnCvK-ajIEhCHeJBulGh2j4EjmGEH6R8xGhR0JOKm0Pb02_SwrTjmix7-NyQ2iQ",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Ludowa 48, Biskupiec"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6983828,
+               "lng" : 19.9796111
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6998506802915,
+                  "lng" : 19.9810535802915
+               },
+               "southwest" : {
+                  "lat" : 53.6971527197085,
+                  "lng" : 19.97835561970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "7db5d82bc1b0a184097e271f7067ddbee1f4e83f",
+         "name" : "Wejście na koncert Disco Polo",
+         "place_id" : "ChIJM8E2RchkHUcRrufPXWVeVF8",
+         "reference" : "CmRRAAAARrMP1nObZTgQ7dfgfRrCn1CVdm-G4jLF5a9lp0MdlXF924OWfGoI6AQejuEFXmb28VE1RJNU5DFIWgAoBK1hK4Qn0356TBYo0Go4xAgfZmCjchQoHzTf_Zt93dTscJj3EhCgFJDKApqJTrpKKGbUzQtJGhQINjqCvXYCSl9f0YRWPZucMwf6lQ",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Demokracji 5,14-100, Ostróda"
+      }
+   ],
+   "status" : "OK"
+}

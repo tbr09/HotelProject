@@ -1,0 +1,566 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCBAEAAGz7KJ_Lo56spy7zMMo6gpadWHA8wmAWCB6ri1LGy4kxDNs_cr3EQ9KqE6YBRuEbU8r9Df00H2adIYeqN59IR1QbMy9FQPnAFT-5bomzPoXwCNklNa26oubf61v9HQOm06nmn4me9rRcL8XFc-XLwQLMdrg-lOXF_NqogK-IoHGJPMBFpm1PMUyA3GtAx_o1buSLT5YgLUZVBoGdzqiCmPZGLo_XL5mKXc7HXOywrtyKSvPW_YPKdmq7401TvFMJo1Jo5h4v3gRQmSLU-o4iOgtIuuFPUSfoRHvwxaqCo0Zu0X4PyZZXF2V6lkmHdQSeTLOJRlFO1Sp3E9kGmVKO5_LJcl3bwJQn8nI-bfbImgmtEhAhc17_xuQz3ZHRY-9D1c_oGhT4vmrxFsNOKXpuAhjcVJFq1mQXOg",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.10475169999999,
+               "lng" : 22.9245757
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1061028302915,
+                  "lng" : 22.9260210302915
+               },
+               "southwest" : {
+                  "lat" : 54.1034048697085,
+                  "lng" : 22.92332306970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "d5c097b2dcd9cf30200c64bfb3501206fc26398b",
+         "name" : "Biblioteka Publiczna im. Marii Konopnickiej w Suwałkach",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 614,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105800107496819866874/photos\"\u003eBiblioteka Publiczna im. Marii Konopnickiej w Suwałkach\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANZWO2EWdcRhnkvsmz33vPk4QU68Em29Q_1v1kA8iiT0R1X46IW41dPMGPi1BD4HLxgYWieYdmsHss84TaEHY4zbIyjC_kh4PnPYkACftMFb218l6JcLnOMsmwz3dF6kZVDfcOoIK97juqZt6VYTX1m9m1Sy4kpGI3Z3Ow-f7yGzEhCHGaH0t1kPPrSUBVi75j7JGhRzGwa0jfQIsHDCjY2fHIMqStHM9A",
+               "width" : 614
+            }
+         ],
+         "place_id" : "ChIJQdVBVDYC4UYRRvSqZ_K287Y",
+         "rating" : 4.7,
+         "reference" : "CmRSAAAAWD41Tg4ltNqhwmf4x6hLeh5O7m9_HibUMkFVwI8shkgH9hlbjLGMZCTvcpFc2CNuU8tIC1MP1svjHpy_oKJ9hQ3wMQw5S8XnTameoudtI857dFWOmub89VhtVFvEsqJKEhDmsGI69i-ssuqwrWID2pZhGhTCLV0MdGQVBdtkVDsqCvyDACrQTg",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Emilii Plater 33a, Suwałki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0987512,
+               "lng" : 22.9446042
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.10006143029149,
+                  "lng" : 22.9459340802915
+               },
+               "southwest" : {
+                  "lat" : 54.09736346970849,
+                  "lng" : 22.9432361197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "20eb4f45f51897b94c4aa18e1fae5f2c03e9552e",
+         "name" : "Biblioteka Publiczna im. M. Konopnickiej. Oddział specjalistyczny",
+         "place_id" : "ChIJh8wUkxUC4UYRE0HdMoBqoec",
+         "rating" : 5,
+         "reference" : "CmRSAAAANAJqVrwKT8HXdkw0Y2NhtUq4X4sMX6ke5nJjP1ApK922wR8xxlBPZiWR6hz6fGK4YgppHwFTTVLgqe8RMqyNputA8OQ30oHxa_P9YazCx3U4MBnC8zFRgGU61HeRseAoEhAHnpSifH4Zb2ZbqWdZK29LGhSeObqMU_1QxfcSVPeOPp4vnbYe_g",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Ludwika Waryńskiego 39, Suwałki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.82364500000001,
+               "lng" : 22.3538784
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8247500802915,
+                  "lng" : 22.3553827802915
+               },
+               "southwest" : {
+                  "lat" : 53.8220521197085,
+                  "lng" : 22.3526848197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "14329f674f169e1fa9f7963c7ec71189992dbc4b",
+         "name" : "Biblioteka Publiczna Miejska",
+         "place_id" : "ChIJ09KkW3m54UYRTq1Y5a9z7Eg",
+         "rating" : 5,
+         "reference" : "CmRRAAAAz4pTUB55VVDCBolwt9i3qCyQyzPxYY-1uT0PSUn3IuJNRF7u5XIo3-P494HQalsyMFAJRawBAlqdKeDNPEKFWJDTbpDgpZAsx6CLvs80oWSY_gardE8jBVom-WqW6jl3EhAfr7B7GnzFhvL5-499VFheGhSwFkLK8LLo7AaO8ykghYq0Ev899w",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Armii Krajowej 17B, Ełk"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.73026369999999,
+               "lng" : 22.6984545
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.73164573029149,
+                  "lng" : 22.6997948302915
+               },
+               "southwest" : {
+                  "lat" : 53.7289477697085,
+                  "lng" : 22.6970968697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "f6a6391217d06fefd0259e4efa897deac1ac7327",
+         "name" : "Biblioteka Samorządowa",
+         "place_id" : "ChIJE8WbBBdL4EYRRSxY_07V6uw",
+         "reference" : "CmRSAAAA7xHLXHQqyAclbdEBVN3zoz5lkJFr0QNmiUa66DqU-ajeiU3NB43JF6zTUjtbeQRgpPxrjI0-pNIYA9XL_K7eDdSOAG-6Fh4ZWtEaiJmAmikSPoOjl6a5eaNtZDRPi_RREhCEilXfTh5VO7co--IY4ZWeGhRh7bD5_cx5LwJmwjrPeEt_pyUM-g",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Warszawska, Rajgród"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.839422,
+               "lng" : 22.981778
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8406809802915,
+                  "lng" : 22.9833584302915
+               },
+               "southwest" : {
+                  "lat" : 53.8379830197085,
+                  "lng" : 22.9806604697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "41116aab678b0f52ea6785db60a0e49bfede7bfc",
+         "name" : "Miejska Biblioteka Publiczna w Augustowie",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJu26K-FRQ4EYRUF1DxAk8T1Q",
+         "rating" : 5,
+         "reference" : "CmRRAAAAG3Cn3R9HYl4umspb37n5fxPziUwVl-eDokDBB7_YSYMyWiRl56R66upcxM2xAg4BdFu0HQYt1abQhy4J9DPmZBJoNeZsUW12yPQ1ba39gVueSkflpwTa83oC79tol_-jEhDIHf2Hgvnk9GWGxEQJN64UGhRJEqgJboWWeJdAWB_oUUHVDtPXsg",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Hoża 7, Augustów"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.834164,
+               "lng" : 22.8894322
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8355129802915,
+                  "lng" : 22.8907811802915
+               },
+               "southwest" : {
+                  "lat" : 53.8328150197085,
+                  "lng" : 22.8880832197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "a3e62dbd42c3c5f095829a23c019a635ea63b3e9",
+         "name" : "Biblioteka Publiczna Gminna",
+         "place_id" : "ChIJE80oqRlS4EYRDNjNZYUVVlY",
+         "reference" : "CmRRAAAARThhCRJ_w5SdGlrExtCzoDyM3VqglUUMq1RgtZT1z067Srbr7_H0g393Q4dY_nh51iN9OKu9CF99ggn1VOKXrEgcjMewcxbcmJzWFlP2kE9zNINUMjOptxhND-stjzduEhD2ass7vHAf1Hr23YXcpHgGGhTZSuH-hUUi3AvJJucCb0P8_m1rcg",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Żarnowo Drugie"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6772963,
+               "lng" : 23.1023812
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6786452802915,
+                  "lng" : 23.1037301802915
+               },
+               "southwest" : {
+                  "lat" : 53.67594731970851,
+                  "lng" : 23.1010322197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "343876d0e8eb0a9aeba40df29dc4b5f62def5873",
+         "name" : "Biblioteka Publiczna Gminna",
+         "place_id" : "ChIJ3cBOcmBB4EYRukwkd0WHDdo",
+         "rating" : 5,
+         "reference" : "CmRSAAAAW0U4FAsPe8tORWGH2Qwn3kTZBG1ZWA8FstWUr1sXT7KvlGWvVXxbaevveGgsRwA3BwEvupQ4tuQG5GQ1O3Mqryoz8JF53cMirvVApB1oOu1Ao4Xq6VD1RKKpiUh1ZGTXEhBPp4yX-3P8ugtytJJNLVvgGhQuOdpM1Lz2gDmyCJLWAMR_iVq1BQ",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Brzostowskiego 8, Sztabin"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.022288,
+               "lng" : 22.9832492
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0236369802915,
+                  "lng" : 22.9845981802915
+               },
+               "southwest" : {
+                  "lat" : 54.0209390197085,
+                  "lng" : 22.9819002197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "05c5a830adfffedc14269e446a13bbec627c9a20",
+         "name" : "Biblioteka Publiczna Gminna",
+         "place_id" : "ChIJh2gvWwf_4EYRWe3GJNKgEL8",
+         "reference" : "CmRSAAAAYmGemSrJBXvEA-KkMLnrheCjsqeHL2b6jZp47IWt5IVDTl3a1S4MxJ2is-MT7Sokbm97b35WvS616iDi0E6eE-fDfM_sAcOCfLf-dtE3Waj9b2oQf7oAjZ6z-D7WOt8BEhDf5bi945Bd8IzSgbW8OBovGhRnNyShQZBfZS931rgGemoCv9v6tg",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Płociczno-Tartak"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.75873869999999,
+               "lng" : 22.5214739
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7600876802915,
+                  "lng" : 22.5228228802915
+               },
+               "southwest" : {
+                  "lat" : 53.7573897197085,
+                  "lng" : 22.5201249197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "1b2a7658f249987f1eb2faf32eb2f31bf1bab956",
+         "name" : "Biblioteka Gminna",
+         "place_id" : "ChIJQc40i4O24UYRHuMRbvm_qxw",
+         "reference" : "CmRRAAAAfbJcAbHqKDqtoeITiJTjTgql4mPtvE3pimOIvoh4OrJSIcIcRQ8bWKHCVFYmT_J0x3YCPcKhcaQzM7r0lhCaScJymb0B56gvMZHM5W4V979KW6hymIHJr2D1ca4ybxBeEhB2malUbm4ZRsw9vbXLpBxzGhRM0ECNMCyBPvmW7eBZEG50ae63VA",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "19-335 Wiśniowo Ełckie; 40a"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.9926464,
+               "lng" : 22.7801085
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.99399538029149,
+                  "lng" : 22.7814574802915
+               },
+               "southwest" : {
+                  "lat" : 53.99129741970849,
+                  "lng" : 22.7787595197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "d3c6522dd1e6465d171f336bf37701796b4d0084",
+         "name" : "Biblioteka Publiczna Gminna",
+         "place_id" : "ChIJh4DiJESq4UYRRtP7tDCaLm8",
+         "reference" : "CmRRAAAAWd9NFYo9tq_AC1wCQjFlUoAU2vZo0hsTo9aqRFjTWvqahyabp1yEKP6vnX54Wpb9lIAh5_aAvZukYNk4ohccxdoUcS9onP054cOpUCRZ7dSEDj2zYFFVbJ4iejU7oKSLEhC-Au_7XGutEa0BsYpBUHrOGhRkRY4zjA-p_AhFvs__0L6iumW6JQ",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "16-420 Raczki; Kościelna 30"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1087791,
+               "lng" : 22.9535572
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.11027543029149,
+                  "lng" : 22.9546838802915
+               },
+               "southwest" : {
+                  "lat" : 54.1075774697085,
+                  "lng" : 22.95198591970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "d23ecf640f66260a4f1a5a6b5364b9295d9f5cb8",
+         "name" : "Biblioteka Publiczna im. M. Konopnickiej. Filia III",
+         "place_id" : "ChIJEQkp3UEC4UYRHVpxalBfoV4",
+         "reference" : "CmRRAAAAXLxfJm-3SR5APHHDguKLqR2OzUcnHaLEigkkE2-C7731UBs5gX0X76pSoUxSMUbwQNL6m0J8-gpOCu3A_kjCe-z6qdR4hj7S1b2VLgJV9yGk6PWJmAVlHpYkjrYn7LGuEhDfui_IBGcaLq_FzBN3GRh9GhRkbMtFdRBB2kVeoGHZh1hx9ZIWYg",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Północna 26, Suwałki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0412662,
+               "lng" : 22.5001611
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0425809302915,
+                  "lng" : 22.5014901802915
+               },
+               "southwest" : {
+                  "lat" : 54.03988296970851,
+                  "lng" : 22.4987922197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "913a43b2896e328521ec4a109658516806e1d036",
+         "name" : "Biblioteka Pedagogiczna Warmińsko - Mazurska im. prof. T. Kotarbińskiego w Olsztynie. Filia",
+         "place_id" : "ChIJk7LPuCSn4UYRbbZi-Y9unXQ",
+         "rating" : 4,
+         "reference" : "CmRRAAAA2xodn2eQ19CIc5g19KuZwFroRRShEJ31eNLLxTRkKGjjODS4NUWXG3Jou2y9EZ5bODxDEl02c02nnjWuMOEzlk46olIYaI9F2PNhc2XV2UYUFYTWjGv1vjdZ5ym5u_fFEhA9-xmvCVmR7MRA5pQey3m6GhR3CNGAgPdIDvcFJ_jJnvtRVYaLng",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Armii Krajowej 30, Olecko"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6927256,
+               "lng" : 22.4372884
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6940745802915,
+                  "lng" : 22.4386373802915
+               },
+               "southwest" : {
+                  "lat" : 53.6913766197085,
+                  "lng" : 22.4359394197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "57ea5b3e222352531bda3d311d791250f3e8e846",
+         "name" : "Gminna Biblioteka Publiczna",
+         "place_id" : "ChIJE8GTJO_L4UYRGLDos4RhlyE",
+         "reference" : "CmRRAAAAJJOOtp0u1AsIFnJMupLDvZ1HoaEVJDo-CVy4GTHVKbk0r2gcGbNQrhVB8S_6ZAECtBQ5awnXOae8TecuXH5-I93Qk9havei8OrXvV9XxKQ0Z_VWliuaCNJ0VabxK1tTREhDVvmXJqYven-AThTXiMTAPGhQVImLIJauQsbgv_n_Tw2rwQnIavw",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Szkolna 9, Prostki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0400399,
+               "lng" : 22.5010556
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.04139053029149,
+                  "lng" : 22.5023892302915
+               },
+               "southwest" : {
+                  "lat" : 54.03869256970849,
+                  "lng" : 22.4996912697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "d3820687584c5e73a2631becd6d2ab86a8f88470",
+         "name" : "Miejsko - Powiatowa Bibliotek Publiczna w Olecku",
+         "place_id" : "ChIJj_es4yKn4UYRAocgdwDm_UE",
+         "reference" : "CmRRAAAA4huxPG-emGbNZdc_YgEZGKTb206IafmgdU3PLQbzWdSlthbfNNeFdkKvhTtK4u4bGQvJsyOmor24TjVU809_ETnQPjTqaFELp5BZKZwsYSOfIATpBCvQtkdEl0KfL3tQEhCs634de8dgdD_myos2_CgaGhSYYNyf3Po7lkfsoEuioh6SfWz8YQ",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Kopernika 6, Olecko"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1144115,
+               "lng" : 22.94485869999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1156432302915,
+                  "lng" : 22.9463544802915
+               },
+               "southwest" : {
+                  "lat" : 54.1129452697085,
+                  "lng" : 22.94365651970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "244b25e5e2d6037e81f03cd212da158b452c5890",
+         "name" : "Biblioteka Publiczna im. M. Konopnickiej. Filia",
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108801001610130004636/photos\"\u003eParoli Łukasz Tyczkowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAA_viE17OLqdpaSves9M0gV3s9QT8nsm-8igFBATDoTQB7KUg4GpowzwH1xXECgkoWUbynSFPeQaMMqVaEcdgSKwxDT1DTdp1nopvH16qsDlOeix57QokGCrXJZvoGlmfD0bSnKz9s3aXW-kBzNkIv_P3pP0Bhe1i3gZjmPoudhTEhDn3wd-Nv3UR4zeGwYQ5HhJGhQeZTYuk9BjuIFl3asuJAsCOySxjw",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJj0sWzkQC4UYR5uFwutIyfB0",
+         "rating" : 5,
+         "reference" : "CmRRAAAAGYswXcM7qFGhBjqN5k-DP0eDt2640c_3UGfE_oidTIhb6UIr3FtIE5cE9uagaaeJYzi1ZXW4mWPZ10CDETOJmYGdQ3GucDbeXpHOjzQ0XYIlEHU88S27fgEs0dr9lBjWEhByFMor6xz34ovtlMVxy2v6GhTUqdrwMRZwxfjPq2OqDWHFLI25-g",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Klonowa 41, Suwałki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.83180890000001,
+               "lng" : 22.3413388
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8331684802915,
+                  "lng" : 22.3424981302915
+               },
+               "southwest" : {
+                  "lat" : 53.8304705197085,
+                  "lng" : 22.3398001697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "db3230060230362f05ca1daa5874152020855877",
+         "name" : "Biblioteka Pedagogiczna Warmińsko - Mazurska im. prof. T. Kotarbińskiego w Olsztynie. Filia",
+         "place_id" : "ChIJsQc89mG54UYRp-EJumK4cQw",
+         "reference" : "CmRRAAAAEiarjD3Ul3y87V9DNu6xwAExAhM8XIbcGkvniAW3eDbNj63plTjIiqE5r-gTf6smEHidpTU2VywP8ihY47xjS2s6UdSFRV0G_8RecMjsddsiWlUZQXi-dg33CSS3MnBMEhB3f7Oqm00ONh2nlOxSXmhjGhToPvHkVYRg9aKc3IVc-D5fmvck2w",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Michała Kajki 8, Gmina Ełk"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0928039,
+               "lng" : 22.6526953
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0941528802915,
+                  "lng" : 22.6540442802915
+               },
+               "southwest" : {
+                  "lat" : 54.0914549197085,
+                  "lng" : 22.65134631970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "f60e0fe3fec322a235d3c4c1151884dfb8ab050b",
+         "name" : "Biblioteka Publiczna Gminna",
+         "place_id" : "ChIJn6elBogI4UYRaldC_KfEZ7k",
+         "reference" : "CmRSAAAAtp0CNvswpl_WIrjfUAfjqzHvrPptPIkj7S7UqcNnySDgU8Pgi7pZa0Qy275MevxvMH9pqqF2KarjrL14jVPazpv5xb1--DP9ZjzVey3UPZeU-tK_X0kJmoAVPAPTq2rqEhAZc5DUXFGnTZ3-YV1UrYovGhS_G914mSMQL441ojIw5yEmE1chZQ",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "16-423 Bakałarzewo; Młyńska 11"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.802971,
+               "lng" : 22.360312
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8044436302915,
+                  "lng" : 22.3615619302915
+               },
+               "southwest" : {
+                  "lat" : 53.8017456697085,
+                  "lng" : 22.3588639697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "5fb3f4349aa4ee651dde2389279b3e85a4bc1222",
+         "name" : "Biblioteka Publiczna Miejska. Filia",
+         "place_id" : "ChIJ2aCrHqO54UYRvB2vh9owiVs",
+         "reference" : "CmRRAAAALSmyMOyv_G1R-O1xnqCnIIqnZULa6zMh0-EyhaYCHdhpwSHyOBCeC4p1FUs6KXPhQor0i5N2TOg54kObvkQczQ9z80rO-YIk7VgL1I2NkYUbhfL_H2mI-YifGnUlwRaKEhCn3EaOxtO8SLbevurMZylMGhSOsvH2mK-bXm6OjtK7HYUjWcu3eg",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Jana Pawła II 7, Ełk"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6431362,
+               "lng" : 22.4658361
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6444851802915,
+                  "lng" : 22.4671850802915
+               },
+               "southwest" : {
+                  "lat" : 53.6417872197085,
+                  "lng" : 22.4644871197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "ad890b0508a374a153f6ea96bae59be20c507c32",
+         "name" : "Biblioteka Pedagogiczna",
+         "place_id" : "ChIJBWelW-vL4UYR_Iz9sgGwQfw",
+         "reference" : "CmRSAAAAb3UGcIQUFsyevsVU4oN85k_ahsbWwbGr1080LlgD-7-CiCy-5k4j2CcSjbkTrPxA1Yx64N7CoeRcgG8_8J12hLaJ1jyddl_WykYnsXZLlqNElkoeVHqlm0f_UL4NXfFlEhAMCGkCUYKVJtTjjdC1tfxhGhQKrY5XV1tebtTY9PmWDOQIw0q3Xw",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Osiedle Południe 36, Grajewo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.11955889999999,
+               "lng" : 22.9252479
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1208079802915,
+                  "lng" : 22.9259703802915
+               },
+               "southwest" : {
+                  "lat" : 54.1181100197085,
+                  "lng" : 22.9232724197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "f9d53c5d9eb455e3a095347e67b545cff3621e4b",
+         "name" : "Biblioteka Publiczna im. M. Konopnickiej. Filia",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJyS8EvFIC4UYRCBpE1Mhu2jw",
+         "reference" : "CmRRAAAAH0E3lLZgBLtrSrT2HMtGV9-yi8F6VIhv9NVOD8175554QHS8B_SxcATTYfOoal9DwCYFNam4151Zna6dVm6CqO8OMOq1iZLzbiW62jVJ3u0pq7zvnJXTfP5KBGE6y9DnEhBW-I5M-gos2p1yaObro3KdGhQDhv6DpmwFkFz-ib4sq_V20thEfQ",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Szpitalna 60, Suwałki"
+      }
+   ],
+   "status" : "OK"
+}

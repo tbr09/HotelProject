@@ -1,0 +1,685 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCAwEAALJryLlqvVh2U255P-QyKPd_zJZFwYr5EXxuudfE2TZHOXHmpVwjbpogbc4WWX42bj8TC_6dhkiPJnw166g7ifkqbGjxnv97ynCxZYrmtZ3Ql-Q6u_CaeLjY9Knni25UKtIvtwbwzgDObL1aVJQXYL7GOe64QmQOHwYLfPavOto5EVDXTOc8_KwraTQhJ1g8mfV8K21pn8TIxjpdr7ntrUn8PyjiGAKbpl1x3wD6zp2aDuYQl-6VuCZTunmcSCH_cf0pmfOYbJ_-DSr39Hxds7zrWU7xmQAzIAU8o9RHF8X0gDCm3AjSE9uHhufnXjQt4CXFsZatMKLvTvq_YtDmPDkbkl98KNfiGxFo6NUXjb_LEhBnVX-dGnIs2NtDmIxdKYrNGhScdE9rkLAFb-PNPxwgGJI3zlJhmg",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1581939,
+               "lng" : 19.3949363
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1595810802915,
+                  "lng" : 19.3962737302915
+               },
+               "southwest" : {
+                  "lat" : 54.1568831197085,
+                  "lng" : 19.39357576970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "0cd406572b711e623b771fa215148dd142f22505",
+         "name" : "Diecezja Elbląska",
+         "place_id" : "ChIJeY759VxM_UYRZKekGdzTfXs",
+         "rating" : 1,
+         "reference" : "CmRRAAAAt7tfIAPykN7OMrnjWw3YAL1tW6xJccb5XbEFmXwt1h5NH3ttLFEJ8fazYX8HFE78Zxfyx3xQq94qvISPGwjssBp4iGAgTp__mxr_NB7pJ591drOloqLT3DZTttGZCLyoEhAPQYOdEeuq3cpcSr_5Rpu6GhTfFjUSgLfC4jYexNx0ihEqpT4axw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Mostowa 17, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.167233,
+               "lng" : 19.41915759999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.16836738029149,
+                  "lng" : 19.4206058302915
+               },
+               "southwest" : {
+                  "lat" : 54.1656694197085,
+                  "lng" : 19.41790786970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "11043431ad06557b0631e6d09dab406573627d57",
+         "name" : "Kościół pw. Wszystkich Świętych",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111185285018307030550/photos\"\u003eKamiL733\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAFmR7sbALSZ3jg61C0lCg2X-jMYV8BRF-Dkoei1LFUQv4fe3fWfBK277T09udpFbYT2kIaA5Gnai3P4ZfSfYYf9H9I1Ca57uIsp7huEH9xY5rhQhecrW-sDH_mu9BYeZL3hgnIND4sL8Bu7XJz2_a6Sl68JrusOo_rCWdYlYrRACEhB3nAuiTRcLoOPZihxpQgWBGhSg_8YJqcByIt3mhqUEY9cQOaiFjA",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJz-EBtYlM_UYRXDPgYcMH9JI",
+         "rating" : 4,
+         "reference" : "CmRSAAAAR-VsYF8aL3OcRKvCZCah6o2Atg3KQtCVx4Ivp7X897bgr970xlUwyBztNoc1e4EC_Yzu2jaxoChUombpM4Ni9vpEDKCHu-UDt3pIfzxW-TJsAcSls60DiblrHqB5zGJWEhCHUpR7KBWdfn36Z7ne8zpxGhQrxndMXuBklH9Nqr7BQrx9bNwmnQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Agrykola 7, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1585829,
+               "lng" : 19.3954139
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.15981168029149,
+                  "lng" : 19.3968072802915
+               },
+               "southwest" : {
+                  "lat" : 54.1571137197085,
+                  "lng" : 19.39410931970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "99185c06397496a8cfce5524548f3da610963428",
+         "name" : "Katedra pw. św. Mikołaja",
+         "photos" : [
+            {
+               "height" : 1840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109466169203390216195/photos\"\u003eMarek W.\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKM3Y_G5vZFbCyugc5icqiONJluPj_chekOdzloSFRBSyiohXoyPTOXaEdhAHAHoPspSEr8XIsyB86k06FV9sNNaA9QShCAAInwh3uj8ZN3MwPFxkfkLJO4aFXpY9WdPRr6cXe8Z54z6ZqT7--VbeCnr5mgw7kWuMPKEl1AdIZkxEhCJBf5CKon3vnSP8XsYB4n9GhRbrLqzVjlYem3biUnwBaG80lPppw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJjXD8V1xM_UYR-xBKBQ-jTUg",
+         "rating" : 4.7,
+         "reference" : "CmRRAAAAytU1f1qt1fECHOc97sWDeUOiwSgOmrKHX05TxgloRRH6bf2EUScuSoaUIVscU5w2qqnlNlskiCncR6uOwg1-ckxt_VISpFhdikUQmsadDtK8ySbOMB_2RyF_8tuN81RaEhCERXkj23kfxWzNJ3Y3CJzZGhTcDavEJ6fm4alDGE1sFEdXkmTWzw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Mostowa 18, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.18041339999999,
+               "lng" : 19.398073
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.18231233029149,
+                  "lng" : 19.39939023029151
+               },
+               "southwest" : {
+                  "lat" : 54.17961436970849,
+                  "lng" : 19.3966922697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "7d42fbfb4aa2fbf515115fc0470ee3c35f160ed9",
+         "name" : "Kościół pw. św. Pawła Apostoła",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102226404945929510772/photos\"\u003eMARCIN ANTONOWICZ\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGskG0Wy-I0GczFRvomNHE1nCblhNYQKquxbIVjFfQjSNl9GB5bayP6k2RV3EqsbI9ZcdZZTsL8Qw0Efetv5vY9n7m1ZzuZLGL5jmnCaRZXcIWkuUgCTQOlu6AXQhoIo0T4EMV-irmKS1ddvCVen_gSC-KGg97r49uuoMswa-iZtEhBwRkGOv-KEL8N80WdOnbxdGhQDlEDIbjYJGu3PwAMKmunGpsj8KQ",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJI_9HInRM_UYRXEae1xzdDts",
+         "rating" : 4,
+         "reference" : "CmRSAAAAlB25sFoQD-Y2H2aA9IJt2-97HXO_tf2jBc4EbJ_bEhEzfUKZ6bOYkN__xFXq_JPwJ3fQq3APA1VIp-snN8MmGX4eBTlgq7vyFjFEFXx_xRNT9rEO5PLMzUpjF97OWNzjEhBeBxzSFYkmVYGfjzVVZf_NGhSCfVoMIxookUOMAjYG8FnztoRltg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Obrońców Pokoju 10, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.16137149999999,
+               "lng" : 19.4092705
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1627780302915,
+                  "lng" : 19.4107159802915
+               },
+               "southwest" : {
+                  "lat" : 54.1600800697085,
+                  "lng" : 19.4080180197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "fe5a94292a2e823916c141de25c8eb30c49a5b46",
+         "name" : "Parafia Ewangelicko-Augsburska św. Anny",
+         "place_id" : "ChIJd3JHPGBM_UYR3FCmENZ0B0o",
+         "reference" : "CmRRAAAAk0zNg12lzq5Cp1IdmL6U7inSQ0b2hkkXnKfihet5cUpR3mou-SMWe55QDtE9NWu_Rk1qXsRn6R_QeybmFOQ0ngAprLreTgJ8fC4c6X9-kcAb9JJLirRda5c3aCObcD7GEhCLKEiNQK98-2nlzDghhrjJGhR9G4CtjXr1cyX1m1z8YhOOwy2iWg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Kosynierów Gdyńskich 25, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.16732829999999,
+               "lng" : 19.4248919
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1686582802915,
+                  "lng" : 19.4260057302915
+               },
+               "southwest" : {
+                  "lat" : 54.1659603197085,
+                  "lng" : 19.4233077697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "e58d20259ed5ddbacd944f047e175bf87c2e058b",
+         "name" : "Sala Królestwa Świadków Jehowy",
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109281993476719410160/photos\"\u003eSylwek Zieliński\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANVUCDwu54uJgUw_I7Ks_KsmkCtcYlmiWzQc5LWH3xyW8kzCw4moafO4Bby43Bz7EsniXJx_Qb-ymnbbXPbNOZ8HDASJsCtqOsoeGrKcFI8pCyjWc8TdKPv4VfCVU7rsMDEE3MvfCL522uBcn7X0Y_SEgLwdInEPUtU5d6SKfWGWEhC53W9V4WZGrewdgcOkuv3gGhTz64SF2ow4BLqkWtX3UluLI62y6Q",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ6U1GSY9M_UYRp2-XeEvVgF4",
+         "rating" : 5,
+         "reference" : "CmRRAAAAxIn5ynJCRY8TT5P7S5n6GWhGM4wd6SQnFdfzgFbmHMZM-DzzcE38mRy9Ql_HlXzJgl6mqyYRfkbShn2IeN2NTID3BTMt8b6WuXVMmtrr8FDbZ_de-0A3XKCcsxFQK-HiEhD3t0Dt3r-_lhW_RTbc94kvGhTmIDwVg8uls9NmgydF_0TphoCOeg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Tadeusza Kościuszki 84B, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.18438030000001,
+               "lng" : 19.4277227
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1857145802915,
+                  "lng" : 19.4289404302915
+               },
+               "southwest" : {
+                  "lat" : 54.1830166197085,
+                  "lng" : 19.4262424697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3c8f179aff6fd1e7c75bf3b3512c1e08cb58a724",
+         "name" : "Parafia rzymskokatolicka św. Brata Alberta",
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102975888442153010109/photos\"\u003eJoanna Szymańska\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAIwxkk0OwUD9e2Kb9LkS2qG2en2FCT-HxZ7_36VhzRHRjOc0Yz5PhISJhH2DQEXocFUDueJjZYg14ufRXBBo6-tK7iOZbOczucJkdW5_gzuZ6YdCZcM47F_yRWTmNBUlJAoFpjNmldNZpwAEiblyFX7R5TFzqydXqfJ8QHfdtrYLEhArCA2yF_6ZbZbkUCPE_JTZGhQpz7Ql5EwCKCrZUtocrK9R4ymQsQ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJSwUg_YFL_UYR7cVmXzO36Fk",
+         "rating" : 5,
+         "reference" : "CmRRAAAAnqYvEtjnFcdjP25_sKz4vdAbwRFUR_nVOiVL116xN4KJwRbBRmgU_hG6p96cTxzMaQTL9JyGO79kIfc4uTx2GouIxu8TBPLw11xgSed-hJbaONr1OtP3HtPlqSeAOXR5EhAM3jNaFSRN0ahSoQKl7B9CGhQQaoK-c-U7282Vq19MUohhEGXPVA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Częstochowska 28, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.14437149999999,
+               "lng" : 19.4065328
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.14567483029149,
+                  "lng" : 19.4080260802915
+               },
+               "southwest" : {
+                  "lat" : 54.1429768697085,
+                  "lng" : 19.4053281197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "48c22914daa705f122e53882a51a125978af186b",
+         "name" : "Kościół pw. Trójcy Świętej",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102226404945929510772/photos\"\u003eMARCIN ANTONOWICZ\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKkoLfl38uLXuTrclFjIdWNu-DRtMkoDkioHsSlT8JNLp6vHJ3ueUSeivj7Akj-uzhjA4xjrEOpwa_cFkXjVUq-pBpz7dQZKeIwolSTZqNvVB6k2EandzoVB40_oqRxyGnjjncrikM_EqTwBr3ysZA4ITINHfEyFsvL-f_9J2YSbEhAJvvWgy82iV0-k0n7Uua-0GhSupKYCJM4HG-23uTgwkTunUq7n2A",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJydGwX_lM_UYR96K-v_4_P2c",
+         "rating" : 4.5,
+         "reference" : "CmRRAAAAhmC7X_UpNp47OkIjpXclAIXCW5eg7C000llTaNA1agKeTxUJRQXah3xaVmXLnypDZO0waR33VrybHTwkHvcjbmHzskYNU51fbymuza6TWt8vcD2XdPXR0NGXNV1l6P77EhASiWDpM27MWCMOci9kimsaGhTeCabPIBsCjpWVtuDhsxtI5ub0ZA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Kielecka 16, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1485037,
+               "lng" : 19.4451894
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1498190802915,
+                  "lng" : 19.4462609
+               },
+               "southwest" : {
+                  "lat" : 54.1471211197085,
+                  "lng" : 19.4419749
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "3442f1c80a01b7db5582c279fb9264889514f3bd",
+         "name" : "Kościół pw. Błogosławionej Doroty",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102226404945929510772/photos\"\u003eMARCIN ANTONOWICZ\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJpcPOWBeX2F93izje7OXaPoWAWhyy-tHt8HZo76zHMt6pKWl4wOA30mHRvJH7cum3ArPn5gescEb67spW_pYtEQhr7iH2AnEYBEEv-VNQwg0FX3tHXUgqHrR67KJ2a_v5Kz7_XzZ9Z-RA-8_8_4B6rpz8FRDeMIxjP1Y_VwoY1dEhAwWJp9LL2T7WC6qtf1cXDZGhSrOvPFNsgKo5hVNngT1FMkPbyNlA",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJf6HtUMFM_UYR3-3L4pwcXXs",
+         "rating" : 4.5,
+         "reference" : "CmRRAAAA9CdD8MCgJo7J9vxfRdXSm9xHN93xaA7mS_FCfRAFiTpTjnpOwEHg0swSDaWTNT_vhVjxTNPoXuxHFhiPkJAMYLZta__veMs70JQZeIeI16sSzdmdRWZBBfi4u33O9c9kEhCwkPvp1Q-i1wred9FdpAMIGhQwvtfEjP0iG54MRYvVeSMYRjeJ6Q",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Rawska 16A, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1590266,
+               "lng" : 19.4165509
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.16037558029151,
+                  "lng" : 19.4178998802915
+               },
+               "southwest" : {
+                  "lat" : 54.15767761970851,
+                  "lng" : 19.4152019197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "780b119243cf66e9c1740947ef8ffdb3bcd01afc",
+         "name" : "Kościół pw. św. Jerzego",
+         "place_id" : "ChIJI7pwLYtM_UYRcmauhKn9V_4",
+         "rating" : 5,
+         "reference" : "CmRSAAAA7X9-oVF451aky0Tbp1ePrUWVQwxscbc50rrqQEZx_P6qz1yKL_y2DR8qxKD2pP1GY4mDLd4fb6xw2Yyiq6bD12aUHjoGdUInTeb6dVbw1K64jY8TqSmwW-Co8EZ0pwI_EhACuEtkB12TKw_sa-v62QipGhSdQ0hgZvn74_L9t2Wi2CxHyV4aRQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "gen. Józefa Bema 10, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1873976,
+               "lng" : 19.3997474
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1885661802915,
+                  "lng" : 19.4010678802915
+               },
+               "southwest" : {
+                  "lat" : 54.1858682197085,
+                  "lng" : 19.3983699197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "0c6559d3e9c12a189a178f4a2a3c8bff62b4a52b",
+         "name" : "Kościół pw. Świętej Rodziny",
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104817309121461601681/photos\"\u003eMariusz Kołtun\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADHpIz1uXy8AhAJAi-0ltMiVNM4LanSGHacexkSjt3t1aYcDenR3hKWOTSD0Z4FH_b6jLkAcVsmZhZSsoRk2UIJHvMXkfAwkbJtOtLgqr7HjqdMp82HLvBGjKj9UGRAiPtyGZMCwMpsTgWCVQYkA4o1Ym92tL3xCfxpUY5O_z5-MEhCpXOBsOstFJAFFLhjKKFDLGhSiIFgxeulq9zEXpP7fBmg4k5rLzA",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJl77UrotL_UYRtsNCT2btKWw",
+         "rating" : 4.5,
+         "reference" : "CmRRAAAAqGD1rpiY5cCHunFGlC17mztNPDJvTNprd3vrbnHcVhPrqZq6HpfwRXJYIyj5yncsQElCWEiq1ZqEPgZLnp1HLWn1VGZqQ1Oiy9hMDXzDG9Zxa5QWDd5HBnTX0_0iMoKeEhChBGxx3iiDSyFUUs3xhps9GhTXVV5WeEOMQ8Yq5R1s05hVjsgmPQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "aleja Odrodzenia 13, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.15906039999999,
+               "lng" : 19.42354839999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.16040938029149,
+                  "lng" : 19.4248973802915
+               },
+               "southwest" : {
+                  "lat" : 54.15771141970849,
+                  "lng" : 19.42219941970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "48aee4ac7091ca4dc57b741df5cd8f6282260bff",
+         "name" : "Kościół Chrześcijan Baptystów",
+         "place_id" : "ChIJiZjyGY1M_UYRS7eo8MRSqlw",
+         "reference" : "CmRRAAAAUIFN2xRnv2eK30gWsttWzBp7zvAbxzAOOwZn7749E2cRVtQP6_4HNpCbOnr10nNe3dQ6LCVd_xkL4g7e0zVIPwfcMCI9kNnk8Bit7Dd8-G0rvj1T1-2AXds0HOltoVqJEhCWhO2CHBRqFK0sqcUiKxM8GhTnaoawJ3R8vvBiikn6y93ouPDF0g",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "gen. Józefa Bema 55a, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.19023240000001,
+               "lng" : 19.4209444
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1914589802915,
+                  "lng" : 19.4223140802915
+               },
+               "southwest" : {
+                  "lat" : 54.1887610197085,
+                  "lng" : 19.4196161197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "7992b3fc82860df487547ca77ab8283000a307fc",
+         "name" : "Kościół pw. św. Rafała Kalinowskiego",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104202224162809191387/photos\"\u003eJarosław Sławek\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOkth1g4BLBTPTc4FVrJSLXQwhq2SsWZLqOJjwgq4wQk2E3tyXZwHSdrQ4uScwShpOtqmKzvjB6qbnKQv5ZiZ5pMFNxXDTqGJVrc7rpav3u_J5GMChLtr1RiKe-jRJqhd6lZ2ayrgEnnX0ko_doFJeV7D27CXx2uyahFSmsEnlr3EhDV4EpZI0SbqniuS9--LPp6GhQZL7Ce5rFzdvobl3OuaA1ADsltHA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJq7c164RL_UYReS_hScbYCFA",
+         "rating" : 4,
+         "reference" : "CmRRAAAAX2MdJkgypPEJ1q3Ryf4HbLlKO8mkolqb8Ocph99uruW8s74U6YOkEV94UW_adUIg7_98CUneqdYdaMy-fRb4bInuLG2nc2rWy7eCJ5-BvL1PEA9TwP2SjLcPDNuR6MWAEhCcKKwm7bOVizHtgEltrIQXGhTUAY4BoRsUUku7HhbbSg2SEqUYFQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Jana III Sobieskiego 37, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1613071,
+               "lng" : 19.4091809
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1627431302915,
+                  "lng" : 19.4106758302915
+               },
+               "southwest" : {
+                  "lat" : 54.1600451697085,
+                  "lng" : 19.4079778697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "9ed66b3a5b36bed5d87d4c34371adec13a8133fa",
+         "name" : "Kościół Ewangelicko-Augsburski",
+         "photos" : [
+            {
+               "height" : 2368,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111520935830914481629/photos\"\u003eJan Kubeczka\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAK-aZpTYvuUr5ZS33UGDUg6SaNUWu8fsBblM9TKSQGR4KPMTOlVFjkvVk9ITNcX_fptVi1EYvaFSOE8TDE0jsXIzIMmbgxJeG58KKMU30QksIqD7ByGa6ruftdG49Br9K3ee5a0Hm5w1gTKFzbaoyKUbczh5jvkXkTiiOAmVcoCTEhBqWsjH2ItM81X5Ca8udes7GhQWjptPdUe88zCHkkNEFMpXvU9zNQ",
+               "width" : 4208
+            }
+         ],
+         "place_id" : "ChIJ14dHPGBM_UYR7GB55sEzLw0",
+         "reference" : "CmRRAAAAFVE_Nle4taLmMstko6QK5owRqf4AoeM-vShRbO4t8KLpf_SpTA72yY8Mr2cEY5VmA1LnSwl7radM2DxLFXf5KAIKRN8I9VcC7i4ikqkPL4J_SUE2BO--HOQaFmia6ExCEhBdjvwDZZQgYDC9WesppeTVGhQPLb55NVSuiNHhImdhHG39NAXQXQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Kosynierów Gdyńskich 25, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.15765630000001,
+               "lng" : 19.3954323
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1590373302915,
+                  "lng" : 19.3967700802915
+               },
+               "southwest" : {
+                  "lat" : 54.1563393697085,
+                  "lng" : 19.3940721197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "25be7c9f382d22e6ed3fa371d687c8412f8bea0a",
+         "name" : "Kuria Diecezjalna Elbląska",
+         "place_id" : "ChIJWYGoZ1xM_UYRktgxvlnq-ZM",
+         "rating" : 1,
+         "reference" : "CmRSAAAAobkTRmcsPyQymRmAiPUQm5lJkCjR0ofRLqBOSl4BHikay1R0m63sd1wh51RBokb-mnWj73I93Z2ux854Rr-6ng7aRtIGZW5iXesR91aPfI1F9FH2DhUCqxbVa5eJ2XoQEhBuWQQmvG7Wk2dviNjPaRFsGhSt_0pBE1kN7U_fLsdH4dKDaXS5ig",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Świętego Ducha 10, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.15953099999999,
+               "lng" : 19.410148
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1610896302915,
+                  "lng" : 19.4112579802915
+               },
+               "southwest" : {
+                  "lat" : 54.1583916697085,
+                  "lng" : 19.4085600197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bc1ece3e5cee8af0c5de38ea6d102c0158d5d90e",
+         "name" : "Cerkiew Greckokatolicka p.w. Narodzenia Św. Jana Chrzciciela",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 562,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111157702241553982691/photos\"\u003eCerkiew Greckokatolicka p.w. Narodzenia Św. Jana Chrzciciela\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAExkCkNM8aQ860KIXbvJq1G9k8U0lJSbMskq3SEHD-xKfkWSj4q0y6E9j58p5CbqqcsJvyLh6fldi2Ou7UYC1pxU86szMEu3TDMax02swqrpZqs4IiUrB0SMAgEPlgIW2YPwWj4ASD2QO35XarNXLr6EKUiAxcLozFhCci1UdsXuEhD4C0B4PZFbW9tm0EN6isuzGhR6-ungtZfOQAfmXfx4fOuw26giWA",
+               "width" : 750
+            }
+         ],
+         "place_id" : "ChIJP0uzrIpM_UYRPZyxpkWMg8A",
+         "reference" : "CmRSAAAAt4paA-x4sMovsinyJXcuf_jHKM_b5oy_eGO1ODLQyMDRS_mMNgHVIYKnoHY4KBVVZHQQ8j-c31Tf2O95wf48uSC0FcEtUMldfcMZTw34IaaUY9YbIZ3TV-b_nBr61J3YEhBQw_9klFq5ivJ2ldnjAtlqGhT74R_1PnnG1Ujx0AOztrFmxApGng",
+         "scope" : "GOOGLE",
+         "types" : [ "place_of_worship", "church", "point_of_interest", "establishment" ],
+         "vicinity" : "Romualda Traugutta 15, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1653902,
+               "lng" : 19.3989096
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1667292302915,
+                  "lng" : 19.40043038029151
+               },
+               "southwest" : {
+                  "lat" : 54.1640312697085,
+                  "lng" : 19.3977324197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "28f0bd11c4128d311aed9842151537054d37aa4f",
+         "name" : "Kościół szpitalny Bożego Ciała",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104202224162809191387/photos\"\u003eJarosław Sławek\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHCoXwZLTqlWkohyLP5TrlHYHC0MgmM6-kJdXueNfYmdmZjoeqO70U0nfbqMWHTamAN-Y6zAOKVjfFI7eJ7H0bTW-7AftA89k3SlPEztGvj4MsmA1SXWYDbj_3ElNR7QOJJNIF9PFlOaGEC--Li9VmydZ_eb6dYtPNBpbWT81aNoEhBVymTqN7vfv2lAGfeLoSFAGhScH4MJM5tdfNrPpWg0ApzGLZMDiw",
+               "width" : 1836
+            }
+         ],
+         "place_id" : "ChIJHbVuQ2ZM_UYRXjMQyRgE1K4",
+         "rating" : 5,
+         "reference" : "CmRSAAAAUu2DEcPhdDlHWHryaKtGEn3q9Lh97hUUR3oDF-VUPG19VIRih_Iq4MCWfBUVQJMGLTWtfUQIF_l-mV5n0G7fgvMh7eF1LOTa8zbm9yySsNDmXse3b75yzTk8dfYNQDZHEhBHBES7ExWjIq7_xNxk4tjnGhTl7n8-fs_9FWdDhcKmrTuUsH7hvQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Robotnicza 29, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1498703,
+               "lng" : 19.4287052
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1507521802915,
+                  "lng" : 19.4296072802915
+               },
+               "southwest" : {
+                  "lat" : 54.1480542197085,
+                  "lng" : 19.4269093197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "da3c99d3089a80b3c9140caf2513c178b51edb73",
+         "name" : "Kościół pw. bł. Franciszki Siedliskiej",
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108130638217353507002/photos\"\u003ejerzy Machelski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKFrQVN5Jv3AjoaD2BRLVKbtuNGBwmndCRMYIRKuVMQHq5dW0SMJU6342-CWFTX5WeqCX179cyJKY-wZGJIQbaSPVy9xE0fW4X-rYuWoA8uMmAtfSewFPy2y3BBeDwRtAxaj3swACqh2g5iR81enCg3d6d4EFkjGRyPhs_mDGxsiEhDs2J0qgGO6wcHpeDkbJkmFGhRSiknM6mvrzDAjxBCjm7RLOeKPgQ",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJs2VCAOxM_UYR1c6WMH7rrEY",
+         "rating" : 4,
+         "reference" : "CmRRAAAAOXYjopTOJylEhI8KTkuy-_5M0LsdiyOFEApCt-B7Qelw3QGhzqhC4GyigWR9YcrwiAlL2XQY6v8IpD6peUyqVjdmQkJJw8r413cnmaei3qlUIg7iDcra_tAXfTrOXF8nEhAZm5ms5vXuBC34lQlOIbYWGhQipoTrTHsx64_FW6mXZaFijR8Bkw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "aleja Grunwaldzka, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1981573,
+               "lng" : 19.4383512
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1995324802915,
+                  "lng" : 19.43961473029151
+               },
+               "southwest" : {
+                  "lat" : 54.1968345197085,
+                  "lng" : 19.4369167697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "8d7b4d76cf3cfd0ff93e2eb0b508397615473096",
+         "name" : "Kościół pw. św. Józefa Robotnika",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102226404945929510772/photos\"\u003eMARCIN ANTONOWICZ\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPAZvus-K2jfWHJEix4fVAF0WMwoS5KHpO0HVy-y8VwHSEgZL773whfcGjg6osYNKiYnYAeMHAaTtKuJt3qUP5cZKAPdseje4qYqj-JzndH0E500hKI5pNi7pgR8pT5Y-BRAJ722BZU2LdZkdjUTWKqSnxMVX_ULncHDDF4TjH4REhBa_kygUi6YUVrq0t2ezcohGhSuFG4FbsJocEwdRwTjGs1Y3MHHZg",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJeYXBYnVL_UYRGA5uAmG5CeY",
+         "reference" : "CmRSAAAAqT6TGGhFum9iX5DaDcnRa0px4X5FYDPmMLIpNiIBOFE-Xd80XMjvTl9tvJS6RksjNuwzJ88kTim0uaenNsY1nNeuIncbRJnJ-3Rtz_DSnxT-xcDL--PltSdSs1azKG-eEhDJKszN6C-ZjLTXuD3yR9_JGhS7EytmgIm_8vdsf6u_GdB8fvUe3Q",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Jana Kasprowicza 1, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.15894049999999,
+               "lng" : 19.4146282
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1602761302915,
+                  "lng" : 19.4161882802915
+               },
+               "southwest" : {
+                  "lat" : 54.1575781697085,
+                  "lng" : 19.41349031970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "9c104b4df5363281ba3f524da6481ede51dafd54",
+         "name" : "Kościół pw. Miłosierdzia Bożego",
+         "place_id" : "ChIJrQY5S3lM_UYRcqQtv46Hqh8",
+         "reference" : "CmRRAAAA0LFy7iZcwWFdz2jTj7aKP1rCkdPUcCkzsEy7lHfxf0xF2SkKlu2DCYdsMzMxj24s1lCJSvBsmjeXnlWy8r_SVlQJm9CqaUa3gNIIeuTnD-PSvJsKYCCM-jsM-N2qXRzNEhAExLWnozt_bTynLnvSKW_QGhSIRLFHcCqhjANcGC5oOvQrhHrCsw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Chocimska 5, Elbląg"
+      }
+   ],
+   "status" : "OK"
+}

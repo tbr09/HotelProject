@@ -1,0 +1,617 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCBAEAAK8JTLdxUQZ_MVIALHlIPVAOh5h3IbnYEqhz2X9C4QCyyxTaqibaI35X-46aq6ODPV3aj9Vvg6PHLmP5oqp00dgdQm0vNikq-uKf0WL_GDm5sk5d1M_qPPAK1AMm7dehDp6tl_83aCA580xJPWTPSNvjDHVPcmdkOCBVVF-T48eKpIclsrE3RyI2c5U0BpchjewVyzQJ8Zc1ZcDxGIZl4rZbnh6neaypXo_MSR65L8PwPyemN9CFqwp6Kag55Pl9k9rHShyltRlrk-OuGZXutJ431qDN5hd3IMW5wWqUlNFfyKGQZuA2zSq90PlRJ6-ovX3y4fQ8y-VhB63TPfdqRCRSoyEEyd8a2WBNYTOTpvCqEhDnvhWZSwa_xM5ZNRG-qw5BGhQbgKTEeGq22VLsFGUmcAJp6RYYCw",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1319794,
+               "lng" : 23.1542122
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1334202302915,
+                  "lng" : 23.15553733029151
+               },
+               "southwest" : {
+                  "lat" : 53.1307222697085,
+                  "lng" : 23.1528393697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bd3763bb007d6bd454a999f6f658a94f6a2b3113",
+         "name" : "Centrum Kultury Prawosławnej",
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104324749961413259112/photos\"\u003eCentrum Kultury Prawosławnej\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAIXMEQ0ItbXYGrmutAKX2gjKtNBBt2ZRVGtFeaC5prxiZlZWSMF3zQN5AK_tPbkG6p4bq5KMvYrMSTcyiTtgVg0WIVYNrgt2JE0p5hj6nfTsMfpeqXNdciFlNNVJ3RC_atJL43RRfaHxA-7Wt-p0WeAmO0ugefgacT3UkfGN8EgwEhD5ap8BF9lYtJydT1EIQ09sGhRshSQIbWwCSr1M5ziyQSP8yIAb7w",
+               "width" : 1540
+            }
+         ],
+         "place_id" : "ChIJR5pybAX8H0cREL5-jrwZmoI",
+         "rating" : 4.6,
+         "reference" : "CmRSAAAAQg3QS0fdO8fYfF1cn-br4pAU9EcnFEYw71HQDHqFLERkUgclCoxUnx-RtyGm3gtm_vc_GAzlVKIP5-Ctbg8vYO9ejMOslJBEjB1rAU0N6Yw7EsTzI0AmrQ9L9DxzOJJFEhC3eZeV_WHjzuljfc81uRZ4GhRqU1HSbxbK5Bt4_KCBNoR8D-EwRA",
+         "scope" : "GOOGLE",
+         "types" : [ "storage", "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Świętego Mikołaja 5, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1330341,
+               "lng" : 23.101896
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.13392373029151,
+                  "lng" : 23.1030645302915
+               },
+               "southwest" : {
+                  "lat" : 53.13122576970851,
+                  "lng" : 23.1003665697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "fee634af666b0e22a1b69a22c0d9384e196edc5f",
+         "name" : "Książnica Podlaska im. Łukasza Górnickiego. filia nr 8",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJuTgJf4D7H0cRijRZgSMvGis",
+         "rating" : 4,
+         "reference" : "CmRRAAAA-8MprBqrqk-K44fMRu3rjY7L94Aj01l9ibjfr_Rf0osfucx2g3Wf0zrF7zGuWL_PUxJEa7AL-Qaxm16HNNviGKvgTv8-PYM7c9xni2aJ6OayNUNA5hDlF9oDskz5Whd9EhDVyk-JqOLlXddcKpvuli7EGhTAzQDLfcP_nPoKjSyaCXWYPzZi8g",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Wincentego Witosa 34, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.12787729999999,
+               "lng" : 23.1585926
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1293449302915,
+                  "lng" : 23.16018543029151
+               },
+               "southwest" : {
+                  "lat" : 53.1266469697085,
+                  "lng" : 23.1574874697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "7e72cad29be4f105e53752b45c7d320a7575bcbe",
+         "name" : "Biblioteka Uniwersytecka im. Jerzego Giedroycia w Białymstoku",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJpb9i8AP8H0cRetPjJVoFNgw",
+         "rating" : 2.5,
+         "reference" : "CmRRAAAA9_xIcOH0mlfgKzH5FybW2mQ3EqXAKc1jYXyI6w0YjgmlwzVEzMUeIhLTP2WhPxrmuR9OYM8tBlyUWyu5RjAqDvjrY7uxxiMpNcJmSAFA6y8qt1c9lX3nXbyOZWrBQmRSEhCHUV0D_ZtcMrt9hPo0A6RWGhRSxAyz0ArmzEP9yD2ic4gB7ASB4Q",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Marii Skłodowskiej-Curie 14A, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1091245,
+               "lng" : 23.1188841
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1102244302915,
+                  "lng" : 23.1203437302915
+               },
+               "southwest" : {
+                  "lat" : 53.1075264697085,
+                  "lng" : 23.1176457697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "384efb1c23ab32c733edfaeb47162a6fcd1db41a",
+         "name" : "Książnica Podlaska im. Ł.Górnickiego Filia nr 5",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJVXwnLer7H0cRpuuR-TuCpks",
+         "reference" : "CmRRAAAASeTns5dwGvtLB6IblGc-zr5r-A1ufcglPzcht2G4EiRnreC7Yb1L1sagVytuC7RpWNx1eWFagdjrizsQ0R37QNujTh-N8DAedt3ckDPPamCTJGkXfOK16HabAj8v36mYEhAB6j0ZyBB1FORtUpUOxE-rGhQTWSumRepQBV9wFgl2lieEsnnF7g",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Kazimierza Pułaskiego 96, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.15181699999999,
+               "lng" : 22.985766
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1531981302915,
+                  "lng" : 22.9873822302915
+               },
+               "southwest" : {
+                  "lat" : 53.1505001697085,
+                  "lng" : 22.9846842697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4e5aa33bcb70f1186481a1c3770c074e48e4aa6c",
+         "name" : "Miejsko - Gminne Centrum Kultury i Sportu w Choroszczy",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ0blApZzkH0cR510J_-4U6kM",
+         "reference" : "CmRRAAAA4NgkbjpA-YFWZLtuG0BOZD7uk686buW4Cy4GEwOoTQqWDVFHra5VHyR61QBMK5q-ZL_sVU2hE354_iKWACDWJFKQpTFp9S14hKx701o9FqBX83Lz4SspZcCog7OCKPWtEhCWuzx8dQChFI2C4RTNjyASGhQDkpZJmKc342gfzIb7YQMgrDusxw",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Sienkiewicza 29, Choroszcz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1539315,
+               "lng" : 23.1169087
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1558091302915,
+                  "lng" : 23.1187450302915
+               },
+               "southwest" : {
+                  "lat" : 53.1531111697085,
+                  "lng" : 23.1160470697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "39fe4378a5c3d81fb06c4df542f7becd97afde60",
+         "name" : "Książnica Podlaska im. Łukasza Górnickiego filia nr 9",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJH6X981_8H0cRiyamGbdRHmQ",
+         "rating" : 4,
+         "reference" : "CmRRAAAAo0Wq0EL2k5yX7aq9eJ1rk-QzlS_s88A9lY1JWFKiokk0DTlTyjfHc1hCKzGnjoAx22aRWaO5mPbreKnVCAn2aMvb1piTyKNuVvk3EHDBkEt-a7DgwbrbFkwnmWNPJIskEhArU8vTBqfAiIiV2tw4i-bCGhS_L4dex3uUBFAgmJqkOkF5AVp3EA",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Gajowa 73, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.122895,
+               "lng" : 23.0959233
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1244419302915,
+                  "lng" : 23.0976248302915
+               },
+               "southwest" : {
+                  "lat" : 53.1217439697085,
+                  "lng" : 23.0949268697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "67efd063fe39f5589671f68260e837b44af23b88",
+         "name" : "Książnica Podlaska im. Łukasza Górnickiego filia nr 7",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJreWXtJz7H0cRIZZRBqNLAxE",
+         "reference" : "CmRRAAAAXerVFmIDss66ME1bKvRX2c3DThFwWy7sgxyovMf-bikyNERjl8rUMw7DiB2pKgsinJOpS2NiK4pCgnwdhgCo1UOQximgbCcBe-JytpYwNQ1gE1p8Mzp02_pfNTLSOgq0EhBVb62VW9AvcA95hByJQysDGhTMYItU0JIGjPQ24yHZknco8magjA",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Zielonogórska 2, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1114207,
+               "lng" : 23.1900976
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1127208302915,
+                  "lng" : 23.1919493302915
+               },
+               "southwest" : {
+                  "lat" : 53.1100228697085,
+                  "lng" : 23.18925136970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "4a5cb6d7e743ea4f9fb2a213498ddcd4c04d8906",
+         "name" : "Książnica Podlaska im. Łukasza Górnickiego filia nr 11",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ5zX_hTX5H0cRrtDuWQO5PzQ",
+         "reference" : "CmRRAAAAmSnRC4KD0kGgWSx58kbc11CnXAWg2MVgHx_gob6G1iOxIr1KBedcs6IKXXyl7h1pxRWMxHJAqJHW0IbyCTO47A2p52bgaktK1iU65zV8lvOiLHk4nQ-KML-QuAEXk5o6EhAHRq7DrPL6coHResdr329uGhSO3NMmK6yLtTBqdUHS_ZNdDsNilA",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Żurawia 12, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.12712609999999,
+               "lng" : 23.15979129999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1285992802915,
+                  "lng" : 23.1613107802915
+               },
+               "southwest" : {
+                  "lat" : 53.1259013197085,
+                  "lng" : 23.15861281970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "56098f268dff7d8a21242fd3702d3f4ab31b99e9",
+         "name" : "Książnica Podlaska im. Łukasza Górnickiego. Filia nr 15",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109546795927345825564/photos\"\u003eCharles Pawelski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAEe6azcGNi4JExxIm1lCvaKhWAMhJylvf1p9nCwsSryY27i3mdprCArSSx9ZWZVhseCs7yR826xgYkJwQYWH2zWGR28YU7nEY6n0brb5HI2SjItB_kePjl-9X1oi8oCUErgKWhKtOFQ69t49UhWW-SdKr-aPaZQI0ID2d65SvdluEhDE3YUMQ36FQvP156k6eealGhRMi98TlUop2YnnWflBmyT7hWJ0dw",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJi5c-3gP8H0cRhuWio-SouGw",
+         "rating" : 4.8,
+         "reference" : "CmRRAAAAGZiIZVn-OTZTL4v3HnTDtKccMsJu-WDGBh1YmMthV_2voTyrIyACZyE72Kj7X7QVmI3Q4Sg8VmOO0sxWKzjYzd33eYVFSC_oxc32IJWc_4R4M7u7FyclLvzNRQSEpIjaEhCSwAseReUuC5aSrWk3s9GxGhSB5EvGBUUiAcJ-adyKYJjiApM5lA",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Marii Skłodowskiej-Curie 16, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.13027289999999,
+               "lng" : 23.1883461
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.13120003029149,
+                  "lng" : 23.1902467302915
+               },
+               "southwest" : {
+                  "lat" : 53.1285020697085,
+                  "lng" : 23.1875487697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "2cb5b0a15aaa062ae1d5724ded3ea9a5863046f6",
+         "name" : "Książnica Podlaska im. Łukasza Górnickiego filia nr 6",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJkfP4Lbv-H0cReTugAuXkGjA",
+         "reference" : "CmRRAAAAkbq7FVYr6V6vqs-1XnU3uKQz8zt7w84U-ro3zrxHBMLYfla8padPkOMUvpsjZJfo_VuEfSsti498eXdv7Bk5830mCamWn4J3FCYNTp-a5uvKu05KYk6Lv9It94AwBWOREhDzUENzKSsn3AWTJR3UJqomGhR9rSWz4Kcqm_rtgOUJimM-N1VqVQ",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Piastowska 11a, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1407602,
+               "lng" : 23.13377569999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1420473802915,
+                  "lng" : 23.1351912302915
+               },
+               "southwest" : {
+                  "lat" : 53.1393494197085,
+                  "lng" : 23.13249326970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "73d0426d863d6f71e3018d27aa422fbc274871c0",
+         "name" : "Książnica Podlaska im. Łukasza Górnickiego. Filia nr 13",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJiRXOMmz8H0cReAqG8EqxJ6E",
+         "reference" : "CmRSAAAAFvKU9RSv1BkLe2luXQw-g5LNeYwon5gbF0ymnfMbYfc3ZbLopo9gxKzXSgUHZdFS1bgQHM7b0hY8JqjVx4RNVsuNsarfgmbbpQ4KTfV00vDQYee1oU-IdI4HPUZ1_9rrEhCywD6YduuQs96KQ1dSNGr5GhSCm90MBxkFVhu3OLMsmgwMT13gDQ",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "15-748, Władysława Broniewskiego 4, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1402209,
+               "lng" : 23.165381
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.14161893029149,
+                  "lng" : 23.1669294802915
+               },
+               "southwest" : {
+                  "lat" : 53.13892096970849,
+                  "lng" : 23.1642315197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "2c4a51e28e25281429019b38b167bb2f752bb33d",
+         "name" : "Książnica Podlaska im. Łukasza Górnickiego. Filia nr 3",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJXcdP-xj8H0cRzE4rChaptY0",
+         "reference" : "CmRSAAAA_o-pNfdhXrDG7QJ2tezXY4Xme-nv_zR5ymB4xaliBc6ChyjiGzAwr9_lYY9ePmW7gVoX0sLCH0ahWQcYFhCQHb87Gbc7SU5Jkem9XbW8i3ywM-0eM79zaDa7o5Uu49czEhCBQtHMQouf2pwSvj0IzF6SGhQ20F1Bl0gjXOwTPVXSkaRIOPObXg",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Ciepła 15, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1524856,
+               "lng" : 23.1298779
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1535503802915,
+                  "lng" : 23.13276554999999
+               },
+               "southwest" : {
+                  "lat" : 53.1508524197085,
+                  "lng" : 23.12891535000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "3b1d910f4c360c8c03d4768b01f69912a267d09e",
+         "name" : "Książnica Podlaska im. Łukasza Górnickiego. Filia nr 17",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ3SvYIF38H0cRM9PoeHa-iiU",
+         "reference" : "CmRRAAAA3J4LJgGlPGvgTBJtDLDPQZtrLGitpmySk8ameiiIuo6XQIsfDgWofBqLwJC_esIF5Qzgxg_bu0BkMINLyxkKwBK0eMFkkLsYEY0zAAJqXDHsH7PZ0gT9sTZpbWPLjOExEhAtPiiZ9Ixk3rnVkghNqZtiGhS4EbRh8-_aVUmo_rbKnG4TzSR3Dg",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Dziesięciny 41b, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.12385310000001,
+               "lng" : 23.1558484
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.12568203029151,
+                  "lng" : 23.1570588302915
+               },
+               "southwest" : {
+                  "lat" : 53.12298406970851,
+                  "lng" : 23.1543608697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "459a838e92321529a28c641776a2522441f809f4",
+         "name" : "Książnica Podlaska im. Ł.Górnickiego Filia nr 10",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ_ZjHxQD8H0cRdgmRtJ7Nyqk",
+         "reference" : "CmRSAAAANUkVOmA3zH_IdmlVf4c_8IzU1omCsyLc-DFd2C6mWcuaQ6KCtAY3GGmpRjwrNQbvMqfLU96NWUyeXiuhpfayeXOi6U8swaRfLXKH9ZnXYCcLB0656M67qW595xQcAp6AEhCS_-DnqUv-nupxaYYTJYKZGhR6R599QNmMfEbd8VBDoCIsNZk8fw",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Jerzego Waszyngtona 17, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1407706,
+               "lng" : 23.1497794
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1421195802915,
+                  "lng" : 23.1511283802915
+               },
+               "southwest" : {
+                  "lat" : 53.1394216197085,
+                  "lng" : 23.1484304197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "19fc483f78d39e5f0fb3a51630c46fc0ec19f338",
+         "name" : "Książnica Podlaska im. Łukasza Górnickiego. Filia nr 2",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJhXP5BBT8H0cRw1IxkSKmQ70",
+         "rating" : 5,
+         "reference" : "CmRSAAAA_PqPEPvSw68SFRRDPvowBDr_7omOLQX43s_YZgTdr2XE7cX2sbKpPFeHY8-JkMV7ZfR3uUNRD2EQ4MpSaf6uJ3j4oeK2DqQ-cesip6PrubYF9lXddgc_NlA4sbUi4U4uEhDQ8ttZSWtmOLdOAopwuagjGhQRlUMz8uyhqF4teNYE-oyrEJKUBg",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "15-868 Białystok; Kozłowa 4"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.13352949999999,
+               "lng" : 23.1697135
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1348688302915,
+                  "lng" : 23.1710435302915
+               },
+               "southwest" : {
+                  "lat" : 53.1321708697085,
+                  "lng" : 23.1683455697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "cf0453c8a57b15a2f29afb97ba9acc4d7bbde451",
+         "name" : "Książnica Podlaska im. Ł. Górnickiego, Filia nr 14",
+         "place_id" : "ChIJ89cNoB38H0cRwBPtDuaQLAY",
+         "reference" : "CmRRAAAApNRcA9huL9v3nn-rr3g3hkNM6C7XcltltkdEL67cEXrexk4XmcVnQ4nLoaqw9QSCnh8Xsy3pXvkDWoj9mKUDvRirDHDUo8M2ZEBNbJM3mVARYWnrUG4reSCDObhGBBMrEhARcA09jMQtai5V58cfrb9CGhR2-r7tASHG4ZBFgRIgNUG_o9fhmQ",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Warszawska 19, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1411622,
+               "lng" : 23.1761284
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1420255802915,
+                  "lng" : 23.1769097
+               },
+               "southwest" : {
+                  "lat" : 53.1393276197085,
+                  "lng" : 23.1737845
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "2dde4bd27dc5ba2a086d571eebfeccf5cfa343dd",
+         "name" : "Książnica Podlaska im. Łukasza Górnickiego. Dział zbiorów specjalnych",
+         "place_id" : "ChIJz6GLhR_8H0cRgSPZdg6j3dQ",
+         "reference" : "CmRSAAAAPChPN4CXRSMHAihj-V3oc_66waXEjB_zOStBh54IKIrej7DDa8H9RU7Mzk3uWNfG4ijDegqtMHkDAI1BYZ-6x_zfKJoKEzxo8WRNlccEiHDyg0vced1294QON8U9Cz0hEhAXIx01ammCqr9_xM8ngUb5GhSAl0xQl_yo392QcDBinTzdqeICcw",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Ryska 1, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1517318,
+               "lng" : 23.0908907
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1529968802915,
+                  "lng" : 23.0922837302915
+               },
+               "southwest" : {
+                  "lat" : 53.1502989197085,
+                  "lng" : 23.0895857697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "74ebd416c1fd422691fa88ef2b7dd3bf100f2e6e",
+         "name" : "Książnica Podlaska im. Łukasza Górnickiego. Filia nr 4",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ8XsjmPf7H0cR6zAS289wQDE",
+         "reference" : "CmRRAAAAULASoi28Agrh6eJ7F_IE3JlXHeOW4vx1LNSu0A_iCz0IxlNdAb4_lQkjy0vQFqrEB_BQSQsH0kurtUj4cqcAKQ_BMwXbhdf5sDMCtAl4apCN8vswdcWTucWjIs_Pbr5JEhDjnDvKO7T5rQbOrvlcNGmZGhQGFeZPJ8XypOaCmFYzk1EuqiBmaw",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Komisji Edukacji Narodowej 36/4, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.096353,
+               "lng" : 23.2100037
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0976985802915,
+                  "lng" : 23.2115181802915
+               },
+               "southwest" : {
+                  "lat" : 53.0950006197085,
+                  "lng" : 23.2088202197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "acf9fc971b0044751f8fa27462918cd931b12a27",
+         "name" : "Książnica Podlaska im. Ł. Górnickiego Filia nr 12",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ54TGDyf5H0cReaEP95lExhY",
+         "reference" : "CmRRAAAAP_Q92Fm4jBOrbvoNt6LbbpSalbP0IbiAG016wCPNGr1okC1x7GyRw-JPY8Weyr7I0dsUZXzhroAfoxCY4XYzXRlaLGcofc7EIrlqt3t_Bnnc_QyGcCkZxUEY5ANtPlXREhARjVMlpYSgDkkU2XPfx0KmGhSEiRdu2It7hojUe7Vypt08fHqLoQ",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Dojlidy Górne 48, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.09666259999999,
+               "lng" : 23.1238258
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.09784843029149,
+                  "lng" : 23.1253995302915
+               },
+               "southwest" : {
+                  "lat" : 53.09515046970849,
+                  "lng" : 23.1227015697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "d31cd3c011a66a6501da9557ad43cd2d74b89691",
+         "name" : "Biblioteka Publiczna. Filia",
+         "place_id" : "ChIJBSNR79r7H0cRh0yzxk6SQuE",
+         "reference" : "CmRSAAAA7Iht3DPmFjcrt_nUnTuANawaxqBQNPUy8RPBbVdBwiSVYHsSt41ioMnM2kV3nuid7eunJoaMTlGEmKy-3KiQ8DJfuyfi3-nqYa-FFC63eriRw1PabRMY24jNNVX_H6qIEhDvvomn7T4NLL8DfEETuGiSGhQ5C3hreLX3Ges8M79s84LvuWvWuw",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Zambrowska 20, Kleosin"
+      }
+   ],
+   "status" : "OK"
+}

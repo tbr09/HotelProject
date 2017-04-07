@@ -1,0 +1,119 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1485395,
+               "lng" : 19.43125
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.14960978029149,
+                  "lng" : 19.4323261802915
+               },
+               "southwest" : {
+                  "lat" : 54.1469118197085,
+                  "lng" : 19.4296282197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "30050d480d6c8fb84f81e833daf6ec6453c8b5bc",
+         "name" : "Państwowa Wyższa Szkoła Zawodowa - Akademickie Biuro Karier",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102226404945929510772/photos\"\u003eMARCIN ANTONOWICZ\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAL54sEuWj0Qr7OdFwkcqjZ4sblxENpu_5CSbTinnWbNEUzXJOvnePAEVbSR0QCc4sDutp05E6TOV1pgFKDVz2_GBIMGNFv4cPcjt3_2dzsEZXqFwoUsOaIeE-Egt5MnAE5Zy6TJOpKOICGf871RfXgFnHKwaAHQnz54EBRpOP5GEEhCi1mJp2GlPXhWODgys_AffGhQ-UmvyLGYQObE9nzhKdweG4MjDsw",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJV3nvEelM_UYRaU3ov3kgjBM",
+         "rating" : 4.9,
+         "reference" : "CmRRAAAAsgktouGThmAJujU4qnQXbyTqO8pT2rAPQaIQsgxc0kK7yisrHvG7CvwNQGkcMbpglkBhI0UVqo7eMyTMZOO6sK4gVa5HbRyWFclf1U2shXcHIM2Qldrc1v3aSQYCW8iHEhDSkXYUIyueeay5Jc5rIxmHGhSdTnk307STKe089JMPTITDJUL84g",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "aleja Grunwaldzka 137, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.159598,
+               "lng" : 19.406064
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.16099373029149,
+                  "lng" : 19.4074297802915
+               },
+               "southwest" : {
+                  "lat" : 54.1582957697085,
+                  "lng" : 19.4047318197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "3e36ac7cdd7e42e55dba115c3a38425a07114b02",
+         "name" : "Elbląski Uniwersytet Robotniczy Sp. z o.o.",
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106524615237945794248/photos\"\u003eCyril Yoga International - Poland\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADzmiSdUXmeQo1CN5QcXCWIzUGc12ffT4g7Z8AW7-XXJ7hDvyNvMCLYHYAGh65apbUbW7fcNmipBEr6jDeBq8l131Nn8NhW39mrW1oK_6OkP09JpJdsG0ClKj8vf8FvdpGcHVQ-JaCJXQPgOZWCVldfMlWnh6SucgHwOXspDZsQmEhDSjspnREr65cliPyHpEO7PGhQixrlemwEAKxaoUrj-UnWF24dDrw",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJ9_4M0F9M_UYRUXUGiEypZNc",
+         "reference" : "CmRSAAAAzhUWnc3cm-zgkCHUEggSLEAn1QfG6_T_alUZDJFAqTj2_14uWr8VsxhbuG9ZXRmDC0aqKCR1jka1JcmXPmqrt0Cf1kE4ECz5H85mNh-Kaw3k79iRcCs1_f9tz8RG4HSlEhDn0LTDqOaOkRRiMdoQGxefGhTmI702VLyQRneXKIWQSyXnS1dMCA",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "1 Maja 54, Elbląg"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.16209480000001,
+               "lng" : 19.4244075
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.16344378029151,
+                  "lng" : 19.4257564802915
+               },
+               "southwest" : {
+                  "lat" : 54.16074581970851,
+                  "lng" : 19.4230585197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "11fb44b69620418a4ab8e90be7c317b35c58c5dc",
+         "name" : "Centrum Kształcenia Zawodowego i Ustawicznego",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111185285018307030550/photos\"\u003eKamiL733\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAD-97Qh5GDSeQx3Mz0UIZLxoP4kL3Vfg7XLvXKEqxrlcN5tZ8837ze6k1PFFWO3kNND3ZFraLWoofjLqYLpQbuyluAy9Eee2hhs7AviuMIL_u-6KcGP0ZZIYc_0kpUvuDe7X8c3p7pj27QlR5Z8SIplr2yMG794_laiCUznQl5-AEhDfkpkicMwk0tejOyZsEPeRGhTDvNIgGUrh6R3lSC_Lb3hzYLBvmw",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJcwhtMoxM_UYRj2xJC1VmXks",
+         "reference" : "CmRRAAAApSWSqzEab3LtUrPMp-s51CiRzW3NwLnzNEA7ZP-n_gXnJqPAWZZtt_340evSV1-WHmCOLCEE8pUkgPGvMf7z1L84OiUsszqFW9q4YpMMJqBQQb9jAFr9M3QovAREDxCREhBXdfgUYWR3wnB9xuadnfyWGhQ_NU5DiVyJpTTTJT4oiVZFTEn2FA",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Elbląg"
+      }
+   ],
+   "status" : "OK"
+}

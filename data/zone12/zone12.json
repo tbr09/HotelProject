@@ -1,0 +1,279 @@
+
+[
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.2606865,
+               "lng" : 20.8899343
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.26173113029149,
+                  "lng" : 20.8910750802915
+               },
+               "southwest" : {
+                  "lat" : 53.25903316970849,
+                  "lng" : 20.88837711970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "66ed69f13e1794eb08ee0079ab02c16e232ca544",
+         "name" : "Cmentarz Żydowski",
+         "place_id" : "ChIJTdzDSLvdHUcRsyon8NbGEco",
+         "reference" : "CmRSAAAA0Jlevpkp-mEJk6I_yokOVjneEfJKxfjxCkXY5q0CcGkkr_Ak4-Xv-GjuV7Mti-3Z-kYPboM5C0LdLXy-XkI-cESe-obDC0JuqSF68wXbbYlsS5Qf68AqdfKBxNKPnQhxEhCN9mhFbb2zvAZLrueCB-BjGhSvHiyx8Idms2N252eL2sof0QI5mA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Ogrodowa 56, Chorzele"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.322056,
+               "lng" : 20.8659973
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3234049802915,
+                  "lng" : 20.8673462802915
+               },
+               "southwest" : {
+                  "lat" : 53.32070701970851,
+                  "lng" : 20.8646483197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "8346c489cf3c36d4170ed517544863b84227c097",
+         "name" : "Jezioro Wyżeckie",
+         "place_id" : "ChIJYRLXrNznHUcRkOJ7dLke0nM",
+         "reference" : "CmRRAAAA4H9khlswThpYeyFZz6v3Q8zo8gdP9DYc9XtCdGzoJLH_uH0cDVNUqNAPqQnzuMlxObmcsWl3J2u1T_mUYWldLQTk5qzIz76uXUoo96rL_5eMuzKeGZlAWjnlbDXQfn3jEhAwgT42BosKfeAEtrz24WhDGhSUsFPVCafsO7KGW3bPpepoGpdBKg",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Wyżegi"
+      },{
+         "geometry" : {
+            "location" : {
+               "lat" : 53.2571992,
+               "lng" : 20.8956716
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.25869683029149,
+                  "lng" : 20.8973271302915
+               },
+               "southwest" : {
+                  "lat" : 53.2559988697085,
+                  "lng" : 20.89462916970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "1cab3635bab2c6b78ebd761d6a2b90ee4b69737c",
+         "name" : "Kościół świętego Mikołaja",
+         "photos" : [
+            {
+               "height" : 1224,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108522685500530872285/photos\"\u003eRobert Zakrzewski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMQVE4O_DF-i0DTRd-u_RBI02wZeg96AcLvyeqlSOjJuKu9KCZOXqUEvowmjO26T4cCCWAhO9dZ62WRMSo9Kx107nh7A3K74gbAwaOYh2JqbtN0LmWeELfrQiys38dyip85jYDcKRZAxNMZCXpBuFWyjQnH-evxTcC6fmdbp_7tNEhBALXoUe99C7YkZTQ6Tqm_oGhSRxBEf-nFBNCvAeNZRl5FxDgrqTQ",
+               "width" : 2186
+            }
+         ],
+         "place_id" : "ChIJh_whhrndHUcRmcSW-qSLa3U",
+         "rating" : 5,
+         "reference" : "CmRRAAAAJNKWK01p0elCdknA8aIhw_QQC0SFLIT3ERJxl8iYS06j5vR9cjB0Sbsa3rcVR1L96JTeyMCh1e4D8tvciYha_8RcQzKoVaCHkPDB7DUBOXiQDaXk0gFqr-2YH_BHpiKDEhCBTJiQeURM_OzoxzyR1svAGhR9Xa3rsv6huvnNS2yX-PGN1YeLxg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Kościelna 3A, Chorzele"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.20555539999999,
+               "lng" : 20.9737185
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.20690438029149,
+                  "lng" : 20.9750674802915
+               },
+               "southwest" : {
+                  "lat" : 53.20420641970849,
+                  "lng" : 20.9723695197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "26e2938a6b8696eca98621146d5ff0161201bac3",
+         "name" : "Kościół Zmartwychwstałego Chrystusa",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJWxQhNh7fHUcRgyOfRIHpS_I",
+         "reference" : "CmRSAAAAIXej5qNOUFYiqqtng2Ty9yyJvcNgOzj0q_exTFjI5JSBugvB1VDxmp0g8sy0yWtl2vaEJLMrCozUuN7FEOcwIPUiybpk1lrwsdqSDsHPhPJYkjLbD1dezJoLkJV0yNhfEhC7yYLZ5dyc-swcurRt5iidGhQW17tC6skUA0UP-COM4YMi8HP5KA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Połoń"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.3065795,
+               "lng" : 21.0312872
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3080796302915,
+                  "lng" : 21.0326972802915
+               },
+               "southwest" : {
+                  "lat" : 53.3053816697085,
+                  "lng" : 21.02999931970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "43e9da49553da30603d456eafed0aa917c9bf1ba",
+         "name" : "Kościół pw. św. Marii Magdaleny",
+         "place_id" : "ChIJ914l3uLgHUcRqVthiB_UtXc",
+         "reference" : "CmRRAAAAPawuInLEuuU4tQKavmwoNLCz-SSlDlb3Znh77hU7bUHgU1jSerm6yAM0gglNsaP6ARcSHvXBG1UStkJLOv1kssFZIpNgIWxs0auQsHyBdlnMLsaWSOhiZEUyVyEUrxbeEhDqQDCS1kA1g7fk26rvyEdQGhTkjokL0_eySZAcE-RMhHo8eU2ZoA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Droga Wojewódzka 614 38"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.2003129,
+               "lng" : 21.1233961
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2016618802915,
+                  "lng" : 21.1247450802915
+               },
+               "southwest" : {
+                  "lat" : 53.1989639197085,
+                  "lng" : 21.12204711970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "3b32a4a351573e336fcbcfa900771248b8456f57",
+         "name" : "Kościół pw. Świętej Trójcy",
+         "place_id" : "ChIJs14rS1Z0HkcRzJHDe7jL_2A",
+         "reference" : "CmRRAAAAuLOE2gjY1TCeN-3ssRKajpADIT5DxmAWOnBazxVggW6amcg7dUGJSqNI6_jd8BujSiPUF1oftbaoLy4RLNDoMYM3RznsdrddQ-FJUVn5taW0JHbPe5uUsHMME-5OJn-kEhAf1VF7__FMpAon283mqSJZGhQdB4NPiT_J5UWeqt61LiF03astHA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Parciaki-Stacja, Parciaki 28"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1361942,
+               "lng" : 20.9117351
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1375431802915,
+                  "lng" : 20.9130840802915
+               },
+               "southwest" : {
+                  "lat" : 53.1348452197085,
+                  "lng" : 20.91038611970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "a4ab55cf1ed248a3a41a80b07e10c050a8dd4fd2",
+         "name" : "Kościół",
+         "place_id" : "ChIJj8wjBbPZHUcRBvndfN-f5vY",
+         "reference" : "CmRSAAAAY98bz0KNopZ7_-FPJIS50b6nFAJ4MUtJ9EGZCQRJqF8zkD8a0Pzjcynjr63LaM2xnJXW-ESFQ0pKZL9H1UqlafXrSzZeydguJ5q1553Y_oZADKWh83_MZM4-sVpxMbctEhCUyyg2C-8eARE1zrMth9qJGhSkGmkU4uTjO4XT6ECHUJWnzWDnJw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Skierkowizna 7,, Skierkowizna"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.139365,
+               "lng" : 21.0513661
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.14071398029149,
+                  "lng" : 21.0527150802915
+               },
+               "southwest" : {
+                  "lat" : 53.1380160197085,
+                  "lng" : 21.0500171197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "87ab49c30bef0eb5acd7c68ce8e6985db72adf38",
+         "name" : "Kościół Świętego Floriana",
+         "place_id" : "ChIJh5YCTlp2HkcRxjKnErGNdRU",
+         "rating" : 3,
+         "reference" : "CmRRAAAAqpFIK7JF9_PxodtC4xra6XV261iX5i7tCfllJlcCn1rsDEbwiIon6eFPsKTFoKQpRbyYwYHctXJWvQZiDz56XzVJd40oPRn5nZnkIQFDSEsqL3ojWl7Pk8WZbkvCJ3JgEhB9YQT8dSMIB4NFsr-VGSJRGhTg9dG69b32u7zPFF2PpExRweNV2g",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "ulica Kościelna 1A, Jednorożec"
+      },{
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1338217,
+               "lng" : 21.0451369
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1357096802915,
+                  "lng" : 21.0463736302915
+               },
+               "southwest" : {
+                  "lat" : 53.13301171970851,
+                  "lng" : 21.0436756697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "992535b8151728002487ded5be59cc5306f293c7",
+         "name" : "Stadion Mazowsze Jednorożec",
+         "place_id" : "ChIJ1w1LFlF2HkcRjGGuR9zZtFo",
+         "rating" : 5,
+         "reference" : "CmRRAAAA3_9VLq60VZc6PkDRC_t247Ja-HxZXXoPhgJ3OCxZiMXmYgqoB46y-9WmJFXiCgsOVYv2GEY9amt4Gxetk-TsDln7TGPENxMzJraW-7hLJw9RFOwnZBYbSRL3txO3KPe4EhC9gg0ijs-UK_MxaswqcOnSGhRz0CoP4y12KpbmVMIuh4iM5t4M6Q",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "point_of_interest", "establishment" ],
+         "vicinity" : "Mieszka I 11, Jednorożec"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.40841389999999,
+               "lng" : 20.9488475
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4098909302915,
+                  "lng" : 20.9498251302915
+               },
+               "southwest" : {
+                  "lat" : 53.4071929697085,
+                  "lng" : 20.9471271697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a9a6c723360663f1a1220779c20a0bd79192d0f6",
+         "name" : "Stadion Leśny",
+         "place_id" : "ChIJ7w4P4ZjlHUcRojB3XiQ3lmU",
+         "rating" : 4,
+         "reference" : "CmRRAAAAsthwUqXMxt1IhzEo2qXaHHbNEAD3V5klVtQ_ylXvk0i1FffgbyMyi1NT3Nqb9A7sSVnZ227wSxbEQLXoerLpPz7SwYuFb-mQLosRmCC2eJJDukVU3G9C1gRbjQmsZUyNEhCAfOBsXsgBxUvIWfeXUOC_GhSMR1fL6V-PFDRtEq0h4DVMI_7d2A",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "point_of_interest", "establishment" ],
+         "vicinity" : "12 160, Kopernika 18, Wielbark"
+      }
+      ]

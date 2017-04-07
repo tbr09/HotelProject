@@ -1,0 +1,260 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0878433,
+               "lng" : 21.9210586
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.08950928029149,
+                  "lng" : 21.9223787302915
+               },
+               "southwest" : {
+                  "lat" : 54.0868113197085,
+                  "lng" : 21.91968076970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "18c3ee42cef1a5f80ad2f6e3dbf365dfc9fffeb8",
+         "name" : "Zajazd nad Sapiną",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114868792960249365655/photos\"\u003eZajazd nad Sapiną\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAO40YInXKNgUEPjat0GuRRBuhEiwaOgUixVPEkhT3T3q5OpUESAVytLJQPn2scu7VOUoP5kfW-QDCT4orod28uT0deTTyBpXkdUJCcCn3UWzzceDzbh-mvPYI5XpuvUuEQPP8ZYY2E3BCjGcjG44eO7HEGGl_Kktt-Ec0S-YbDZVEhC3jPtL9GEcU_Ra-WpVbEJMGhQvB7oJ60XxVIXsC4L7zQR-3Ojj8g",
+               "width" : 1368
+            }
+         ],
+         "place_id" : "ChIJUalgQAOE4UYRyXzZpTFxivo",
+         "rating" : 4.3,
+         "reference" : "CmRSAAAAMHv4Z4rfEe3JoJJYAJsgZCJLcQaPwcfPyGm3lqlTVNuuOzEcer7YgtIyiiOO8UXY8p-sG1CsnwDnynTXHxdTY5RHjxXwvm4Xq--UCLd5hPNu8wdL0zCBHEzzzLp42rbVEhBwJL9rnlWy0jSMD85_5r_ZGhQ_U3DVmD5yyrZG8L4eWU4YYpzwrw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "restaurant",
+            "stadium",
+            "bar",
+            "lodging",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Wodna 7, Kruklanki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.2181594,
+               "lng" : 21.73144719999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.2203377,
+                  "lng" : 21.7326803802915
+               },
+               "southwest" : {
+                  "lat" : 54.2174333,
+                  "lng" : 21.7299824197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bd603b3a044f71b9dc0042e14bf88e13d672f638",
+         "name" : "Stadion Miejski OSiR Węgorzewo",
+         "photos" : [
+            {
+               "height" : 1746,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105986606378991047548/photos\"\u003eKamil Hałuszko\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAA8QyhwwOZY78dKV-05DlPd4faDiU1hmhuUzkDuqJvjFPQ1NRvnzy0l7FBnmrt0Q1GxlG2HuvF-lqzygqQPZ-Zb5sdSBy7HIiJZOTAkPKLuX5xqbmXMIyxYQNTJX9xUcnNbC7RcoeNIaJ6Sv4ACS4hFYJtuXC3jsqodjxFFLJiRKEhAbtOrO-jNMPmWhXqSUaoRnGhSM3dLdL2nt2d-3LaG2guIZK0Kwyw",
+               "width" : 3104
+            }
+         ],
+         "place_id" : "ChIJlzvXYlYr4kYR5HgaT5yNO_8",
+         "rating" : 4.3,
+         "reference" : "CmRSAAAArjUlbtUnbj_RSYNqWSsABLY4vsw83JvJD1vM7csDbmf50GeSbM-t-Azg0wDWShhg9a0wu1EXESaKTX90_iPsIa2UwCHRHePgwlJ4xHHqauayZiVuUSBLMJHtBZKBTZKkEhC9BZnv66WvsO9_-8h1m7ErGhTTFMeHNjfqfW7miNsD_pEbFOMihw",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "point_of_interest", "establishment" ],
+         "vicinity" : "Turystyczna 13, Węgorzewo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0727548,
+               "lng" : 21.4180505
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.07410378029149,
+                  "lng" : 21.41939948029151
+               },
+               "southwest" : {
+                  "lat" : 54.0714058197085,
+                  "lng" : 21.4167015197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "05df4c3052c95acb1057d0bbf367f00e6aa4f129",
+         "name" : "Stadion Piłkarski",
+         "place_id" : "ChIJBWJVF-o64kYRa7sk_ylYzSw",
+         "rating" : 3,
+         "reference" : "CmRRAAAA0C9yXau2qVQwmBcomG2a1LzwTCaOkHkCRVXC-IG4yDtK3kXydttJL6GgtRSCLSRxDBen8a7NjdZ07UI4tgimjkBYR-aUOBWjwPw4kvNdYiUpRCnsAQL6o9ev27XYlne8EhA4ofSEQtxP5GqehpX3-5nhGhT2iYFfzki4P_GA50zswPRLUtXy-g",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "point_of_interest", "establishment" ],
+         "vicinity" : "Karolewo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.9786431,
+               "lng" : 22.0334066
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9801362802915,
+                  "lng" : 22.0343653302915
+               },
+               "southwest" : {
+                  "lat" : 53.9774383197085,
+                  "lng" : 22.03166736970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6f046b968814948956403d65ed5d8a32ba81f89a",
+         "name" : "Stadion gminny",
+         "place_id" : "ChIJLz84f3mQ4UYRJSSkqAwoeHs",
+         "reference" : "CmRRAAAAuGMy6lQXRr8Qh1oeISL4sOFNWWBpJ2cRCwfneYBfwyg5Med2s91yVe1c2XkjVwCVyRscJfmRBYccXGaQ_L-UlrRmJCiYJA1vYI_1NafZP_JRMuczL6hMjXwT36_jffbGEhDnpI_hq2YJdyga-i5Ezr07GhTnZD7PpA5SP1TZP97NDDe3DN4PZw",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "point_of_interest", "establishment" ],
+         "vicinity" : "Szkolna 8, Wydminy"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0730884,
+               "lng" : 21.4155722
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.07428923029151,
+                  "lng" : 21.4167639302915
+               },
+               "southwest" : {
+                  "lat" : 54.07159126970851,
+                  "lng" : 21.4140659697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f20808bcf36394716f650518b8c4a46261ccd9c4",
+         "name" : "Stadion \"Orlik\"",
+         "place_id" : "ChIJeR89Leo64kYRefnAss8WsdM",
+         "reference" : "CmRSAAAA1Mbi1x18Z-7CmVvlqlGnTF1smr2mOvSLfgGwnRjKmJYmDENqA_esZ_IF8OYR8DExZFv2OtynejYVJXugLw2_oyXeEmGNs0AqJo4CLW3B17RYHHcmgq8J_5SD7WVWzLy8EhAeHE_CzS7eJm7fGU-mV-XoGhQGYEtp4GF2px_aoPRIK_GNN9vktQ",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "point_of_interest", "establishment" ],
+         "vicinity" : "Droga Wojewódzka 592, Karolewo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8650881,
+               "lng" : 21.3026556
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8665568302915,
+                  "lng" : 21.3046340302915
+               },
+               "southwest" : {
+                  "lat" : 53.8638588697085,
+                  "lng" : 21.3019360697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5fc883e7781eff54aa632d5bf1b1c406f658e910",
+         "name" : "Stadion Miejski",
+         "place_id" : "ChIJQW9p4-UZ4kYRnZrlQlH7b2U",
+         "rating" : 4,
+         "reference" : "CmRRAAAAgh5QLQlwp3CYPnMjSAKXzygDGDlG0vaXojmYSfcl7s-QKJEa8P1JfN9fJJFSpibOzb11-MVhz5u4pYXV93Hk6TwdykEnG_YpRP1AvAXPD4dasl4edBZ7MD_09C5wBEptEhAHDpgX9vFmP_WfhKMyZEdvGhQHCbIYVyU3qv-TQWnJOEsRLjaOZg",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "point_of_interest", "establishment" ],
+         "vicinity" : "Mrongowiusza 1, Mrągowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.63768260000001,
+               "lng" : 21.5382349
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.63878673029151,
+                  "lng" : 21.5391753802915
+               },
+               "southwest" : {
+                  "lat" : 53.63608876970851,
+                  "lng" : 21.5364774197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c8ce5969bbfbf053f2f66852852280500b5f58f0",
+         "name" : "Stadion MKS Nida",
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100347357086974824551/photos\"\u003eIrena Zalewska\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAABL4MgroF_T7vcLg3bW5sjYwb7Rvq-eXqgloKSW-P-B9TCdIeEAhVQoet11V7l0gR48TBWTNpURelO4N24Yx5m_LwjpK6qt-ti1i05dxh00dOQwmIU4S-IG5hcHbYaAEYnhJdmfYec8_M3DvqEsTW7WCkIqzMuoZ8QIdxJGbqWUXEhCNUqQP8URXDdLEGC_ci7hFGhRPEdrGWjNlqDXRBMxY2tzwZo7Uww",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJUVnS7lj54UYR3QEWBXFo1GI",
+         "reference" : "CmRRAAAAiyErISmPKr04PgX5dlWAfmIxP8xUBBSnBxNjJ7hVDi0-HJeAGvwr0j6Zn0zrzqRlUyTFyHfJANCpJ9V3HYh4WXaCbfiedBfzzfFRHYDzFyd3J-R2LRQFoStK5eaRnWP7EhAsoP0BK3YBd7oIoHAXRSsGGhT8ORi7QFRmpCqn911AyzDHEzWexA",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "point_of_interest", "establishment" ],
+         "vicinity" : "Słoneczna 11, Ruciane-Nida"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.07247019999999,
+               "lng" : 21.3706894
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0736520802915,
+                  "lng" : 21.3723054
+               },
+               "southwest" : {
+                  "lat" : 54.0709541197085,
+                  "lng" : 21.3693711
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "0564d5273da5b1755a265a41244336bbac55e12d",
+         "name" : "Stadion Miejski KKS Granica",
+         "place_id" : "ChIJyc9-IlE64kYRQuYz4avt9XQ",
+         "reference" : "CmRbAAAAb3xQ2W1NtlVpCpBWGkzZHW42rnQTn0SlLBR67e-ysY3O7HfWpCWuifD1oCh0dfeDp9qglD7sCsiwp94QR6MWKRG0_m7jRA0Orw29SPUv8I-WccyL1RXo2PHV7m8Wo1rYEhCgedIo4YuNMY-wUStwuWdyGhRCQwfxPa_rhp-q8O70ZqNYx2cMNQ",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "premise", "point_of_interest", "establishment" ],
+         "vicinity" : "Kętrzyn"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,188 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.772861,
+               "lng" : 20.413387
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7742099802915,
+                  "lng" : 20.4147359802915
+               },
+               "southwest" : {
+                  "lat" : 53.7715120197085,
+                  "lng" : 20.4120380197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+         "id" : "47cd0d293fd44f5f91b458f93b34f539c34c6695",
+         "name" : "Lotnisko Olsztyn - Dajtki",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106721679336268508041/photos\"\u003eLotnisko Olsztyn - Dajtki\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGbCopQN1l2utk_u65ElxoUDCLJrGmaK027o6DaMntbHXTEt3zVuklu7Kt1upEJFgNko5u5vkQ1TCPTSlWp7qKAZkYIIv4HcIlArnWipcaapoFNvl-XMwrmmOCpY4Ib1dluSaz9WQl1-mzUjxnbRE1jWYHr9LzO2uYtemrzL7eBBEhBNR1hyjv1lC2L6S0cWNhHFGhRgNarq_gdMyJGdAVEyANC5rXScKA",
+               "width" : 722
+            }
+         ],
+         "place_id" : "ChIJAwrZMgF_4kYRjsafjenCJR4",
+         "rating" : 4.5,
+         "reference" : "CmRRAAAADjivEzi9APX1VHL6CoAcDFC-Y2hVNigH_SiCXmM51pUisXvtUs1T6jWnzMYD6rHZvCFdumXOJgk5n3moglWaGtrJ94IdHMPQsGPTAAWiSPd7a_kZ6Mx0szBX8yRTqtRcEhCV62fgM6d6Vo9UQJcGyUBOGhRNZRp_mZ4Py_rWP7dQKeInPSaU5Q",
+         "scope" : "GOOGLE",
+         "types" : [ "airport", "point_of_interest", "establishment" ],
+         "vicinity" : "Sielska 34, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.77599499999999,
+               "lng" : 20.419866
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.77734398029149,
+                  "lng" : 20.4212149802915
+               },
+               "southwest" : {
+                  "lat" : 53.77464601970849,
+                  "lng" : 20.4185170197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "f920b99efdd28fd51cba6dd25df0fdbd55c1ab12",
+         "name" : "Aeroklub Warmińsko - Mazurski",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113267049349486807296/photos\"\u003eAeroklub Warmińsko - Mazurski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGInLWaQbmjsplLG43GDzylNsEgSY39TrN6KK-C7bdK_Mgq31s_giAUnfTMoCT5ZZ_qiV2PohzAdlERGiL9abDeYzUJ8EMiaTXZWiszgedMga3YyFGrmJbhr4ugsq-8d_9LYZFvkxyEJztR9bhKj-ly9yNyVI2dtseInovyiehytEhDL-AoCqg5zoLQyZrg6b3-NGhS8grhYaQcCrDJL2cwvNmh31rufOg",
+               "width" : 722
+            }
+         ],
+         "place_id" : "ChIJKe0Vnw9_4kYRSQ_4cK-1V18",
+         "rating" : 5,
+         "reference" : "CmRRAAAA7Cj6_UyxhieYru5poDj7ub6CiSi6LoOHZFY7a9pd6qLQq73N3qh1claTWv8kO3jGng67K2YDkxQWuDEM5Gw6WY9ycQf9jv1UpqCJ5SPXp1jOPhuScE04vjqxtf9pAWOxEhCzIS7ytSUfFzw9RxGVgmciGhQK6n8GW74nDMohQNWOKhn2htsjUQ",
+         "scope" : "GOOGLE",
+         "types" : [ "airport", "point_of_interest", "establishment" ],
+         "vicinity" : "Sielska 34, Olsztyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.12792109999999,
+               "lng" : 20.0922776
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.12927008029149,
+                  "lng" : 20.0936265802915
+               },
+               "southwest" : {
+                  "lat" : 54.12657211970849,
+                  "lng" : 20.0909286197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+         "id" : "f1254b22eee616e942bbd7c00e312f05ccea24b2",
+         "name" : "Lotnisko Orneta",
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108848190006293105555/photos\"\u003eMariusz K\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOegTzIJMuqh-kxd6A0EiWRFh1RrW1JyKYaPLqMjnmGjE2AjvtUFp65u3dFLXVonFUHrF8XU2JNIb2LO5_1CQMZ6kidPoNpN2di5LbevVCGB8Qzc-zQljoBvr7jqsdF4TV2CwzCXcZaG-0-TdUlCPCIVqW-3YcJ_dO8U6YPtZpw3EhC3QoXWfS_JwioXODeZqKucGhSh1AxsugY8_FB-4QhUH29aKJAWgA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJm9W-ghCV4kYR3AJgJdBjyYQ",
+         "rating" : 5,
+         "reference" : "CmRSAAAAH19Ev9gtRnRCEhCy3kZsY5HUhodCfKXGEmRSmNvxt0yMA7gqHrFe2Ra_IBp4qWkmgiL3fNFm2-sfSDRQOqToa-Gi0CVLmjMUiA8sz0rBszn5pBGRUhVgf92QW2wrUvq-EhCAqjHsN-kr1X4ytQLz41ShGhRx7WDvtjyJGnfuk9jzDRfz1uXd4Q",
+         "scope" : "GOOGLE",
+         "types" : [ "airport", "point_of_interest", "establishment" ],
+         "vicinity" : "Orneta"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.9829147,
+               "lng" : 20.8809007
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9842636802915,
+                  "lng" : 20.8822496802915
+               },
+               "southwest" : {
+                  "lat" : 53.9815657197085,
+                  "lng" : 20.8795517197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+         "id" : "8d80c29e3fd26e8f853366bdd88836d0e768c3a3",
+         "name" : "Lotnisko Kikity",
+         "photos" : [
+            {
+               "height" : 1557,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100115861836612572756/photos\"\u003ePaweł Mielniczuk\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAOQompMARC9UmTVpF2GX2OhHVlI_fJgACAQbWK9aTAXPe4il6P8sDllT7o_5nE4BfwU9I1Y33wZlT3ofWSejYwdjVYYveK0NdEvprw9kW4mI7Kd72logxu_HU_-1uxD7VQpLqbwgSqxPGdS3Im2ZBdap2S-zWsRivcgFD9Eqt_EVEhDLSa5jCiLbdw-qO1Vs4pA9GhQKCH48NXAcBEIxmvLW6eQA7Bj_gw",
+               "width" : 1557
+            }
+         ],
+         "place_id" : "ChIJ8aKk17Fp4kYRlJqamZINH8E",
+         "rating" : 4,
+         "reference" : "CmRSAAAAjZqVT3Nj-dUw0TCHH1G6P4vQ8RhyiUXAx9x0Yhdj_YWajFKf7c8hEJz-troXkSDsKEOMClmT3l-NG9BfufWSRh1vjgiFzPUMam03uxVwmyh_-72lvsSQSBMZbJPVhditEhA8PhGqKvqk-U-0QYbs8cNXGhRZGIMIG7pO_S-f4UfNTEz8wZVazA",
+         "scope" : "GOOGLE",
+         "types" : [ "airport", "point_of_interest", "establishment" ],
+         "vicinity" : "Kikity 31, Kolno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6085569,
+               "lng" : 20.3492803
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.60990588029149,
+                  "lng" : 20.3506292802915
+               },
+               "southwest" : {
+                  "lat" : 53.60720791970849,
+                  "lng" : 20.3479313197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+         "id" : "b5a26ddf77523b1a24bd2f2359221f244bb3b61a",
+         "name" : "Lądowisko Gryźliny",
+         "place_id" : "ChIJXfEMXn6DHUcR2wYHIbHk4sU",
+         "reference" : "CmRSAAAAJisxyKofzZT9XmZjNDo2MB_4qLlkWgfuxzTwuuPEKYoK-W8b-AgOyEzaP85JmX5tawFFfQK5oE06Xduvl8Vg7qoEyMnI7ri9bOaTIbJMG5s4gD1k8IaQNYjPw1D1KOMLEhB0wpxMK4Ys_zg11uVi-dUOGhQSRgn90F5zmN0wuVJfmFyDPY6Wuw",
+         "scope" : "GOOGLE",
+         "types" : [ "airport", "point_of_interest", "establishment" ],
+         "vicinity" : "Lotnicza"
+      }
+   ],
+   "status" : "OK"
+}

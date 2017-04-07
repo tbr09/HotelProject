@@ -1,0 +1,722 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCAwEAALf4w9YfFHozqpTtjyMdYnwZqRNk9CP5Qgq5C7nGuQGlHtCFcnTSsnwpMPm8XMyoCwnhzFYwJ6Yv---CmWhVRVOIidxXnvZVy1d2L--385hDcu3lLCD8341AIKShHvu_-woehaZ5pVykUlKOLWc3X2tiaVVs6RB-gv-miqACexrtKCnMJbzj62eGycmiNXGX-xMHDnh-3T-xBXDcN7bNpIKswqKxH1UOCvF75mBANX0HMoM9bUH0jogUPY9zjjoi4N3ZaYxNixvhHj3WzGcSlol9nNxsAluvZfw2Th1y94UuSzlbvGR9skzd5S-3R69IvxDJkjllroZS2asLyIvYZAgem4OgRO6X_caxwVA716AhEhAuGDrEm1B604Mg4D-PHZiyGhQrRbLgZ9ItlFWK6jyXvbXvFHos-A",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.085513,
+               "lng" : 21.824265
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0868619802915,
+                  "lng" : 21.8256139802915
+               },
+               "southwest" : {
+                  "lat" : 54.0841640197085,
+                  "lng" : 21.8229160197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "8865b71745885e7c53ac888fd1003507ee0afa20",
+         "name" : "Muzeum Indian",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105513942998107147518/photos\"\u003eMuzeum Indian\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAz99qbfxkImEY5TrZPuOCOAaNTgDQfnge3OptDIZuo1Ui5M6OfYCCy6lu_MIahFFHaZepjGBvd_fUjShiaPcbzUt7jHl8UPg6cdkiA0WG_rc9Ykdxd9pUBTck-RVtTwa3fRskWm8fKUzaoGYf9S-onuLoKVt9H1xYAlzfQ50h1XEhClUEw91L7SdVpF3ovCHo5FGhS1YLtPixEW7ZEnZwNFyNmPatv4SQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJM8mZSRqH4UYRhzv7PfG4XOA",
+         "rating" : 4,
+         "reference" : "CmRSAAAAx8tQg9lJvXdUhr0zVHSlQUYc00tQvLA_DNkmSo397XJNGAQoKoqgt-8ECUMXC1_-XzCD3iOJqfxZVyyWRWhFjX0SESPraLu95nwLEs5bcPj_hMCodRmNkTaph9zTELknEhC8YyInqNpDoVBoOT5owk5QGhTU0el9TyzCthvjUfD3rrjvaW2aXg",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Spytkowo 48, Spytkowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7123612,
+               "lng" : 21.4887266
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7137101802915,
+                  "lng" : 21.4900755802915
+               },
+               "southwest" : {
+                  "lat" : 53.7110122197085,
+                  "lng" : 21.4873776197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b379648a7d86c96ef4674e4928d1201b598f1705",
+         "name" : "Oberża Pod Psem. Worobiec D.K.",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 790,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117115549734969546866/photos\"\u003eOberża Pod Psem. Worobiec D.K.\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAABbN08qxBJbL1FZQNwvz7d4pwXkkm_5POiMA1okStW4EOVa6AbL_US8T8RtIVRqt3sWuIbP6SVebOCSe-gJBYlwfiS3MO97eSAG_w_j1SdiWrc_u-glwsVCNQ_gh0p4bE-Xj9kAsl6agGfuC0wWnqH2kFktbHkGipZjtFqQpobljEhCL03p-CbMbF6taGtD0LbIpGhTN2VGL_PbI0FefaBcqV6DmNvNdHA",
+               "width" : 790
+            }
+         ],
+         "place_id" : "ChIJ0SwVFBj44UYRoLswBi7f0vQ",
+         "rating" : 4.2,
+         "reference" : "CmRSAAAAgb6x-KsThzMBgCSTi6B7Fa6MsuB8yFuFCXjwbohjoPQPto76Rhl17aQ7UFl2GHdNRa7LccLtzLMoLauFUO6eCwzKLZWi7KWTkrT_qEj4sgr40IrVKOq9hfhAEwvTOgi0EhCaL0sbVf_hqWtf9vYm76BrGhQBV1npfijZ6JHRjlgO49jAkHeZIQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "restaurant",
+            "lodging",
+            "food",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Kadzidłowo 1, Ruciane-Nida"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8032736,
+               "lng" : 21.57050319999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.80443813029149,
+                  "lng" : 21.5717974802915
+               },
+               "southwest" : {
+                  "lat" : 53.80174016970849,
+                  "lng" : 21.56909951970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "466f5273d40e5c9e15af6239cd87b631843ae891",
+         "name" : "Muzeum Reformacji Polskiej",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJxy_eeN714UYROF4DAsTXOws",
+         "rating" : 4,
+         "reference" : "CmRRAAAAvqupac0fOm3wG63bo0iy6B9XvyXApTXIeDe_2H8p4oQF6UUbc8qE7OJb41hTSgvrK8XQySRaJd6cLdORraPfs-hFGDUiVH4bbl1BJMyqz7VUBxaO9WGa1_hFzAIEL4DREhD1NoNg9hiyxf3LX8mOsh-MGhSG68VrhPPQk_MimzfRXOFkceCJ9w",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "plac Kościelny 4, Mikołajki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0313121,
+               "lng" : 21.4687437
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0326610802915,
+                  "lng" : 21.4700926802915
+               },
+               "southwest" : {
+                  "lat" : 54.0299631197085,
+                  "lng" : 21.4673947197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "2b729bf4b6e460834da124c869d94393924e9916",
+         "name" : "Muzeum Mazurskie",
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107992999029949956885/photos\"\u003eJacek Woroch\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOPY1_G_DymwW3DrEYoH92r_p5hH1ugTLQ922zolvQNOBE4KmwS_Gt-pd_HlhCm6FJSdhp8J9jqsGVvUJQ_glxREo-YRuC7HFThGFWpbgv9NSzQfQaLizHKlgJ6PQII8Kxpeo6Qjz0WGq_DDsyUdFaBmtYjnXKpc6AVXMxcebeRFEhAmolX2sPc5pdrQmCi8Dk-gGhTOi8UuUO8FOvrEUM6Z5TRGqn80Yw",
+               "width" : 2248
+            }
+         ],
+         "place_id" : "ChIJe_ntK-8k4kYR4cMrof3SKhQ",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAAqCIV8Ftqfdu8-e19zzqXgAqqwpPszqTlgO7omDtww-jpGq3rXAgU3EKKPb_ygtNsIyfsVQQqrReRmGbHqcyb8oLM0P9v4Ml0NuR86Qon-5NLFS5K3QjXILhl4oshYwUREhAavkv9galjhJZyo7e0O2iqGhT_5DA76Hdh_88FBMV504bOHPEEtg",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Owczarnia 1/1, Kętrzyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.035377,
+               "lng" : 21.7899473
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0367070802915,
+                  "lng" : 21.7913702302915
+               },
+               "southwest" : {
+                  "lat" : 54.0340091197085,
+                  "lng" : 21.7886722697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "21bcdf5488ef5d71ad93a7dfddbdc777417365be",
+         "name" : "Viktorio",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117883454014923173842/photos\"\u003eŁukasz Buczyński\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAFRgbRTX3QAmn_EucGDN_ITazPcHUelWa3iXpDP_pqu7bBq-DSrrhzjnz-YwFa7MJVJAxng2PSlP98gmQTR0BT8En4MTTyd25sSibcQpWKMvH8rEy_sfdSgWgtcBLg-6fbu9CUREqXlsUUtLXzY5O9pN4ZOuGXQLiUvPx9TuuIeiEhDOLt3e_AbFBLWeH9ol9NBSGhRJ6AzYK_TBmHgPt5MBD1hE2tDYdw",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJO-I9E9SH4UYRtlmZwWurYqI",
+         "reference" : "CmRSAAAAiQPXJPVtrm8TGVE4DWaFE4ZPixza9z_xKKr6jeUzku6XjNr0u-u_XvXQTMgoPJiO7h8nLgXoCafmyzKPAW32VoV6QpKwAWHS5ZWsti0y0XzQKz15_1b-oijQ7s2smgEBEhAYdN53hqN8d5cnrhvF0rlBGhRUT4rlV-DQ3GKagkw3MlvsNAeYZw",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Gdańska 45, Giżycko"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.87043420000001,
+               "lng" : 21.3042448
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8717816802915,
+                  "lng" : 21.3056898802915
+               },
+               "southwest" : {
+                  "lat" : 53.86908371970851,
+                  "lng" : 21.3029919197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "4980ef4ca2224e0d1fad5273dc843ac68a109853",
+         "name" : "Muzeum Warmii i Mazur",
+         "place_id" : "ChIJWX6gmecZ4kYR0QaK0I9DQBM",
+         "rating" : 3,
+         "reference" : "CmRRAAAAQW39opapqNUX0Ga4BlqZg7Oc07lKFJm0VlJI9DdN1liIh7E_glP6K2YPNqFyClzUDS8DobyAZg0DBj2EbXbG4Zl21P3l02G65KtfesB7PaBfA1lBU88IBXg8q5UkEp1xEhA-90Y6ZolFaAiYzNop0XFnGhRyUwXGVs6fd7tB-xqfKzwUmC5Brw",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Ratuszowa 5, Mrągowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0742646,
+               "lng" : 21.3771827
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0756572302915,
+                  "lng" : 21.3780499302915
+               },
+               "southwest" : {
+                  "lat" : 54.0729592697085,
+                  "lng" : 21.3753519697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "9869e128b0f5ad786b60f20868bdd067ea41e263",
+         "name" : "Muzeum im. Wojciecha Kętrzyńskiego",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116103970139523856091/photos\"\u003ePaweł Lachowicz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAE7B5R0KTuapgRRoks6zBSyzzpOUO-VUQYui5yMCcACQCXxvBeO7nhRd6WY0QghHD5r_JkrCgcMWi7Mz2jt5uaOKJ_TsXvxJ1XkePyySeWrW96MCt7f6bzvVgzbSKrQIrT5RWsq3IheXNbPo2MvLEjQOnu5kT9YzFSZUVXzYVwXYEhAZjPCSTpeBBtNFq3Bb9Zb2GhQm7fhNk_vkdGgng_o7TiviytL1Hw",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJSf1L4Fk64kYROGuep8ebcS0",
+         "rating" : 2.5,
+         "reference" : "CmRRAAAAaaZMro1CdB_XrgjXhDY71ZHjCTWJCpg2NJGbuPDrEZyONsC4VXop0R4IYpeIt0gKtnHg8_15vTKHqkksKWJDeqOkt-d2QvcEEWSKqvAUM0FWgzjiMZYWcPCrCyxD8JOsEhBoMZn_c0p4dQSmD9vOu951GhTFPuM7h9P27zW-eSRZ_p3M6oIl9g",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "plac Zamkowy 1, Kętrzyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.08145700000001,
+               "lng" : 21.512431
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0828059802915,
+                  "lng" : 21.5137799802915
+               },
+               "southwest" : {
+                  "lat" : 54.0801080197085,
+                  "lng" : 21.5110820197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "282a628fd92ccf7ed288336fbf9f725c4dd934f2",
+         "name" : "Mazurolandia i Park Miniatur Warmii i Mazur",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 386,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107134299354990129276/photos\"\u003eMazurolandia i Park Miniatur Warmii i Mazur\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPMzwpNWn92aLYKWkiuzhw3JhPui0KRdlnXFUirMey6CQ12Hps1txmvFrggJ9CKX_UP2jtpw95UvHo6xEEurv44OKY7QfttPHiIoLCSXgYFurD_hE61EZFA5qiT1AKUDy4-DAtF-H4BgHS94nmgAiOyuZBLMUbers19mV4QAmgA_EhA3z6thrf6xGiBRsaGBTwIlGhQZC8Glgx1yTyINkf0JjKQ_Dvnxvg",
+               "width" : 386
+            }
+         ],
+         "place_id" : "ChIJJajKFWEl4kYRjNLAnLD5yAw",
+         "rating" : 4,
+         "reference" : "CmRRAAAAnjQfqVlzfUIKI2m5IPNFaZWAeKP6wC4FHlpqxkpUAJTTWjYeDGzQwOTr73QrkP0bi231RXWJ6BEh9mZ76_MdbJiTDu9AfW9S56hbfGs3M-S9VwCrKpKcuOKuznOkUjuHEhDXfczQPbar-zMYjfQvl7EnGhTdZa-oVbYD-qA43k99ZUZvDRWvpQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Gierłoż, Kętrzyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.073485,
+               "lng" : 21.3812771
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.07479413029149,
+                  "lng" : 21.3826133302915
+               },
+               "southwest" : {
+                  "lat" : 54.07209616970849,
+                  "lng" : 21.3799153697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "1dc5bab2c231c14cbe69ea9af26d1db8602b364d",
+         "name" : "Konsulat Świętego Mikołaja",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJeakkH1g64kYRY8zD0hG8eK8",
+         "rating" : 3,
+         "reference" : "CmRSAAAAkHcVInE9pkVxtud9HnkpWRUKwwnfNs-U-FmdtTP-N5TkugZnxHesbXdhaYjTTB-ZRstet0ooH1MnxIMIAetQ9NY37jtekvhAnOagZCqJ_cmiu2HwWVFDNePJfEAzpYigEhD5oo7ilMFM_xM9Vr_toC4lGhSHp-vXghrXecA7oY6llDyKuI9WjQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Dworcowa, Kętrzyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.85111,
+               "lng" : 21.293695
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.85245898029149,
+                  "lng" : 21.2950439802915
+               },
+               "southwest" : {
+                  "lat" : 53.8497610197085,
+                  "lng" : 21.2923460197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "9774801fb3a8af912c699ab43ef8c6703477770c",
+         "name" : "Muzeum Sprzętu Wojskowego w Mrągowie",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 588,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116275375230407755842/photos\"\u003eMuzeum Sprzętu Wojskowego w Mrągowie\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAACkwi_3gAG0uI0QNBb2LQnRN6S4KbSb9i4MKMq4wVFAfjsBn6ilpPaQ3AFI-WhIljFPjyRsP34_XenFTrJSFMW8_7omJNmbe4JQEnCz08j95EI3CAbchkW6Z0SsuDvWQrT5hZ9Sj9Agv2xEP5F0ds_a6OeoGwZmqvgcAR6ZY6SpzEhCmTpmLEshy4v2GMQnSVImeGhSS_I7hx2skN-L3yNql-sPmkuE_IQ",
+               "width" : 588
+            }
+         ],
+         "place_id" : "ChIJ1ZhccfgZ4kYRtApl2fjwwpw",
+         "rating" : 4.4,
+         "reference" : "CmRSAAAAFWj40uenH6VE9hrKJDWzRnXpOkEi2BQL7b7_0OZCCdQQaAi_-2e-FiBqKwvvIbJqmkMvhbwECTnxwd_Z-2tCLoYFn7nSdbAPnbTJZm1NyEg1-mqPt7tIBfU4a-SOQZI1EhD0hiV7YVOlOlDpjrSve1c8GhSDnNyNIBJI7v_WxoBP1pIqqjOHeg",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Przemysłowa 11C, Mrągowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.765556,
+               "lng" : 21.338409
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7667348302915,
+                  "lng" : 21.3398489302915
+               },
+               "southwest" : {
+                  "lat" : 53.7640368697085,
+                  "lng" : 21.3371509697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "f8fbf9f0d1d0765debc3310d03b83ad9b4662d0f",
+         "name" : "Muzeum Ernsta Wiecherta",
+         "place_id" : "ChIJIdgVrF_54UYRjnSTrKZhpg4",
+         "reference" : "CmRRAAAAi1hp5yOSMTki916-Zu0lDLCKI898X44BoQmL8hNNBg0SAHXcPyTZyv5kFeiiCNWP-oJ7ISa1kRcrA7jLMfj2lnT4TKMyoEk0WvP9SfbeO9am5bfBxOu7w0hnyypKoNRwEhAB-iYvvwgpwbE4rFKViYnxGhQOYXfxY3znMY23-KZHuj4MwH1_Sw",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Leśna 5, Piecki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.18283040000001,
+               "lng" : 21.6497537
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1841793802915,
+                  "lng" : 21.6511026802915
+               },
+               "southwest" : {
+                  "lat" : 54.1814814197085,
+                  "lng" : 21.6484047197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "c69a9e138fc3a53a97c3433106fdf83fba78d9c5",
+         "name" : "Mamerki",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115112392444496423990/photos\"\u003eKrzysztof Pawlak\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJfIoegmsPVyp6GDxoj4B8VL_S91v8mMLgd8MiELChVkeR_u_kC1Ie7Y-wRyaS0FUHaqv8m65KzY-Q2NOJZFDMQPsE50dsfYv9vKSeW4y71dyvUJomkFG1ngdvYONpqu9tFjUAYrZiclIFQ5Tjmqbpcp0V10RmiKMe1-DFtJc0I2EhBHhch67gAyXXdTOhjVZYROGhQpLmPYmXvMM19OJRY2syGj0yP-aQ",
+               "width" : 3872
+            }
+         ],
+         "place_id" : "ChIJ_42cy0Q64kYR6XMY5-g-XaA",
+         "rating" : 3.7,
+         "reference" : "CmRSAAAAwU5exeaNV0EPGK0b0YDAd5-TlLinXtQLyLqIGvg8uHidaVYxOeOx7MY2hxLx1KjkFRtfx0M10L-37ACCoJxpDzIi7Zy5h31doUEQ5ZegQ3FDD3YW3D_7t3YZb7VdRGZIEhD7m4UVNbodcRRseGo4TOxjGhTL24D59PsKkmPb07Vxg63GalG0kQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Mamerki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.805581,
+               "lng" : 22.107374
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8069299802915,
+                  "lng" : 22.1087229802915
+               },
+               "southwest" : {
+                  "lat" : 53.8042320197085,
+                  "lng" : 22.1060250197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "5a2e8b983aacb6b67d49a9e4012c2c624c257ca5",
+         "name" : "Muzeum Michała Kajki w Ogródku",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 664,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102345729080474082460/photos\"\u003eSławomir Szymankiewicz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADY6wWHUvYdZ_eYA9pMYqPtycxdvu1PfJC_E19tydB5CaS49RE4mlTYt2-5CQ-4s9OWmKWgPe2TaMMmFBOIALeICMU6FHgf3wx-ucVAtXQeQvUedydiYj_xZ0vD9TRConFQhSYdS8WtQWDsdgTRkD6iCj8XXnaT6Wdsv3tCN7rs5EhD7F3_081xW4hWpC68RTUKSGhSw4mD1N5eCEw2l4uavifPlcU56Dw",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJXSzUq5rx4UYRLgmPBIqe4_g",
+         "reference" : "CmRSAAAAGY1zFJovR3LfXOPem3HSd-5v-XVYbc2m-C_hdszkqK6o3qfkHvkLczsXbZTpeW_lxVAAXtqSQowpGScyx_5kiXZZXdpY2ReNVqdghVxaOHjU8qqOkBLMAf3V02qAMN5CEhCXTvj1ohkvrTNuhiA561OTGhQ2bMknWvta6dDCxJWD3kJOhZzzHw",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Ogródek 5, Orzysz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1831305,
+               "lng" : 21.6494494
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1844794802915,
+                  "lng" : 21.6507983802915
+               },
+               "southwest" : {
+                  "lat" : 54.1817815197085,
+                  "lng" : 21.64810041970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "4f6dcfc88d2d0668ff7ffe034b39a8ab3765c3ee",
+         "name" : "MAMERKI \"Miasto Brygidy\"",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110144777826261649740/photos\"\u003eJohn Wayne\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAEwmpiR3XYNYphCYN_XX1z__rF9l08RUe6_6kUDW9eMHfgazFPakLOmVxVoA6XW_FXxskim8MMGy6YVUkO_MDC71YUPbWHypDwZoIEXCgvcYEZEtnpYjz6-OIP1wSjkxnoVXhM04YJTNYJOW_VMYtd-Wzc4IcYgc3L7da3v_70wIEhBP8Y1yt4h2Pc8UunYLdXjQGhRIFwyVIhft9E-ESb8WO36W9uAeZw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ2xYBUFss4kYRbcoVA714EZ0",
+         "rating" : 3.2,
+         "reference" : "CmRSAAAAaQFU7Pt579yrrDIyJgCXRlh7VxquXQ4XRNyEIGnx5a6-33Hbj8AJQLIIMUFeXHQvG32EUKXFNsO1O7E0xHyJUB6Ye5yLSmF8Z0oV_c1XPgvMJdYcMec9OD75VNDaR24YEhB6ICVHLW728LcKuysG5io8GhQIP99AcxO39ShjOxEPB92ZIFZNeA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Węgorzewo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.62801009999999,
+               "lng" : 21.8078863
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.62940023029149,
+                  "lng" : 21.8092512802915
+               },
+               "southwest" : {
+                  "lat" : 53.6267022697085,
+                  "lng" : 21.8065533197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "d99f5f3900976fe0cefae930ce4042616e3eac35",
+         "name" : "Muzeum Ziemi Piskiej",
+         "photos" : [
+            {
+               "height" : 2368,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105917191930843879317/photos\"\u003eMarcin Chrapowicz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPH52yJxDEL2Dmo5zdsJVGre-hdAfvy6pds4_UFm9qIosXe8vqPKBwM8A5kOtWMCK57rOoCSiInQ2PmG7YTdgWGfajyBPAt8c0FgqUCVFm8aBuA18qUhgKGAi3KbZSy3nhP9BXZ8Pb-2tKEmW5quRsodX0G82jgMV5V8KToPLA0mEhDsv89IjUbZJnUgyP_9hQ3yGhSyJd7mPAQ27w12z_1_9TxdAVkwuQ",
+               "width" : 4224
+            }
+         ],
+         "place_id" : "ChIJP60cCNDl4UYR7JIPL0M_vT4",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAAZ7QuEhskuxEYQ3eJ6z5QAzD1p_Exh6s3kP7QDyQVisQXEcUMRBBYf-Fi8JWrqWyc8tu6uQzXE715nHo6H4frhC0bedpd2_mM1EjVpcuClHdgWn8dCv0DKHr6agbgiZsEEhD9cNp49Q2tO7p-MimrwmlFGhQY8gZ1I4epe_qIEgd-DV4GYq0NcQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "plac Daszyńskiego 7, Pisz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.2108699,
+               "lng" : 21.7375124
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.2123755802915,
+                  "lng" : 21.7387607302915
+               },
+               "southwest" : {
+                  "lat" : 54.2096776197085,
+                  "lng" : 21.7360627697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "3227a9b986ef9ec87d6da8078176f620fc532db8",
+         "name" : "Muzeum Kultury Ludowej w Węgorzewie",
+         "photos" : [
+            {
+               "height" : 2432,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116137889922608938255/photos\"\u003ePan Kracy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMTp6mnDRnKG5ntqtrJacLH2_xe9zyiHv0jcSCPQt-zsuDsasWv5e_hmr_5cTJLF1h3ip6Hr1xd7L4KkSd8opTeY1FU_yM21X6NB3Px5o0DAMvYIJoAvsZdnWg4yIkg3q_PlHEqTSS2exTBIVtAuKWacRQPKauKJMsuv8bowZjPhEhDE1jCyxlXcjdBPdWUmqMXWGhR07hclTmAk8QJfneIOLuvmqmk4AQ",
+               "width" : 3286
+            }
+         ],
+         "place_id" : "ChIJl1cIvFor4kYRnE0ksTRxtg0",
+         "rating" : 4.7,
+         "reference" : "CmRRAAAA_0Y29oKU-ofUL4UHrJ2oK7qbS1Xk2N5wRS-eEf5fy-FJQFjOKXiwqPHj7M71KvHDxyWGilLP-On-c0u-k6zKkIxMTFVDqGfJb0pXTZUkEdIuwkA6JFtOibBdJWIpyEcSEhCyBlcw32b1zbrQixbmmryAGhSd3-BcGuoZUhQNVqAdN8DFOHmTgg",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Portowa 1, Węgorzewo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.2179011,
+               "lng" : 21.7255282
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.2189060302915,
+                  "lng" : 21.7267049302915
+               },
+               "southwest" : {
+                  "lat" : 54.2162080697085,
+                  "lng" : 21.7240069697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "ef130c7baa8b2cdfbb6e2db5eca647eb6baaed54",
+         "name" : "Muzeum Tradycji Kolejowej",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115400683531077451353/photos\"\u003eGrzegorz Sudomir\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANX8pS1p3wPNOBt2nAN3OCjcVzs9ATRSZkSJvZKS3RrKRH29f507Kw_kmyJpt20MbqvwMaEdZML_swwTPtEnod7ymizKx6xCLoi_bl0dCINOYRT6bO26F_ojSPRjFzz8d1mFC3Vmdip_2kPoUFgwabbnjWcfd9PSC-8U-F3oLwdjEhCngJchZIcTAWIL08o5FF7TGhRUBtALiOfoWapUfvPaPoAnUs7f7A",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ9zQozqks4kYRlofCJy_B36I",
+         "rating" : 4.4,
+         "reference" : "CmRSAAAAM5pjpCnPSHGyXxL13iMQWYiyExMPAXLRxGalOtjeU2_wltD4F4TR4wNne4wJsaggG7w2bQE3Jh2awmT7o1yvJC5JQhEN3z4laK-QD7ldQB0C3Veo26NT7mYc7ZcxqrI1EhATWDf-ZMgZyDKYIcoUExDrGhRTlVJnZygIKelpahF4LkVXIeTBrg",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Dworzec Kolejowy, Stefana Jaracza 4, Węgorzewo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.86420899999999,
+               "lng" : 21.7459755
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.86555798029149,
+                  "lng" : 21.7473244802915
+               },
+               "southwest" : {
+                  "lat" : 53.86286001970849,
+                  "lng" : 21.7446265197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "1003b28058742bac79771c3639701bc2106e98ad",
+         "name" : "Ochotnicza Straż Pożarna w Drozdowie",
+         "place_id" : "ChIJVT1FKK6M4UYRtApAPVx43D4",
+         "reference" : "CmRRAAAAq5nI-lM9YIQ3WBXmr7vUVA2E3OoYts6bDBBAmhtiAnpqHT9I2HtxsXcVqUyT1_pkFj9BDL9LPmP6XAGlK0E0TmwSXGYefEq56UQOhDx34XQIShbezqKrKGIytX4XR6TrEhDjYzEfa2CQFVvS8cJgYeEOGhQUuUWQisjpq8tOJkga5_9dFqllSg",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "46,, Dąbrówka 12-250, Dąbrówka"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8493539,
+               "lng" : 21.7874024
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.85070288029149,
+                  "lng" : 21.7887513802915
+               },
+               "southwest" : {
+                  "lat" : 53.84800491970849,
+                  "lng" : 21.78605341970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "720fcd92232fe1ce56ef876aef9a641ac7f8b384",
+         "name" : "Ochotnicza Straż Pożarna w Drozdowie",
+         "place_id" : "ChIJSfa-RtWM4UYRAyNWEd5Jyc8",
+         "reference" : "CmRSAAAAaU3l0hay86Bpt3sFJHKhhrMX5-IU5DQHkbJhuCOtFqyB1rskTQsz6GVJqVrxrs0uwn-K0VF3oZwmbDkSMH_u7E-GF2y7_bBQFJ7YeVS9nIOgHTNmTtc32B-aIm2mlSV1EhCzqOAEyI3Gjs3wN4ETu6vBGhQsc54Hx1cSNpdNXkKcX7ThWYaBBA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Orzysz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8301611,
+               "lng" : 21.8532002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.83151008029149,
+                  "lng" : 21.8545491802915
+               },
+               "southwest" : {
+                  "lat" : 53.82881211970849,
+                  "lng" : 21.8518512197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "5d521e80a4606dfde842c63dedeb02943e3129e2",
+         "name" : "Punkt oporo",
+         "place_id" : "ChIJF3iQJ1Tt4UYRd29ug7XbCvY",
+         "reference" : "CmRSAAAAcSD3AlsTI5API30lYvpHfoqCZr2S2f6lHd5146dWAzi1Jx-jjagYl-eW-VTLUlUeXeXFEbdU6dIUtT0GbDGy78ESLw0wAjmNMPN5tFwUTO4WkXYF2BIFYLH5P_wWZ_CvEhDJkF6EFZfeaMyyFdX2mBxFGhSE7RJc05echhqK6cdLbDZdbm6xhg",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Orzysz"
+      }
+   ],
+   "status" : "OK"
+}

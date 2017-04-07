@@ -1,0 +1,43 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.410053,
+               "lng" : 22.7897099
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4108191302915,
+                  "lng" : 22.7906389302915
+               },
+               "southwest" : {
+                  "lat" : 53.4081211697085,
+                  "lng" : 22.7879409697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b6d142b76ec9db5aeafe58d7b07ca1419afc50e7",
+         "name" : "Stadion Miejski w Mońkach",
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112340652603180990765/photos\"\u003eMaciej Andraka\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKZPRZtYs9veZHRsYnlV4k6ziOHI2_TaeW2s0_w-YiZOcCCi9j_q5QWmOkUJFqZnSaLdiD6j_04XrbAq5glVFzaFOAPV2HY_N9B2EBxMyle_WWOYPK8nDp4ZCLlK8Wobw9Zl98-G0REev8w9kZqV7OPqzwc62O1RfLLhOiLHc0_mEhBx81un0XjNQMkQ5yp5gqjaGhSv-XV9p9lg_mh_Cb_SmBEDoZuYCw",
+               "width" : 5472
+            }
+         ],
+         "place_id" : "ChIJswe5Dmkk4EYR9CHJCWXUpws",
+         "rating" : 3,
+         "reference" : "CmRRAAAAYfK0DbwJIXuSnvxQ4pa6RCWgieKVU1j5G1MQxbvkaJ-T2o7P2G8_VgoVtCG_AMhN-XI6V9wK8Sd3lqxZp_mq153RvHPuywwF6lNkxRD-_Gu_GximfNmX7tEn0Bk9f9EREhDxaVaLSr4bfm7kuK1Oe8RjGhSmsUMm4uLTKYxiGTjOud1Bo-uhqw",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "point_of_interest", "establishment" ],
+         "vicinity" : "Sportowa 1, Mońki"
+      }
+   ],
+   "status" : "OK"
+}

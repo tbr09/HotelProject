@@ -1,0 +1,120 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5609529,
+               "lng" : 21.000242
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5622614302915,
+                  "lng" : 21.0015076302915
+               },
+               "southwest" : {
+                  "lat" : 53.5595634697085,
+                  "lng" : 20.9988096697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "66a25995335bcf079be03af81605a3ff9e9dcfb3",
+         "name" : "Klub Muzyczny AGATON",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1746,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101314884430934493384/photos\"\u003eDarek Szachnowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMn1ydvLV0YTKcuYksHwKDSw5KP4n4XyaEg17h7U5fwhq_mJ51LgE9jWJQZIL6o1bOVhc4wgd8B36ly0auThoc4mhjkNmhMVTZlkB-T38Ux3tBpOKj8vHcWFQDZ2Ii8jsbIDR-qCFg7PqP7OHrRcTn6WEDTnmJP3F32RB0UsEmC9EhCGbz_ZuLkpRquyDy9GGXJCGhTcvA4Tbe4PMHdDYjaj7BIWfdP5EA",
+               "width" : 3104
+            }
+         ],
+         "place_id" : "ChIJ-z6Npj_3HUcRDroiFPSBSIw",
+         "rating" : 3.9,
+         "reference" : "CmRSAAAASdZfPPh2t16IQECEUUAdzGlEBmlkWE_tSsS9Sa6z248pocLZ0iIEA26yv-1lZN0QS5sIjMqhXbdg6a5zu4D3niuSVRjmGMzXXV99P3J3WeWCLQxFXRqnvVqO8PwgQzYOEhDceyLANzrtYR455Grb4BMaGhSTcX_T0W0O_M5Emfp4_vBBaTPBIg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Polska 47A, Szczytno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5556744,
+               "lng" : 20.9900299
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.55703408029149,
+                  "lng" : 20.9914620802915
+               },
+               "southwest" : {
+                  "lat" : 53.5543361197085,
+                  "lng" : 20.9887641197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "8fa1f4e13159c40b533006111671db9c266a2801",
+         "name" : "A & P Sp. z o.o.",
+         "place_id" : "ChIJuYTvlDn3HUcRGuqmaQLuY-4",
+         "reference" : "CmRSAAAAgGhxH3wgnnuRR28ei_DNPlUJ5upb3S9jSbKqMTZgexH-8SrWNSSyunP5HJxT1i_AK6LNs56Cei9wXTimIVSHAKPCoQqSwpxZk4rgdrT87vLUYWLnwo9zZnIhlVHeO0PLEhAXHae0MmAhl9TpDb3IO0FOGhQwm77ZHvL2tgmCga7RpWOsqsq83Q",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Wincentego Pola 8, Szczytno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5405513,
+               "lng" : 20.7875618
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.54190038029149,
+                  "lng" : 20.7889095302915
+               },
+               "southwest" : {
+                  "lat" : 53.5392024197085,
+                  "lng" : 20.7862115697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "699601d74ba4d2929fb9ab12cbd021ce5f9342bd",
+         "name" : "Konstancin Na Wakacjach",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103313667848833383896/photos\"\u003eMariusz Prywata\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAA7i-W236BnxmwZ02r4AkzQh-3d1YXZB2AkWMQI7pwU_eW8_fRxHS1wTfwVkFLPldUn2kLR4ciC4SOEhmXSFBhtMrDaxEwbvsbMtQ7OxJg7w7HqmBlj02Zq9QR9jNLgJQHRVU9U6CSUtxEKqZhY3XOSzvZGqlDqErSbnIMS94fovEhB3KqnB5AfyYsQ3sRjHXVKrGhTooaZLaHiCYer85KrtVUK2c4h-0w",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJ6_BlUxvzHUcRZWYpl5X0pbQ",
+         "reference" : "CmRSAAAAQEKwZDRxppX5weRbTZarzbYdvulxZEa0tmsghLKKmK8B_iUDjh9xP1hObWpihkd0p1MXX-kP6xJd6QpEJsXqQVD4C-DQ_ShzI2YfK27xcMFGSSKKcYdL_HeC0xELJK4dEhDhirNgfR7KZTbjHwws8aG-GhRwKmFSsHSmOKo69qPE64Zeey6sAQ",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Dębowe Wzgórze"
+      }
+   ],
+   "status" : "OK"
+}

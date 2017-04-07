@@ -1,0 +1,44 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.170553,
+               "lng" : 19.402987
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.17185868029149,
+                  "lng" : 19.40430988029151
+               },
+               "southwest" : {
+                  "lat" : 54.16916071970849,
+                  "lng" : 19.4016119197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "7362863c5e8c6807e365f05b675a2d0442388ec0",
+         "name" : "Centrum Zoologiczne Rekin s.c.",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJwUx5F2VM_UYRnDyCClqCyfA",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAAsv5ZS_vGJKJ_t2nI7hSjBZ5eTw5HJXMb9f8gp1fN0nLlYCD6mjl-V_EnS9svW-OCTBPkNEsGd-2JtabnyIO5GObMfsTY0cak7IMXweTXWND__dR7etWT1NTLdfYQcvQ7EhChwmlZ06CUuMrbsHX5H6-ZGhQtx_y-VTbmmh2Qbwe0AyiAeaf8VA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "pet_store",
+            "aquarium",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Brzozowa 4, Elbląg"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,436 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7169932,
+               "lng" : 19.3340802
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7183047802915,
+                  "lng" : 19.3354389802915
+               },
+               "southwest" : {
+                  "lat" : 53.7156068197085,
+                  "lng" : 19.3327410197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "fcdbd55966221ec4fd66a636bb7d547ae4d643ca",
+         "name" : "Warmianka. Hotel, Restauracja",
+         "photos" : [
+            {
+               "height" : 3888,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114528086629950819099/photos\"\u003eJakub Romanowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGLQCWwlEetpLLQ6m9W6aTSteiRWd9rEoPwMr_PEYoE3ay7-saZMlZ3OcXPCJonuskrRFDdohgmYKH50eYwBbnIlm00-PXmkhKugfpkTqJs3c1ZQJ74RkPOS5Zepng1DaQ-nYKVLSRbRUn2ZwLzmMunCNyTGi6F-LPDYc29vNc87EhCe1M_95uVd9F9pRA9sPGLmGhTSrMFt6MWvvshWBT_YCc34RIUe_g",
+               "width" : 5152
+            }
+         ],
+         "place_id" : "ChIJF4gqykFOHUcR3uL5m2Z3cAU",
+         "rating" : 4,
+         "reference" : "CmRRAAAAkLwKfOWQh-NZIGWLHTHgOWI-E4Hs6Y21qDN7noVXG6Xvvf7bl8o37VHv7G7nIaYy8AwJ_yUJ7nu93xcItR5rQSANyixpGXQycxfBqrGk8pCCXumviSZW97TpSIeIISB2EhBLD91Wo2MPZwGVTiO0w3C6GhQwAwAkA3heVsAqlZVUAfTfsLRCcg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Słowiańska 3, Gmina Susz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.66433800000001,
+               "lng" : 19.4590254
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6656869802915,
+                  "lng" : 19.4603743802915
+               },
+               "southwest" : {
+                  "lat" : 53.6629890197085,
+                  "lng" : 19.4576764197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "8d88813aa49a143a49cda0003623af836a701271",
+         "name" : "ZAJAZD W CHEŁMŻYCY",
+         "photos" : [
+            {
+               "height" : 1872,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104003089049001467971/photos\"\u003eMiłosz Klepczyński\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJVpF0U6C4SQTXFxnDjQe8OaNb_NLM_jxk2xedIpyV6aZJv6r0aUE7VIeiMfxYUlIhFIE_A0xGAJBG7Q01VEYF_rCptJsLT0DJ11BO6LMWKL5T8ZQM0bImsbty0n5tUWmWI3LixzR81bKb5hInt27szMKXV8HbVibr0ZXEn1ydsMEhDmtbe3CaM5VUYo4tv8WBEBGhSdUfUqpVVv9qul8EhGZ_tIZdsHLw",
+               "width" : 3328
+            }
+         ],
+         "place_id" : "ChIJb0n5WKVFHUcRndaM7hA9rRk",
+         "rating" : 4.3,
+         "reference" : "CmRRAAAA0jmvAkfvjfyWGuC4s0mQN03AcMbjtGJpae5UCAJXOXE5CODffXmKNpKAzutZPZtrv3st1OHp_DAy-hns0MOBOCWuIjc63V7Q8dj3QmvJIV4Wd0mlATISO9CdBhXaZRp8EhC9YuUXt5pLL7WTkofoDjZLGhQ-R60STyJr-dRFTgkxf7zdjpKtpw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Chełmżyca 9a, Susz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.673897,
+               "lng" : 19.28265
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.67524598029149,
+                  "lng" : 19.2839989802915
+               },
+               "southwest" : {
+                  "lat" : 53.6725480197085,
+                  "lng" : 19.2813010197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "ca4a0e4b9c510fbde058a2ccf1f343e6a1c48605",
+         "name" : "Hotel Pałac Bałoszyce / Schlosshotel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1067,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100713050917240817847/photos\"\u003eHotel Pałac Bałoszyce / Schlosshotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKLFvGJWNC3n8NmG-FoMtBqdcEPTloRz5aA4ObDBsIF2VeqTq8G9WcVMjFVm4v7BHY8BGv1o0VmkCTq4NiUOpeGoM-TC6UBQRRLEUZh9v7lklXZjuO725QQbl2rHJLM20EL_BPSj_FVYuGUqwfUnqc7xrXjC5EkqKNfOV3Dx0MntEhBAerbIgvkZZblb4iIFyYAiGhQ9U_tXdVUeDRg3VKaCRWBEq_hQYw",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJSUrSqkFOHUcRTHGXabbESro",
+         "rating" : 3.9,
+         "reference" : "CmRSAAAA-q4VObaDBeNTh7deeh52GgSRd6zh1tVsaMGeW665f-s4aBtZXbOtkJjOkkTlTeiFQesc-F-qVGnn_-HssDUKBjhvLiMwV2QUPLSXO8gIcXo2JmoUZHCTL1VilH8Mp2CTEhAAwYd-K3q2eSWUHIbdq23fGhSnqVmVe8YeUguuB66Wcprgg3Sgcg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Bałoszyce 25, Susz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7552281,
+               "lng" : 19.2002408
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.75662073029149,
+                  "lng" : 19.2015890802915
+               },
+               "southwest" : {
+                  "lat" : 53.7539227697085,
+                  "lng" : 19.1988911197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "3d9c27e2e469fbdae9d0b28729c6141f50175881",
+         "name" : "Pub Joker",
+         "place_id" : "ChIJFytRC1BNHUcRd3nRbi-dZMo",
+         "rating" : 3.7,
+         "reference" : "CmRSAAAAI5hf-vEGZWCA-zlmae8nlEdNCv0xAoSFP-q8N7qyZaHZE2JmX3EApPtUnZWCf31VB9JFIvqnB6NMnV5bsVLMzZDNTcRDdAWSR0Gt3iyhAkuCzY4_H4R0HH8C7f7PwmAUEhBT4O_6Tl9PMNBDIzrSYiGUGhS_jnrR0_2_a_25QXfWlpW0xwl6Ag",
+         "scope" : "GOOGLE",
+         "types" : [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Grunwaldzka 13, Prabuty"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7564533,
+               "lng" : 19.20463
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7576341802915,
+                  "lng" : 19.2060815302915
+               },
+               "southwest" : {
+                  "lat" : 53.7549362197085,
+                  "lng" : 19.2033835697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e9d651b5e72901f637a08bde14c346e51f251c8b",
+         "name" : "Pizza Ranczo",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJNxRzW1pNHUcRxA2bEcnG088",
+         "rating" : 3,
+         "reference" : "CmRSAAAAMngZi3AQgodjodpLmZuAM0WksPB4gmLQRGqB0R_Th81RnFpRQ9OBxyEg9d5jsDPjBXC9WV8NUVWt8hgXiqKIwJJyuAOFb54XM6fB_BzIdn3Cq7o1PawIndnQfOtH8LaTEhBKNyP8-IrZW_FVFhYGybVEGhR2OoMiC3jrpt4rOLNVIaOAdnJTtA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Ignacego Daszyńskiego, Prabuty"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.72850649999999,
+               "lng" : 19.3505291
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7298554802915,
+                  "lng" : 19.3518780802915
+               },
+               "southwest" : {
+                  "lat" : 53.7271575197085,
+                  "lng" : 19.3491801197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "db5d2e0a1d794f046b0e6db7e3e785c39a092b48",
+         "name" : "Gościniec Pomezania",
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105012845094470841320/photos\"\u003eAnna Szatan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMb72E2wRiLv8B-Ny0uypgZ3AQhvSxJVs1p57kJh3gsAr1PTwq2c2grCrjM1N_gKJ9BRC2RiapvKhlCRmdWzQRwL9ZsFIV4aokPJ7WvBcQXg_av5HVPW15p4GTwHqIM1cEz0B8vWOqVFIdOoptlvk5W2AgT5YpzPkgxFXOTCfkm2EhB6olW4XXIBbZw9ylRUmFK3GhQ-lMDyPo9doGcNTXi2nNN_-tiFfQ",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJSWV03PoZ4kYR3AuNidWP_X0",
+         "reference" : "CmRRAAAAxI8i87F9OD9ugd7Hc6-CLXU_4tpVu-jx-IMu-SZEaX-j5izLh8BNcSb_TcFeof03jQjKGJJeHctnCVmxJp_LCl7s9pXUFzRcsXfwKIBONTOIqnM7l14dl0IdlIaGG5qlEhAE2KVZAvGQTGhnxOQWWizRGhQyhWUhg5mnCRUyFHBV92hkweA-9w",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "lodging", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Różnowo 11b"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7652583,
+               "lng" : 19.1984592
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7666078802915,
+                  "lng" : 19.1996686802915
+               },
+               "southwest" : {
+                  "lat" : 53.7639099197085,
+                  "lng" : 19.1969707197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d63ff8a362ca36c5cdd18356d6ccf90263f5f5e8",
+         "name" : "Malibu",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110861674980633697670/photos\"\u003eDanuta Wit\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALhV5dXbgQyaP2XoVI6PYC5EfhXPZWZ7Iygo3D1gKNglSlljBqB2BLrMRgm5HDIi_ZT6sGz-OgBerB5UkEETguVPilMKEISTcQy5eR0WHw5HZ2_OfXi2OitgP7u0i_aKmoczvBPojxLQI6jGUWZlQwpk9zR46-zA6v2RTFNaDq5EEhCM6WnQVSv-6HdZVr5ye8cXGhQUYXla6ZblPk0YJR5UDPe2XrcxQg",
+               "width" : 1824
+            }
+         ],
+         "place_id" : "ChIJ6dy8B6pSHUcR56a4PJzKWxk",
+         "rating" : 4.6,
+         "reference" : "CmRRAAAASkxoECvsAinGXDEDDFvZjPIEo7N6IaQ7AkHPQAtkMJt0yLZVmhkb8Jz83aDGaYpJ5_5WOZq-c_fIvn25OBDFmcJhHBhn3q4pfYa728QNy4OEPBIILFtixwZA0ypZmQsLEhD73q7_eihieef_SwFUGIBIGhR0Q8mNZMRin-uwJ6jPLIZtFDDieQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Malborska 6, Prabuty"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5192094,
+               "lng" : 19.0869689
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5206215802915,
+                  "lng" : 19.0883314802915
+               },
+               "southwest" : {
+                  "lat" : 53.5179236197085,
+                  "lng" : 19.0856335197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "dc2f644a1b5e9d0acc5572b0d02ff668cbc5be02",
+         "name" : "Restauracja Pizzeria \"Rynek 21\"",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJF-ZTgX40HUcRYoPeOqkW2UE",
+         "rating" : 4,
+         "reference" : "CmRRAAAALktJfNvQDSfnbxjX3LMQnhvhT8B4XgI81Z3sipd8AZ81NvqkzsvNJVwslL2SUi_AVJBJeQbj7qbN5m4Y-X9bO8m_rYuwE2cM6ROB_XcXB9fiVXn5SS8v4MgCqUq2OThFEhB8GhsYYGYoVfZJ82lcHf1DGhQNw7cE65_dkqVWLq_4xKDDYHqW1Q",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Rynek 21, Łasin"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.581532,
+               "lng" : 19.520972
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.58288098029149,
+                  "lng" : 19.5223209802915
+               },
+               "southwest" : {
+                  "lat" : 53.5801830197085,
+                  "lng" : 19.5196230197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3083a98bb6ee395e9f74fce2011ec6416f6ed4d8",
+         "name" : "Bar Kwartet",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109108084980228206639/photos\"\u003eBar Kwartet\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANnbB2xod1ImiLshYGi3qS4GsTFkMiLJoDV6xapdvHSVXFtFudPpAN4Z1hr82E9ce8WUHSogigyrfEQD_vjj0CSZ8sXbpPG_8rmfqS15kwctNKIIeWpeqSZruNh830zxpH2XTXP-XZ3oxIBQL4pDPQv55hLPknzuSKC1HVKoak93EhCfBvw4x3Csyr2Xc3bIbPnpGhQys06RKAxTfbPQXhx7erpLfJenfg",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJA59IzB5BHUcRdVCGaODAUZQ",
+         "rating" : 4.7,
+         "reference" : "CmRSAAAA24OZdjUKW-SzWph4qWEGU3Ec4r9JC5oG2uEVfE2sVVhdOB8938yA5CbN3EEtmDXW-odLQ4bsSjfx52XDjD5wAbJHA77xFrKoVO2aUBPdDUip66wnEeyV2MMSWaNvWTMbEhDKd-rglS6_jyfRSgC6gDKYGhQildtnKob4rt_4j6uwknTX1m7fuA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Wikielec 9a"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6811612,
+               "lng" : 19.4948923
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6825101802915,
+                  "lng" : 19.4962412802915
+               },
+               "southwest" : {
+                  "lat" : 53.6798122197085,
+                  "lng" : 19.4935433197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "678cfb6e7024185215fb6da778443991ad17d3b0",
+         "name" : "Piwniarnia",
+         "place_id" : "ChIJAZ2xOvtEHUcREOnu2_Vuof0",
+         "reference" : "CmRSAAAA1fGCcGo5s6GA7gtvrrUBaIZr0LnJTYWEbHqBqTSLDJ8GcWljyXuMiMzBSEzlERgTMNuGv0j7UzhUaDkwHKXlpft72VrsjuJoajb08WSSJAONY0iWCt9DOP2NpGQWyNvMEhDMlMdD43IXuzD94NdopozXGhQ8VLkBPYXz_EawBAGHltC5RFIs8g",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "14-240, Piotrowo 49, Poznań"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5261426,
+               "lng" : 19.3506709
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5274915802915,
+                  "lng" : 19.3520198802915
+               },
+               "southwest" : {
+                  "lat" : 53.5247936197085,
+                  "lng" : 19.3493219197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "19c9ea2d6fdd655a66148f110854ff25f112a8ce",
+         "name" : "Makus s.c. Restauracja. Foj K.S.",
+         "place_id" : "ChIJHxoqzgk5HUcRPjS51VHqk4o",
+         "reference" : "CmRSAAAAHd0Ao4pxIKaRa6oRIZiIDjwj8BMIoxVO4SnUzFJT47f8Iu-oCAnjl89WtExXCcB1tWppTva7IUOhat5gH5RDKRUNvIbf4gK95cwDDk-mGbO7exuVeCT5XWhHV0_bwLAuEhD6RikQyfmQDgSixRHFQp6zGhRoVOhQoVeGAL-OLK3svwQ4AAjjfg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Biskupiec"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.49930999999999,
+               "lng" : 19.3376
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.50065898029149,
+                  "lng" : 19.3389489802915
+               },
+               "southwest" : {
+                  "lat" : 53.49796101970849,
+                  "lng" : 19.3362510197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5b45c00a8ac3bfd99664c5f9b66de4d8de0e5b00",
+         "name" : "Jutrzenka. Restauracja",
+         "place_id" : "ChIJwy7M7KM5HUcRfhs2-hNNbDQ",
+         "reference" : "CmRRAAAAP78alUhBja8YWogKIrPvZVRpkrv9XVktzrs-CVFl72ZpKTTmitnTs_stwxTlMvwqyIqqhikuaZnsrWF7e_-pNUti2rTPp5DRRdpfZi05BURE9UO5gwgE0eW0546F4kn_EhAppyA4WHAir_SsylYWSxriGhS6Gc6HrEcYY4jRpXZO61kTz8Ynkw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "13-340 Biskupiec; Grudziądzka 12"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5002954,
+               "lng" : 19.3492278
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5015930802915,
+                  "lng" : 19.3505995302915
+               },
+               "southwest" : {
+                  "lat" : 53.4988951197085,
+                  "lng" : 19.3479015697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fd7213dc63c5c725f7d36114fd5614089b60ce82",
+         "name" : "Makus",
+         "place_id" : "ChIJb8CZYqc5HUcRNciQh6pUgcc",
+         "rating" : 4,
+         "reference" : "CmRSAAAAV-2CubrdBafSgT5HEn7ph3szPsAxm89JWTt78jlO1Q073C9xeg7VElsSszsALX6YPHu8b5VliCipPMO3v4jFMsX5B-kVMQbL2u8FMp6usEnOlSmEjUOWx8Dn7wl86dHJEhB53gEK9fE9-tGjuj8ykQcDGhSAshCXD-AHTlT3mjIFr6ecGLIGyw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Droga Wojewódzka 538, Biskupiec"
+      }
+   ],
+   "status" : "OK"
+}

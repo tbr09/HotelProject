@@ -1,0 +1,807 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCBAEAAL2K58xksgg7juGLj1DAXhqyc7L3veeD43Z2V6eNutaA9q-xFN2uPhTmvTRxu0JhfX13Cvg_6BP6g0lCTKf6lyL2UI82WHlVN-rcg6qCZukd9FnB9_oA9kjEsISkNPqU8BFVgv7qkaQRC0sVNC4Sms__08BPkLmXHx0Rumtf5oo8WKnuR-sqyYDGEF3T-7WxBUDvoi1qdd01J-R92l8vBT4_DF4ZerwpfESFsvXZlbqV-TkXEAtXVK78AEXpiTYVbYQiXIXmlWorkCBmJBb3gFCsuTxGxYSPCriVp0pQnEPZLkGc0VGUReEgi1gz2-kryPCCsFLTo0ZlpidnrdwP4NvfxOqNKNlp7X8mbKl_y0BqEhCILRZAX3b3aWlPtMXN67M2GhTb3c_ApNqP0rjLkYSaBuAyMRgk4g",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1323653,
+               "lng" : 23.1558806
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1339565802915,
+                  "lng" : 23.1572994302915
+               },
+               "southwest" : {
+                  "lat" : 53.1312586197085,
+                  "lng" : 23.1546014697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "67ce12ffaaeffbcfd385c2573daf7234d6a68917",
+         "name" : "Best Western Hotel Cristal",
+         "photos" : [
+            {
+               "height" : 1363,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108814751557525697273/photos\"\u003eBest Western Hotel Cristal\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAACe7cjUVJXw8iWr9vQKN2ix_QMn2BX2cXq93mV6y9ifsDL959-rb1oIsiPp1VUqmpf_vgzHcuf2Xnp02Hgyngspw16RQ7dd0tMdUTOcUCaZRcA03XahucZO3PF2BHqcxZTw_o0a7uol89mtR40cXighM6qN60G0D55CARNdQbmZREhBvrWpmIX0KfqFnDzZsKMQUGhTKDCy2-8M3qeP9AtaporXwgt2BVw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJRU_6OQX8H0cR--VXcSuslYw",
+         "rating" : 4.3,
+         "reference" : "CmRSAAAA3V5y9b0geRmC-L9xqoWbkfQlCBbihUF6eSSGjF50NcS14SKMpJLEPsLqgfhcNAxko0r98KqOTwgax2gXCq41SQrbakEFCZui_OJVZT-8flSVRG4W-SEqLR71OrnT9etzEhDVEJME1VaoxRTSsbXoS6Z8GhSWaI3BBpKy8uQl9xQgaLeAzDW4Lw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Lipowa 3/5, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1167252,
+               "lng" : 23.1261202
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1181928302915,
+                  "lng" : 23.1273702302915
+               },
+               "southwest" : {
+                  "lat" : 53.11549486970851,
+                  "lng" : 23.1246722697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "83dbc192fe063858c6724af407a35177df0598e5",
+         "name" : "HOTEL 3 TRIO ***",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111879304163095421248/photos\"\u003eMarek Szymanowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAH-Gv_Dqb_gmWYK3OMVAHqPpWpRvW_dicldPA55Ry6N70La3gMFpMcUkfVDIc62yoOYTvZ_mX0e1Sywo7oY-S14NQZ0Zvva3bsoSHrGKCBTx2YK5ZllGHzDR8q4ij0-lBf7-29h-rOwHhRhsP_fgKE9uJaFMVhHKT5TaIOTiQ8eeEhC2Z0PWzrHYYp5_d1GbNJJ5GhT9ulkArrMBYU19Y0bg98v1sY15OQ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJl27iiO37H0cR7ND73pVGvcU",
+         "rating" : 4.4,
+         "reference" : "CmRSAAAAD3ca1xCI_cTmESk2Bp80BqClav4NJmjo4y6mV1h1xxkGf50k1iBZ34usfUz_ZB1Rb6BtTPsDxkxy08mx2ivmLi9aZS87c0z0lGA85itxXOTw0Tatma3fN7RwQJXdNsDbEhDozIWzkvJkwfTyQSVZme4WGhSSSkmx_ylXNYNS6YBiLuurNTW_3g",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Hurtowa 3, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1345902,
+               "lng" : 23.1605134
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1359391802915,
+                  "lng" : 23.16186238029151
+               },
+               "southwest" : {
+                  "lat" : 53.1332412197085,
+                  "lng" : 23.1591644197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "834692a90913f1da9445fd01ff6f62ffce3e09d7",
+         "name" : "Hotel Branicki ****",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117707961424118338952/photos\"\u003eAntonella Lin Moi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALOwUpM3BPEu9WqL6bvyrd2viz8zBlNKM5dsvxYJNUG_j8kWGRH5bKIe5NJg30wjUNfTI7XGAHlUueQbMMrVMCFyg-9qatYUN9IHv0MFhyfU-mOuiUKQ-p0pz4nvUNWQvE4OKvZCfT-BWSjv63Ndcs7_EgVRhFsYbhBMP7ff1gyqEhAwi4aElKLx0dxdGRmWHgCtGhTvNI1vGim_nVbSw5ZxYHNI9dmakg",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJ91mXGhv8H0cRBk2WSFHty2k",
+         "rating" : 4.4,
+         "reference" : "CmRRAAAA3-g-0Bm3C5_16c_e7FIpZflogJjn9z6fKdRXf1jUDu2PqnovjBhoalOdUFPQuOuwq_zoOOHY7ueQs8qyHQUqhrpgj7_YWNIYSZzUHDToGQX9R9Sx-KzQZzUHX_Z-XtGsEhCv7UPJmWawQdv7KiTr3kIzGhSfZuaTCrl5Z_r6Ey8LV4xKcgFseg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "beauty_salon",
+            "spa",
+            "lodging",
+            "health",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Zamenhofa 25, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.13222039999999,
+               "lng" : 23.1700158
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.13373833029149,
+                  "lng" : 23.1711475302915
+               },
+               "southwest" : {
+                  "lat" : 53.13104036970849,
+                  "lng" : 23.1684495697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "5169f47ff9ce577cc35193d854a175767a6fe044",
+         "name" : "Hotel Gołębiewski",
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106028154326279597460/photos\"\u003eKrzysztof G.\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANpk2h4I5w-7xP-IUmK0Hp3p66Fon6HFMklvzJ2ciLlv4P6u1qCsa3jX9OQxGVsOug08rv576PTY60zU_FDIuyWijkCZZFxYF7yx-lnK51GIfv4mgqRAOooBZvtBwS_gkaOBxb_-KewgZfG3GJ2vqhGyk4zy-PIc37qbNPyvgkFcEhBABSLHU8xjno2je82FJG16GhToXLAVUY1zNNNtlOtG176ESOCvBQ",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJEwx4bh38H0cROKdIAVBq3Jo",
+         "rating" : 4,
+         "reference" : "CmRSAAAAhaQHf2IidY5cGro3ej0verLHvusq5e4jfzoWItBlAQolHFwB378ZFNc5VI6QcrL_dV9VjYWdi63X9P431iShWALQSXQX4EN-sKNZiH3CtEoY7UVHH-z-glww0aV6e6tnEhBwCb1L7AhjWb44ZkNDQsb0GhTwUgOkjN-H9rvV2gHI0Vwmz73eUQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Pałacowa 7, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.143005,
+               "lng" : 23.0845352
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.14480278029149,
+                  "lng" : 23.0861155802915
+               },
+               "southwest" : {
+                  "lat" : 53.14210481970849,
+                  "lng" : 23.0834176197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "12da31986f735f72aa7154d3cda06ae9603127af",
+         "name" : "Hotel Leśny Białystok",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1289,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113681505383252470166/photos\"\u003eHotel Leśny Białystok\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGDnTDStL_xsxyI1SoxGMgtm1TeddM2oycOjLwKmAEPKKB9yr9WM3RvQyA4GvCxaKqRy15xuATwUjm70MldVH3CZDTIyZ0fISuCiacPvz2HM8NHEXQYjbBA-zpw1R1GjPoccawtye7dW0o3figEVv4di4ifg28hQ7gcvGycck4cdEhBgWQpu3GmneA6aTrP6T1MSGhQsJr8kxp-d2_OHW3kDkTIOAGeI9A",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJwXnqZJv8H0cRcc5gX989XZc",
+         "rating" : 3.9,
+         "reference" : "CmRSAAAAJpJxG1TuWsaIKWeQqgm-PJQDZptBPkMEbO6DuERZeZ7Ee5oDo_IQ7KZKs9L2gdNLS0mWbArzveZzLlDvbT8Uz421GIUS9NVVpvt9oURKeqn_ilfPMvtLTasjosyyt4esEhDHlrWRvsSfVLAyH7gsaktrGhSZR9ASTEH1T1t-1DYSm6Ssg5DQfQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "aleja Jana Pawła II 77, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.144083,
+               "lng" : 23.192419
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1454880802915,
+                  "lng" : 23.1937657302915
+               },
+               "southwest" : {
+                  "lat" : 53.1427901197085,
+                  "lng" : 23.1910677697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "ca08f3691968736c798b07e1eebf7cf59ccb0159",
+         "name" : "Hotel Podlasie Białystok - noclegi, sale weselne i konferencyjne",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 581,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100765580144512282755/photos\"\u003eAndres Kaen\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOJMPdqq1rm-SRYl3rereHXSY_uFEKhF_w6shLqDWSkwoRwqJgck55uYrGt0eHAZlkVJf4dAGuK7HJnA43pDHbzSYRopQ4go_PXCqFz7PILUZ9fi9s6bKVzGrm-z93VcxdgXdJka-XOhcD7119F2qcjMEAUuax5JbaUlNTryUcFcEhABd4f5sEdPyEkBlm6yiBmOGhTkPiD8v1mw7mq0G_9abo-AU4wWbQ",
+               "width" : 1032
+            }
+         ],
+         "place_id" : "ChIJ2zZc7pv-H0cR1umGnuOYgDY",
+         "rating" : 4.3,
+         "reference" : "CmRRAAAAAB_9K_605MvA5EcCqScWJ5FMVoB_HqzRwC_vHT_HodE5oM0_MCkG-GVa4RDvRrfs_Xh2vNPXOsfIrRZXd84fBNNKlhWWYWR2jEpt6QpwicshYOxRP5whz0-xdOkZk50SEhColxeC5UzYLUCdAvdVloeAGhRKe9zfY4FIWum3Xf9Jja1ZoktlyA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "42 Pułku Piechoty 6, BIAŁYSTOK, Polska"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.130981,
+               "lng" : 23.159279
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1323299802915,
+                  "lng" : 23.1606279802915
+               },
+               "southwest" : {
+                  "lat" : 53.1296320197085,
+                  "lng" : 23.1579300197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "71ccab68d13a01f16ed1d356823904b474445f00",
+         "name" : "Hotel Esperanto",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1353,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106308732513587710461/photos\"\u003eHotel Esperanto\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAFPAzTQKtQY89VZZgsUxTAt7ZhsxY8HIH8o-x7KaGskP7wYxhP7y2dR_gIHUbTc38PeJGddpzSEZDFSvgMRrtrCvHWZjgfg0T1OuuEbtM7a8Sgune8u0nofz-JDERfnYltl8xny127WrHqI0OQJ-W3fRPcO9HQFdmNBb26ei7ruNEhCMRi1RZ9yWPNGuygga7v-qGhTEwnfJ-XDSXHsmaREqm3r52OKLsA",
+               "width" : 1352
+            }
+         ],
+         "place_id" : "ChIJz1NHmwT8H0cR0wAw3Gm-o08",
+         "rating" : 4.7,
+         "reference" : "CmRRAAAA0VEWSGXHIvjRpAhEOZDyGuJLQEHmmx7vzLBSHaIst_NA4z1tlz8R1UL3Lhk-zqVtS4llUSGLigwjdXPSfoSLsVprurTSk7sYDWEXKrODTzUIwyx4m8mfwMRbNI3JZz4uEhC66jcAnhtxqUCvudOv2XXAGhSu6Nqflwpf1tt6GRvKCFNwYdzdqw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Legionowa 10, wjazd Siekiewicza 1/1, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.132154,
+               "lng" : 23.164994
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1335012302915,
+                  "lng" : 23.1663438802915
+               },
+               "southwest" : {
+                  "lat" : 53.1308032697085,
+                  "lng" : 23.16364591970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "0764514f5c2cf316a0a28a7674d18576d3f14948",
+         "name" : "Hotel Aristo Białystok",
+         "photos" : [
+            {
+               "height" : 686,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111578165424044860564/photos\"\u003eHotel Aristo Białystok\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAIBFET3-PxvDwNdxkdiEDp_WtXB9fG41pRG6vKq87r79wf43ViVF5IGxsJooENUFtcDDgGjfGNXyJkLAsUrmgf3-vKMlREZk1q0D8ETXVjb0ItTsz8CYD_OSd_6HLuBwMgu94t2jGsFjnIWoSrJV8JDHAzmvByOtALIlNB6b0F1iEhBzxYbwn7Tutqdz6qet060TGhQhwcpFC_NmT4wOeoNLU687Je-b3g",
+               "width" : 1028
+            }
+         ],
+         "place_id" : "ChIJj49hxRz8H0cR7WKfSNcfZYM",
+         "rating" : 4.4,
+         "reference" : "CmRSAAAAd8wcSSfrRmTko0F7X8i0dhhyKw1DYbYtdNe4_8IZPHDETbKEcN73ol1Y4_znvK5Oe8xkhaao2AXDpS7Idt0uFyDXSZ59TZ2467Z0rlMpI5uXa-ow6Au6eXR_OwgOGZyfEhCGUE7x9zfvpGsDiua-Hb5YGhQSTcTNpWXHVUbJJ6hF6B8D5MiWaw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Jana Kilińskiego 15, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.090369,
+               "lng" : 23.12074399999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0915787802915,
+                  "lng" : 23.1218812802915
+               },
+               "southwest" : {
+                  "lat" : 53.0888808197085,
+                  "lng" : 23.11918331970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "7c29e803514b03a28ab86ffc438e3b377e7ed7a4",
+         "name" : "Sosnowe Zacisze - Noclegi, Restauracja, Organizacja imprez",
+         "photos" : [
+            {
+               "height" : 2832,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104963969224961256415/photos\"\u003eSosnowe Zacisze\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALSUWecSWPgB7KzINtDlEADwc-AVq7WT81WzODSxl9prZJOQqf1Ezat12bqY6zeCtvoXdLJ5dw5JfeIfwod3RYUcTDfCz1MfboGjLP045x7RJUap70Vsa-t_lbi1iVc8YCIZ1B70VlzDoId4__lE657_KkNYta2eoljTjRwo6zKLEhBZPK-4noqXloyt9orpuewDGhSHGDgwnomWXH93aSIP1IMbrZoHcw",
+               "width" : 4256
+            }
+         ],
+         "place_id" : "ChIJuSwt69H7H0cR4CDSQv2By_c",
+         "rating" : 3.8,
+         "reference" : "CmRSAAAAtqVLqMvcm7QpjN1aEPoR86WsUddshTqRs5beX6lfrvV-Tf7Wh-3OzRvrC_cfRCMMOnQjMN5tFJ5s2VM5AlWIyx43gvtO_Qx-1tMCcYP4u5hMf8YdllFDXt6J4Bk-njerEhCv31FX2aNEOoV_iT87NRU4GhR68bSUHwsfyFPE-RSX2ZuXQRN06A",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Leśna 20, Kleosin"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1157711,
+               "lng" : 23.1365379
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1170331302915,
+                  "lng" : 23.1379578802915
+               },
+               "southwest" : {
+                  "lat" : 53.1143351697085,
+                  "lng" : 23.1352599197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0de505d678a00ed362958a8cacbfd9f59e651b6e",
+         "name" : "CENTRUM KONFERENCYJNE TITANIC",
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113382626752219768327/photos\"\u003eRestauracja Titanic\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKsNV5R-mw8nT7sf9VXZuSeyvnEPzBAXxe2czvNHWhMO7LkWQZbpWVTOzmVJRQMvsKO1LpU2o2gPqlpqsrxZBynVsieaVCq0Qrjf4eyZDfgg0L4xfIjHx7D8ULyNGpKjz_XQYv6bx4u_hvAns4RaivZikDSXFWEJ5aKC2-49qurdEhCvH5g5vEjaIl4ENI6nMqKaGhRmv2TnEd5AHK7qnazIECjaxyt6tA",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJGf2OEvD7H0cRxbZJ_r4zQM8",
+         "rating" : 3.8,
+         "reference" : "CmRSAAAAysKbt1yMHBLNwB1HKkazZYUDg4ApUcfeQQ9jJG2liNmX7a_NfwTgmETiUOqtgyKvFy6VsyCKLyplmrZvN54TkV64GUtzsB4kWTbYOSyQ4EWXK87SCS6wFJwMEaWfYsv-EhAuMvhCiZ6tBF6CvkPjtMEzGhQLhVGi6Pi9ShlJtIUUuue5dempLA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "lodging", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Pogodna 16, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0908405,
+               "lng" : 23.1043979
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.09237478029149,
+                  "lng" : 23.1056349802915
+               },
+               "southwest" : {
+                  "lat" : 53.08967681970849,
+                  "lng" : 23.1029370197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "c48c67690107bd569df65423aaf77abf5089f08d",
+         "name" : "Spa Zdrojówka",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103119157426069010165/photos\"\u003ePiotr Nieporęcki\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJ1IX_QcnNvnfsNAAvBEAnqeuBK13KvMIEY62ykWVH4CxuY-cRXeAG_a1Q99Y9Bu-_gTO5IFGstcjtamu8CgJJYy84TDyBFEl8LgbHJ31LySrZNUuxbLnNUSMh2YdunWFnnYTfbM7W1dG_Y5yKU2FtEEOyACyEkWy6ma_IqyVU9EEhDV1f7eRP0sIGXKE8DTCidmGhSWAW9YQp6jNw90sF86TUGvnYktaQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJS_4hlMz7H0cRg0ozj84jQwk",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAAW-Fm5PvXqB3WGRF_OnzH22c7ida1Aait0bg4M7-1Nhmw6Bg6wQSz6s0FIrRD9dZH0NHXjW7RdvS-pZB1EIfPqQKNnVqvXOD8tDn-FM6POQWCVNgKW71FqKR_HX_paeMyEhDGywlJDIHmvpCmPBljCsEIGhSW_k6rQZikp988nIzQScmp8jTfhg",
+         "scope" : "GOOGLE",
+         "types" : [ "spa", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Horodniany 47, Kleosin"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1365597,
+               "lng" : 23.1489333
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1376319302915,
+                  "lng" : 23.1503274802915
+               },
+               "southwest" : {
+                  "lat" : 53.1349339697085,
+                  "lng" : 23.1476295197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "29d6d2af7cbb98a5584d22429b472a41d454e146",
+         "name" : "Podlasie. Szkolne schronisko młodzieżowe",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 780,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106987938298718878823/photos\"\u003eВиталий Ивасенко\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAP3LoyTDmOtfvEdMvLo_RAhpc_DhnnZvIGADvY6eUTAH3-edhKWwkxyF5P4W1EubhyYXHgjOcBihu9XBdNB7JeZhfwqCkI9R8e8DvGXy1UHs970rpPr2if5QmsqtZlE5bWp0fbeXfBWeycNYgcr1jJHpJe-NSQrrs-Zkf_FhDEdzEhCNz-7qG_5SEC5G7iaan-mXGhSqlURRHvEP-X4dA8DooIX9YO7YBQ",
+               "width" : 1040
+            }
+         ],
+         "place_id" : "ChIJbRltlBH8H0cRblrqIb_V_RM",
+         "rating" : 3.7,
+         "reference" : "CmRRAAAApnk4is6zYILG-_Ndx1glrA0tbTED5xe4D66izxQrHEJ7GwATjfXZ-zjNEFBA0lsR7Uwu_7dYPmK6bLXBRse2QoCLSvQ_BJ7uOdq7NO-Dc7m__ZjtYhnAie7xR_5EvUGOEhB9FFl_MiEtXfZWSARJm0jBGhTmGhuZh4QhxRKQiJ9npDzk2d6zRw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "aleja Józefa Piłsudskiego 7B, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1381555,
+               "lng" : 23.1201779
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1395044802915,
+                  "lng" : 23.1215268802915
+               },
+               "southwest" : {
+                  "lat" : 53.1368065197085,
+                  "lng" : 23.1188289197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "45ff5f944ae9dd2b688b440167a82e9b3a6bee0c",
+         "name" : "Turkus Hotel Bialystok",
+         "photos" : [
+            {
+               "height" : 1840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110363726773592382147/photos\"\u003eJacek Kurowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALNy-qCiqHvv6WVQE78oyvNov96i408nnfR1lB09oy1T2BRx_p9L-D8M1yUjGOHSJLHbzMLjQ4eT3hAKnXGT4-rZtI88moRuVcwHfMo70LqC7o3pp0FX-1v5xhMtLC3wgaD7UneOFSQ8f2GfK950nIb2OQIn-71xwz6Z-0cqdoorEhBk10M8TwbXG8y7RRw8STS5GhQSfqQ2oS7DcDAf_MHs6xJe3nsgvw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJF6zDhnr8H0cRQAf3mWTdUn0",
+         "rating" : 2.9,
+         "reference" : "CmRRAAAAVSd5Vi2HcaZ_uawNPB5s6wDaRzNdmZKfc7KLxmRStI0jmB6Uv-2fXUMolBoCeS_aaJ_qrX8YbPoM_sfMrkJRZyf4OWBG6KyoD45f9rln8wuHOo_-wf63rzWV3moA08erEhCnwgQiPoYrG3CO8AjHKOPQGhQDigN2Z5OVaP0q-0RbqkVlARwzTg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Aleja Jana Pawla II 54, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0788848,
+               "lng" : 23.0896395
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.08045593029149,
+                  "lng" : 23.0915523802915
+               },
+               "southwest" : {
+                  "lat" : 53.07775796970849,
+                  "lng" : 23.0888544197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "e4553194cec5cad1d1b8fa04e0ec3b61be4bf317",
+         "name" : "Hotel Dworek Tryumf",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113676016075269793991/photos\"\u003eKrzysztof Iwaszczuk\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAACPv1WyI6TL6w3Rx7jbItT5hsjlYd3v7f1u6D1lEhmoEDCBOD4v0h_bMj2Va6CpaxgI0gJWbB5EJG58USZapgxmEPI2BedEKtj1lNP5z919CA5nTT2tBjxYzc1F7DOf3kLjlIiDh64ytJeh2c83jlnY6IkokElfZs6XdouxBZlmFEhAra9jUpyF7ZY159O0pUYvuGhQBBIls38J848osZlqlO4yFTe2g6Q",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJL7Mv1zn6H0cRCr9xLstDSvg",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAA14eZtHJi13gIt_ocVPPpPdcF8NJ5d75hRio_ox4_jRVNoWwAOBteVq_kk38eVI4WWXw-C13YEBZsHXVJiC4s4Sz9a7GBhyDRtU2SnZvWWObEWCfY1NGZpoSInkxkTIlCEhCp4gT56N2C6PhH7jnyFFn7GhRxCy61dipazKzGl_PmOjlT3yBu7w",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Klepacka 1, Księżyno"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.12336759999999,
+               "lng" : 23.1239241
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.12486438029149,
+                  "lng" : 23.1251512802915
+               },
+               "southwest" : {
+                  "lat" : 53.12216641970849,
+                  "lng" : 23.1224533197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "d9278542e9fb1ecc834c50c8d115a8726b29c91c",
+         "name" : "Hotel Silver***",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113523390045338947498/photos\"\u003eAndrzej s\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPLXzFI9EC1zgsMzYnFHJfvdsEk472SK1BHx2Y6Uz-zWiX3P11pLSihDSLtqxZHhYdlo8LbvJCgIjeQ-bNxcmbHK55inuFhbyc5zT-5lssk3PPXkVt2CipbpXfbWnY_GD09MqwKMY3M7sNXe9b2t-IE5sH1cam4DoMIUF81LapwOEhCuWVUc_w6WPYf6HqJECpX1GhSQkxInNdo6g2-6LdnQ5qHeqvXXbw",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJJ0XCXYv7H0cRNwPmhVRwk00",
+         "rating" : 4.1,
+         "reference" : "CmRRAAAARcvHrYV_q7fbQw6HxBRhVtUk8W8vGqsLsNkp246gSJUAp2WDA60J3A1oyzLFCLHl4yfgkPJ1vB1HXW7sa82ftwSEjfdKSAuNGb-OlPiGVAxHoDz2e1ba2oNCWwtOLhevEhDFbwlIRhm99SE3OkDMIa56GhTbIBtVSwN7O7nsOJirYocR6d6SgQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Mikołaja Kopernika 97, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.115056,
+               "lng" : 23.169893
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1163257302915,
+                  "lng" : 23.1711434802915
+               },
+               "southwest" : {
+                  "lat" : 53.1136277697085,
+                  "lng" : 23.1684455197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "0d8a8754b415829b8a54eb11b08a7f9cedb9ecff",
+         "name" : "Adeo Hostel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 6603,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103409520627031270367/photos\"\u003eAdeo Hostel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOLOpcTT9ymKBxb44VUuVwpsTOuMYaJQihVR2m55exPYZ9qXKyy9cTtLo2TtdooRhEltlUSTwVZZDXSE9J38WNjbr8E6kbQSFYyYNUDoXMLU-sBvDovGsEA2JSEiPCW3Gxv_YXK0HIKFBpAEVXjT37J6OFcHb3Dp7Xm4Pz5TgbHEEhATvycGpPpo2_HcE7amMRaEGhQJknfz-KN8VoBUd6jJyrow6QtsrA",
+               "width" : 7271
+            }
+         ],
+         "place_id" : "ChIJKc8LNVL5H0cRO4_Skpd1gc0",
+         "rating" : 4,
+         "reference" : "CmRSAAAAWblR7QI11Clq-e2EW-DO7F2QYJZl7MMxwQFVNlZJzpmDUWvQJ9g44J42XuG_sda5kH-FqPTWBimfUmv4b5rlI3sXwvOVj606lRpjMrbhwitof9SniK8MWgr51qnPzuRFEhAZ--7_ybhHDFN2LvM-01G9GhSDWhEbG95Rky2y_K_-WigJhYeaMg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Żwirki i Wigury 26, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.2049883,
+               "lng" : 23.3460975
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2063086302915,
+                  "lng" : 23.3474106302915
+               },
+               "southwest" : {
+                  "lat" : 53.2036106697085,
+                  "lng" : 23.3447126697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "3514eac63dcf2c3175cf49c179bdb1194135f4ff",
+         "name" : "Hotel Borowinowy Zdrój",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 914,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107877636967238254972/photos\"\u003eHotel Borowinowy Zdrój\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOYBat6V7nZmiG6jnqhpADOR_fe1YYQcvMS18ZbnoLcoXTwDtXaHmB8pOEd53CgQgseqx5TpTtOWFgNM03GFDvJtepDaf5KMjofLBHrkDbLckomlpG9b4JavG8MB1Xa07W4IwwV5VPQFZritwyiAGYsrJGUMs2gzU7pDqARS0Vs1EhAc3wocg8z7yVenv1VArwwZGhSgSTZQMHJEMS8hYJrXuFBVnkYbQw",
+               "width" : 915
+            }
+         ],
+         "place_id" : "ChIJnSkTYUIA4EYRP4BBGG-XmLo",
+         "rating" : 3.9,
+         "reference" : "CmRSAAAA0jmBCX3ueMBU_0dM6HlmMb5w5E96XFQX-ciqKS2_nU0mdLOH0CO8U6p37LvQ4DYvJXswqWDyhruP_558Fvpm4dwQ0tiYqIp2VqWv3OVIsMICLMJ9COeX29dwKZI20fjFEhCRnrKxGBAvjK6-_tMwDbOIGhTKNEW40NMHbd_hJ1U-5stU0u4aBw",
+         "scope" : "GOOGLE",
+         "types" : [ "spa", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Zielona 3, Supraśl"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.11292419999999,
+               "lng" : 23.1236793
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1138478302915,
+                  "lng" : 23.1253312302915
+               },
+               "southwest" : {
+                  "lat" : 53.1111498697085,
+                  "lng" : 23.1226332697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "5f23f5c8c113b2638f6d4ca08bd2a85614bc4fe9",
+         "name" : "Hotel Turystyczny",
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109182897600499504108/photos\"\u003ePaul M\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKI4wq4lkwVlWEsS0PgjLQCSIpPKbino0HGj5SQ1Gff0MLGgqsYg4xhTJMFSoLPJElwDtxmDQq_z_7m8_zW70dj6fjoLW7_FsGKHnpmV50-TphrPgKreHfqYonRHAs-nHXm_nmGeR8qEHiWB67HyBNo8HELDyWNh9O0Ofe3eh7u0EhD3kxZbTihUqARoV6iaaPkFGhQIBq7HaEXScLvDFvvE548kg9zVhg",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJA8E2QOz7H0cRDwb5PZLkNZI",
+         "rating" : 2.9,
+         "reference" : "CmRSAAAA0rUBLvraCoPl1s9O4Xog5WOXKwgmlHS96OY5xT8Gy8wn24tn3rRdTd-xVkXo4pIcPk5XRZPh-8Y633wI2khhs-bi3-sXESl3utIECi0pnPGNGecWIeV3SwIdhFtwxughEhCQTE2ELi7cHC1wsyLb2Q9aGhQWxRVZDFO2bvJFXMVff8lobg_fbQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Transportowa 4, Białystok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.15859589999999,
+               "lng" : 23.008291
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.15994488029149,
+                  "lng" : 23.0096399802915
+               },
+               "southwest" : {
+                  "lat" : 53.15724691970849,
+                  "lng" : 23.0069420197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "6d92beaadbfd19ddd0d7cb1dddf8df6e671084c2",
+         "name" : "Zajazd Dworek",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100009684678799919404/photos\"\u003eAndrey Malivanov\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAACdMdVrrEHDchjPa76u24vlGRPZbGGraksRfHvlGXJHjOwHj785gKL-WfU1Mu9hQqJ9mZlwGUHheIB-MqmOwSLhV44VIDAkuHo40SNWWTs7jiI51rL9ow6AUQho7xzHDNFgZd68J3PPRKvsP7VWfnrvoQE0lbghHxu4Z8Z03cl0OEhC9wwYDHmbk3dw68y5E1SxHGhTg_vu_tr-p_j7cza48gvHQ5pjNmA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJDYi-UGfjH0cRDpQG4ciHfYw",
+         "rating" : 4.2,
+         "reference" : "CmRSAAAApuTLYoKcGRRqyColctiNZWGUJ0pQm_dX7ztNluxdE7AHUxSI829TX8kYLOmd2H-xnea_apuAHNX1PVEfd8snCfZkfN6wBfXHbyvnjWDHFz9wDmqjqk_xMd7bPMPNOWiXEhCjukcvz1Vlg_CyvQjWgVnGGhTW2INWmgIJ92wS9Jd_wzEJkJMMPA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Warszawska 58, Choroszcz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1651509,
+               "lng" : 22.9373061
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1664998802915,
+                  "lng" : 22.9386550802915
+               },
+               "southwest" : {
+                  "lat" : 53.1638019197085,
+                  "lng" : 22.9359571197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "301c98d28b03c3378a06ac0eb2443dc7c6fca6cb",
+         "name" : "Hotel Delfina",
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110833532517158330140/photos\"\u003eTomek G\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAEJgHrWL3Jammb11_BNwUWBsr39uksBfwtPhLzYcvYWZuZrMy1_qI3bcBTZtYHSjtRRtmsQma4m5FvHm2o60KhQ3ijiF4kw7c_72EGQ2D3PpxViUmlRV5nEMdTtgLwYWSXzb4_MVjoOTr4lQDxAZlIDK2-_1U0zg1IbXopz7LosCEhBgcV6RekyNia679PyF9bxqGhR3emXNw5olrWEG7gbXwpXi366pAQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJp6k-Gf_KHEcRlZb8ZqKUyGg",
+         "rating" : 4.5,
+         "reference" : "CmRRAAAAsB_-34dC2NkbqaYJ-GFHEFPCf7axHbHHg2aHNS9CTac5HNsMQcMJoMpTMvGLdeh1Zs3RnJoGwbPzeWPEzeOMB3DWxMmUOnMDhvGRLUGahZ4eQuqpnafv63mikszxei8REhDpLXT4GEocQ85p3j7GjF-VGhR-beya9ZAcawEFgihBY6c5PxiLHA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Złotoria, Choroszcz"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,221 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0778595,
+               "lng" : 21.3796103
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.07913463029149,
+                  "lng" : 21.3808002302915
+               },
+               "southwest" : {
+                  "lat" : 54.07643666970849,
+                  "lng" : 21.3781022697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "0f61e3a14092e74ab076efc8788b0ad3d7b74dd4",
+         "name" : "Wyższa Szkoła Informatyki i Ekonomii TWP",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ8fG_QVk64kYRloUIsrpE8qA",
+         "reference" : "CmRSAAAAvaKyRMDQye0Y7gVLQfUKE0bBvBfQa5vH42W8bfBuJIS51acSZdNsBsS8HfW971-QZcjLw_2_6ADkuGOGhfMx2ZKMg9oo666wVaurG8BfZ2D_fw1jY4jWX59cRj9wVUGdEhBOGrrGAA0gtOnDkZTZz78jGhRm5Gt7kKZc94OpiQl3oVEzYDBAIQ",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Adama Asnyka 10, Kętrzyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.07740039999999,
+               "lng" : 21.3725281
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0787259302915,
+                  "lng" : 21.3739111302915
+               },
+               "southwest" : {
+                  "lat" : 54.0760279697085,
+                  "lng" : 21.37121316970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "de88adeaae58435d4abbe4befae5037ddfe67ec7",
+         "name" : "Zespół Szkół Ogólnokształcących im. Wojciecha Kętrzyńskiego w Kętrzynie",
+         "place_id" : "ChIJXU0W_1o64kYR5SYXW6ZkWpU",
+         "reference" : "CmRSAAAACuiqeETx1HGNufkmvsszLuxofCaOfJ4GEXKPQmfqg-2DNlmEbtB7MqVnQxAZDSprGfucmuuLgPkF4yf6qqVihoD9Q1jf4rWSCytyNr39NnAlOJZ25hGq_ptbZHhnmOcPEhD7Fi65y1wBEWe80TLvb0djGhRGfA8ZVjXEjd9NmkFiAl2-qoiHKQ",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Powstańców Warszawy 2, Kętrzyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6841617,
+               "lng" : 21.894984
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6855106802915,
+                  "lng" : 21.8963329802915
+               },
+               "southwest" : {
+                  "lat" : 53.6828127197085,
+                  "lng" : 21.8936350197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "0723d8b6d74a302e2f9d48f04355895b28407a7d",
+         "name" : "Stacja Hydrobiologiczna Uniwersytetu Warszawskiego w Pilchach",
+         "place_id" : "ChIJJVMmydvo4UYRa6u2j1GGQQI",
+         "reference" : "CmRRAAAAvCau7l9zqTUq_f_JeVhv1oCBsMRec7H_gIoohyurgdzdvQil5h90B-txvRiXIQK0msdVmCSkYIjD-e5dn_uBNmzPCuW30GtbwMtdukMgK0Pby-dpLaInUN8WErwbBATfEhDd1XT5vDx5cuXH8EcteRwOGhQThFnllMBMN2_qpqvUTLEaB8a-iQ",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Pilchy 5, Pisz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.63125669999999,
+               "lng" : 21.8310214
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.63259503029149,
+                  "lng" : 21.8324203302915
+               },
+               "southwest" : {
+                  "lat" : 53.62989706970849,
+                  "lng" : 21.8297223697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "c7dde69db6ce6eb5bd1c851e23ae724280195bc1",
+         "name" : "International Federation Praeminado Incitat",
+         "place_id" : "ChIJ_Z35unXm4UYRuyT6l3uY59U",
+         "reference" : "CmRSAAAAxN1eQlIzv1VFL6BLpoWlGIjBYtKqH4bhyUXmzBbRXytxYk4XOMMFz3n1-9RAkvKvwd1O6cZi7U_cR0rn50FmSKbgAfVqgzrWF5b5SCvYy6qYn6cMkyKpA9leeh73IaRMEhBPt75nDrs0XefIc38YCE7uGhSECMt62r5HkoWFOXbzNzvDUOhBOg",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Trzcinowa 24, Pisz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.03651959999999,
+               "lng" : 21.77483999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.03799228029149,
+                  "lng" : 21.7762665802915
+               },
+               "southwest" : {
+                  "lat" : 54.03529431970849,
+                  "lng" : 21.7735686197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "d2d3b3c34fe19908d227e8dcb6aee406a33dd383",
+         "name" : "GREEN HILLS ACADEMY - Szkoła Języka Angielskiego w Giżycku - kursy, szkolenia dla nauczycieli",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104105770022836204412/photos\"\u003eGREEN HILLS ACADEMY - Szkoła Języka Angielskiego w Giżycku - kursy, szkolenia dla nauczycieli\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAIVd0zYKKsyi-I15TMcxxJTeN1ip2-XeEmlo7cVetB5_rPyoP5j62RjtTwR3grvkpDkS9MxcMrHmBfhEJS55cjudf0WXDjZRTW7i-_1l625Y9DDCuVx2H7DZSnq4Ua24sc-NZENkyXijsU0o-MO_5VafHrusgdMtXe8HObq-VBpCEhDpsHq0ULVS_8GGbgRPps44GhTOFMXWmYWpwAhT-qvHF78QpIxklg",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJAQAAANuH4UYRYpFebSRAmSA",
+         "rating" : 5,
+         "reference" : "CmRRAAAA5iYO-tdsf2XHkGZQjmc8KcWksDxP7kuEjF-d1-wgV_vHlxrzhTqHHWJD5SOJmdWqT1U-OA7-1mZJ7VCKlaxFsQmJjv2U4nDUkf2Cv4iuIHMBv_gI00JXhXHbXuL5ZJcdEhAC2RKoNRBYhV6lp3Eyx2aSGhRAXoofGELSz4gP7alqL5J6el9Zuw",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Mickiewicza 26/10b, Giżycko"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0390806,
+               "lng" : 21.7682022
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.04040593029151,
+                  "lng" : 21.7699856802915
+               },
+               "southwest" : {
+                  "lat" : 54.03770796970851,
+                  "lng" : 21.7672877197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "7415d6bdec2d6efdf65f28538c19b20dc440ed46",
+         "name" : "Wyższa Szkoła Bezpieczeństwa Wydział Nauk Społecznych w Giżycku",
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109735476513544831588/photos\"\u003eWyższa Szkoła Bezpieczeństwa Wydział Nauk Społecznych w Giżycku\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAe7YhbPyIztQYp5JjZgDoSMxz8gcLY8Roue4hlu19nLUIyU0GnDHmeQADJOj3kmbvWaLonVl5pUIozlkRdqgQ_QQmNiHtu6yCPSV7l_n7KqjaLd9ElthC93gp_i6u-RdvqrGOgQMtq4eKMEGeogVsBxhQpvHh1_DZxTGJuLqPVqEhD9JTvOEfvcYnh88mSKVRgUGhRA0A3aXtUlY6HnYDNXNoAOssU5hg",
+               "width" : 1155
+            }
+         ],
+         "place_id" : "ChIJ33HT396H4UYRGCcxuhn4oUU",
+         "reference" : "CmRRAAAAFD-A0RwjesiYUdoaEgeh6hDtzs9CKXByhH7YFz-BupE71ODjx1vFMPPb63krHqjhhF3NqmPWSAI9IG_1bOOqNQsYRzL1fNVVxLFeYBDk1tL8EC-H80MSMFFO7xUVtGYcEhCY7iXV9uK38d9Asg5P1CL7GhQYkMj1rdQv8ZOQNbV_2qeX-urOng",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "500, Pocztowa 5, Giżycko"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.09617799999999,
+               "lng" : 21.7290856
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.09752698029149,
+                  "lng" : 21.7304345802915
+               },
+               "southwest" : {
+                  "lat" : 54.0948290197085,
+                  "lng" : 21.7277366197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "7df62e1acdc954067f5cf75df2eefeffae206a78",
+         "name" : "Baza żeglarska Politechniki Łódzkiej",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJS7ea3rYp4kYR9cpjewOg25I",
+         "reference" : "CmRSAAAAX6CsBRJdUbOUOCKji5HVRflBRxhRSgD9lemLiAc_ZFWbEBNQfiCqf8fW3nt-sv1dw7UNsBpsEN58VqF4QnmBKl_Dq_j-3-FuXcmql-Kp5GG8YcoCaCchZsQ6XvcfD6s4EhBLSLobCSWncELOlA9RnZmzGhQVbzoKBGfQvVcqzZa-godTMLND1A",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Giżycko"
+      }
+   ],
+   "status" : "OK"
+}

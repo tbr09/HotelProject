@@ -1,0 +1,669 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCAwEAAHv6ztMUPvTo8RPDaQd__vZCZ0QwJ87TuCk0nWbjeqfmo0-T3sETGkaGxKCLZyeXc29t9LbS68vfOzg4QXaiG-ZET7fboLwvDLpf4dZobgVKO82MMceIB3Lkpl0Cf9FFlL3l7MK4d9hlHK8Jj4qQF70aGJ2ARV7a-zN4QnL70OkrDfHUhMOngcppmCn4FxL-hv8eIQVLaXSGYMMwrdUoViTvB6poJ23NtQfMtRsU6lTSBQUaZpTEQyrQSokEmaIYDnKIhOAil28wWnzdy4YrodctsWzWFJxS8YE-50oAQYqhHZP5jTzNlY29sdv-SLRNGxSjQ5fDjKE-BR9UUr_u_zJoyDsQrfLOD4DbbwXeENoqEhDLeysIlrCu-VQWmuhBxf-uGhSOTYTt7rUITSe7WzClxCYd1Fi3Kg",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8590983,
+               "lng" : 23.0939591
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8604025802915,
+                  "lng" : 23.0950740802915
+               },
+               "southwest" : {
+                  "lat" : 53.8577046197085,
+                  "lng" : 23.0923761197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "6940460e3111147ad357b1b0e8fda8db385188a4",
+         "name" : "Sanktuarium Matki Bożej Studzieniczańskiej",
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109095912757243353459/photos\"\u003eHenryk Gryz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAACGoq1XDTyTntxZ1sssVlLh8ft3kD21RmHMN1MiiBhs7hzFAVqcUKRlpmBICoWTtN4sCTnohTSlS9dpsGiT0wa_OBP_aUY6SkQ-w7JflslOo4fdfsVdpfVbZ8U-DtkS9tV44nauB88stAd3FYYDGhk5QvFHAjKM5XBQ4dcpP6op2EhApTBvtCeEdmx18ueY4oLIPGhTCD4ogNjYr9M_TtiyDWrP4os_Qvw",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJWT4hnhta4EYRgJyA1qQlZdM",
+         "rating" : 4.8,
+         "reference" : "CmRSAAAAz-bwYzD3P5l4LlVp9TXUbGU3blPUoaiPzX6MmXXIMjHqO1JCv9X3_TfVu3oIHjd8GJ2jYE5V6BCYrXGNe2nAk4Z5Ez1Fmg5aprGr8MuZjTxP2LFRsX_Kj0JlDbMzQ4-QEhBluOWjMltXlNxXM9H_EiFDGhS_5vB0JN4bNB18rUSdTd0wwD5Q1Q",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Studzieniczna 10, Augustów"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.11101300000001,
+               "lng" : 22.9361623
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1121614802915,
+                  "lng" : 22.9379138302915
+               },
+               "southwest" : {
+                  "lat" : 54.1094635197085,
+                  "lng" : 22.93521586970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f86295fb215a70d1c00fb8e7d779938d01474925",
+         "name" : "Parafia pw. Chrystusa Króla",
+         "photos" : [
+            {
+               "height" : 2016,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118310383436551671624/photos\"\u003eOd użytkownika Google\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAUY-4FK70ifNUrPIzlT2a0JY0f7fE19xS2PHRuyim3Znx64_RzXziophdhlhqJvLc_gXm0qr-liGv5Ou7nb-P-4k4BbE6iPCZoEtTo0fjTbXv_C2Sl2n89yvdUlX-vHRLM4absKDNw-NN7Ai8lAv7v6Bgz42BwEMasTAc3AvfxPEhC32Pz56J4tq0HmFDlS--GUGhQtVzjHBUZ8igDNwKm3dXjTGUS5KQ",
+               "width" : 3584
+            }
+         ],
+         "place_id" : "ChIJmQLvv0UC4UYRbcUme1NC4F4",
+         "rating" : 5,
+         "reference" : "CmRRAAAAUsgtgpe8zrQEettZOekRqlxtccKZUws2y6VrCO86pKbzbJaRLYq4U11Kl1S7hLJ2GP-Uy6looOqqPG21QTJvflilALbt1QYxf8v34nSH9pSQ55-MhhB62dJfDddNraOcEhCKISS_XiMkpDEBHLPN2BMzGhSqt8dVB4YVi-qSbMiOU9-040ijgA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Papieża Jana Pawła II 3, Suwałki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.842789,
+               "lng" : 22.9810623
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8438702302915,
+                  "lng" : 22.9821265302915
+               },
+               "southwest" : {
+                  "lat" : 53.84117226970851,
+                  "lng" : 22.9794285697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "62f78d6feb45786c529aa6e771dcb5263081c76f",
+         "name" : "Bazylika Mniejsza Najświętszego Serca Jezusowego",
+         "photos" : [
+            {
+               "height" : 1526,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100121521989557621607/photos\"\u003ebogusław Roszkowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALBXT7NFyvXh1NxOT3CnYElmZUK9ABJiJi7dZ2d1qErXOzMSJoKsyNlfJhIGAlqVuCfbGHd2FJBNs8tCFUlFVQOGlVc71TsU9elArFlQypF35V-dL63IQJuXNYFpOBYP5zh6T6fZMSoacRwEM8GqFJ8NheVrbWbhFoa-LZEVkRCiEhDLVwOc2p0mcZhUbIuPhCJGGhTwa8offTyFWCamwpiEBhZ1CWsS2w",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJMSsd-P9Q4EYRDprLT2z7RvU",
+         "rating" : 4.3,
+         "reference" : "CmRSAAAAwx5E2bV0AfDxtHY7rs2c0orEHUPuRZ98DhPR1djGoCLuma6PxhWueY-0d52t2SC7Wc5P2uEFhDUZh6TK3EKHHnLxzAGYoS2arOTEnOaHiOm1QsmlZXuMIe1l7QasVTuEEhCiMOzSUO6fp1JFpLAHeUThGhQ8ZH68puUr0lZ59H8-c5OjyoHVtQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Księdza Skorupki 6, Augustów"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.843756,
+               "lng" : 22.979974
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.84517028029151,
+                  "lng" : 22.9811946302915
+               },
+               "southwest" : {
+                  "lat" : 53.84247231970851,
+                  "lng" : 22.9784966697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "77c01408f9fe683664b1fa379732a24e3f00b974",
+         "name" : "Cerkiew Wniebowstąpienia Pańskiego",
+         "photos" : [
+            {
+               "height" : 1849,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112798322785413372716/photos\"\u003eCerkiew Wniebowstąpienia Pańskiego\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMQSLn6hF7hNdW27S-XPvKRQ5ylIb5lHxqH1ZrIVw_I9XYL8_MAj6kV3Y9LTkRxANQW-9ch3FsV-KTw3Kdbjz8CHNerKCfMCBnCJ6A3jKVMKth6IlFU6kukJC4ChYC9nqawhYpW1JnCiT6xcTdkd4FPU3TZeAbjR8d0di_-QRUnfEhABkVc5fY8MxzXl7B2eLETZGhRpLy2Hs6PCTwZLTFAXogaLXkssjA",
+               "width" : 3288
+            }
+         ],
+         "place_id" : "ChIJJXmQBQBR4EYRakwjR3PyMK0",
+         "rating" : 5,
+         "reference" : "CmRSAAAANYqng7wymHLHw-vqwD91FMntzwrLll1D8mXXqE6944Bgq_6GNiyWzqaqEwXC60o-beSuH8bix3SQ3ZcsT3FndSWyOfgZDrtfdXSJjkQJI1a87ZJtJbHXK7X55ZvBWgxXEhBm4TRiO-XAhuRmpdgYN-XIGhSxtHSHlEo1-vsnEFZMrLzPMuCVXA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "rynek Zygmunta Augusta 4, Augustów"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8243283,
+               "lng" : 22.5796887
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8256772802915,
+                  "lng" : 22.5810376802915
+               },
+               "southwest" : {
+                  "lat" : 53.8229793197085,
+                  "lng" : 22.5783397197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b7cd1bc19023f7985096882277da489473b07417",
+         "name" : "Parafia rzymskokatolicka Matki Bożej Królowej Polski",
+         "photos" : [
+            {
+               "height" : 322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116890818725410605089/photos\"\u003eAnia Gulan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAM8VDybXAifcxvq2SYH50ZGx6G8M8_fy5j2V35K_btgRnAuGuQICYB2TnEixPCztEUzOfcV4QTibqMEEd8OYJyuoljqDiS0CHT4exdiD4-2JJfJq_S2RgjtYCo31qdrnPXNwknDbxUj5VsrJX1CUST4Sumg8d0gVQ7iOGzHgAilREhDvshvPuymT676CiaCNSqE7GhTmHkFsJ5br2hLAziv77FennM_W_w",
+               "width" : 537
+            }
+         ],
+         "place_id" : "ChIJdR6uh3ux4UYRddTCFIMF2P8",
+         "reference" : "CmRSAAAADCEv1faW7QfndcSQruFucE0AIoFDwE-AzoyA4EoM_z6OASTqc_7aJ2TwvxpFaBxtS--XUjUya2r3wv6ftF5UvbRO95HpNJ5D6AY7GJPY7d6WuhqOAXKoJtQNa4YHEsRFEhC93hkFWkvrOOprhOHrfCm-GhRsAvsmIQQgUl4Z1d_WltbDHwxwnQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Pisanica"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5785729,
+               "lng" : 23.1064647
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5794114802915,
+                  "lng" : 23.1076876302915
+               },
+               "southwest" : {
+                  "lat" : 53.5767135197085,
+                  "lng" : 23.1049896697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "13589870d307b75174b3c94f7ea9b8e7bf1b0644",
+         "name" : "Kościół pw. Św. Apostołów Piotra i Pawła",
+         "place_id" : "ChIJx4vY1vo_4EYRXKuL27RUc8k",
+         "rating" : 4.7,
+         "reference" : "CmRSAAAAbYExTuTAnd9kRIVKcfmQ5S3FDTAYuQoyrRfSELhtWNHx8_KBBR1coDmpHx-Awxofme9SsnF0K-N6Lu4EAFT4n9h613IoR7FjbcowTB5d0Orjdz_O52_fea5YdEwzm0t3EhAtZghdTeWsS3i-uT0ZDA1FGhQqdNLC3QOfy-AOuZ-WxZzWZ2QkhQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Plac Kościuszki 3, Suchowola"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8569943,
+               "lng" : 23.0049741
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.85842778029151,
+                  "lng" : 23.0058134302915
+               },
+               "southwest" : {
+                  "lat" : 53.85572981970851,
+                  "lng" : 23.0031154697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "fe12cdc004af76b0967d6b0360620a2ff7437704",
+         "name" : "Kościół pw. Matki Boskiej Częstochowskiej",
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105104388482147561306/photos\"\u003eKinga Bućko\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAFU9oy1KYgYISLqhJxWxmpJAKc99envAtI6ubRjQcKDW-KZRjQWZJrc_Xw7TkGUupz2GzYw1hyt-c0QKeZudl3Fplkqi9o19roZmrn5Rot-rW5y5db5ONYn0KqA6ITpACLPzl8fydynioRlJ98vaQga_ThZOVh6BrBH6zI9zzOBJEhA7DSh-vzauJfOiDaH8YJhEGhQ2T-Zf6i80A8LXGyTEVuhoTameiQ",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJfXyu6-ZQ4EYRPVk-T4l7p3Q",
+         "rating" : 3,
+         "reference" : "CmRRAAAAstMOv0VmIyjnoOPqGein1p4u0xjWKejOERU8bd5n0-BcPuNVQhx9rSsckCVKzkrhUN8Klac4kYe1B4DEjnUtgsOJHx5TGok5nIfpR80bUDherpgimqMJa7a54iZYEVwCEhALW62EqfTtGHi8oJ6LyfHYGhQdgLNncqqSIyxurYwIAtw75h6o2w",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "16-300, Kardynała Stefana Wyszyńskiego 2, Augustów"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8738375,
+               "lng" : 22.671125
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8751864802915,
+                  "lng" : 22.6724739802915
+               },
+               "southwest" : {
+                  "lat" : 53.8724885197085,
+                  "lng" : 22.6697760197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "aba9fa87b8a0134a3eb3a0f57270944eb6fb86a1",
+         "name" : "Kościół pw. Wniebowzięcia NMP",
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111208148906112653360/photos\"\u003eRadosław Szałkowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGpCSUH4AsShXLTLk1R5pEtDQ3eNJ-j5dE9atPnlXjGAGbFtNBCRVnxd04n61cQ68amoEcRZSbYv_qTVySGM1L_mXDxF9_UNYyTZS_HSnlKShX1BJ_TjC-SMws8mtlRNwORsmGHKvq_OsPZMm503HpbYuU0RFgSdzVofvy-np7zrEhB-cmwWNVWWT7H-KwtGc2bJGhRn1TA1DheB5ghopS6noyFjgFTOIQ",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJKeyUHpOt4UYRxyd0AmtY_UQ",
+         "reference" : "CmRRAAAAg3LcTo-Iho05pEJIsDcNqkPUYoiE8CyAsGj_trPH7GsHWFqvsLskzcHsvOXFGFuK9bPrTo5ctBP7kz-s2Wo2hzihvuXNBxlbFBdBrGnKaJqIFYzVKSWfLenebaMHfntnEhAgQhm01od9PGPHZdpqzateGhR8DQpwHYau8Im3ZnVN0gU3_vzgBQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Mazurska 1, Kalinowo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.09199,
+               "lng" : 22.937618
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0932892302915,
+                  "lng" : 22.9389869302915
+               },
+               "southwest" : {
+                  "lat" : 54.09059126970851,
+                  "lng" : 22.9362889697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "0c7e3934f15cc5451d5539cb7a2b18026655b148",
+         "name" : "Parafia Ewangelicko-Augsburska Świętej Trójcy",
+         "place_id" : "ChIJWUrPDhgC4UYRfWfKgXSO9fc",
+         "reference" : "CmRSAAAA5xOPu9rbD13wlcdTfQOip_bcz5bNajpxFbvRvf2i6whBnxuLV7y_XTI8jtM249CmdDqXrvwgIY1fokv8DW6pRW7_EyxbRp0oEd3vi1ng-DTagYsoZmrWYChcuvXwzEhQEhBRwg_Blrgq1Di59_WBTAh8GhR9QnZTenM-0iUiHv4zivvOBVJeWw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Henryka Mereckiego 37, Suwałki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7313814,
+               "lng" : 22.6993331
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7327303802915,
+                  "lng" : 22.7006820802915
+               },
+               "southwest" : {
+                  "lat" : 53.7300324197085,
+                  "lng" : 22.6979841197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "0cc602cceb8434f9c21b2fde022b1e3316444961",
+         "name" : "Parafia rzymskokatolicka",
+         "place_id" : "ChIJo5zmND1L4EYRQ9MwFJSGy70",
+         "reference" : "CmRSAAAArJfKPZ1yf-OXDLK-u6OeXWP9XUfOtRqF1Kk2hdwZukoPvMZ5AqnoGQH2bzp0G-L6K74akLHFvd6oipKp9DDVsUg9QQTbxP1lCNId5ZHQwEOz22NzHeKlvXP55WXKCeKOEhDRLAdpmjruz4Pk6MclRqLNGhQjwu-_ZuRWYWnbW1lvS-r47-_vVQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "19-206 Rajgród; 10"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.862091,
+               "lng" : 22.757586
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8634399802915,
+                  "lng" : 22.7589349802915
+               },
+               "southwest" : {
+                  "lat" : 53.8607420197085,
+                  "lng" : 22.75623701970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "00e29779ebf4cada85070c9279ec2403ce343a21",
+         "name" : "Parafia rzymskokatolicka",
+         "place_id" : "ChIJZ4c2kUmt4UYRReEqav17MWk",
+         "reference" : "CmRRAAAAPL5aS8Iry9gj9dJooKaQd5pHCNnCGHlTLiQXhrRaR5t62JZYGKdJk6i-ZJFtLsFCr9LAJchst-3KAr9eEf8Pw8rorlme4cUPlA8cPNoqI2_fx2_K83M_pM7ymUFOl2o5EhBfVJJXl6HzJP0xmsJl-13pGhQ165MKSViLF7_-ea8Ff7hoa-pUFQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Prawdziska; 5"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8448909,
+               "lng" : 22.9582511
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.84630798029149,
+                  "lng" : 22.9594223802915
+               },
+               "southwest" : {
+                  "lat" : 53.84361001970849,
+                  "lng" : 22.9567244197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "1b51e61f460f5c256438aa4d2f6bf56d3b1c948c",
+         "name" : "Sala Królestwa Świadków Jehowy",
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114756824941367149050/photos\"\u003eBorys Jędrzej Grochowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGYcgObX7x7EoCXzhdnZmPvJAP6kQ-U1_ES7zN0O4ub5fflO-x0nqutB2BxYd_6W-7aAwmi3nonGwVqf9ayE5-jeYvABserJjCEastm891D41hrtnmYlav02f7-rpSICCls726y1I2ysoZKAI3nx4KYXfMhqhUr24bV2bqUvY9g5EhAuYWGaEcadxBMeSfLnr0AbGhRjXUkv7FsdPIpg5INeMDc7g8bTQA",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJF9Tc8FhQ4EYR4eih1pJpBAM",
+         "rating" : 5,
+         "reference" : "CmRRAAAA8PqOM6OnQRPaLlEkXqxpLvSu4OsQG54bWBId83f35jk9Jzsv5Wpl44GC9oZl1mEQsKNsQw8iOHR_g2PTo2CO3_gdyGva7xB7eUy9BZ5BLsFdBu6zeKkLxnosaYLAGhvFEhA5rhhv8N2qL7qA6GrW8-JLGhTjRizFVi1Ghc1s5jLygyGb3RSZhw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Żurawia 29, Augustów"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8404927,
+               "lng" : 22.9650591
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8417405302915,
+                  "lng" : 22.9662950302915
+               },
+               "southwest" : {
+                  "lat" : 53.8390425697085,
+                  "lng" : 22.9635970697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "66cce57c9273cbb82cc4d45ce3885f086cad767a",
+         "name" : "Parafia Prawosławna, nowa cerkiew",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114248861533769153468/photos\"\u003eMarek Kozłowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPNlp8ite73pXA-brkqix7L4SRtvcF9QD87P-dWEgJOaW-OFZK3tClxiMUy0L_Np2f_vEduXFmmwP_14JSqXULIc_MEDUesVzBm5VRj61QaKRGVNY0tzu-QFwEfICyP-tjnTGvGM8LCdyWcOx8U6h9drMNWw6LvCUIVyp_VKPQzVEhDzbQ81I50rNktTxKORtbRQGhSE4gws6zKngRwcPXiEo6GqaRY3vQ",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJlfROLalR4EYRJrstiRgCHPw",
+         "reference" : "CmRSAAAAht9ofZquuOZ1Rx9C0Kv5e_uGowtigmhk_zpn-eSAHIs9KcRjf6r5Kuhl7PusEDt0Y_vg3ykjPpSSuriE2AkdNJh83FrQpV1E0ximhjz1pzjwyXf4dVXHI1HX9DpqGSDFEhAJ7bpqjpDmpKw0PPVJXnroGhQ3BwVerNfNmqSWSROa5z-1oJh3-A",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Mazurska 16, Augustów"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.0991954,
+               "lng" : 22.9270952
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1004998302915,
+                  "lng" : 22.9291745
+               },
+               "southwest" : {
+                  "lat" : 54.0978018697085,
+                  "lng" : 22.9264021
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "1fab5b475823189556edcb5e5156aa6098bed832",
+         "name" : "Kościół pw. Najświętszego Serca Pana Jezusa",
+         "photos" : [
+            {
+               "height" : 486,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102364645512679759397/photos\"\u003eRobert R\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAHS4a12pV2bLmsXaernAfZ_vhKMs4Gk5RSt9dDd8I42aMeoHA6PYgmcE6XmDrJqi8c3zjpQVKXrMOJ1Yc3VeJVyoKzYuga3CI4uCrwA7dKiZASM3GI6Py-MknpLQ459p-pMupgmVWO9ujihVGMuVmSQB9O4hwPje7wtXtRYBlheDEhCZ5z9lr1MRsYr_lWxr-ZC9GhTi8RQznh9Ygg0WqOeO0AArWvu68A",
+               "width" : 729
+            }
+         ],
+         "place_id" : "ChIJBXqRRjoC4UYR4JcayllLMDE",
+         "rating" : 3.8,
+         "reference" : "CmRRAAAAGq5xRvA5vAEKGsvU0GJ2k34I_ClGB6HiY25Y7fLhk5_Y6-m7YqnL-lNl2Bc1aIPOKTSsti080VuOTvKOuoP1dNpDPCgrLIWtpV4ZU3_R-pOzjWBe5YRBZhTWUyArBKmyEhB_-Dzj5gxbky13BCJB-f2tGhT_qZ_Q90-GvhvmjRsamz_kgJ26aw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Tadeusza Kościuszki 58, Suwałki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1076254,
+               "lng" : 22.9279574
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.10892278029149,
+                  "lng" : 22.9293095802915
+               },
+               "southwest" : {
+                  "lat" : 54.1062248197085,
+                  "lng" : 22.9266116197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "597268ca24203793bf1db0c0ca71c5213ff7f8f1",
+         "name" : "Kościół Adwentystów Dnia Siódmego",
+         "place_id" : "ChIJR4w4N0gC4UYRor0lY_xzYKw",
+         "reference" : "CmRSAAAAt0QuSBuYRy4tyh_5xnP1mB9_q95U0pMCg_9DSoWwNBeWVNGtggcE3HhhAv0lwPQSqZX83SSE-5NfyV543Dqk_Clr6HKYPKQrdMxENqG97LaI9zNjB7r8pZnnQsICHWWfEhCIsGPcnaFTUrHVKcYmF4mXGhR13MkCANWI0HwNyl0HcliHssM-rQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Stefana Żeromskiego 1, Suwałki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.88058759999999,
+               "lng" : 22.4669673
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.88193658029149,
+                  "lng" : 22.4683162802915
+               },
+               "southwest" : {
+                  "lat" : 53.8792386197085,
+                  "lng" : 22.4656183197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "8104bb7fdd5c7a9e2cccd9e7d48c4784ca91dc2f",
+         "name" : "Parafia rzymskokatolicka",
+         "place_id" : "ChIJWcofz7y64UYRjUK1mKhQRH0",
+         "reference" : "CmRRAAAAtfy_xF-ov2tk7sJg8mOrJZe7dC13W1fGuyUdvBpWFR1RnB4-RF1m1fhJfoE6n5jZw92CF-FA5zXp6rCa59ptilb3zCc5dp_QfsRX35uDbVUst0eOlKa7E_dd1HLUDDphEhAtUTV6o6CbgRmkhx8wMSc3GhSHNRq7EDL2UFGiIoubBhAlp_GFQw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "19-311 Chełchy; 4 12"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6779849,
+               "lng" : 23.1027405
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6792975302915,
+                  "lng" : 23.1045179302915
+               },
+               "southwest" : {
+                  "lat" : 53.6765995697085,
+                  "lng" : 23.1018199697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "ebf2bdbde2ba2339991474d9a194140191ac2313",
+         "name" : "Kościół pw. św. Jakuba Apostoła",
+         "place_id" : "ChIJ-TRWU2BB4EYRn8yDnXx9z-g",
+         "rating" : 5,
+         "reference" : "CmRSAAAAMabn6NMot8foW2t9PGLI1Sblp0nfLo0BdL_inxF1rr4rUNPBfCeFJBkb2Biv5Oqwh5L6IrtZHY7HmfbIXKoiaZeEhul_HraosDXlkBAFEoTI4HMazyaeswWyLK5VS58kEhA7TPHN-vClZ_EXqeEelWFIGhS09CZgD_EW4lb_J5zcz3EdLurvqg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Augustowska 5, Sztabin"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8202061,
+               "lng" : 22.3547298
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8217409302915,
+                  "lng" : 22.3559645302915
+               },
+               "southwest" : {
+                  "lat" : 53.8190429697085,
+                  "lng" : 22.3532665697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "6dda3455883b780de63203839df1603fd7ef1287",
+         "name" : "Kościół Katedralny pw. Św. Wojciecha",
+         "photos" : [
+            {
+               "height" : 1333,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117144476716291663773/photos\"\u003ekalumo k\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJeZLISdXhpenPppBpvo4yPbwhxKhvZpXVIqEqYEXPdwXN4wEV2--scFCjtshTmDvZ_1jPbxPZzNYpvHdXnpLbC5jE28Kfmjyt7LWUL3hwQgZN4u6XRMnIm1rhzBReyg7fNlAk9fukHgJKXEcWJwuRQ0RJZebS2Tg0BCCBq0fxV4EhD2b5LiM0w0UxX4oYHt1cgoGhSQ46ydS7nNuQ_7M-FcIg87_r9d1g",
+               "width" : 2000
+            }
+         ],
+         "place_id" : "ChIJh8hOtXm54UYRfKFswKOXSFY",
+         "rating" : 5,
+         "reference" : "CmRRAAAAEboPFMhxD0ih0x1c7RI9AYONHZDtYrc_UVaYpElMPdVpmROOyOSnYR50NM4EiUyodw0UcVHiWZt46WZ2j4vfPRjMxsb9wCjeCL2LhBaAJSbvc1F6ft9eEjnmBnDRC1UNEhAzwBxYSt6FTSzOV08tXGPyGhRJOoOzH1BYuRzL_RkQEP_Re3RTeg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Tadeusza Kościuszki 16, Ełk"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 54.03874279999999,
+               "lng" : 22.5049618
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0402349302915,
+                  "lng" : 22.5060036802915
+               },
+               "southwest" : {
+                  "lat" : 54.0375369697085,
+                  "lng" : 22.5033057197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "0c4d2bc187d4249094cd800c93238e8e4c1e8c6e",
+         "name" : "Kościół pw. NMP Królowej Polski",
+         "photos" : [
+            {
+               "height" : 1333,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117144476716291663773/photos\"\u003ekalumo k\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKjg0MjMQC05ogxJ0jReq5coqV3osroOyuuaONJGdLdJjINN0FS_14V9eYxok8VQEzZ8qlGHK_iLM9Z4DyObrWJGSWt1EbO8kpxgHU1UAjnShltTM4GwrT0SLSqM2_6XfuCw2kGDZ_3AVwQPcY0c-H66FGvOyG4sCDEjVBuhKoxvEhCGA0-ocnvb8joC9holzqa0GhRmVenra_7dZujXUfWci6oBzEoL2Q",
+               "width" : 2000
+            }
+         ],
+         "place_id" : "ChIJca4RDCOn4UYRxCBNhW1Wnkk",
+         "rating" : 2.5,
+         "reference" : "CmRRAAAAbjK2aPqiBhlpI26Zp4WnQWvtkDAWecQixkV8mCQrWA3wPCqB6Ub-2f1Dbx66gLFN3QqDgcbNHnKawOmQsaNFvK33MqvUOh35KwRmyTO2iQ57BFgYgbGCQRyOIMCLxCMFEhA7kWnORkmh3IgCVglMNQ_WGhTxf4JXte26QpRpA6XNo-5EaqHALg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "plac Wolności 18, Olecko"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8217125,
+               "lng" : 22.3473964
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8229839802915,
+                  "lng" : 22.3487955802915
+               },
+               "southwest" : {
+                  "lat" : 53.8202860197085,
+                  "lng" : 22.34609761970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "de02d48446d11fe12c37da1a786deeab76bbf977",
+         "name" : "Kościół pw. Najświętszego Serca Pana Jezusa",
+         "photos" : [
+            {
+               "height" : 3288,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100626849490353271344/photos\"\u003eArtur Grabowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAD2_P9jOAgyZRY0hiImEQpczK7uWvdUiBH-wc9QC2xn0J0BePCnW9kHyUvASYjbcyjWH2CURb29Yimxp26PE4fN5icypxhD2B07WSttkAT5sPiBANfv38sibbv5kypTSSyYar2_flcInsc5OK66wD5d8F2ydPu1dnsig_2YZI_0EEhDUcH1z4ZT7GAhT_URcdaHbGhSpRgEru1nTGq76s9XAJ4NucNKbgg",
+               "width" : 4384
+            }
+         ],
+         "place_id" : "ChIJa2MVXnq54UYRaCo4FHdDj4s",
+         "rating" : 5,
+         "reference" : "CmRSAAAAX3rMIOycdZHogoTm6HVaLHBqgFQfq27lmPrU2iQjhw2BNeLUGa6tev2wvq6UjqcOnJs6CbjXA5rZCeg68GKElyNlkR3DyJW5NhFewo9XbcWlwxPJ3NGfRm3vALowPWcuEhCffAmF6zSS-WKGGEGQjLcLGhQ2Q3owW9Q6XUv01skIFBHG_TOweg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Armii Krajowej 2, Ełk"
+      }
+   ],
+   "status" : "OK"
+}

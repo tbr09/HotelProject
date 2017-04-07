@@ -1,0 +1,66 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7552281,
+               "lng" : 19.2002408
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.75662073029149,
+                  "lng" : 19.2015890802915
+               },
+               "southwest" : {
+                  "lat" : 53.7539227697085,
+                  "lng" : 19.1988911197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "3d9c27e2e469fbdae9d0b28729c6141f50175881",
+         "name" : "Pub Joker",
+         "place_id" : "ChIJFytRC1BNHUcRd3nRbi-dZMo",
+         "rating" : 3.7,
+         "reference" : "CmRSAAAAflB6AkjCDVxiz-n_vhF9-anBgRUDi869VDwVIa1A3ZCNBkjLo9eK9IzciTW5g4EPMK6PnTVU_b0N_pZo0GOTZrHFzgZCUT6LKihp9o3RKClENgu0p3cfVf1OR4hh_gZ-EhD88ljYsc8ZnfGmca1NNIQuGhRUFjsAvEte1pgyQivKwKq-B0ksfA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Grunwaldzka 13, Prabuty"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7209059,
+               "lng" : 19.3576119
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7223128802915,
+                  "lng" : 19.3589045302915
+               },
+               "southwest" : {
+                  "lat" : 53.7196149197085,
+                  "lng" : 19.35620656970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "dd048ab0acace38602712dcec71cb6eb5ef04736",
+         "name" : "VIVA SUSZ",
+         "place_id" : "ChIJ8etX2TZOHUcRtm90MEIoBTw",
+         "reference" : "CmRRAAAAWXUOPjQgg0MxlHFxVwm80sBJcWR5ArK9mMadZjxqAO9stXvbSCGFjntSr_NM1KUqFScxH0DueK8aG5WusnR8O_xmClux01gDsFmFPhDUpzTloM_YaKxyCjQlas7PNmYKEhA_TxNPbQ73S8dpqKB0zDzBGhTZH76kg505vrfJOney_hBkPTnkgA",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Leśna 7A, Susz"
+      }
+   ],
+   "status" : "OK"
+}

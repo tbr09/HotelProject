@@ -1,0 +1,300 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.36901,
+               "lng" : 22.592782
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3703589802915,
+                  "lng" : 22.5941309802915
+               },
+               "southwest" : {
+                  "lat" : 53.3676610197085,
+                  "lng" : 22.59143301970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6db2ee81befe9de2c7761a9937bd1048c965c362",
+         "name" : "Dwór Dobarz",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112340652603180990765/photos\"\u003eMaciej Andraka\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOrhDdLp9CPYcoGO11Vhl6jp5_fJ7kKjOFj1w8I0OCm2X0M-3k33n8V2clmcbXVrTSW095KeD30Ko8cbZa0bFPShw0DbHNZ1pU9E9WtVjEYqQECR86ErNIleS82khZ4upvb2OvW0bpvFuKwnE-6s0Gb5NpZaMCPiGiymnR1rQl9UEhBh_4kfTx5H-D12ha-dyc32GhRp3lMs4W24qyRk4So23hHWVWWyZQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJj2CW2l4o4EYRzl0smEgXqsk",
+         "rating" : 4,
+         "reference" : "CmRSAAAAWQ6cm_DD1dTfBdpBsaj_GkzouFpKDkV56kRIQy7S5auHllzumggpirdkz4OwuoUzxiFvcEfb6FSdfZdpe7ZW6uO9oe10S66AYkvpoBvgb2eM_IGsIb6lJN5ZDy8vKkkBEhAE5ofEWkt4po3FkT0uLqaaGhQc9ek6IGva1MxIq6DpBDIhh3UsGg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "lodging", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Dobarz 8/9, Dobarz, gm. Trzcianne"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4914713,
+               "lng" : 22.73878
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4928202802915,
+                  "lng" : 22.7401289802915
+               },
+               "southwest" : {
+                  "lat" : 53.4901223197085,
+                  "lng" : 22.7374310197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2268ceed2bb377a0639784d015b29acfcff976bc",
+         "name" : "Bartlowizna - Ośrodek Szkoleniowo-Wypoczynkowy",
+         "photos" : [
+            {
+               "height" : 452,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109568048817512871081/photos\"\u003eOśrodek Bartlowizna\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANLrzCc-0kfm_voD0zPcEs2Rx9jI0vMk96xt7F_H_PXAM_Zz0158Ji4Jz14KMGjJ8jOoQ546dq9xQp21ygx72decfWyhfJxGabtTboC5O5UajF14hNmc4kp9dop7zit-m7XItYn7YkTzQiECgM4Z5NYQ-BaBDSgTxelfYpXHOaIhEhCNldcyU_DPBsf_Ch5p0Pz7GhSjB-3GkbEDPELrwRIBR4bxSyMaMw",
+               "width" : 700
+            }
+         ],
+         "place_id" : "ChIJQa3RDQYw4EYRatAIlal9DY4",
+         "rating" : 3.9,
+         "reference" : "CmRSAAAATpsLYANaT7ocBCekkVV6ebxTiVG2VMurG16G829bUwvG0F5CXu51MJ5LXhTr3dpFQyZkRvwt8pQ_wa1niEmG1JTAT0kGiMbC7mx-qkEJlPSFx9a5ycWyx4obPBWG7EzJEhDWLQp47_3XznH9ki8VskU3GhQNwBYZQ1BBvMEU-s9odA4lajZBxA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "lodging", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Nadbiebrzńska 32, Goniądz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.49045059999999,
+               "lng" : 22.7391428
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4917671802915,
+                  "lng" : 22.7404739302915
+               },
+               "southwest" : {
+                  "lat" : 53.4890692197085,
+                  "lng" : 22.73777596970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2ff00b83e04dffc3625184ac1245f5c8f550a1b4",
+         "name" : "Zbyszko. Restauracja",
+         "place_id" : "ChIJmyFsLQYw4EYRHotGF-p2C6A",
+         "reference" : "CmRSAAAA5YlPn5YT3DlAf4xtGtm5qTAJNoT7q5UiscR-CU0yblcXEquWf-18u8bGKUCosRFtYhhpqyt3QJ-quwhx4NCoRx7EU3OFie1nkuh8YJykMwogZGMJMk_VN9xUt-zV4x16EhBCnZOWy3HgpRzOqcZFol_dGhTgC_xIkjzcB650aFFF_N25W12pBQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "lodging", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "świętej Rozalii, Goniądz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4912251,
+               "lng" : 22.74041279999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4925417802915,
+                  "lng" : 22.7417381302915
+               },
+               "southwest" : {
+                  "lat" : 53.4898438197085,
+                  "lng" : 22.7390401697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1c5fd2d1920f69079188765c53af16f3065b6a28",
+         "name" : "Karczma Bartla",
+         "photos" : [
+            {
+               "height" : 3006,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100836507631569999671/photos\"\u003eSzkoła Złotnictwa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALQ2X_wxAumhKsswhJKLo1OcP4PVvS7MVMHk4FlEBxcLOWk1PCZ-txjp-9dmkNbkchhh9jHYMk2kvRUwUOSf9eYvQRygFEwTrAxSvic9mYcn95ZsaX3VnH8IxoEWOvzchJSiUWkBFAuUvq_o6Eda1yxkhIq-2zR0qRXOm9lAir2MEhAhzX1NGAJUCLm9L9PKpE-TGhRqwLugUHwf-vw-NgG5K7EsNMsFgw",
+               "width" : 5344
+            }
+         ],
+         "place_id" : "ChIJnyUNnQgw4EYRoYJtCW7tGO8",
+         "rating" : 4,
+         "reference" : "CmRSAAAAsXTgkgiY855FHdLzpoqX-KtkYDgbnl1cORqsi6DhgarMIv26QR_F0nP7w70ZmDr8EnC_3M6olj89rpZ5F4VaDodUxkbKbyoVdyscdDGVCSEXSKs4qFRAOF3cL3kK_k0-EhAKtBaWmq4ROhuCm2d1sy59GhSL_4a7rC7CklAlMI7XEE9_WAV19Q",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Nadbiebrzańska 32, Goniądz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.411722,
+               "lng" : 22.7798339
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4129901802915,
+                  "lng" : 22.7817923302915
+               },
+               "southwest" : {
+                  "lat" : 53.4102922197085,
+                  "lng" : 22.7790943697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "53572ee885772b623f51fd552385c846b8e76794",
+         "name" : "Gościniec Dworak",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112340652603180990765/photos\"\u003eMaciej Andraka\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAP0-1X1oap257FGnDprxx-KwRdyRv5vgNNG_YMQ1V8xJeZLltINyAnx-HZhsdVCnhTWdpVY9fzzNRBFXZcuN_KDCC-cwi5Df_Dl4F6GFCLvdOo3iswNgkp5oh_HGLw9Z_AfYBsvtyiG0jmrlOWs-8IreR4mLIk_QIH1Z0sm3VuMpEhAMYrdBfF9Nf7H6ZO2WyLmYGhQ6QAGtE9Y-gU2xHK8f2FdN3XvCCw",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ6R5VoEMk4EYRZUCRMi_xo-4",
+         "rating" : 4.6,
+         "reference" : "CmRSAAAAyifHjmX1Cdl0hseLaLFqies3ykHgRE6luvbHolCVrEqnxq03fGMlBzl0HGN0QHhB0cgb4VQc_mW-REEIBbCXZsIkhMvhjCdGRClG98xyhvsknswjJ4LiD7zfIEcroRgsEhBMgVBzpgZKmZ186-3zj5XrGhTSUP6wWinf42AIIRF2xRO7gC-2Nw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "lodging", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Ełcka 57, Monki ul. Ełcka 57"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.40373799999999,
+               "lng" : 22.806964
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.40508698029149,
+                  "lng" : 22.8083129802915
+               },
+               "southwest" : {
+                  "lat" : 53.40238901970849,
+                  "lng" : 22.8056150197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "45ae454c3d700d26e6cd7a175b0a1c070172ba75",
+         "name" : "Pizzeria Dobry Klimat",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1397,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104066021268457637763/photos\"\u003ePizzeria Dobry Klimat\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAA-bReYAEZGjNVkX2JKC1vN0OAsztxTdzqVx8WFHOGm3EfItgqIX30DkNVm_PRcILahpk5Hespwiimlrgk9htov9BPjiA4v4Q7eqnR_BW9xBeS_s02xg2NtbzgtarKC81LZ50BDrUlDE2eUwW3WYKWKmv54H-nPkXfpHoMS1LmnBEhAsQJslYeBXhWa61Gu14nBHGhRGJNxreyfPI0RMXb8RjWD_bILihQ",
+               "width" : 1398
+            }
+         ],
+         "place_id" : "ChIJz2sbAnQk4EYR57dDf0DyOuI",
+         "rating" : 3,
+         "reference" : "CmRSAAAAlRMmWfiOGJTHcDXuB5hCqiEPiZgOGrmNtmqXLpAiGa-mt8vFpMf0rAwO3ch8G343GW9u8Ql4L0_Nyo2Aky4lkyq_UaNzxIgq5uLRbh9N8C-e-JAQQsatS8Uvf0GYMp0GEhD8REQc4YZgXNgQkhjU0kZJGhQ-2_F-_q29r84wjsbhUxz9_jkZBA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Tysiąclecia 21/6, Mońki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.403961,
+               "lng" : 22.8117205
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4052486802915,
+                  "lng" : 22.8131728302915
+               },
+               "southwest" : {
+                  "lat" : 53.4025507197085,
+                  "lng" : 22.8104748697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "aa12f9945ef3abf291a6245cb9ebe3261781cb4c",
+         "name" : "King's Kebab",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115553572765273641086/photos\"\u003eBogdan Hryniewicki\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAABr2Z0bnC_2-DszozlNqqTZhILluLxEsGe_UrU3ydr508dq7qPSVn33Df-D7msL-ES1R997mg0YCpLNhDdkfSTp7G2wv6-Cncuwp5PqfGHQkDqAZGyBZ6h4eWm61bccfS3MS7wxGxFBlA5XU30jk65RrksR54z1DgPLR7gIZusD_EhAqNUi8kjtELZsTFPlXXU6SGhTZYbzD1NAODb0zzDm5-ecodUevnA",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJ-02wjHYk4EYRPNCJyIeHQYw",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAAlvkI3egJfnE8KWiYLBlxo4ZOyu8wztcp9hP4nj3a45Io7by9tUAW-iRQ6ufkWfXoubn8a4szj_tcjEVllbJmvKEmQSNVPM-zDp7CqzYmVBepDxgkaTCUqJZHK6iAhegtEhDZFJBARpe1Ei7V8dDpdesXGhSZLWA3OCVS3gu9VzN-yX3F8gFn6w",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Leśna 55, Mońki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4085516,
+               "lng" : 22.4095776
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.40994423029149,
+                  "lng" : 22.4109443802915
+               },
+               "southwest" : {
+                  "lat" : 53.4072462697085,
+                  "lng" : 22.4082464197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fd73d4ac49e308ffb4a84e5d908d8435712fbb9b",
+         "name" : "Pizzeria Magdalenka",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJE8Mfht8q4EYRyUIfQ7tv9_M",
+         "reference" : "CmRSAAAA61KKUuSC6m38pEidMaD6GDtOL_b-Yz0UHRJXEq7dAF4thKbNziqC_T8WUXBYsrrOs5N8GYae71UU8eKEXjZh75wbcVWhjNDTpgsmVLaO2Uez1gZVi0iHCvuZj7vcINphEhDFMbQ8V83C4EzLlDfg7OQGGhTF1MGdVUYN1u8u-r9s1GxM_HYZ5w",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Nadstawna, Radziłów"
+      }
+   ],
+   "status" : "OK"
+}

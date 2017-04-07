@@ -1,0 +1,16 @@
+﻿@model HotelProject.Models.Attraction
+@{
+    ViewBag.Title = "EditAttraction";
+}
+
+<h2>EditAttraction</h2>
+
+@using (@Html.BeginForm("EditAttraction", "Home", FormMethod.Post))
+{
+    @Html.EditorFor(k => Model);
+    @Html.EditorFor(k => k.geometry.location);
+    <b>types</b><br/>
+    @Html.EditorFor(k => k.types);
+
+    <button type="submit" class="btn-default">Submit</button>
+}

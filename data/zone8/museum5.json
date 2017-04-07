@@ -1,0 +1,182 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.72044469999999,
+               "lng" : 19.3375997
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7218005802915,
+                  "lng" : 19.3389732802915
+               },
+               "southwest" : {
+                  "lat" : 53.7191026197085,
+                  "lng" : 19.33627531970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "29a5bdf50dfd357e9818914a7baf8993225b73d8",
+         "name" : "Izba Historii Regionu w Suszu",
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113103668988894104444/photos\"\u003eIzba Historii Regionu w Suszu\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHIm1tLr7TAW15IDGA_mYn8fEVHVWLQqR84emPdzz4W9i_VctM4n5rDuwN58B5ho3IKpPJeiDnsthl__0bzLwTgzMusjYX-ZL2-ggslw6lYZvk6qr_mk4mNEVVWbs3h2JSoF165hJzpRv0zTNBfGf3KJ3Cddh1e7GTMQoNFrbBMDEhBkgNsRnVhqpyCbSnAEgTSVGhRSf1ovdAhCT5BEwB_ENTRjq5cI0g",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJB13GkT9OHUcR_C3wcfmQhT0",
+         "reference" : "CmRRAAAAEoTlWolODGVRKpkPRcrG_nfx8fVOYCAtzERlMhENbhvTO8ggemp7wX9qXDN7Psv180wibtKr-zCoGC4eB7U0OQLeBaNTo5vmpl1IoHYx2y0hU7hu1Dt6XKAElCkKBvTpEhAbtPyLoFHSCqMtXgFaweXIGhSa-dJPh4e9FA1z2qB1N6uC_H-KEg",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "library", "point_of_interest", "establishment" ],
+         "vicinity" : "Świętego Floriana 11, Susz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.757503,
+               "lng" : 19.1983348
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7588374802915,
+                  "lng" : 19.1997099302915
+               },
+               "southwest" : {
+                  "lat" : 53.7561395197085,
+                  "lng" : 19.1970119697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "e6b8271e7eccd55537b56a7c434a3c38eef39dd1",
+         "name" : "Sala wystawowa im. W. Zebrowskiego",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ-Z8D_VBNHUcRpl_Z7RWRT8w",
+         "rating" : 5,
+         "reference" : "CmRSAAAA-PivnoCduZtr9hJ1iwIU2ITP8oAFaRgGitYiwVFLJylgwoa8rSz-_Dai9myKUvkwZtu_FQj87IJ-NgqLrKmkh23XfxF10KD6RiCycm10cQzUlsKiQhWHIDHYu6LrZIPCEhBD8q8FClZQ9gymZFUYek8qGhRrSjymNb1OkSdTjh7g4KR_KXMnCw",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Kwidzyńska 1, Prabuty"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.75758859999999,
+               "lng" : 19.1956217
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7590013802915,
+                  "lng" : 19.1971342802915
+               },
+               "southwest" : {
+                  "lat" : 53.7563034197085,
+                  "lng" : 19.1944363197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "5dea0ee920001506ee96a77672a21a736a609d76",
+         "name" : "Kościółek Polski",
+         "photos" : [
+            {
+               "height" : 1296,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113663421959551174471/photos\"\u003eAdrian Sobieraj\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHbyvc2AISWpw-Xq-tf_9mq9EJAvAjxB5u_GfhdJ-wnU63EbD21Hg9RJ5DPnYMbwmAl8matO8iX3gFD6lIy4O7IPW7bRNawJAVES6XicvGoyPKKeMPsjHTYN6hKzOlm_2t6ZioBSXp_sbCTnJvUR7RNG18kXuhOL52S_P0U6PEKAEhDT3gGjeRSd5NCz0i31aDq1GhTiorMUzBGDZxlJmmgvHQle13tbJw",
+               "width" : 1936
+            }
+         ],
+         "place_id" : "ChIJMftTdFFNHUcR0zJsMegLdAw",
+         "reference" : "CmRRAAAAIRcBUFs1TJKNVMvExBZi094Dk3NXZtXVRBT3ddUngnvWLjRJLyURnYNWY_EF8EM9_bMi8VgsHCcdrer-DNToscAmPy4A21jR-SvuPuNh9tpQiLKN2ht-fksCOcScvjmOEhC9Q7pdsBmOa9VP66lXY_LPGhTrSZ4yNvYpF24oBbsi1BArgjD11Q",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Długa 11, Prabuty"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.758847,
+               "lng" : 19.2001528
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7602018802915,
+                  "lng" : 19.2015211302915
+               },
+               "southwest" : {
+                  "lat" : 53.7575039197085,
+                  "lng" : 19.1988231697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "163f23e3e5c365893abb8ebbcb9697b7f4221758",
+         "name" : "Średniowieczne Wodociągi",
+         "photos" : [
+            {
+               "height" : 387,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113663421959551174471/photos\"\u003eAdrian Sobieraj\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAO54S9KH1Kv2_ZLQcwIgIa2KEkUUhFM0sWTr16BFPnwL4CyVCCFCfVI6iEbdJ6aE1ey2zyp7447we8biug4BqeJe7yEZonulMlTuM8DBwKefZk0Q5vpCQMN84DQ9oyW9rZ3557AqqznvyRt42o4WBK2guptGYLHEu5eux0CuKLu2EhBE4U87Jqr6uapr8LUIpHtAGhSjNbwxrQxAg43S6H8syqYR5N1f9w",
+               "width" : 900
+            }
+         ],
+         "place_id" : "ChIJV7Qh0FBNHUcR2n-pfDqocUo",
+         "reference" : "CmRRAAAAF4AgaOTQYXyGfkXMngcCff76ysemxc7QIV4VReIS11enJO4c6h23_aYjVO6hqX0_7JQxOZBHl2oYNHuaXikuyT0p2V1LnDtI8bYGrUFgHgWLBZdmFOZjrb9_vQhkq9gOEhA_a1MkGklPsvEqlV717YKZGhSitK3MtBNyn42zq-98opoTS7EJww",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Wałowa 1, Prabuty"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5180855,
+               "lng" : 19.0876347
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5194843802915,
+                  "lng" : 19.0891555302915
+               },
+               "southwest" : {
+                  "lat" : 53.5167864197085,
+                  "lng" : 19.0864575697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "1833ab72088becdc6298befd6f9879b80ff25379",
+         "name" : "Muzeum Pożarnictwa Ziemi Pomorskiej",
+         "photos" : [
+            {
+               "height" : 4224,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100536237736881653765/photos\"\u003eAlicja Olech\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAN49AJ3gb6LpT2-mfG2t-Cwa3OsMZ8BWC8S1RFbLxOn1bRkzRpOghr0PVfGRTUS90zQpE-bq-nQwa8iqkc9CqjdaMfLN6U0UgKhUC4VsD2KxjS5r01HPRWcAiJ0nHtjANBF2eh-U_feDNER1R3ivOgtZLiVwAbbuumdWicijmyKHEhB-_ZFjdFp_-oDUMcvKAB-UGhSFus7P4EWI-PYJaTuD-yg_XP9fGw",
+               "width" : 2368
+            }
+         ],
+         "place_id" : "ChIJE0pa-X40HUcR4LO_6zHXQ_c",
+         "rating" : 3.6,
+         "reference" : "CmRSAAAAnhYyVrqa8pn6YC7kGq2I0gNodmfdDESNNJJBEphrlTP5HFsEr200_aSwCuL7z07TxCFTGk9aoS744BsH9mOZiVRQe85kOBdYvuS7EBiNTY6BFmtmqT3p0AoPMi1w9ZnDEhB-XISWg-WkE6cLg99j6a7NGhQLuQKo2GiUhrRY6DNU6pdgGotG7w",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Ul. Odrodzenia Polski 5, Kościelna, Łasin"
+      }
+   ],
+   "status" : "OK"
+}
