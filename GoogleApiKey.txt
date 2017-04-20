@@ -1,0 +1,41 @@
+AIzaSyCOYP8ZzMcmc0fThXjUBkdMc1MmMb-wcpo
+
+AIzaSyBYa0I5c9XLifTTrZHvNWNDK8iMehQJ4So
+
+
+https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=53.564211,22.211602&radius=50000&type=restaurant&keyword=cruise&key=AIzaSyCOYP8ZzMcmc0fThXjUBkdMc1MmMb-wcpo
+
+bounds place
+https://maps.googleapis.com/maps/api/place/nearbysearch/json?bounds=54.28, 19.14|52.74, 23.33&type=[museum,church,city_hall]&key=AIzaSyCOYP8ZzMcmc0fThXjUBkdMc1MmMb-wcpo
+
+
+bounds geocode
+https://maps.googleapis.com/maps/api/geocode/json?bounds=54.28,%2019.14|52.74,%2023.33&key=AIzaSyCOYP8ZzMcmc0fThXjUBkdMc1MmMb-wcpo
+
+1 47km
+53.134849,23.149739
+2 50km
+53.123777,21.699836
+3 35km
+53.909390,21.677737
+4 40km
+53.836701,22.831124
+5 50km
+53.115275,20.196584
+6 46km
+53.929818,20.400943
+7 25km
+54.109815,19.368963
+8 20km
+53.664066,19.252895
+9 15km
+53.564411,20.984165
+10 20km
+53.448382,22.552076
+11 20km
+52.897292, 23.558471
+12 20km
+53.258344, 20.953221
+
+types
+aquarium,art_gallery,museum,cemetery,church,city_hall,spa,zoo,courthouse,art_gallery,movie_theater
