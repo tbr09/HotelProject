@@ -6,6 +6,7 @@ using System.Web;
 using System.Web.Mvc;
 using HotelProject.Models;
 using System.IO;
+using System.Diagnostics;
 
 namespace HotelProject.Controllers
 {
@@ -142,18 +143,6 @@ namespace HotelProject.Controllers
             return RedirectToAction("Hotels", "Home");
         }
 
-        public double Distance(Attraction a1, Attraction a2)
-        {
-            double x1 = (double)a1.geometry.location.lat;
-            double x2 = (double)a2.geometry.location.lat;
-            double y1 = (double)a1.geometry.location.lng;
-            double y2 = (double)a2.geometry.location.lng;
-
-            double x = Math.Sqrt(Math.Pow(Math.Pow((x2 - x1), 2) + (Math.Cos((x1 * Math.PI) / 180) * (y2 - y1)), 2)) * (40075.704 / 360.0);
-
-            return x;
-        }
-
         public ActionResult Attractions()
         {
             using (StreamReader r = new StreamReader(Server.MapPath("~/data.json")))
@@ -179,7 +168,7 @@ namespace HotelProject.Controllers
                 */
                 return View(vm);
             }
-
         }
+
     }
 }

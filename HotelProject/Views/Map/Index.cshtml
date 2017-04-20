@@ -1,4 +1,5 @@
-﻿@model HotelProject.Models.MapViewModel
+﻿@*@model HotelProject.Models.MapViewModel*@
+@model IEnumerable<HotelProject.Models.Trip>
 @{
     ViewBag.Title = "Index";
 }   
@@ -24,9 +25,10 @@
         });
     }
     
-    var attractions = @Html.Raw(Json.Encode(Model.atractions));
-    var hotels = @Html.Raw(Json.Encode(Model.hotels));
+    @*var attractions = @Html.Raw(Json.Encode(Model.atractions));
+    var hotels = @Html.Raw(Json.Encode(Model.hotels));*@
 
+    var attractions = @Html.Raw(Json.Encode(Model));
     //timeout add markers
     var markers = [];
     var paths = [];
@@ -34,7 +36,7 @@
 
     function dropAttractions() {
         for (var i = 0; i < attractions.length; i++) {
-            addMarkerWithTimeout(attractions[i], i * 3, "attraction");
+            addMarkerWithTimeout(attractions[i].sourceAtt, i * 3, "attraction");
         }
     }
 

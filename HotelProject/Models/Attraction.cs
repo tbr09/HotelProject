@@ -14,5 +14,10 @@ namespace HotelProject.Models
         public string name { get; set; }
         public decimal rating { get; set; }
         public List<String> types { get; set; }
+        public bool visited { get; set; }
+        public Attraction()
+        {
+            visited = false;
+        }
     }
 }
