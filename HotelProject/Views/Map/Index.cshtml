@@ -37,6 +37,7 @@
     function dropAttractions() {
         for (var i = 0; i < attractions.length; i++) {
             addMarkerWithTimeout(attractions[i].sourceAtt, i * 3, "attraction");
+            
         }
     }
 
@@ -84,7 +85,6 @@
             });
 
             markers.push(marker);
-
         }, timeout);
     }
 
@@ -107,6 +107,7 @@
     }
 
     function clearPaths() {
+        
         path.setMap(null);
     }
 

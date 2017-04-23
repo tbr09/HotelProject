@@ -95,15 +95,20 @@ namespace HotelProject.Controllers
                 LI[i] = LI[i].OrderBy(k => k.distance).ToList();
                 i++;
             }
+            stop = DateTime.Now;
+            Debug.WriteLine("Time->" + (stop - start).TotalMilliseconds+"ms");
+            start = DateTime.Now;
             List<Trip> trip = new List<Trip>();
             List<Attraction> visited = new List<Attraction>();
             int ind;
             int s = 13;
             i = 0;
             Attraction current = att[s];
-
+            double totalDistance = 0;
+            decimal totalScore = 0;
+            double distanceLimit = 600;
             ind = att.IndexOf(current);
-            while (i < 400)
+            while (i < 400 && totalDistance < distanceLimit)
             {
                 while (visited.Contains(current))
                 {
@@ -114,16 +119,23 @@ namespace HotelProject.Controllers
                 ind = att.IndexOf(current);
                 if (!visited.Contains(current))
                 {
-                    trip.Add(new Trip(current, LI[ind].First().direction, DistanceBetweenPlaces(current, LI[ind].First().direction)));
-                    visited.Add(current);
-                    LI[ind].RemoveAt(0);
+                    if (totalDistance + DistanceBetweenPlaces(current, LI[ind].First().direction) < distanceLimit)
+                    {
+                        trip.Add(new Trip(current, LI[ind].First().direction, DistanceBetweenPlaces(current, LI[ind].First().direction)));
+                        totalDistance += DistanceBetweenPlaces(current, LI[ind].First().direction);
+                        totalScore += current.rating;
+                        visited.Add(current);
+                        LI[ind].RemoveAt(0);
+                    }
                 }
                 current = LI[ind].First().direction;
-                
+
                 i++;
             }
             stop = DateTime.Now;
-            Debug.WriteLine((stop - start).TotalMilliseconds);
+            Debug.WriteLine("Time->"+(stop - start).TotalMilliseconds+"ms");
+            Debug.WriteLine("Total distance->" + totalDistance);
+            Debug.WriteLine("Total score->" + totalScore);
             return trip;
             //Debug.WriteLine(DistanceBetweenPlaces(att.Where(k => k.name == "Aeroklub Białystok Krywlany").Single(), att.Where(k => k.name == "Aeroklub Elbląg").Single()));
         }

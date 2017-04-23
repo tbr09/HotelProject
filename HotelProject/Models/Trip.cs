@@ -11,9 +11,9 @@ namespace HotelProject.Models
         public Attraction destinationAtt { get; set; }
         public double distance { get; set; }
 
-        public Trip(Attraction _att1, Attraction _att2, double _dist)
+        public Trip(Attraction _att, Attraction _att2, double _dist)
         {
-            sourceAtt = _att1;
+            sourceAtt = _att;
             destinationAtt = _att2;
             distance = _dist;
         }
