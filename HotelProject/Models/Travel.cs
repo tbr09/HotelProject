@@ -48,17 +48,17 @@ namespace HotelProject.Models
 
         public double CalculateDistance()
         {
-            totalDistance = 0;
-            totalDistance += DistanceBetweenPlaces(sourceHotel, attractionList[0]);
+            double totalDistance1 = 0;
+            totalDistance1 += DistanceBetweenPlaces(sourceHotel, attractionList[0]);
 
             for (int i = 1; i < attractionList.Count - 2; i++)
             {
-                totalDistance += DistanceBetweenPlaces(attractionList[i], attractionList[i + 1]);
+                totalDistance1 += DistanceBetweenPlaces(attractionList[i], attractionList[i + 1]);
             }
 
-            totalDistance += DistanceBetweenPlaces(attractionList[attractionList.Count - 1], destinationHotel);
+            totalDistance1 += DistanceBetweenPlaces(attractionList[attractionList.Count - 1], destinationHotel);
 
-            return totalDistance;
+            return totalDistance1;
         }
 
 
@@ -91,6 +91,9 @@ namespace HotelProject.Models
             totalDistance = CalculateDistance();
         }
 
+        //public bool CheckReplace(Point _att, int x, List<Point> visited)
+        //{
+        //}
 
         public double DistanceWithAtt(Point _att, int x)
         {
