@@ -254,6 +254,7 @@ namespace HotelProject.Controllers
             Point destinationHot = hot.Where(k => k.name == "Hotel Ostrów Mazowiecka").Single();
             Travel travel = new Travel(sourceHot, destinationHot);
 
+            //greedy 
             int i = 0;
             int ind = hot.IndexOf(sourceHot);
             Point current = hotelsLI[ind].First().direction;
@@ -315,11 +316,8 @@ namespace HotelProject.Controllers
             Debug.WriteLine("\nTwoOpt Time(" + iterations + "-iterations)->" + (stop - start).TotalMilliseconds + "ms");
             Debug.WriteLine("Old Distance->" + oldDistance + "  New Distance->" + travel.totalDistance);
 
-
-
-
+            
             return travel;
-
         }
     }
 }
