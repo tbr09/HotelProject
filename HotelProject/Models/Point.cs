@@ -12,7 +12,10 @@ namespace HotelProject.Models
         public decimal rating { get; set; }
         public string name { get; set; }
 
-        public Point() { }
+        public Point()
+        {
+            geometry = new geometry();
+        }
         public Point(geometry geometry, decimal rating, string name)
         {
             this.name = name;

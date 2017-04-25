@@ -49,19 +49,32 @@ namespace HotelProject.Models
         public double CalculateDistance()
         {
             totalDistance = 0;
-            totalDistance += DistanceBetweenPlaces(sourceHotel, attractionList[0]);
+            //totalDistance += DistanceBetweenPlaces(sourceHotel, attractionList[0]);
+            totalDistance += Euclidean(sourceHotel, attractionList[0]);
 
             for (int i = 1; i < attractionList.Count - 2; i++)
             {
-                totalDistance += DistanceBetweenPlaces(attractionList[i], attractionList[i + 1]);
+                //totalDistance += DistanceBetweenPlaces(attractionList[i], attractionList[i + 1]);
+                totalDistance += Euclidean(attractionList[i], attractionList[i + 1]);
             }
 
-            totalDistance += DistanceBetweenPlaces(attractionList[attractionList.Count - 1], destinationHotel);
+            //totalDistance += DistanceBetweenPlaces(attractionList[attractionList.Count - 1], destinationHotel);
+            totalDistance += Euclidean(attractionList[attractionList.Count - 1], destinationHotel);
 
             return totalDistance;
         }
 
-        
+
+        public double Euclidean(Point a1, Point a2)
+        {
+            double lat1 = (double)a1.geometry.location.lat;
+            double lat2 = (double)a2.geometry.location.lat;
+            double lon1 = (double)a1.geometry.location.lng;
+            double lon2 = (double)a2.geometry.location.lng;
+
+            return Math.Sqrt(Math.Pow(lon1 - lon2, 2) + Math.Pow(lat1 - lat2, 2));
+        }
+
         public void addAtt(Point _att)
         {
             attractionList.Add(_att);

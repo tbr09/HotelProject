@@ -49,14 +49,21 @@ namespace HotelProject.Controllers
 
         public static double DistanceBetweenPlaces(Point a1, Point a2)
         {
+            //for testing data (Euclidean)
+            //double lat1 = (double)a1.geometry.location.lat;
+            //double lat2 = (double)a2.geometry.location.lat;
+            //double lon1 = (double)a1.geometry.location.lng;
+            //double lon2 = (double)a2.geometry.location.lng;
+            //return Math.Sqrt(Math.Pow(lon1 - lon2, 2) + Math.Pow(lat1 - lat2, 2));
+
+
+            //for real coords
             double lat1 = (double)a1.geometry.location.lat;
             double lat2 = (double)a2.geometry.location.lat;
             double lon1 = (double)a1.geometry.location.lng;
             double lon2 = (double)a2.geometry.location.lng;
-
             double dlon = Radians(lon2 - lon1);
             double dlat = Radians(lat2 - lat1);
-
             double a = (Math.Sin(dlat / 2) * Math.Sin(dlat / 2)) + Math.Cos(Radians(lat1)) * Math.Cos(Radians(lat2)) * (Math.Sin(dlon / 2) * Math.Sin(dlon / 2));
             double angle = 2 * Math.Atan2(Math.Sqrt(a), Math.Sqrt(1 - a));
             return angle * RADIUS;
@@ -120,6 +127,96 @@ namespace HotelProject.Controllers
             return newList;
         }
 
+
+        //test data
+        public Travel Alg1()
+        {
+            StreamReader sr = new StreamReader(Server.MapPath("~/F.txt"));
+
+            string s;
+            string[] separators = { " ", "," };
+            List<Point> attList = new List<Point>();
+            List<Point> hotelList = new List<Point>();
+            s = sr.ReadLine();
+            string[] words = s.Split(separators, StringSplitOptions.RemoveEmptyEntries);
+
+            int N = int.Parse(words[0]);
+            int days = int.Parse(words[1]);
+            double distanceLimit = int.Parse(words[2]);
+
+            #region 
+            do
+            {
+                s = sr.ReadLine();
+                if (s != null)
+                {
+                    words = s.Split(separators, StringSplitOptions.RemoveEmptyEntries);
+                    Point newPoint = new Point();
+                    newPoint.geometry.location.lat = Decimal.Parse(words[0], System.Globalization.NumberStyles.Float);
+                    newPoint.geometry.location.lng = Decimal.Parse(words[1], System.Globalization.NumberStyles.Float);
+                    if (words.Length == 3)
+                    {
+                        newPoint.rating = decimal.Parse(words[2]);
+                        attList.Add(newPoint);
+                    }
+                    else hotelList.Add(newPoint);
+                }
+            }
+            while (s != null);
+            #endregion
+
+            DateTime start;
+            DateTime stop;
+            Random rand = new Random();
+
+            start = DateTime.Now;
+            List<Item>[] LI = new List<Item>[400];
+            List<Item>[] hotelsLI = new List<Item>[20];
+            GenerateLI(LI, attList);
+            GenerateHotLI(hotelsLI, attList, hotelList);
+            stop = DateTime.Now;
+            Debug.WriteLine("Generating LI Time->" + (stop - start).TotalMilliseconds + "ms");
+
+            start = DateTime.Now;
+            List<Trip> trip = new List<Trip>();
+            List<Point> visited = new List<Point>();
+
+            Travel travel = new Travel(hotelList[0], hotelList[0]);
+
+            int i = 0;
+            int ind = hotelList.IndexOf(travel.sourceHotel);
+            Point current = hotelsLI[ind].First().direction;
+            while (i < 400 && travel.totalDistance < distanceLimit)
+            {
+                while (visited.Contains(current))
+                {
+                    LI[ind].RemoveAt(0);
+                    if (LI[ind].Count == 0) break;
+                    current = LI[ind].First().direction;
+                }
+                ind = attList.IndexOf(current);
+                if (!visited.Contains(current))
+                {
+                    if (travel.totalDistance + Math.Floor(DistanceBetweenPlaces(current, LI[ind].First().direction)) < distanceLimit)
+                    {
+                        travel.addAtt(current);
+                        visited.Add(current);
+                        LI[ind].RemoveAt(0);
+                    }
+                }
+                current = LI[ind].First().direction;
+                i++;
+            }
+            stop = DateTime.Now;
+            Debug.WriteLine("Greedy Time->" + (stop - start).TotalMilliseconds + "ms");
+            Debug.WriteLine("Rating ->" + travel.totalRating);
+
+            return travel;
+        }
+
+
+
+        //real coords
         public Travel Alg()
         {
             List<Point> att = new List<Point>();
@@ -190,6 +287,7 @@ namespace HotelProject.Controllers
                 Debug.Write(x.ToString() + " -> ");
             }
 
+            //two-opt
             start = DateTime.Now;
             Travel tempTravel = new Travel(travel.sourceHotel, travel.destinationHotel);
             List<Point> tempList = travel.attractionList;
@@ -217,7 +315,8 @@ namespace HotelProject.Controllers
             Debug.WriteLine("\nTwoOpt Time(" + iterations + "-iterations)->" + (stop - start).TotalMilliseconds + "ms");
             Debug.WriteLine("Old Distance->" + oldDistance + "  New Distance->" + travel.totalDistance);
 
-            //tempList = twoOpt(4, 15, tempList);
+
+
 
             return travel;
 
