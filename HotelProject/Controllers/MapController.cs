@@ -40,8 +40,6 @@ namespace HotelProject.Controllers
             return x;
         }
 
-
-
         const double RADIUS = 6378.16;
 
         public static double Radians(double x)
@@ -98,6 +96,30 @@ namespace HotelProject.Controllers
                 i++;
             }
         }
+        public List<Point> twoOpt(int x, int y, List<Point> pointList)
+        {
+            int k = 0;
+            List<Point> reversedList = new List<Point>();
+            List<Point> newList = new List<Point>();
+            for (int i = 0; i < y; i++)
+            {
+                if (i > x - 1 && i < y - 1)
+                {
+                    reversedList.Add(pointList[i]);
+                }
+            }
+            reversedList.Reverse();
+            for (int i = 0; i < pointList.Count; i++)
+            {
+                if (i > x - 1 && i < y - 1)
+                {
+                    newList.Add(reversedList[k]); k++;
+                }
+                else newList.Add(pointList[i]);
+            }
+            return newList;
+        }
+
         public Travel Alg()
         {
             List<Point> att = new List<Point>();
@@ -113,9 +135,10 @@ namespace HotelProject.Controllers
                 string json = r.ReadToEnd();
                 hot = JsonConvert.DeserializeObject<List<Point>>(json);
             }
-            
+
             DateTime start;
             DateTime stop;
+            Random rand = new Random();
 
             start = DateTime.Now;
             List<Item>[] LI = new List<Item>[400];
@@ -128,9 +151,9 @@ namespace HotelProject.Controllers
             start = DateTime.Now;
             List<Trip> trip = new List<Trip>();
             List<Point> visited = new List<Point>();
-            double distanceLimit = 200;
+            double distanceLimit = 400;
 
-            Point sourceHot = hot.Where(k => k.name == "Hotel Branicki ****").Single();
+            Point sourceHot = hot.Where(k => k.name == "Hotel Leśna").Single();
             Point destinationHot = hot.Where(k => k.name == "Hotel Ostrów Mazowiecka").Single();
             Travel travel = new Travel(sourceHot, destinationHot);
 
@@ -160,6 +183,42 @@ namespace HotelProject.Controllers
             }
             stop = DateTime.Now;
             Debug.WriteLine("Greedy Time->" + (stop - start).TotalMilliseconds + "ms");
+
+
+            foreach (var x in travel.attractionList)
+            {
+                Debug.Write(x.ToString() + " -> ");
+            }
+
+            start = DateTime.Now;
+            Travel tempTravel = new Travel(travel.sourceHotel, travel.destinationHotel);
+            List<Point> tempList = travel.attractionList;
+            i = 0;
+            int k1 = 0, k2 = 0;
+            int iterations = 6000;
+            int checkingNumber;
+            double oldDistance = travel.totalDistance;
+            while (i < iterations)
+            {
+                //random checkingNumber (optional)
+                checkingNumber = rand.Next(1, 8);
+                k1 = rand.Next(0, travel.attractionList.Count - checkingNumber);
+                k2 = k1 + rand.Next(0, checkingNumber);
+                tempTravel.attractionList = twoOpt(k1, k2, travel.attractionList);
+                tempTravel.totalDistance = tempTravel.CalculateDistance();
+                if (tempTravel.totalDistance < travel.totalDistance)
+                {
+                    travel.attractionList = tempTravel.attractionList;
+                    travel.totalDistance = tempTravel.totalDistance;
+                }
+                i++;
+            }
+            stop = DateTime.Now;
+            Debug.WriteLine("\nTwoOpt Time(" + iterations + "-iterations)->" + (stop - start).TotalMilliseconds + "ms");
+            Debug.WriteLine("Old Distance->" + oldDistance + "  New Distance->" + travel.totalDistance);
+
+            //tempList = twoOpt(4, 15, tempList);
+
             return travel;
 
         }

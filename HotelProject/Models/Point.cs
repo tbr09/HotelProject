@@ -7,10 +7,11 @@ namespace HotelProject.Models
 {
     public class Point
     {
+        public string id { get; set; }
         public geometry geometry { get; set; }
         public decimal rating { get; set; }
-
         public string name { get; set; }
+
         public Point() { }
         public Point(geometry geometry, decimal rating, string name)
         {
@@ -19,5 +20,9 @@ namespace HotelProject.Models
             this.rating = rating;
         }
 
+        public override string ToString()
+        {
+            return name + "(" + rating + ")";
+        }
     }
 }
