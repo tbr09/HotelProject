@@ -49,7 +49,7 @@ namespace HotelProject.Controllers
             return x * Math.PI / 180;
         }
 
-        public static double DistanceBetweenPlaces(Attraction a1, Attraction a2)
+        public static double DistanceBetweenPlaces(Point a1, Point a2)
         {
             double lat1 = (double)a1.geometry.location.lat;
             double lat2 = (double)a2.geometry.location.lat;
@@ -64,51 +64,80 @@ namespace HotelProject.Controllers
             return angle * RADIUS;
         }
 
-        public List<Trip> Alg()
+        public void GenerateHotLI(List<Item>[] LI, List<Point> att, List<Point> hot)
         {
-            List<Attraction> att = new List<Attraction>();
-            using (StreamReader r = new StreamReader(Server.MapPath("~/data.json")))
-            {
-                string json = r.ReadToEnd();
-                att = JsonConvert.DeserializeObject<List<Attraction>>(json);
-            }
-            List<Hotel> hot = new List<Hotel>();
-            using (StreamReader r = new StreamReader(Server.MapPath("~/hotels.json")))
-            {
-                string json = r.ReadToEnd();
-                hot = JsonConvert.DeserializeObject<List<Hotel>>(json);
-            }
-            //att.Where(k=>k.name = "")
-            List<Item>[] LI = new List<Item>[400];
             int i = 0;
-            DateTime start;
-            DateTime stop;
-
-            start = DateTime.Now;
-            foreach (Attraction item in att)
+            foreach (Point item in hot)
             {
                 LI[i] = new List<Item>();
-                foreach (Attraction item1 in att)
+
+                foreach (Point item1 in att)
+                {
+                    LI[i].Add(new Item(item1, DistanceBetweenPlaces(item, item1)));
+                }
+                foreach (Point item1 in hot)
+                {
+                    if (item1 != item) LI[i].Add(new Item(item1, DistanceBetweenPlaces(item, item1)));
+                }
+                LI[i] = LI[i].OrderBy(k => k.distance).ToList();
+
+                i++;
+            }
+        }
+        public void GenerateLI(List<Item>[] LI, List<Point> att)
+        {
+            int i = 0;
+            foreach (Point item in att)
+            {
+                LI[i] = new List<Item>();
+                foreach (Point item1 in att)
                 {
                     if (item1 != item) LI[i].Add(new Item(item1, DistanceBetweenPlaces(item, item1)));
                 }
                 LI[i] = LI[i].OrderBy(k => k.distance).ToList();
                 i++;
             }
+        }
+        public Travel Alg()
+        {
+            List<Point> att = new List<Point>();
+            using (StreamReader r = new StreamReader(Server.MapPath("~/data.json")))
+            {
+                string json = r.ReadToEnd();
+                att = JsonConvert.DeserializeObject<List<Point>>(json);
+            }
+
+            List<Point> hot = new List<Point>();
+            using (StreamReader r = new StreamReader(Server.MapPath("~/hotels.json")))
+            {
+                string json = r.ReadToEnd();
+                hot = JsonConvert.DeserializeObject<List<Point>>(json);
+            }
+            
+            DateTime start;
+            DateTime stop;
+
+            start = DateTime.Now;
+            List<Item>[] LI = new List<Item>[400];
+            List<Item>[] hotelsLI = new List<Item>[20];
+            GenerateLI(LI, att);
+            GenerateHotLI(hotelsLI, att, hot);
             stop = DateTime.Now;
-            Debug.WriteLine("Time->" + (stop - start).TotalMilliseconds+"ms");
+            Debug.WriteLine("Generating LI Time->" + (stop - start).TotalMilliseconds + "ms");
+
             start = DateTime.Now;
             List<Trip> trip = new List<Trip>();
-            List<Attraction> visited = new List<Attraction>();
-            int ind;
-            int s = 13;
-            i = 0;
-            Attraction current = att[s];
-            double totalDistance = 0;
-            decimal totalScore = 0;
-            double distanceLimit = 600;
-            ind = att.IndexOf(current);
-            while (i < 400 && totalDistance < distanceLimit)
+            List<Point> visited = new List<Point>();
+            double distanceLimit = 200;
+
+            Point sourceHot = hot.Where(k => k.name == "Hotel Branicki ****").Single();
+            Point destinationHot = hot.Where(k => k.name == "Hotel Ostrów Mazowiecka").Single();
+            Travel travel = new Travel(sourceHot, destinationHot);
+
+            int i = 0;
+            int ind = hot.IndexOf(sourceHot);
+            Point current = hotelsLI[ind].First().direction;
+            while (i < 400 && travel.totalDistance < distanceLimit)
             {
                 while (visited.Contains(current))
                 {
@@ -119,25 +148,20 @@ namespace HotelProject.Controllers
                 ind = att.IndexOf(current);
                 if (!visited.Contains(current))
                 {
-                    if (totalDistance + DistanceBetweenPlaces(current, LI[ind].First().direction) < distanceLimit)
+                    if (travel.totalDistance + DistanceBetweenPlaces(current, LI[ind].First().direction) < distanceLimit)
                     {
-                        trip.Add(new Trip(current, LI[ind].First().direction, DistanceBetweenPlaces(current, LI[ind].First().direction)));
-                        totalDistance += DistanceBetweenPlaces(current, LI[ind].First().direction);
-                        totalScore += current.rating;
+                        travel.addAtt(current);
                         visited.Add(current);
                         LI[ind].RemoveAt(0);
                     }
                 }
                 current = LI[ind].First().direction;
-
                 i++;
             }
             stop = DateTime.Now;
-            Debug.WriteLine("Time->"+(stop - start).TotalMilliseconds+"ms");
-            Debug.WriteLine("Total distance->" + totalDistance);
-            Debug.WriteLine("Total score->" + totalScore);
-            return trip;
-            //Debug.WriteLine(DistanceBetweenPlaces(att.Where(k => k.name == "Aeroklub Białystok Krywlany").Single(), att.Where(k => k.name == "Aeroklub Elbląg").Single()));
+            Debug.WriteLine("Greedy Time->" + (stop - start).TotalMilliseconds + "ms");
+            return travel;
+
         }
     }
 }

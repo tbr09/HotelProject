@@ -1,5 +1,5 @@
 ﻿@*@model HotelProject.Models.MapViewModel*@
-@model IEnumerable<HotelProject.Models.Trip>
+@model HotelProject.Models.Travel
 @{
     ViewBag.Title = "Index";
 }   
@@ -10,6 +10,8 @@
 <button class="btn btn-default" id="clearMarkers" onclick="clearMarkers()">Clear Markers</button>
 <button class="btn btn-default" id="dropPaths" onclick="dropPaths()">Paths</button>
 <button class="btn btn-default" id="clearPaths" onclick="clearPaths()">Clear Paths</button>
+<button class="btn btn-default" id="dropTravel" onclick="dropTravel()">Drop Travel</button>
+<button class="btn btn-default" id="dropTravelPaths" onclick="dropTravelPaths()">Drop Travel Paths</button>
 <hr/>
 <div id="map" style="width: 1100px; height: 600px;"></div>
 
@@ -28,7 +30,8 @@
     @*var attractions = @Html.Raw(Json.Encode(Model.atractions));
     var hotels = @Html.Raw(Json.Encode(Model.hotels));*@
 
-    var attractions = @Html.Raw(Json.Encode(Model));
+    
+    var travel = @Html.Raw(Json.Encode(Model));
     //timeout add markers
     var markers = [];
     var paths = [];
@@ -40,9 +43,21 @@
             
         }
     }
+    function dropTravelPaths() {
+        for (var i = 0; i < travel.attractionList.length+1; i++) {
+            update(i, i + 1);
+        };
+    }
 
+    function dropTravel() {
+        addMarkerWithTimeout(travel.sourceHotel,100, "hotel");
+        for (var i = 0; i < travel.attractionList.length; i++) {
+            addMarkerWithTimeout(travel.attractionList[i],100,"attraction");
+        }
+        addMarkerWithTimeout(travel.destinationHotel, 100, "hotel");
+    }
     function dropPaths() {
-        for (var i = 0; i < attractions.length - 1; i++) {
+        for (var i = 0; i < travel.attractionList.length - 1; i++) {
             update(i,i+1);
         };
     }
