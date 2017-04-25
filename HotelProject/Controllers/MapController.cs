@@ -50,6 +50,7 @@ namespace HotelProject.Controllers
         public static double DistanceBetweenPlaces(Point a1, Point a2)
         {
             //for testing data (Euclidean)
+
             //double lat1 = (double)a1.geometry.location.lat;
             //double lat2 = (double)a2.geometry.location.lat;
             //double lon1 = (double)a1.geometry.location.lng;
@@ -58,6 +59,7 @@ namespace HotelProject.Controllers
 
 
             //for real coords
+
             double lat1 = (double)a1.geometry.location.lat;
             double lat2 = (double)a2.geometry.location.lat;
             double lon1 = (double)a1.geometry.location.lng;
@@ -180,13 +182,12 @@ namespace HotelProject.Controllers
             start = DateTime.Now;
             List<Trip> trip = new List<Trip>();
             List<Point> visited = new List<Point>();
-
             Travel travel = new Travel(hotelList[0], hotelList[0]);
-
-            int i = 0;
-            int ind = hotelList.IndexOf(travel.sourceHotel);
+            int i = 0, ind = hotelList.IndexOf(travel.sourceHotel);
             Point current = hotelsLI[ind].First().direction;
-            while (i < 400 && travel.totalDistance < distanceLimit)
+
+            //while (travel.totalRating<7000)
+            while (travel.totalDistance < distanceLimit)
             {
                 while (visited.Contains(current))
                 {
@@ -197,19 +198,56 @@ namespace HotelProject.Controllers
                 ind = attList.IndexOf(current);
                 if (!visited.Contains(current))
                 {
-                    if (travel.totalDistance + Math.Floor(DistanceBetweenPlaces(current, LI[ind].First().direction)) < distanceLimit)
-                    {
+                    //if (travel.totalDistance + Math.Floor(DistanceBetweenPlaces(current, LI[ind].First().direction)) < distanceLimit)
+                    //{
                         travel.addAtt(current);
                         visited.Add(current);
                         LI[ind].RemoveAt(0);
-                    }
+                    //}
                 }
                 current = LI[ind].First().direction;
                 i++;
             }
             stop = DateTime.Now;
+            Debug.WriteLine("Total Distance->" + travel.totalDistance);
             Debug.WriteLine("Greedy Time->" + (stop - start).TotalMilliseconds + "ms");
             Debug.WriteLine("Rating ->" + travel.totalRating);
+
+
+            //two-opt
+            start = DateTime.Now;
+            Travel tempTravel = new Travel(travel.sourceHotel, travel.destinationHotel);
+            List<Point> tempList = travel.attractionList;
+            i = 0;
+            int k1 = 0, k2 = 0;
+            int iterations = 8000;
+            int checkingNumber;
+            double oldDistance = travel.totalDistance;
+            
+            //while(i<iterations)
+            while (travel.totalDistance > distanceLimit)
+            {
+                //random checkingNumber (optional)
+                checkingNumber = rand.Next(1, travel.attractionList.Count);
+                k1 = rand.Next(0, travel.attractionList.Count - checkingNumber);
+                k2 = k1 + rand.Next(0, checkingNumber);
+                tempTravel.attractionList = twoOpt(k1, k2, travel.attractionList);
+                tempTravel.totalDistance = tempTravel.CalculateDistance();
+                if (tempTravel.totalDistance < travel.totalDistance)
+                {
+                    travel.attractionList = tempTravel.attractionList;
+                    travel.totalDistance = tempTravel.totalDistance;
+                }
+                i++;
+                if(i%10000==0) //checkin progres for big iterations
+                {
+                    Debug.WriteLine("Distance-> " + travel.totalDistance);
+                }
+            }
+            stop = DateTime.Now;
+            Debug.WriteLine("\nTwoOpt Time(" + iterations + "-iterations)->" + (stop - start).TotalMilliseconds + "ms");
+            Debug.WriteLine("Old Distance->" + oldDistance + "  New Distance->" + travel.totalDistance);
+            Debug.WriteLine("Score-> " + travel.totalRating);
 
             return travel;
         }
@@ -250,12 +288,12 @@ namespace HotelProject.Controllers
             start = DateTime.Now;
             List<Trip> trip = new List<Trip>();
             List<Point> visited = new List<Point>();
-            double distanceLimit = 1000;
+            double distanceLimit = 1300;
 
             Point sourceHot = hot.Where(k => k.name == "SOWA, Hotel, Restauracja").Single();
             Point destinationHot = hot.Where(k => k.name == "Hotel Branicki ****").Single();
             Travel travel = new Travel(sourceHot, destinationHot);
-
+            
             //greedy 
             int i = 0;
             int ind = hot.IndexOf(sourceHot);
@@ -298,12 +336,12 @@ namespace HotelProject.Controllers
             List<Point> tempList = travel.attractionList;
             i = 0;
             int k1 = 0, k2 = 0;
-            int iterations = 8000;
+            int iterations = 10000;
             int checkingNumber;
             double oldDistance = travel.totalDistance;
-            while (i < iterations)
+            while (i<iterations)
+            //while (travel.totalDistance>1700)
             {
-                //random checkingNumber (optional)
                 checkingNumber = rand.Next(1, travel.attractionList.Count);
                 k1 = rand.Next(0, travel.attractionList.Count - checkingNumber);
                 k2 = k1 + rand.Next(0, checkingNumber);
@@ -360,17 +398,39 @@ namespace HotelProject.Controllers
             //Debug.WriteLine("Old Distance->" + oldDistance + "  New Distance->" + travel.totalDistance);
             //Debug.WriteLine("Score-> " + travel.totalRating);
 
+
+            oldDistance = travel.totalDistance;
+            start = DateTime.Now;
             //localSearch
-            //int howNeighbours = 30;
-            //i = 0; int j = 0;
-            //while(i<travel.attractionList.Count-1)
-            //{
-            //    ind = att.IndexOf(travel.attractionList[i]);
-            //    while(j<howNeighbours)
-            //    {
-            //        LI[ind].
-            //    }
-            //}
+            int howNeighbours = 3;
+            i = 0; int j = 0;
+            while(i<travel.attractionList.Count-1)
+            {
+                j = 0;
+                ind = att.IndexOf(travel.attractionList[i]);
+                Point newPoint = LI[ind].First().direction;
+                while (j<howNeighbours)
+                {
+                    if(!visited.Contains(newPoint))
+                    {
+                        travel.attractionList.Insert(i,newPoint);
+
+                        travel.totalRating += newPoint.rating;
+                        travel.totalDistance = travel.CalculateDistance();
+                        //travel.addAtt(newPoint);
+                        visited.Add(newPoint);
+                    }
+                    LI[ind].RemoveAt(0);
+                    newPoint = LI[ind].First().direction;
+                    j++;
+                }
+                i++;
+            }
+            stop = DateTime.Now;
+            Debug.WriteLine("\nLocalSeartch Time->" + (stop - start).TotalMilliseconds + "ms");
+            Debug.WriteLine("Old Distance->" + oldDistance + "  New Distance->" + travel.totalDistance);
+            Debug.WriteLine("Score-> " + travel.totalRating);
+            
 
             return travel;
         }

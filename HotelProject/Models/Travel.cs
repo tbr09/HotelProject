@@ -13,30 +13,12 @@ namespace HotelProject.Models
         public double totalDistance { get; set; }
         public decimal totalRating { get; set; }
 
-
-
         const double RADIUS = 6378.16;
 
         public static double Radians(double x)
         {
             return x * Math.PI / 180;
         }
-
-        public static double DistanceBetweenPlaces(Point a1, Point a2)
-        {
-            double lat1 = (double)a1.geometry.location.lat;
-            double lat2 = (double)a2.geometry.location.lat;
-            double lon1 = (double)a1.geometry.location.lng;
-            double lon2 = (double)a2.geometry.location.lng;
-
-            double dlon = Radians(lon2 - lon1);
-            double dlat = Radians(lat2 - lat1);
-
-            double a = (Math.Sin(dlat / 2) * Math.Sin(dlat / 2)) + Math.Cos(Radians(lat1)) * Math.Cos(Radians(lat2)) * (Math.Sin(dlon / 2) * Math.Sin(dlon / 2));
-            double angle = 2 * Math.Atan2(Math.Sqrt(a), Math.Sqrt(1 - a));
-            return angle * RADIUS;
-        }
-
 
         public Travel(Point _srchotel, Point _dsthotel)
         {
@@ -62,9 +44,10 @@ namespace HotelProject.Models
         }
 
 
-        public double Euclidean(Point a1, Point a2)
+        public double DistanceBetweenPlaces(Point a1, Point a2)
         {
             //for testing data (Euclidean)
+
             //double lat1 = (double)a1.geometry.location.lat;
             //double lat2 = (double)a2.geometry.location.lat;
             //double lon1 = (double)a1.geometry.location.lng;
@@ -73,6 +56,7 @@ namespace HotelProject.Models
 
 
             //for real coords
+
             double lat1 = (double)a1.geometry.location.lat;
             double lat2 = (double)a2.geometry.location.lat;
             double lon1 = (double)a1.geometry.location.lng;
@@ -90,10 +74,6 @@ namespace HotelProject.Models
             totalRating += _att.rating;
             totalDistance = CalculateDistance();
         }
-
-        //public bool CheckReplace(Point _att, int x, List<Point> visited)
-        //{
-        //}
 
         public double DistanceWithAtt(Point _att, int x)
         {
