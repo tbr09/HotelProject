@@ -68,11 +68,11 @@ namespace HotelProject.Models
             return angle * RADIUS;
         }
 
-        public void addAtt(Point _att)
+        public void addAtt(Point _att, List<Item>[] distanceLI, int ind)
         {
             attractionList.Add(_att);
             totalRating += _att.rating;
-            totalDistance = CalculateDistance();
+            totalDistance += distanceLI[ind].Last().distance;
         }
 
         public double DistanceWithAtt(Point _att, int x)

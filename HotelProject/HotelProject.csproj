@@ -133,7 +133,6 @@
     <Compile Include="Models\MapViewModel.cs" />
     <Compile Include="Models\Point.cs" />
     <Compile Include="Models\Travel.cs" />
-    <Compile Include="Models\Trip.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
