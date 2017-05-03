@@ -1,5 +1,7 @@
 ﻿@*@model HotelProject.Models.MapViewModel*@
-@model HotelProject.Models.Travel
+@*@model HotelProject.Models.Travel*@
+@model IEnumerable<HotelProject.Models.Travel>
+
 @{
     ViewBag.Title = "Index";
 }   
@@ -44,17 +46,42 @@
         }
     }
     function dropTravelPaths() {
-        for (var i = 0; i < travel.attractionList.length+1; i++) {
-            update(i, i + 1);
-        };
+        var i = 0;
+        for (var j = 0; j < travel.length; j++) {
+            for (; i < travel[j].attractionList.length+1; i++) {
+                update(i, i + 1);
+            };
+            //i++;
+        }
+        
+        //var i = 0; 
+        //for (; i < travel[0].attractionList.length + 1; i++) {
+        //    update(i, i + 1);
+        //};
+        
+        //for (; i < travel[1].attractionList.length + 1; i++) {
+        //    update(i, i + 1);
+        //};
+        //for (var i = 0; i < travel.attractionList.length + 1; i++) {
+        //   update(i, i + 1);
+        //};
     }
 
     function dropTravel() {
-        addMarkerWithTimeout(travel.sourceHotel,100, "hotel");
-        for (var i = 0; i < travel.attractionList.length; i++) {
-            addMarkerWithTimeout(travel.attractionList[i],100,"attraction");
+
+        for (var j=0; j < travel.length; j++)
+        {
+            addMarkerWithTimeout(travel[j].sourceHotel, 100, "hotel");
+            for (var i = 0; i < travel[j].attractionList.length; i++) {
+                addMarkerWithTimeout(travel[j].attractionList[i], 100, "attraction");
+            }
+            addMarkerWithTimeout(travel[j].destinationHotel, 100, "hotel");
         }
-        addMarkerWithTimeout(travel.destinationHotel, 100, "hotel");
+        //addMarkerWithTimeout(travel.sourceHotel,100, "hotel");
+        //for (var i = 0; i < travel.attractionList.length; i++) {
+        //    addMarkerWithTimeout(travel.attractionList[i],100,"attraction");
+        //}
+        //addMarkerWithTimeout(travel.destinationHotel, 100, "hotel");
     }
     function dropPaths() {
         for (var i = 0; i < travel.attractionList.length - 1; i++) {
