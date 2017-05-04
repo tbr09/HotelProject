@@ -22,11 +22,8 @@ namespace HotelProject.Controllers
             using (StreamReader r = new StreamReader(Server.MapPath("~/hotels.json")))
             {
                 string json = r.ReadToEnd();
-                var vm = new HotelViewModel
-                {
-                    hotels = JsonConvert.DeserializeObject<List<Hotel>>(json)
-                };
-                return View(vm);
+                List<Hotel> hotels = JsonConvert.DeserializeObject<List<Hotel>>(json);
+                return View(hotels);
             }
         }
 
@@ -148,10 +145,7 @@ namespace HotelProject.Controllers
             using (StreamReader r = new StreamReader(Server.MapPath("~/data.json")))
             {
                 string json = r.ReadToEnd();
-                var vm = new AttractionViewModel
-                {
-                    atractions = JsonConvert.DeserializeObject<List<Attraction>>(json)
-                };
+                List<Attraction> atractions = JsonConvert.DeserializeObject<List<Attraction>>(json);
 
                 /* //removing object without rating
                 List<Attraction> attrList1 = new List<Attraction>();
@@ -166,7 +160,7 @@ namespace HotelProject.Controllers
                     w.Write(jsonOut);
                 }
                 */
-                return View(vm);
+                return View(atractions);
             }
         }
 

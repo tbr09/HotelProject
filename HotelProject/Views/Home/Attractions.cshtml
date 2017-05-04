@@ -1,16 +1,16 @@
-﻿@model HotelProject.Models.AttractionViewModel
+﻿@model IEnumerable<HotelProject.Models.Attraction>
 @{
     ViewBag.Title = "Attractions";
 }
 
-<h2>Attracations [@Model.atractions.Count]</h2>
+<h2>Attracations [@Model.Count()]</h2>
 
 <a class="btn-default" href="">Add Item</a>
 <a class="btn-default" href=""></a>
 
 @{
     int i = 1;
-    foreach (var x in Model.atractions)
+    foreach (var x in Model)
     {
         if (x.rating != 0)
         {

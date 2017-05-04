@@ -12,8 +12,7 @@ namespace HotelProject.Models
         public List<Point> attractionList { get; set; }
         public double totalDistance { get; set; }
         public decimal totalRating { get; set; }
-        private double score;
-        public double Score
+        public double score
         {
             get
             {
@@ -56,24 +55,24 @@ namespace HotelProject.Models
         {
             //for testing data (Euclidean)
 
-            double lat1 = (double)a1.geometry.location.lat;
-            double lat2 = (double)a2.geometry.location.lat;
-            double lon1 = (double)a1.geometry.location.lng;
-            double lon2 = (double)a2.geometry.location.lng;
-            return Math.Sqrt(Math.Pow(lon1 - lon2, 2) + Math.Pow(lat1 - lat2, 2));
-
-
-            //for real coords
-
             //double lat1 = (double)a1.geometry.location.lat;
             //double lat2 = (double)a2.geometry.location.lat;
             //double lon1 = (double)a1.geometry.location.lng;
             //double lon2 = (double)a2.geometry.location.lng;
-            //double dlon = Radians(lon2 - lon1);
-            //double dlat = Radians(lat2 - lat1);
-            //double a = (Math.Sin(dlat / 2) * Math.Sin(dlat / 2)) + Math.Cos(Radians(lat1)) * Math.Cos(Radians(lat2)) * (Math.Sin(dlon / 2) * Math.Sin(dlon / 2));
-            //double angle = 2 * Math.Atan2(Math.Sqrt(a), Math.Sqrt(1 - a));
-            //return angle * RADIUS;
+            //return Math.Sqrt(Math.Pow(lon1 - lon2, 2) + Math.Pow(lat1 - lat2, 2));
+
+
+            //for real coords
+
+            double lat1 = (double)a1.geometry.location.lat;
+            double lat2 = (double)a2.geometry.location.lat;
+            double lon1 = (double)a1.geometry.location.lng;
+            double lon2 = (double)a2.geometry.location.lng;
+            double dlon = Radians(lon2 - lon1);
+            double dlat = Radians(lat2 - lat1);
+            double a = (Math.Sin(dlat / 2) * Math.Sin(dlat / 2)) + Math.Cos(Radians(lat1)) * Math.Cos(Radians(lat2)) * (Math.Sin(dlon / 2) * Math.Sin(dlon / 2));
+            double angle = 2 * Math.Atan2(Math.Sqrt(a), Math.Sqrt(1 - a));
+            return angle * RADIUS;
         }
 
         public void addAtt(Point _att, List<Item>[] distanceLI, int ind)

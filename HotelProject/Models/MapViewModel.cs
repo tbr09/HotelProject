@@ -7,7 +7,8 @@ namespace HotelProject.Models
 {
     public class MapViewModel
     {
-        public IEnumerable<Attraction> atractions { get; set; }
-        public IEnumerable<Hotel> hotels { get; set; }
+        public List<Travel> tour { get; set; }
+        public List<Point> attractions { get; set; }
+        public List<Point> hotels { get; set; }
     }
 }

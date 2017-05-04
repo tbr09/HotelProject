@@ -1,10 +1,10 @@
-﻿@*@model HotelProject.Models.MapViewModel*@
+﻿@**@@model HotelProject.Models.MapViewModel
 @*@model HotelProject.Models.Travel*@
-@model IEnumerable<HotelProject.Models.Travel>
+@*@model IEnumerable<HotelProject.Models.Travel>*@
 
 @{
     ViewBag.Title = "Index";
-}   
+}
 <h2>Map</h2>
 
 <button class="btn btn-default" id="dropAttractions" onclick="dropAttractions()">Drop Attractions</button>
@@ -12,9 +12,9 @@
 <button class="btn btn-default" id="clearMarkers" onclick="clearMarkers()">Clear Markers</button>
 <button class="btn btn-default" id="dropPaths" onclick="dropPaths()">Paths</button>
 <button class="btn btn-default" id="clearPaths" onclick="clearPaths()">Clear Paths</button>
-<button class="btn btn-default" id="dropTravel" onclick="dropTravel()">Drop Travel</button>
-<button class="btn btn-default" id="dropTravelPaths" onclick="dropTravelPaths()">Drop Travel Paths</button>
-<hr/>
+<button class="btn btn-default" id="dropTour" onclick="dropTour()">Drop Tour</button>
+<button class="btn btn-default" id="dropTourPaths" onclick="dropTourPaths()">Drop Tour Paths</button>
+<hr />
 <div id="map" style="width: 1100px; height: 600px;"></div>
 
 <script>
@@ -28,12 +28,11 @@
             mapTypeId: google.maps.MapTypeId.ROADMAP
         });
     }
-    
-    @*var attractions = @Html.Raw(Json.Encode(Model.atractions));
-    var hotels = @Html.Raw(Json.Encode(Model.hotels));*@
 
-    
-    var travel = @Html.Raw(Json.Encode(Model));
+    var attractions = @Html.Raw(Json.Encode(Model.attractions));
+    var hotels = @Html.Raw(Json.Encode(Model.hotels));
+    var tour = @Html.Raw(Json.Encode(Model.tour));
+
     //timeout add markers
     var markers = [];
     var paths = [];
@@ -41,50 +40,50 @@
 
     function dropAttractions() {
         for (var i = 0; i < attractions.length; i++) {
-            addMarkerWithTimeout(attractions[i].sourceAtt, i * 3, "attraction");
-            
+            addMarkerWithTimeout(attractions[i], i * 3, "attraction");
+
         }
     }
-    function dropTravelPaths() {
+    function dropTourPaths() {
         var i = 0;
-        for (var j = 0; j < travel.length; j++) {
-            for (; i < travel[j].attractionList.length+1; i++) {
+        for (var j = 0; j < tour.length; j++) {
+            for (; i < tour[j].attractionList.length+1; i++) {
                 update(i, i + 1);
             };
             //i++;
         }
-        
-        //var i = 0; 
-        //for (; i < travel[0].attractionList.length + 1; i++) {
+
+        //var i = 0;
+        //for (; i < tour[0].attractionList.length + 1; i++) {
         //    update(i, i + 1);
         //};
-        
-        //for (; i < travel[1].attractionList.length + 1; i++) {
+
+        //for (; i < tour[1].attractionList.length + 1; i++) {
         //    update(i, i + 1);
         //};
-        //for (var i = 0; i < travel.attractionList.length + 1; i++) {
+        //for (var i = 0; i < tour.attractionList.length + 1; i++) {
         //   update(i, i + 1);
         //};
     }
 
-    function dropTravel() {
-
-        for (var j=0; j < travel.length; j++)
+    function dropTour() {
+        clearMarkers();
+        for (var j = 0; j < tour.length; j++)
         {
-            addMarkerWithTimeout(travel[j].sourceHotel, 100, "hotel");
-            for (var i = 0; i < travel[j].attractionList.length; i++) {
-                addMarkerWithTimeout(travel[j].attractionList[i], 100, "attraction");
+            addMarkerWithTimeout(tour[j].sourceHotel, 100, "hotel");
+            for (var i = 0; i < tour[j].attractionList.length; i++) {
+                addMarkerWithTimeout(tour[j].attractionList[i], 100, "attraction");
             }
-            addMarkerWithTimeout(travel[j].destinationHotel, 100, "hotel");
+            addMarkerWithTimeout(tour[j].destinationHotel, 100, "hotel");
         }
-        //addMarkerWithTimeout(travel.sourceHotel,100, "hotel");
-        //for (var i = 0; i < travel.attractionList.length; i++) {
-        //    addMarkerWithTimeout(travel.attractionList[i],100,"attraction");
+        //addMarkerWithTimeout(tour.sourceHotel,100, "hotel");
+        //for (var i = 0; i < tour.attractionList.length; i++) {
+        //    addMarkerWithTimeout(tour.attractionList[i],100,"attraction");
         //}
-        //addMarkerWithTimeout(travel.destinationHotel, 100, "hotel");
+        //addMarkerWithTimeout(tour.destinationHotel, 100, "hotel");
     }
     function dropPaths() {
-        for (var i = 0; i < travel.attractionList.length - 1; i++) {
+        for (var i = 0; i < tour.attractionList.length - 1; i++) {
             update(i,i+1);
         };
     }
@@ -149,7 +148,7 @@
     }
 
     function clearPaths() {
-        
+
         path.setMap(null);
     }
 

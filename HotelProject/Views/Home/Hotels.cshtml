@@ -1,16 +1,16 @@
-﻿@model HotelProject.Models.HotelViewModel
+﻿@model IEnumerable<HotelProject.Models.Hotel>
 @{
     ViewBag.Title = "Hotels";
 }
 
-<h2>Hotels [@Model.hotels.Count]</h2>
+<h2>Hotels [@Model.Count()]</h2>
 
 
 
 
 @{
     int i = 1;
-    foreach (var x in Model.hotels)
+    foreach (var x in Model)
     {
         <div class="row">
             <div class="col-md-1">@i</div>
