@@ -40,7 +40,7 @@ namespace HotelProject.Models
             double totalDistance1 = 0;
             totalDistance1 += DistanceBetweenPlaces(sourceHotel, attractionList[0]);
 
-            for (int i = 1; i < attractionList.Count - 2; i++)
+            for (int i = 0; i < attractionList.Count - 1; i++)
             {
                 totalDistance1 += DistanceBetweenPlaces(attractionList[i], attractionList[i + 1]);
             }
@@ -55,31 +55,31 @@ namespace HotelProject.Models
         {
             //for testing data (Euclidean)
 
-            //double lat1 = (double)a1.geometry.location.lat;
-            //double lat2 = (double)a2.geometry.location.lat;
-            //double lon1 = (double)a1.geometry.location.lng;
-            //double lon2 = (double)a2.geometry.location.lng;
-            //return Math.Sqrt(Math.Pow(lon1 - lon2, 2) + Math.Pow(lat1 - lat2, 2));
-
-
-            //for real coords
-
             double lat1 = (double)a1.geometry.location.lat;
             double lat2 = (double)a2.geometry.location.lat;
             double lon1 = (double)a1.geometry.location.lng;
             double lon2 = (double)a2.geometry.location.lng;
-            double dlon = Radians(lon2 - lon1);
-            double dlat = Radians(lat2 - lat1);
-            double a = (Math.Sin(dlat / 2) * Math.Sin(dlat / 2)) + Math.Cos(Radians(lat1)) * Math.Cos(Radians(lat2)) * (Math.Sin(dlon / 2) * Math.Sin(dlon / 2));
-            double angle = 2 * Math.Atan2(Math.Sqrt(a), Math.Sqrt(1 - a));
-            return angle * RADIUS;
+            return Math.Sqrt(Math.Pow(lon1 - lon2, 2) + Math.Pow(lat1 - lat2, 2));
+
+
+            //for real coords
+
+            //double lat1 = (double)a1.geometry.location.lat;
+            //double lat2 = (double)a2.geometry.location.lat;
+            //double lon1 = (double)a1.geometry.location.lng;
+            //double lon2 = (double)a2.geometry.location.lng;
+            //double dlon = Radians(lon2 - lon1);
+            //double dlat = Radians(lat2 - lat1);
+            //double a = (Math.Sin(dlat / 2) * Math.Sin(dlat / 2)) + Math.Cos(Radians(lat1)) * Math.Cos(Radians(lat2)) * (Math.Sin(dlon / 2) * Math.Sin(dlon / 2));
+            //double angle = 2 * Math.Atan2(Math.Sqrt(a), Math.Sqrt(1 - a));
+            //return angle * RADIUS;
         }
 
         public void addAtt(Point _att, List<Item>[] distanceLI, int ind)
         {
             attractionList.Add(_att);
             totalRating += _att.rating;
-            totalDistance += distanceLI[ind].Last().distance;
+            //totalDistance += distanceLI[ind].Last().distance;
         }
 
         public double DistanceWithAtt(Point _att, int x)

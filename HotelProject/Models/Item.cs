@@ -9,7 +9,13 @@ namespace HotelProject.Models
     {
         public Point direction { get; set; }
         public double distance { get; set; }
-
+        public double score
+        {
+            get
+            {
+                return distance / (double)direction.rating;
+            }
+        }
 
         public Item(Point _att, double _distance)
         {
