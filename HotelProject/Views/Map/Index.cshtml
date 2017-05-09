@@ -45,12 +45,15 @@
         }
     }
     function dropTourPaths() {
-        var i = 0;
+        var k = 0;
+        var z = 0;
         for (var j = 0; j < tour.length; j++) {
-            for (; i < tour[j].attractionList.length+1; i++) {
-                update(i, i + 1);
+            for (var i=0; i <= tour[j].attractionList.length; i++) {
+                update(k, k + 1,z);
+                k++;
             };
-            //i++;
+            k++;
+            z++
         }
 
         //var i = 0;
@@ -68,6 +71,11 @@
 
     function dropTour() {
         clearMarkers();
+        for (var j = 0; j < tour.length; j++) {
+            for (var i = 0; i < tour[j].attractionList.length; i++) {
+                console.log(tour[j].attractionList[i].rating + "" + i);
+            }
+        }
         for (var j = 0; j < tour.length; j++)
         {
             addMarkerWithTimeout(tour[j].sourceHotel, 100, "hotel");
@@ -83,9 +91,13 @@
         //addMarkerWithTimeout(tour.destinationHotel, 100, "hotel");
     }
     function dropPaths() {
-        for (var i = 0; i < tour.attractionList.length - 1; i++) {
-            update(i,i+1);
-        };
+        var z = 0;
+        for (var j = 0; j < tour.length; j++) {
+            for (var i = 0; i < tour[j].attractionList.length; i++) {
+                update(i, i + 1,z);
+            }
+        }
+
     }
 
     function dropHotels() {
@@ -136,9 +148,12 @@
         markers = [];
     }
 
-    function update(x, y) {
+    function update(x, y, z) {
+        var color;
+        if (z == 0) { color = '#FF0000' }
+        else if (z == 1) {  color = '#0000FF' }
         poly = new google.maps.Polyline({
-            strokeColor: '#FF0000',
+            strokeColor: color,
             strokeOpacity: 1.0,
             strokeWeight: 3,
             map: map,
