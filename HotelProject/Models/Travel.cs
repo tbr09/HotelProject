@@ -75,7 +75,7 @@ namespace HotelProject.Models
             //return angle * RADIUS;
         }
 
-        public void addAtt(Point _att, List<Item>[] distanceLI, int ind)
+        public void addAtt(Point _att, List<Item>[] distanceLI)
         {
             attractionList.Add(_att);
             totalRating += _att.rating;
