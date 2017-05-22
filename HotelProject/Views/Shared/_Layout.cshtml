@@ -21,7 +21,7 @@
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">
-                    <li>@Html.ActionLink("Map", "Index", "Map")</li>
+                    <li>@Html.ActionLink("Map", "Index", "Home")</li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data<b class="caret"></b></a>
                         <ul class="dropdown-menu">
@@ -39,8 +39,9 @@
     </div>
     <br/><br/>
     <div class="container body-content">
-        @RenderBody()   
-        <footer>
+        @RenderBody()
+
+        <footer style="margin-top: 50px;">
             <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
         </footer>
     </div>

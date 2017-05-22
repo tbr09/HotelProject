@@ -8,10 +8,18 @@
 
 @using (@Html.BeginForm("EditAttraction", "Home", FormMethod.Post))
 {
-    @Html.EditorFor(k => Model);
-    @Html.EditorFor(k => k.geometry.location);
-    <b>types</b><br />
-    @Html.EditorFor(k => k.types);
 
-    <button type="submit" class="btn-default">Submit</button>
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary()
+    @Html.LabelFor(k => k.name, "Name");<br />
+    @Html.EditorFor(k => k.name);<br />
+    @Html.LabelFor(k => k.rating);<br />
+    @Html.EditorFor(k => k.rating);<br />
+    @Html.LabelFor(k => k.geometry.location, "Latitude");<br />
+    @Html.EditorFor(k => k.geometry.location.lat);<br />
+    @Html.LabelFor(k => k.geometry.location, "Longditude");<br />
+    @Html.EditorFor(k => k.geometry.location.lng);<br />
+
+    <br />
+    <button type="submit" class="btn btn-default">Submit</button>
 }

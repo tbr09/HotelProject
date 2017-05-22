@@ -3,10 +3,8 @@
     ViewBag.Title = "Attractions";
 }
 
-<h2>Attracations [@Model.Count()]</h2>
+<h2>Attracations [@Model.Count()] <a href="@Url.Action("AddAttraction","Home")" class="btn btn-default">Add Attraction</a></h2>
 
-<a class="btn-default" href="">Add Item</a>
-<a class="btn-default" href=""></a>
 
 @{
     int i = 1;

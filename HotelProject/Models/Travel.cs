@@ -53,6 +53,7 @@ namespace HotelProject.Models
 
         public double DistanceBetweenPlaces(Point a1, Point a2)
         {
+
             //for testing data (Euclidean)
 
             double lat1 = (double)a1.geometry.location.lat;

@@ -75,7 +75,6 @@ D:\Git\HotelProject\HotelProject\bin\System.Web.WebPages.Deployment.xml
 D:\Git\HotelProject\HotelProject\bin\System.Web.WebPages.Razor.xml
 D:\Git\HotelProject\HotelProject\bin\Antlr3.Runtime.pdb
 D:\Git\HotelProject\HotelProject\bin\Newtonsoft.Json.xml
-D:\Git\HotelProject\HotelProject\obj\Debug\HotelProject.csprojResolveAssemblyReference.cache
 D:\Git\HotelProject\HotelProject\obj\Debug\HotelProject.dll
 D:\Git\HotelProject\HotelProject\obj\Debug\HotelProject.pdb
 C:\Users\mtybo\Desktop\HotelProject\HotelProject\bin\roslyn\csc.exe
@@ -198,3 +197,4 @@ C:\Users\tbr09\Desktop\roboczy\HotelProject\HotelProject\bin\Antlr3.Runtime.pdb
 C:\Users\tbr09\Desktop\roboczy\HotelProject\HotelProject\obj\Debug\HotelProject.csprojResolveAssemblyReference.cache
 C:\Users\tbr09\Desktop\roboczy\HotelProject\HotelProject\obj\Debug\HotelProject.dll
 C:\Users\tbr09\Desktop\roboczy\HotelProject\HotelProject\obj\Debug\HotelProject.pdb
+D:\Git\HotelProject\HotelProject\obj\Debug\HotelProject.csprojResolveAssemblyReference.cache

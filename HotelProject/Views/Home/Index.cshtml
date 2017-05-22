@@ -1,7 +1,125 @@
-﻿@{
-    ViewBag.Title = "Home Page";
+﻿@model HotelProject.Models.MainViewModel
+@{
+    ViewBag.Title = "Index";
 }
+<h2>Map</h2>
 
-<div class="row">
-    
-</div>
+<button class="btn btn-default" id="dropAttractions" onclick="dropAttractions()">Drop Attractions</button>
+<button class="btn btn-default" id="dropHotels" onclick="dropHotels()">Drop Hotels</button>
+<button class="btn btn-default" id="clearMarkers" onclick="clearMarkers()">Clear Markers</button>
+<button class="btn btn-default" id="dropPaths" onclick="dropPaths()">Paths</button>
+<button class="btn btn-default" id="clearPaths" onclick="clearPaths()">Clear Paths</button>
+<a class="btn btn-default" href="@Url.Action("Index","Map")">Run Algorithm</a>
+
+<hr />
+@*<div id="map" style="width: 1100px; height: 600px;"></div>*@
+@using (Html.BeginForm("Index", "Map", FormMethod.Get))
+{
+    @Html.DropDownList("HotelList")
+
+    <br />
+    <button type="submit" class="btn btn-default">Submit</button>
+}
+<script>
+
+    var map;
+    function initMap() {
+        var startCenter = { lat: 53.388097, lng: 21.435653 };
+        map = new google.maps.Map(document.getElementById('map'), {
+            zoom: 8,
+            center: startCenter,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        });
+    }
+
+    var attractions = @Html.Raw(Json.Encode(Model.attractions));
+    var hotels = @Html.Raw(Json.Encode(Model.hotels));
+
+    //timeout add markers
+    var markers = [];
+    var paths = [];
+    var infoWindows = [];
+
+    function dropAttractions() {
+        for (var i = 0; i < attractions.length; i++) {
+            addMarkerWithTimeout(attractions[i], i * 3, "attraction");
+
+        }
+    }
+
+    function dropHotels() {
+        for (var i = 0; i < hotels.length; i++) {
+            if(hotels[i].rating!=0) addMarkerWithTimeout(hotels[i], i * 3, "hotel");
+        }
+    }
+
+    function addMarkerWithTimeout(x, timeout, choose) {
+        window.setTimeout(function() {
+            var myPos = { lat: x.geometry.location.lat, lng: x.geometry.location.lng };
+            var marker;
+            if (choose == "hotel")
+            {
+                marker = new google.maps.Marker({
+                    position: myPos,
+                    map: map,
+                    icon:'http://maps.google.com/mapfiles/ms/icons/yellow-dot.png',
+                    animation: google.maps.Animation.DROP,
+                });
+            }
+            else
+            {
+                marker = new google.maps.Marker({
+                    position: myPos,
+                    map: map,
+                    icon: 'http://maps.google.com/mapfiles/ms/icons/red-dot.png',
+                    animation: google.maps.Animation.DROP
+                });
+            }
+
+
+            var infowindow = new google.maps.InfoWindow({
+                content: 'Name: ' + x.name + '<hr/>Rating:' + x.rating
+            });
+            marker.addListener('click', function () {
+                infowindow.open(map, marker);
+            });
+
+            markers.push(marker);
+        }, timeout);
+    }
+
+    function clearMarkers() {
+        for (var i = 0; i < markers.length; i++) {
+            markers[i].setMap(null);
+        }
+        markers = [];
+    }
+
+    //standard add markers
+    /*
+    function addMarker(i)
+    {
+        var x = attractions[i];
+        var myPos = { lat: x.geometry.location.lat, lng: x.geometry.location.lng };
+        var marker = new google.maps.Marker({
+            position: myPos,
+            map: map,
+            title: 'ggg',
+            animation: google.maps.Animation.DROP
+        });
+        google.maps.event.addListener(marker, 'click', (function (marker, i) {
+            return function () {
+                infowindow.setContent(locations[i][0]);
+                infowindow.open(map, marker);
+            }
+        })(marker, i));
+    }
+    for (var i = 0; i < attractions.length; i++) {
+        addMarker(i)
+    }
+    */
+
+</script>
+<script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDNItEncriDb-V4vc94EwQlrcq3orKJGjU&callback=initMap">
+</script>

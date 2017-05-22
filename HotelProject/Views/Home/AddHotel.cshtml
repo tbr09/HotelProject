@@ -1,13 +1,12 @@
 ﻿@model HotelProject.Models.Attraction
 @{
-    ViewBag.Title = "EditAttraction";
+    ViewBag.Title = "Add Attraction";
 }
 
-<h2>EditAttraction</h2>
+<h2>Add new hotel</h2>
 
-@using (@Html.BeginForm("EditAttraction", "Home", FormMethod.Post))
+@using (Html.BeginForm("AddHotel", "Home", FormMethod.Post))
 {
-
     @Html.AntiForgeryToken()
     @Html.ValidationSummary()
     @Html.LabelFor(k => k.name, "Name");<br />
