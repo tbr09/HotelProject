@@ -5,18 +5,37 @@
 @{
     ViewBag.Title = "Index";
 }
-<h2>Map</h2>
+<div class="row" style="margin-left:3%; margin-right:3%; margin-top:20px;">
 
-<button class="btn btn-default" id="dropAttractions" onclick="dropAttractions()">Drop Attractions</button>
-<button class="btn btn-default" id="dropHotels" onclick="dropHotels()">Drop Hotels</button>
-<button class="btn btn-default" id="clearMarkers" onclick="clearMarkers()">Clear Markers</button>
-<button class="btn btn-default" id="dropPaths" onclick="dropPaths()">Paths</button>
-<button class="btn btn-default" id="clearPaths" onclick="clearPaths()">Clear Paths</button>
-<button class="btn btn-default" id="dropTour" onclick="dropTour()">Drop Tour</button>
-<button class="btn btn-default" id="dropTourPaths" onclick="dropTourPaths()">Drop Tour Paths</button>
-<hr />
-<div id="map" style="width: 1100px; height: 600px;"></div>
+    <h2>Map</h2>
 
+    <button class="btn btn-default" id="dropAttractions" onclick="dropAttractions()">Drop Attractions</button>
+    <button class="btn btn-default" id="dropHotels" onclick="dropHotels()">Drop Hotels</button>
+    <button class="btn btn-default" id="dropTour" onclick="dropTour()">Drop Tour</button>
+    <button class="btn btn-default" id="dropTourPaths" onclick="dropTourPaths()">Set Tour Paths</button>
+    <button class="btn btn-default" id="clearMarkers" onclick="clearMarkers()">Clear Markers</button>
+    <button class="btn btn-default" id="clearPaths" onclick="clearPaths()">Clear Paths</button>
+    <hr />
+    <div class="col-md-2 col-xs-2 col-lg-2">
+        @using (Html.BeginForm("Index", "Map", FormMethod.Post))
+            {
+            @Html.DropDownList("SelectedHotel")
+            <br />
+            @Html.EditorFor(k => k.infoModel);
+
+            <br />
+            <button type="submit" class="btn btn-default">Submit</button>
+        }
+
+        <h2>Attractivity</h2>
+        <span id="score"></span>
+    </div>
+
+    <div class="col-lg-10 col-md-12 col-xs-12">
+        <div id="map" style="width: 100%; height:450px"></div>
+    </div>
+</div>s
+@Scripts.Render("~/bundles/jquery")
 <script>
 
     var map;
@@ -29,19 +48,35 @@
         });
     }
 
+    var tour = @Html.Raw(Json.Encode(Model.tourResult.tour));
     var attractions = @Html.Raw(Json.Encode(Model.attractions));
     var hotels = @Html.Raw(Json.Encode(Model.hotels));
-    var tour = @Html.Raw(Json.Encode(Model.tour));
+
+
+    $(document).ready(function () {
+        setTimeout(function () { initMap(); }, 1000);
+        setTimeout(function () { dropTour(); }, 1000);
+        setTimeout(function () { dropTourPaths(); }, 2000);
+    });
+
+    function getRandomColor() {
+        var letters = '0123456789ABCDEF';
+        var color = '#';
+        for (var i = 0; i < 6; i++) {
+            color += letters[Math.floor(Math.random() * 16)];
+        }
+        return color;
+    }
 
     //timeout add markers
     var markers = [];
     var paths = [];
     var infoWindows = [];
+    var colors = ['#00ff00', '#660066', '#ff0000', '#003399', '#669999', ' #000000', '#ffffff', '#ff99ff'];
 
     function dropAttractions() {
         for (var i = 0; i < attractions.length; i++) {
             addMarkerWithTimeout(attractions[i], i * 3, "attraction");
-
         }
     }
     function dropTourPaths() {
@@ -53,7 +88,9 @@
                 k++;
             };
             k++;
-            z++
+            z++;
+            @*document.getElementById('score').innerHTML = (14500 - @Model.tourResult.score)/ 145;*@
+            document.getElementById('score').innerHTML = @Model.tourResult.score;
         }
 
         //var i = 0;
@@ -96,6 +133,7 @@
             for (var i = 0; i < tour[j].attractionList.length; i++) {
                 update(i, i + 1,z);
             }
+            x++;
         }
 
     }
@@ -149,22 +187,22 @@
     }
 
     function update(x, y, z) {
-        var color;
-        if (z == 0) { color = '#FF0000' }
-        else if (z == 1) {  color = '#0000FF' }
         poly = new google.maps.Polyline({
-            strokeColor: color,
+            strokeColor: colors[z],
             strokeOpacity: 1.0,
             strokeWeight: 3,
             map: map,
         });
         var path = [markers[x].getPosition(), markers[y].getPosition()];
         poly.setPath(path);
+        paths.push(poly);
     }
 
     function clearPaths() {
-
-        path.setMap(null);
+        for (var i = 0; i < paths.length;i++)
+        {
+            paths[i].setMap(null);
+        }
     }
 
     //standard add markers

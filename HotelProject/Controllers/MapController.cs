@@ -13,15 +13,74 @@ namespace HotelProject.Controllers
     public class MapController : Controller
     {
         // GET: Map
+
         public ActionResult Index()
         {
-            StreamReader r = new StreamReader(Server.MapPath("~/data.json"));
-            StreamReader x = new StreamReader(Server.MapPath("~/hotels.json"));
-            string jsonAttractions = r.ReadToEnd();
-            string jsonHotels = x.ReadToEnd();
+            IEnumerable<Point> hotels;
+            IEnumerable<Point> attractions;
+            using (StreamReader r = new StreamReader(Server.MapPath("~/hotels.json")))
+            {
+                string json = r.ReadToEnd();
+                hotels = JsonConvert.DeserializeObject<IEnumerable<Point>>(json);
+            }
+            using (StreamReader r = new StreamReader(Server.MapPath("~/data.json")))
+            {
+                string json = r.ReadToEnd();
+                attractions = JsonConvert.DeserializeObject<IEnumerable<Point>>(json);
+            }
 
-            return View(Alg1());
 
+            List<SelectListItem> items = new List<SelectListItem>();
+            for (int i = 0; i < hotels.Count() - 1; i++)
+            {
+                items.Add(new SelectListItem { Text = hotels.ElementAt(i).name, Value = i.ToString() });
+            }
+            ViewBag.SelectedHotel = items;
+
+            MapViewModel vm = new MapViewModel(attractions as List<Point>, hotels as List<Point>);
+
+            return View(vm);
+        }
+
+        [HttpPost]
+        public ActionResult Index(int SelectedHotel, MapViewModel vm)
+        {
+            IEnumerable<Point> hotels;
+            IEnumerable<Point> attractions;
+            using (StreamReader r = new StreamReader(Server.MapPath("~/hotels.json")))
+            {
+                string json = r.ReadToEnd();
+                hotels = JsonConvert.DeserializeObject<IEnumerable<Point>>(json);
+            }
+            using (StreamReader r = new StreamReader(Server.MapPath("~/data.json")))
+            {
+                string json = r.ReadToEnd();
+                attractions = JsonConvert.DeserializeObject<IEnumerable<Point>>(json);
+            }
+
+
+            List<SelectListItem> items = new List<SelectListItem>();
+            for (int i = 0; i < hotels.Count() - 1; i++)
+            {
+                items.Add(new SelectListItem { Text = hotels.ElementAt(i).name, Value = i.ToString() });
+            }
+            ViewBag.SelectedHotel = items;
+
+            Debug.WriteLine(hotels.ElementAt(SelectedHotel));
+
+            //TourResult _tour = Alg(hotels.ElementAt(SelectedHotel), vm.infoModel.days, vm.infoModel.distanceLimit, vm.infoModel.seconds);
+            TourResult _tour = Alg1(hotels.ElementAt(SelectedHotel), vm.infoModel.seconds);
+            //List<Travel> tour = new List<Travel>();
+
+            var viewModel = new MapViewModel
+            {
+                attractions = attractions as List<Point>,
+                hotels = hotels as List<Point>,
+                tourResult = _tour,
+                infoModel = vm.infoModel
+            };
+
+            return View(viewModel);
         }
 
         public double Distance(Attraction a1, Attraction a2)
@@ -51,7 +110,7 @@ namespace HotelProject.Controllers
             double lat2 = (double)a2.geometry.location.lat;
             double lon1 = (double)a1.geometry.location.lng;
             double lon2 = (double)a2.geometry.location.lng;
-            return Math.Sqrt(Math.Pow(lon1 - lon2, 2) + Math.Pow(lat1 - lat2, 2));
+            return Math.Floor(Math.Sqrt(Math.Pow(lon1 - lon2, 2) + Math.Pow(lat1 - lat2, 2)));
 
 
             //for real coords
@@ -623,7 +682,7 @@ namespace HotelProject.Controllers
                 }
                 i++;
             }
-            if(bestTravel != null)
+            if (bestTravel != null)
             {
                 Debug.WriteLine("Extracting");
                 travel.attractionList = bestTravel.attractionList;
@@ -670,7 +729,7 @@ namespace HotelProject.Controllers
         }
 
         //test data
-        public MapViewModel Alg1()
+        public TourResult Alg1(Point selectedHotel, int seconds)
         {
             StreamReader sr = new StreamReader(Server.MapPath("~/F.txt"));
 
@@ -682,7 +741,7 @@ namespace HotelProject.Controllers
             string[] words = s.Split(separators, StringSplitOptions.RemoveEmptyEntries);
 
             int N = int.Parse(words[0]), days = int.Parse(words[1]), howNeighbours = 4;
-            double distanceLimit = int.Parse(words[2]) / 12, oldDistance;
+            double distanceLimit = int.Parse(words[2]), oldDistance;
             Point newPoint;
 
             #region 
@@ -693,8 +752,8 @@ namespace HotelProject.Controllers
                 {
                     words = s.Split(separators, StringSplitOptions.RemoveEmptyEntries);
                     newPoint = new Point();
-                    newPoint.geometry.location.lat = Decimal.Parse(words[0], System.Globalization.NumberStyles.Float) / 12;
-                    newPoint.geometry.location.lng = Decimal.Parse(words[1], System.Globalization.NumberStyles.Float) / 12;
+                    newPoint.geometry.location.lat = Decimal.Parse(words[0], System.Globalization.NumberStyles.Float);
+                    newPoint.geometry.location.lng = Decimal.Parse(words[1], System.Globalization.NumberStyles.Float);
                     if (words.Length == 3)
                     {
                         newPoint.rating = decimal.Parse(words[2]);
@@ -726,7 +785,7 @@ namespace HotelProject.Controllers
             Travel travel1 = new Travel(hotelList[0], hotelList[0]);
             int i = 0, j = 0, ind, iterations = 20000;
 
-            ////pseudoGreedy for travel
+            //pseudoGreedy for travel
             #region
             //ind = hotelList.IndexOf(travel.sourceHotel);
             //Point current = hotelsLI[ind].First().direction;
@@ -1028,7 +1087,7 @@ namespace HotelProject.Controllers
             j = 0;
             while (true)
             {
-                if ((DateTime.Now - check).TotalSeconds >= 15) break;
+                if ((DateTime.Now - check).TotalSeconds >= seconds) break;
                 foreach (Travel item in tour)
                 {
                     TwoOpt(iterations, item, distanceLI);
@@ -1039,7 +1098,7 @@ namespace HotelProject.Controllers
                     //    Remove(item, attList, rand, distanceLimit);
                     //    Insert(item, attList, rand, distanceLimit);
                     //}
-                    Replace(travel, attList, rand, distanceLimit);
+                    Replace(item, attList, rand, distanceLimit);
                     //if (i == 20)
                     //{
                     //    Remove(item, attList, rand, distanceLimit);
@@ -1090,15 +1149,13 @@ namespace HotelProject.Controllers
             stop = DateTime.Now;
             Debug.WriteLine(">Total time-> " + (stop - totalStart).TotalMilliseconds);
 
-
-            var vm = new MapViewModel
+            TourResult result = new TourResult
             {
-                hotels = hotelList,
-                attractions = attList,
-                tour = tour
+                tour = tour,
+                score = (double)(travel1.totalRating + travel.totalRating)
             };
 
-            return vm;
+            return result;
         }
 
         /// <summary>
@@ -1107,7 +1164,7 @@ namespace HotelProject.Controllers
         /// <returns></returns>
 
         //real coords
-        public MapViewModel Alg()
+        public TourResult Alg(Point selectedHotel, int days, int distanceLimit, int seconds)
         {
             List<Point> att = new List<Point>();
             using (StreamReader r = new StreamReader(Server.MapPath("~/data.json")))
@@ -1141,16 +1198,21 @@ namespace HotelProject.Controllers
             start = DateTime.Now;
             List<Point> visited = new List<Point>();
 
-            double oldDistance, distanceLimit = 700;
-            int iterations = 20000, howNeighbours = 5, i = 0, j = 0;
+            double oldDistance;
+            int iterations = 20000, i = 0;
+
+            List<Travel> tour = new List<Travel>();
+            for (int j = 0; j < days; j++)
+            {
+                tour.Add(new Travel(selectedHotel, selectedHotel));
+            }
 
             Point last;
             Point newPoint;
-            Point sourceHot = hot.Where(k => k.name == "Hotel Willa Port Art & Business").Single();
+            //Point sourceHot = hot.Where(k => k.name == "Hotel Willa Port Art & Business").Single();
             //Point destinationHot = hot.Where(k => k.name == "Hotel Branicki ****").Single();
-            Point destinationHot = hot.Where(k => k.name == "Hotel Willa Port Art & Business").Single();
+            //Point destinationHot = hot.Where(k => k.name == "Hotel Willa Port Art & Business").Single();
             //Point destinationHot = hot.Where(k => k.name == "Hotel ATENA ***").Single();
-            Travel travel = new Travel(sourceHot, destinationHot);
 
             //pseudoGreedy
             #region
@@ -1201,89 +1263,96 @@ namespace HotelProject.Controllers
             //visited.Add(current);
             //oldDistance = travel.totalDistance;
             //start = DateTime.Now;
-            //while (travel.totalDistance < distanceLimit)
+
+            //foreach (Travel travel in tour)
             //{
-            //    last = travel.attractionList.Last();
-            //    nearDestinationHotel = new List<Item>();
-            //    foreach (Point item1 in att)
+            //    while (travel.totalDistance < distanceLimit)
             //    {
-            //        nearDestinationHotel.Add(new Item(item1, DistanceBetweenPlaces(last, item1)));
-            //    }
-            //    nearDestinationHotel = nearDestinationHotel.OrderBy(k => k.score).ToList();
-            //    newPoint = nearDestinationHotel.First().direction;
-            //    while (visited.Contains(newPoint))
-            //    {
-            //        nearDestinationHotel.RemoveAt(0);
+            //        last = travel.attractionList.Last();
+            //        nearDestinationHotel = new List<Item>();
+            //        foreach (Point item1 in att)
+            //        {
+            //            nearDestinationHotel.Add(new Item(item1, DistanceBetweenPlaces(last, item1)));
+            //        }
+            //        nearDestinationHotel = nearDestinationHotel.OrderBy(k => k.score).ToList();
             //        newPoint = nearDestinationHotel.First().direction;
+            //        //while (visited.Contains(newPoint))
+            //        //{
+            //            nearDestinationHotel.RemoveAt(0);
+            //            newPoint = nearDestinationHotel.First().direction;
+            //        //}
+            //        //if (!visited.Contains(newPoint))
+            //        //{
+            //            InsertSpecific(travel, att, rand, distanceLimit, newPoint);
+            //            travel.totalRating += newPoint.rating;
+            //        att.Remove(newPoint);
+            //        //}
+            //        TwoOpt(iterations, travel, distanceLI);
+            //        travel.totalDistance = travel.CalculateDistance();
             //    }
-            //    if (!visited.Contains(newPoint))
-            //    {
-            //        InsertSpecific(travel, visited, att, rand, distanceLimit, newPoint);
-            //        travel.totalRating += newPoint.rating;
-            //    }
-            //    TwoOpt(iterations, travel, distanceLI);
-            //    travel.totalDistance = travel.CalculateDistance();
+            //    stop = DateTime.Now;
+            //    Debug.WriteLine("\nPseudoGreedy->" + (stop - start).TotalMilliseconds + "ms");
+            //    Debug.WriteLine("Old Distance->" + oldDistance + "  New Distance->" + travel.totalDistance);
+            //    Debug.WriteLine("Score-> " + travel.totalRating);
             //}
-            //stop = DateTime.Now;
-            //Debug.WriteLine("\nPseudoGreedy->" + (stop - start).TotalMilliseconds + "ms");
-            //Debug.WriteLine("Old Distance->" + oldDistance + "  New Distance->" + travel.totalDistance);
-            //Debug.WriteLine("Score-> " + travel.totalRating);
             #endregion
+
 
             //pseudoGreedy for travel with scores
             #region
-            foreach (Point item1 in att)
-            {
-                nearDestinationHotel.Add(new Item(item1, DistanceBetweenPlaces(travel.sourceHotel, item1)));
-            }
-            nearDestinationHotel = nearDestinationHotel.OrderBy(k => k.score).ToList();
-            newPoint = nearDestinationHotel.First().direction;
-            travel.addAtt(newPoint, distanceLI);
-            //visited.Add(newPoint);
-            att.Remove(newPoint);
-            oldDistance = travel.totalDistance;
-            start = DateTime.Now;
-            last = travel.attractionList.Last();
-            i = 0;
-            while (travel.totalDistance < distanceLimit)
+            foreach (Travel travel in tour)
             {
                 nearDestinationHotel = new List<Item>();
                 foreach (Point item1 in att)
                 {
-                    nearDestinationHotel.Add(new Item(item1, DistanceBetweenPlaces(last, item1)));
+                    nearDestinationHotel.Add(new Item(item1, DistanceBetweenPlaces(selectedHotel, item1)));
                 }
-                nearDestinationHotel = nearDestinationHotel.OrderBy(k => k.score).ToList();
+                nearDestinationHotel = nearDestinationHotel.OrderBy(k => k.distance).ToList();
                 newPoint = nearDestinationHotel.First().direction;
-                while (visited.Contains(newPoint))
-                {
-                    nearDestinationHotel.RemoveAt(0);
-                    newPoint = nearDestinationHotel.First().direction;
-                }
-                //if (!visited.Contains(newPoint))
-                //{
                 travel.addAtt(newPoint, distanceLI);
-                att.Remove(newPoint);
                 //visited.Add(newPoint);
-                last = newPoint;
-                //}
-                travel.totalDistance = travel.CalculateDistance();
-                //TwoOpt(iterations, travel, distanceLI);
-                //if (i > 2) MoveBest(travel, visited, att, rand, distanceLimit);
-                i++;
+                att.Remove(newPoint);
+                oldDistance = travel.totalDistance;
+                start = DateTime.Now;
+                last = travel.attractionList.Last();
+                i = 0;
+                while (travel.totalDistance < distanceLimit && att.Count() > 0)
+                {
+                    nearDestinationHotel = new List<Item>();
+                    foreach (Point item1 in att)
+                    {
+                        nearDestinationHotel.Add(new Item(item1, DistanceBetweenPlaces(last, item1)));
+                    }
+                    nearDestinationHotel = nearDestinationHotel.OrderBy(k => k.score).ToList();
+                    newPoint = nearDestinationHotel.First().direction;
+                    //while (visited.Contains(newPoint))
+                    //{
+                    //nearDestinationHotel.RemoveAt(0);
+                    //newPoint = nearDestinationHotel.First().direction;
+                    //}
+                    //if (!visited.Contains(newPoint))
+                    //{
+                    travel.addAtt(newPoint, distanceLI);
+                    att.Remove(newPoint);
+                    //visited.Add(newPoint);
+                    last = newPoint;
+                    //}
+                    travel.totalDistance = travel.CalculateDistance();
+                    //TwoOpt(iterations, travel, distanceLI);
+                    //if (i > 2) MoveBest(travel, visited, att, rand, distanceLimit);
+                    i++;
+                }
+                stop = DateTime.Now;
+                Debug.WriteLine("\nPseudoGreedy->" + (stop - start).TotalMilliseconds + "ms");
+                Debug.WriteLine("Old Distance->" + oldDistance + "  New Distance->" + travel.totalDistance);
+                Debug.WriteLine("Score-> " + travel.totalRating);
             }
-            stop = DateTime.Now;
-            Debug.WriteLine("\nPseudoGreedy->" + (stop - start).TotalMilliseconds + "ms");
-            Debug.WriteLine("Old Distance->" + oldDistance + "  New Distance->" + travel.totalDistance);
-            Debug.WriteLine("Score-> " + travel.totalRating);
-
             #endregion
 
-            List<Travel> tour = new List<Travel>();
-            tour.Add(travel);
-            iterations = 1000;
-            int generations = 70;
-            i = 0;
-            int prob;
+            //iterations = 1000;
+            //int generations = 70;
+            //i = 0;
+            //int prob;
 
             //while (i < generations)
             //{
@@ -1300,17 +1369,17 @@ namespace HotelProject.Controllers
             //int generations = 140;
             while (true)
             {
-                if ((DateTime.Now - check).TotalSeconds >= 10) break;
+                if ((DateTime.Now - check).TotalSeconds >= seconds) break;
                 foreach (Travel item in tour)
                 {
                     TwoOpt(iterations, item, distanceLI);
                     Insert(item, att, rand, distanceLimit);
-                    prob = rand.Next(0, 5);
-                    if (prob == 2)
-                    {
-                        Remove(item, att, rand, distanceLimit);
-                    }
-                    Replace(travel, att, rand, distanceLimit);
+                    //prob = rand.Next(0, 5);
+                    //if (prob == 2)
+                    //{
+                    //    Remove(item, att, rand, distanceLimit);
+                    //}
+                    Replace(item, att, rand, distanceLimit);
                     //TravelSwapping(tour, rand, distanceLimit);
                 }
                 //i++;
@@ -1330,15 +1399,19 @@ namespace HotelProject.Controllers
             stop = DateTime.Now;
             Debug.WriteLine(">Total time-> " + (stop - totalStart).TotalMilliseconds);
 
-            //ViewModel
-            var vm = new MapViewModel
+            decimal score = 0;
+            foreach (var x in tour)
             {
-                hotels = hot,
-                attractions = att,
-                tour = tour
+                score += x.totalRating;
+            }
+            //ViewModel
+            TourResult result = new TourResult
+            {
+                tour = tour,
+                score = (double)score
             };
 
-            return vm;
+            return result;
         }
     }
 }

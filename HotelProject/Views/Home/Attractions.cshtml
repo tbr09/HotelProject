@@ -3,25 +3,27 @@
     ViewBag.Title = "Attractions";
 }
 
-<h2>Attracations [@Model.Count()] <a href="@Url.Action("AddAttraction","Home")" class="btn btn-default">Add Attraction</a></h2>
+<div class="container body-content">
+    <h2>Attracations [@Model.Count()] <a href="@Url.Action("AddAttraction","Home")" class="btn btn-default">Add Attraction</a></h2>
 
 
-@{
-    int i = 1;
-    foreach (var x in Model)
-    {
-        if (x.rating != 0)
-        {
-            <div class="row">
-                <div class="col-md-1">@i</div>
-                <div class="col-md-2">@x.geometry.location.lat</div>
-                <div class="col-md-2">@x.geometry.location.lng</div>
-                <div class="col-md-4">@x.name</div>
-                <div class="col-md-1">@x.rating</div>
-                <a class="col-md-1" href="@Url.Action("EditAttraction", "Home", new { id = x.id })">Edit</a>
-                <a class="col-md-1" href="@Url.Action("DeleteAttraction", "Home", new { id = x.id })">Delete</a>
-            </div>
-            i++;
+        @{
+            int i = 1;
+            foreach (var x in Model)
+            {
+                if (x.rating != 0)
+                {
+                    <div class="row">
+                        <div class="col-md-1">@i</div>
+                        <div class="col-md-2">@x.geometry.location.lat</div>
+                        <div class="col-md-2">@x.geometry.location.lng</div>
+                        <div class="col-md-4">@x.name</div>
+                        <div class="col-md-1">@x.rating</div>
+                        <a class="col-md-1" href="@Url.Action("EditAttraction", "Home", new { id = x.id })">Edit</a>
+                        <a class="col-md-1" href="@Url.Action("DeleteAttraction", "Home", new { id = x.id })">Delete</a>
+                    </div>
+                    i++;
+                }
+            }
         }
-    }
-}
+</div>

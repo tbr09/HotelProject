@@ -53,14 +53,13 @@ namespace HotelProject.Models
 
         public double DistanceBetweenPlaces(Point a1, Point a2)
         {
-
             //for testing data (Euclidean)
 
             double lat1 = (double)a1.geometry.location.lat;
             double lat2 = (double)a2.geometry.location.lat;
             double lon1 = (double)a1.geometry.location.lng;
             double lon2 = (double)a2.geometry.location.lng;
-            return Math.Sqrt(Math.Pow(lon1 - lon2, 2) + Math.Pow(lat1 - lat2, 2));
+            return Math.Floor(Math.Sqrt(Math.Pow(lon1 - lon2, 2) + Math.Pow(lat1 - lat2, 2)));
 
 
             //for real coords

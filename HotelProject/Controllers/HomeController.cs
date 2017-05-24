@@ -26,21 +26,17 @@ namespace HotelProject.Controllers
                 string json = r.ReadToEnd();
                 attractions = JsonConvert.DeserializeObject<IEnumerable<Point>>(json);
             }
-            var vm = new MainViewModel
-            {
-                hotels = hotels,
-                attractions = attractions
-            };
+
 
             List<SelectListItem> items = new List<SelectListItem>();
-            for(int i =0; i<hotels.Count()-1;i++)
+            for (int i = 0; i < hotels.Count() - 1; i++)
             {
                 items.Add(new SelectListItem { Text = hotels.ElementAt(i).name, Value = i.ToString() });
             }
-            ViewBag.HotelList = items;
-            return View(vm);
-        }
+            ViewBag.SelectedHotel = items;
 
+            return RedirectToAction("Index", "Map");
+        }
         public ActionResult Hotels()
         {
             using (StreamReader r = new StreamReader(Server.MapPath("~/hotels.json")))
