@@ -68,8 +68,8 @@ namespace HotelProject.Controllers
 
             Debug.WriteLine(hotels.ElementAt(SelectedHotel));
 
-            //TourResult _tour = Alg(hotels.ElementAt(SelectedHotel), vm.infoModel.days, vm.infoModel.distanceLimit, vm.infoModel.seconds);
-            TourResult _tour = Alg1(hotels.ElementAt(SelectedHotel), vm.infoModel.seconds);
+            TourResult _tour = Alg(hotels.ElementAt(SelectedHotel), vm.infoModel.days, vm.infoModel.distanceLimit, vm.infoModel.seconds);
+            //TourResult _tour = Alg1(hotels.ElementAt(SelectedHotel), vm.infoModel.seconds);
             //List<Travel> tour = new List<Travel>();
 
             var viewModel = new MapViewModel
@@ -106,24 +106,24 @@ namespace HotelProject.Controllers
         {
             //for testing data (Euclidean)
 
-            double lat1 = (double)a1.geometry.location.lat;
-            double lat2 = (double)a2.geometry.location.lat;
-            double lon1 = (double)a1.geometry.location.lng;
-            double lon2 = (double)a2.geometry.location.lng;
-            return Math.Floor(Math.Sqrt(Math.Pow(lon1 - lon2, 2) + Math.Pow(lat1 - lat2, 2)));
-
-
-            //for real coords
-
             //double lat1 = (double)a1.geometry.location.lat;
             //double lat2 = (double)a2.geometry.location.lat;
             //double lon1 = (double)a1.geometry.location.lng;
             //double lon2 = (double)a2.geometry.location.lng;
-            //double dlon = Radians(lon2 - lon1);
-            //double dlat = Radians(lat2 - lat1);
-            //double a = (Math.Sin(dlat / 2) * Math.Sin(dlat / 2)) + Math.Cos(Radians(lat1)) * Math.Cos(Radians(lat2)) * (Math.Sin(dlon / 2) * Math.Sin(dlon / 2));
-            //double angle = 2 * Math.Atan2(Math.Sqrt(a), Math.Sqrt(1 - a));
-            //return angle * RADIUS;
+            //return Math.Floor(Math.Sqrt(Math.Pow(lon1 - lon2, 2) + Math.Pow(lat1 - lat2, 2)));
+
+
+            //for real coords
+
+            double lat1 = (double)a1.geometry.location.lat;
+            double lat2 = (double)a2.geometry.location.lat;
+            double lon1 = (double)a1.geometry.location.lng;
+            double lon2 = (double)a2.geometry.location.lng;
+            double dlon = Radians(lon2 - lon1);
+            double dlat = Radians(lat2 - lat1);
+            double a = (Math.Sin(dlat / 2) * Math.Sin(dlat / 2)) + Math.Cos(Radians(lat1)) * Math.Cos(Radians(lat2)) * (Math.Sin(dlon / 2) * Math.Sin(dlon / 2));
+            double angle = 2 * Math.Atan2(Math.Sqrt(a), Math.Sqrt(1 - a));
+            return angle * RADIUS;
         }
 
         public void GenerateHotLI(List<Item>[] LI, List<Point> att, List<Point> hot)
@@ -559,7 +559,7 @@ namespace HotelProject.Controllers
             travel.attractionList.RemoveAt(travel.attractionList.Count - 1);
         }
 
-        public void TwoOpt(int iterations, Travel travel, List<Item>[] distanceLI)
+        public void TwoOpt(Travel travel, List<Item>[] distanceLI)
         {
             Travel tempTravel = new Travel(travel.sourceHotel, travel.destinationHotel);
             Random rand = new Random();
@@ -744,6 +744,7 @@ namespace HotelProject.Controllers
             double distanceLimit = int.Parse(words[2]), oldDistance;
             Point newPoint;
 
+            int h = 1;
             #region 
             do
             {
@@ -754,10 +755,12 @@ namespace HotelProject.Controllers
                     newPoint = new Point();
                     newPoint.geometry.location.lat = Decimal.Parse(words[0], System.Globalization.NumberStyles.Float);
                     newPoint.geometry.location.lng = Decimal.Parse(words[1], System.Globalization.NumberStyles.Float);
+                    newPoint.id = h.ToString();
                     if (words.Length == 3)
                     {
                         newPoint.rating = decimal.Parse(words[2]);
                         attList.Add(newPoint);
+                        h++;
                     }
                     else hotelList.Add(newPoint);
                 }
@@ -1079,7 +1082,6 @@ namespace HotelProject.Controllers
             //Checker(tour);
 
             iterations = 1000;
-            int prob;
             DateTime check = DateTime.Now;
             decimal lastScore = travel.totalRating + travel1.totalRating;
             //int generations = 140;
@@ -1090,28 +1092,13 @@ namespace HotelProject.Controllers
                 if ((DateTime.Now - check).TotalSeconds >= seconds) break;
                 foreach (Travel item in tour)
                 {
-                    TwoOpt(iterations, item, distanceLI);
+                    TwoOpt(item, distanceLI);
                     Insert(item, attList, rand, distanceLimit);
-                    //prob = rand.Next(0, 10);
-                    //if (prob == 2)
-                    //{
-                    //    Remove(item, attList, rand, distanceLimit);
-                    //    Insert(item, attList, rand, distanceLimit);
-                    //}
+                    TwoOpt(item, distanceLI);
                     Replace(item, attList, rand, distanceLimit);
-                    //if (i == 20)
-                    //{
-                    //    Remove(item, attList, rand, distanceLimit);
-                    //}
-                    if (travel.totalRating + travel1.totalRating == lastScore) i++; j++;
+                    if (travel.totalRating + travel1.totalRating == lastScore) i++;
                     lastScore = travel.totalRating + travel1.totalRating;
                 }
-                //if (i == 20)
-                //{
-                //    i = 0;
-                //}
-
-                //i++;
             }
             //Remove(tour[0], attList, rand, distanceLimit);
             //DateTime x = DateTime.Now;
@@ -1141,19 +1128,46 @@ namespace HotelProject.Controllers
 
             //scores
             i = 1;
-            foreach (Travel item in tour)
+            using (StreamWriter sw = new StreamWriter(Server.MapPath("~/output.txt")))
             {
-                Debug.WriteLine("Travel(" + i + ")Score-> " + item.totalRating + "(" + item.totalDistance + ")");
-                i++;
+                sw.WriteLine(days);
+                foreach (Travel item in tour)
+                {
+                    sw.Write(item.sourceHotel.id + " ");
+                    foreach (Point x in item.attractionList)
+                    {
+                        sw.Write(x.id + " ");
+                    }
+                    Debug.WriteLine("Travel(" + i + ")Rating-> " + item.totalRating + "(" + item.totalDistance + ") TotalScore " + item.score);
+                    i++;
+                    sw.WriteLine(item.sourceHotel.id);
+                }
             }
             stop = DateTime.Now;
             Debug.WriteLine(">Total time-> " + (stop - totalStart).TotalMilliseconds);
+
 
             TourResult result = new TourResult
             {
                 tour = tour,
                 score = (double)(travel1.totalRating + travel.totalRating)
             };
+
+
+            /* tryin to execute wpf window
+            string folder = Server.MapPath("") + "/../../";
+            Debug.WriteLine(folder);
+            //TestVisualization.MainWindow pb = new TestVisualization.MainWindow();
+            Debug.WriteLine(@"D:\Git\HotelProject\TestVisualization\bin\Debug" + "\\TestVisualization.exe");
+            //Process.Start(@"D:\Git\HotelProject\TestVisualization\bin\Debug" + "\\TestVisualization.exe");
+
+            Process process = new Process();
+            process.StartInfo.FileName = @"D:\Git\HotelProject\TestVisualization\bin\Debug" + @"\TestVisualization.exe";
+            process.Start();
+            //Process p = new Process();
+            //p.StartInfo.FileName = @"D:\Git\HotelProject\TestVisualization\bin\Debug" + "\\TestVisualization.exe";
+            //p.Start();
+            */
 
             return result;
         }
@@ -1185,9 +1199,9 @@ namespace HotelProject.Controllers
             Random rand = new Random();
 
             start = DateTime.Now;
-            List<Item>[] distanceLI = new List<Item>[400];
-            List<Item>[] LI = new List<Item>[400];
-            List<Item>[] hotelsLI = new List<Item>[20];
+            List<Item>[] distanceLI = new List<Item>[att.Count];
+            List<Item>[] LI = new List<Item>[att.Count];
+            List<Item>[] hotelsLI = new List<Item>[hot.Count];
             List<Item> nearDestinationHotel = new List<Item>();
             GenerateLI(distanceLI, att);
             GenerateLI(LI, att);
@@ -1348,56 +1362,40 @@ namespace HotelProject.Controllers
                 Debug.WriteLine("Score-> " + travel.totalRating);
             }
             #endregion
-
-            //iterations = 1000;
-            //int generations = 70;
-            //i = 0;
-            //int prob;
-
-            //while (i < generations)
-            //{
-            //    foreach (Travel item in tour)
-            //    {
-            //        TwoOpt(iterations, item, distanceLI);
-            //        Insert(item, att, rand, distanceLimit);
-            //        TravelSwapping(tour, rand, distanceLimit);
-            //    }
-            //    i++;
-            //}
-
+            
             DateTime check = DateTime.Now;
-            //int generations = 140;
             while (true)
             {
                 if ((DateTime.Now - check).TotalSeconds >= seconds) break;
                 foreach (Travel item in tour)
                 {
-                    TwoOpt(iterations, item, distanceLI);
+                    TwoOpt(item, distanceLI);
                     Insert(item, att, rand, distanceLimit);
-                    //prob = rand.Next(0, 5);
-                    //if (prob == 2)
-                    //{
-                    //    Remove(item, att, rand, distanceLimit);
-                    //}
                     Replace(item, att, rand, distanceLimit);
-                    //TravelSwapping(tour, rand, distanceLimit);
                 }
-                //i++;
             }
-
-
+            
             //checker
             Checker(tour);
 
             //scores
             i = 1;
-            foreach (Travel item in tour)
+            using (StreamWriter sw = new StreamWriter(Server.MapPath("~/output.txt")))
             {
-                Debug.WriteLine("Travel(" + i + ")Rating-> " + item.totalRating + "(" + item.totalDistance + ") TotalScore " + item.score);
-                i++;
+                foreach (Travel item in tour)
+                {
+                    sw.WriteLine(item.sourceHotel.geometry.location.lat + " " + item.sourceHotel.geometry.location.lng);
+                    foreach (Point x in item.attractionList)
+                    {
+                        sw.WriteLine(x.geometry.location.lat + " " + x.geometry.location.lng + " " + x.rating);
+                    }
+                    Debug.WriteLine("Travel(" + i + ")Rating-> " + item.totalRating + "(" + item.totalDistance + ") TotalScore " + item.score);
+                    i++;
+                    sw.WriteLine(item.sourceHotel.geometry.location.lat + " " + item.sourceHotel.geometry.location.lng);
+                }
             }
             stop = DateTime.Now;
-            Debug.WriteLine(">Total time-> " + (stop - totalStart).TotalMilliseconds);
+            Debug.WriteLine("Total time-> " + (stop - totalStart).TotalMilliseconds);
 
             decimal score = 0;
             foreach (var x in tour)
@@ -1410,6 +1408,7 @@ namespace HotelProject.Controllers
                 tour = tour,
                 score = (double)score
             };
+
 
             return result;
         }

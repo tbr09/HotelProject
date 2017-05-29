@@ -9,12 +9,13 @@
 
     <h2>Map</h2>
 
-    <button class="btn btn-default" id="dropAttractions" onclick="dropAttractions()">Drop Attractions</button>
-    <button class="btn btn-default" id="dropHotels" onclick="dropHotels()">Drop Hotels</button>
-    <button class="btn btn-default" id="dropTour" onclick="dropTour()">Drop Tour</button>
-    <button class="btn btn-default" id="dropTourPaths" onclick="dropTourPaths()">Set Tour Paths</button>
-    <button class="btn btn-default" id="clearMarkers" onclick="clearMarkers()">Clear Markers</button>
-    <button class="btn btn-default" id="clearPaths" onclick="clearPaths()">Clear Paths</button>
+    <button class="btn btn-default" id="dropAttractions" onclick="dropAttractions()">Attractions (Markers)</button>
+    <button class="btn btn-default" id="dropAttractions" onclick="dropAttractionsCircle()">Attractions (Circles)</button>
+    <button class="btn btn-default" id="dropTour" onclick="dropTour()">Tour (Markers)</button>
+    <button class="btn btn-default" id="dropTourCircles" onclick="dropTourCircles()">Tour (Cricles)</button>
+    <button class="btn btn-default" id="dropHotels" onclick="dropHotels()">Hotels</button>
+    <button class="btn btn-default" id="dropTourPaths" onclick="dropTourPaths()">Tour Paths</button>
+    <button class="btn btn-default" id="clearMap" onclick="clearMap()">Clear Map</button>
     <hr />
     <div class="col-md-2 col-xs-2 col-lg-2">
         @using (Html.BeginForm("Index", "Map", FormMethod.Post))
@@ -38,13 +39,14 @@
 @Scripts.Render("~/bundles/jquery")
 <script>
 
+    var tourDropped = false;
     var map;
     function initMap() {
         var startCenter = { lat: 53.388097, lng: 21.435653 };
         map = new google.maps.Map(document.getElementById('map'), {
             zoom: 8,
             center: startCenter,
-            mapTypeId: google.maps.MapTypeId.ROADMAP
+            mapTypeId: 'terrain'
         });
     }
 
@@ -52,11 +54,25 @@
     var attractions = @Html.Raw(Json.Encode(Model.attractions));
     var hotels = @Html.Raw(Json.Encode(Model.hotels));
 
+    function drawCircle() {
+        var cityCircle = new google.maps.Circle({
+            strokeColor: '#FF00FF',
+            strokeOpacity: 0.8,
+            strokeWeight: 2,
+            fillColor: '#FF00FF',
+            fillOpacity: 0.35,
+            map: map,
+            center: { lat: 23.090, lng: 53.712 },
+            radius: 3857
+        });
+    }
 
     $(document).ready(function () {
         setTimeout(function () { initMap(); }, 1000);
-        setTimeout(function () { dropTour(); }, 1000);
-        setTimeout(function () { dropTourPaths(); }, 2000);
+        //setTimeout(function () { dropTour(); }, 1000);
+        //setTimeout(function () { dropTourPaths(); }, 1000);
+        setTimeout(function () { dropTourCircles(); }, 1000);
+        setTimeout(function () { dropTourPathsCircles(); }, 1000);
     });
 
     function getRandomColor() {
@@ -69,6 +85,9 @@
     }
 
     //timeout add markers
+    var circles = [];
+    var tourMarkers = [];
+    var tourCircles = [];
     var markers = [];
     var paths = [];
     var infoWindows = [];
@@ -76,35 +95,139 @@
 
     function dropAttractions() {
         for (var i = 0; i < attractions.length; i++) {
-            addMarkerWithTimeout(attractions[i], i * 3, "attraction");
+            addMarkerWithTimeout(attractions[i], i * 3, "attraction", false);
         }
     }
+
+    function dropAttractionsCircle() {
+        for (var i = 0; i < attractions.length; i++) {
+            addCircle(attractions[i], i * 3, "attraction", false);
+        }
+    }
+
+    function dropTourPathsCircles() {
+        if (tourDropped == true)
+        {
+            if (markers.length == 0)
+            {
+                var k = 0;
+                var z = 0;
+                for (var j = 0; j < tour.length; j++) {
+                    for (var i = 0; i <= tour[j].attractionList.length; i++) {
+                        updateCircle(k, k + 1, z);
+                        k++;
+                    };
+                    k++;
+                    z++;
+                    @*document.getElementById('score').innerHTML = (14500 - @Model.tourResult.score)/ 145;*@
+                    document.getElementById('score').innerHTML = @Model.tourResult.score;
+                }
+            }
+            else {
+                var k = 0;
+                var z = 0;
+                for (var j = 0; j < tour.length; j++) {
+                    for (var i = 0; i <= tour[j].attractionList.length; i++) {
+                        update(k, k + 1, z);
+                        k++;
+                    };
+                    k++;
+                    z++;
+                    @*document.getElementById('score').innerHTML = (14500 - @Model.tourResult.score)/ 145;*@
+                    document.getElementById('score').innerHTML = @Model.tourResult.score;
+                }
+            }
+        }
+    }
+
     function dropTourPaths() {
-        var k = 0;
-        var z = 0;
-        for (var j = 0; j < tour.length; j++) {
-            for (var i=0; i <= tour[j].attractionList.length; i++) {
-                update(k, k + 1,z);
+       
+        if (tourMarkers.length > 0)
+        {
+            var k = 0;
+            var z = 0;
+            for (var j = 0; j < tour.length; j++) {
+                for (var i=0; i <= tour[j].attractionList.length; i++) {
+                    update(k, k + 1,z);
+                    k++;
+                };
                 k++;
-            };
-            k++;
-            z++;
-            @*document.getElementById('score').innerHTML = (14500 - @Model.tourResult.score)/ 145;*@
-            document.getElementById('score').innerHTML = @Model.tourResult.score;
+                z++;
+                @*document.getElementById('score').innerHTML = (14500 - @Model.tourResult.score)/ 145;*@
+                document.getElementById('score').innerHTML = @Model.tourResult.score;
+            }
         }
-
-        //var i = 0;
-        //for (; i < tour[0].attractionList.length + 1; i++) {
-        //    update(i, i + 1);
-        //};
-
-        //for (; i < tour[1].attractionList.length + 1; i++) {
-        //    update(i, i + 1);
-        //};
-        //for (var i = 0; i < tour.attractionList.length + 1; i++) {
-        //   update(i, i + 1);
-        //};
+        else if (tourCircles.length > 0)
+        {
+            var k = 0;
+            var z = 0;
+            for (var j = 0; j < tour.length; j++) {
+                for (var i=0; i <= tour[j].attractionList.length; i++) {
+                    updateCircle(k, k + 1,z);
+                    k++;
+                };
+                k++;
+                z++;
+                @*document.getElementById('score').innerHTML = (14500 - @Model.tourResult.score)/ 145;*@
+                document.getElementById('score').innerHTML = @Model.tourResult.score;
+            }
+        }
     }
+
+    function addCircle(x, timeout, choose, isTour) {
+
+            var myPos = { lat: x.geometry.location.lat, lng: x.geometry.location.lng };
+            var cityCircle;
+            if (choose == "hotel") {
+                cityCircle = new google.maps.Circle({
+                    strokeColor: '#FFFF00',
+                    strokeOpacity: 0.5,
+                    strokeWeight: 2,
+                    fillColor: '#FFFF00',
+                    fillOpacity: 0.5,
+                    map: map,
+                    center: myPos,
+                    radius: x.rating * x.rating * 10
+                });
+            }
+            else {
+                cityCircle = new google.maps.Circle({
+                    strokeColor: '#FF0000',
+                    strokeOpacity: 0.5,
+                    strokeWeight: 2,
+                    fillColor: '#FF0000',
+                    fillOpacity: 0.5,
+                    map: map,
+                    center: myPos,
+                    radius: x.rating * x.rating * 10
+                });
+            }
+            if (isTour == true)
+            {
+                tourCircles.push(cityCircle);
+            }
+            else
+            {
+                circles.push(cityCircle);
+            }
+    }
+
+    function dropTourCircles() {
+        for (var j = 0; j < tour.length; j++) {
+            for (var i = 0; i < tour[j].attractionList.length; i++) {
+                console.log(tour[j].attractionList[i].rating + "" + i);
+            }
+        }
+        for (var j = 0; j < tour.length; j++) {
+            addCircle(tour[j].sourceHotel, 100, "hotel", true);
+            for (var i = 0; i < tour[j].attractionList.length; i++) {
+                addCircle(tour[j].attractionList[i], 100, "attraction", true);
+            }
+            addCircle(tour[j].destinationHotel, 100, "hotel", true);
+        }
+        tourDropped = true;
+    }
+
 
     function dropTour() {
         clearMarkers();
@@ -115,18 +238,15 @@
         }
         for (var j = 0; j < tour.length; j++)
         {
-            addMarkerWithTimeout(tour[j].sourceHotel, 100, "hotel");
+            addMarkerWithTimeout(tour[j].sourceHotel, 100, "hotel", true);
             for (var i = 0; i < tour[j].attractionList.length; i++) {
-                addMarkerWithTimeout(tour[j].attractionList[i], 100, "attraction");
+                addMarkerWithTimeout(tour[j].attractionList[i], 100, "attraction", true);
             }
-            addMarkerWithTimeout(tour[j].destinationHotel, 100, "hotel");
+            addMarkerWithTimeout(tour[j].destinationHotel, 100, "hotel", true);
         }
-        //addMarkerWithTimeout(tour.sourceHotel,100, "hotel");
-        //for (var i = 0; i < tour.attractionList.length; i++) {
-        //    addMarkerWithTimeout(tour.attractionList[i],100,"attraction");
-        //}
-        //addMarkerWithTimeout(tour.destinationHotel, 100, "hotel");
+        tourDropped = true;
     }
+
     function dropPaths() {
         var z = 0;
         for (var j = 0; j < tour.length; j++) {
@@ -135,7 +255,6 @@
             }
             x++;
         }
-
     }
 
     function dropHotels() {
@@ -144,7 +263,7 @@
         }
     }
 
-    function addMarkerWithTimeout(x, timeout, choose) {
+    function addMarkerWithTimeout(x, timeout, choose, isTour) {
         window.setTimeout(function() {
             var myPos = { lat: x.geometry.location.lat, lng: x.geometry.location.lng };
             var marker;
@@ -174,17 +293,17 @@
             marker.addListener('click', function () {
                 infowindow.open(map, marker);
             });
-
-            markers.push(marker);
+            if (isTour == true)
+            {
+                tourMarkers.push(marker);
+            }
+            else
+            {
+                markers.push(marker);
+            }
         }, timeout);
     }
 
-    function clearMarkers() {
-        for (var i = 0; i < markers.length; i++) {
-            markers[i].setMap(null);
-        }
-        markers = [];
-    }
 
     function update(x, y, z) {
         poly = new google.maps.Polyline({
@@ -193,9 +312,57 @@
             strokeWeight: 3,
             map: map,
         });
-        var path = [markers[x].getPosition(), markers[y].getPosition()];
+        var path = [tourMarkers[x].getPosition(), tourMarkers[y].getPosition()];
         poly.setPath(path);
         paths.push(poly);
+    }
+
+    function updateCircle(x, y, z) {
+        poly = new google.maps.Polyline({
+            strokeColor: colors[z],
+            strokeOpacity: 1.0,
+            strokeWeight: 3,
+            map: map,
+        });
+        var path = [{ lat: tourCircles[x].getCenter().lat(), lng: tourCircles[x].getCenter().lng() }, { lat: tourCircles[y].getCenter().lat(), lng: tourCircles[y].getCenter().lng()} ];
+        poly.setPath(path);
+        paths.push(poly);
+    }
+
+    function clearMap() {
+        for (var i = 0; i < paths.length; i++) {
+            paths[i].setMap(null);
+        }
+        for (var i = 0; i < markers.length; i++) {
+            markers[i].setMap(null);
+        }
+        for (var i = 0; i < circles.length; i++) {
+            circles[i].setMap(null);
+        }
+        for (var i = 0; i < infoWindows.length; i++) {
+            infoWindows[i].setMap(null);
+        }
+        for (var i = 0; i < tourMarkers.length; i++) {
+            tourMarkers[i].setMap(null);
+        }
+        for (var i = 0; i < tourCircles.length; i++) {
+            tourCircles[i].setMap(null);
+        }
+
+        tourDropped = false;
+        tourMarkers = [];
+        tourCircles = [];
+        circles = [];
+        markers = [];
+        paths = [];
+        infoWindows = [];
+    }
+
+    function clearMarkers() {
+        for (var i = 0; i < markers.length; i++) {
+            markers[i].setMap(null);
+        }
+        markers = [];
     }
 
     function clearPaths() {
@@ -230,6 +397,6 @@
     */
 
 </script>
-<script async defer
+<script async defer type="text/javascript"
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDNItEncriDb-V4vc94EwQlrcq3orKJGjU&callback=initMap">
 </script>

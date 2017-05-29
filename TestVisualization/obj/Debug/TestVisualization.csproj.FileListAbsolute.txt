@@ -1,0 +1,14 @@
+D:\Git\HotelProject\TestVisualization\bin\Debug\TestVisualization.exe.config
+D:\Git\HotelProject\TestVisualization\bin\Debug\TestVisualization.exe
+D:\Git\HotelProject\TestVisualization\bin\Debug\TestVisualization.pdb
+D:\Git\HotelProject\TestVisualization\obj\Debug\MainWindow.g.cs
+D:\Git\HotelProject\TestVisualization\obj\Debug\App.g.cs
+D:\Git\HotelProject\TestVisualization\obj\Debug\TestVisualization_MarkupCompile.cache
+D:\Git\HotelProject\TestVisualization\obj\Debug\TestVisualization_MarkupCompile.lref
+D:\Git\HotelProject\TestVisualization\obj\Debug\MainWindow.baml
+D:\Git\HotelProject\TestVisualization\obj\Debug\TestVisualization.g.resources
+D:\Git\HotelProject\TestVisualization\obj\Debug\TestVisualization.Properties.Resources.resources
+D:\Git\HotelProject\TestVisualization\obj\Debug\TestVisualization.csproj.GenerateResource.Cache
+D:\Git\HotelProject\TestVisualization\obj\Debug\TestVisualization.exe
+D:\Git\HotelProject\TestVisualization\obj\Debug\TestVisualization.pdb
+D:\Git\HotelProject\TestVisualization\obj\Debug\TestVisualization.csprojResolveAssemblyReference.cache

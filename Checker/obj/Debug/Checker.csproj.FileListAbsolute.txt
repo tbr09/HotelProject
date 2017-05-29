@@ -1,0 +1,6 @@
+D:\Git\HotelProject\Checker\bin\Debug\Checker.exe.config
+D:\Git\HotelProject\Checker\bin\Debug\Checker.exe
+D:\Git\HotelProject\Checker\bin\Debug\Checker.pdb
+D:\Git\HotelProject\Checker\obj\Debug\Checker.csprojResolveAssemblyReference.cache
+D:\Git\HotelProject\Checker\obj\Debug\Checker.exe
+D:\Git\HotelProject\Checker\obj\Debug\Checker.pdb
