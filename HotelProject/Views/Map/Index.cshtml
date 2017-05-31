@@ -20,12 +20,14 @@
     <div class="col-md-2 col-xs-2 col-lg-2">
         @using (Html.BeginForm("Index", "Map", FormMethod.Post))
             {
-            @Html.DropDownList("SelectedHotel")
-            <br />
-            @Html.EditorFor(k => k.infoModel);
+            @Html.Label("Hotel")
+            @Html.DropDownList("SelectedHotel", null , new { @class = "form-control" })
 
             <br />
-            <button type="submit" class="btn btn-default">Submit</button>
+            @Html.EditorFor(k => k.infoModel, new { htmlAttributes = new { @class = "form-control" } })
+
+            <br />
+            <button type="submit" class="btn btn-default">Run Algorithm</button>
         }
 
         <h2>Attractivity</h2>
@@ -35,7 +37,7 @@
     <div class="col-lg-10 col-md-12 col-xs-12">
         <div id="map" style="width: 100%; height:450px"></div>
     </div>
-</div>s
+</div>
 @Scripts.Render("~/bundles/jquery")
 <script>
 
@@ -119,8 +121,7 @@
                     };
                     k++;
                     z++;
-                    @*document.getElementById('score').innerHTML = (14500 - @Model.tourResult.score)/ 145;*@
-                    document.getElementById('score').innerHTML = @Model.tourResult.score;
+                    document.getElementById('score').innerHTML = @Model.tourResult.score + "(" + ((14500 - @Model.tourResult.score)/ 145).toFixed(2) + "%)";
                 }
             }
             else {
@@ -141,7 +142,7 @@
     }
 
     function dropTourPaths() {
-       
+
         if (tourMarkers.length > 0)
         {
             var k = 0;

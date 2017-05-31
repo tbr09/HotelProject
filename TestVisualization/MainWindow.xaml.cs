@@ -28,7 +28,7 @@ namespace TestVisualization
         {
             InitializeComponent();
 
-            StreamReader sr1 = new StreamReader("output.txt");
+            StreamReader sr1 = new StreamReader("outputWPF.txt");
             StreamReader sr2 = new StreamReader("F.txt");
             string s;
             string[] separators = { " ", "," };
